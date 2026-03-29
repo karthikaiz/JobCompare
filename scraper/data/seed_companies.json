@@ -1,0 +1,449 @@
+[
+  {
+    "slug": "infosys",
+    "name": "Infosys",
+    "logo_url": null,
+    "industry": "IT Services & Consulting",
+    "headquarters": "Bangalore, Karnataka",
+    "employee_count": "300,000+",
+    "founded": 1981,
+    "website": "https://www.infosys.com",
+    "overall_rating": 3.8,
+    "work_life_balance": 3.6,
+    "salary_benefits": 3.2,
+    "job_security": 3.9,
+    "career_growth": 3.5,
+    "company_culture": 3.7,
+    "reviews": [
+      {"title": "Good for freshers, limited growth later", "role": "Software Engineer", "location": "Bangalore", "rating": 3.5, "pros": "Excellent training programs for freshers. Work-life balance is generally good with predictable hours. Brand name helps in career.", "cons": "Salary hikes are very low, around 5-7% annually. Onsite opportunities have reduced significantly. Too much bureaucracy in decision making.", "sentiment": "neutral", "sentiment_score": 0.02, "is_current_employee": true, "review_date": "2025-11-15"},
+      {"title": "Stable but stagnant", "role": "Senior Systems Engineer", "location": "Pune", "rating": 3.0, "pros": "Job security is excellent, rarely any layoffs. Good health insurance and leave policies. Campus facilities are world-class.", "cons": "Career growth is very slow, promotions take 3-4 years minimum. Technology stack is often outdated. Middle management is inefficient.", "sentiment": "negative", "sentiment_score": -0.15, "is_current_employee": false, "review_date": "2025-09-20"},
+      {"title": "Great brand, decent workplace", "role": "Technology Lead", "location": "Hyderabad", "rating": 4.0, "pros": "Strong brand recognition opens doors globally. Internal job postings allow role changes. Diversity and inclusion are taken seriously.", "cons": "Client-dependent work can be monotonous. Variable pay is hard to achieve fully. Internal politics at senior levels.", "sentiment": "positive", "sentiment_score": 0.35, "is_current_employee": true, "review_date": "2025-12-01"},
+      {"title": "Average experience overall", "role": "QA Engineer", "location": "Mysore", "rating": 3.2, "pros": "Mysore campus is beautiful with great amenities. Work from home flexibility post-COVID. Good for people who want stability.", "cons": "Testing roles are undervalued compared to development. Salary is below market rate for experienced professionals. Limited exposure to modern testing frameworks.", "sentiment": "neutral", "sentiment_score": -0.05, "is_current_employee": true, "review_date": "2025-10-10"},
+      {"title": "Best place to start career", "role": "Systems Engineer", "location": "Bangalore", "rating": 4.2, "pros": "Infosys Foundation Program is one of the best training programs in the industry. You get exposure to enterprise-level projects early. Colleagues are helpful and collaborative.", "cons": "Initial salary is quite low compared to product companies. Bench period can be frustrating with no meaningful work. Relocation happens frequently without much choice.", "sentiment": "positive", "sentiment_score": 0.42, "is_current_employee": true, "review_date": "2026-01-05"}
+    ],
+    "salaries": [
+      {"role": "Systems Engineer", "location": "Bangalore", "min_salary": 350000, "max_salary": 500000, "avg_salary": 420000, "currency": "INR", "experience": "0-2 years", "sample_count": 1250},
+      {"role": "Senior Systems Engineer", "location": "Pune", "min_salary": 550000, "max_salary": 850000, "avg_salary": 700000, "currency": "INR", "experience": "2-5 years", "sample_count": 890},
+      {"role": "Technology Lead", "location": "Hyderabad", "min_salary": 1000000, "max_salary": 1800000, "avg_salary": 1400000, "currency": "INR", "experience": "5-8 years", "sample_count": 430},
+      {"role": "Senior Technology Lead", "location": "Bangalore", "min_salary": 1500000, "max_salary": 2500000, "avg_salary": 2000000, "currency": "INR", "experience": "8-12 years", "sample_count": 210},
+      {"role": "QA Engineer", "location": "Mysore", "min_salary": 400000, "max_salary": 700000, "avg_salary": 550000, "currency": "INR", "experience": "1-4 years", "sample_count": 340}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Comprehensive health insurance for employee, spouse, and 2 children up to 5 lakhs"},
+      {"category": "leave", "name": "Paid Time Off", "details": "24 days annual leave + 12 public holidays + 10 sick leaves"},
+      {"category": "financial", "name": "Provident Fund", "details": "12% employer contribution to EPF"},
+      {"category": "perks", "name": "Cab Facility", "details": "Free cab service for employees working late shifts"},
+      {"category": "insurance", "name": "Life Insurance", "details": "Term life insurance cover of 3x annual salary"},
+      {"category": "perks", "name": "Gym & Recreation", "details": "On-campus gym, sports facilities, and recreation centers"},
+      {"category": "financial", "name": "NPS Contribution", "details": "Optional National Pension Scheme with employer matching"}
+    ]
+  },
+  {
+    "slug": "tcs",
+    "name": "Tata Consultancy Services",
+    "logo_url": null,
+    "industry": "IT Services & Consulting",
+    "headquarters": "Mumbai, Maharashtra",
+    "employee_count": "600,000+",
+    "founded": 1968,
+    "website": "https://www.tcs.com",
+    "overall_rating": 3.7,
+    "work_life_balance": 3.8,
+    "salary_benefits": 3.0,
+    "job_security": 4.2,
+    "career_growth": 3.3,
+    "company_culture": 3.6,
+    "reviews": [
+      {"title": "Job security is unmatched", "role": "Assistant Consultant", "location": "Mumbai", "rating": 3.8, "pros": "Tata group brand gives immense job security. Work-life balance is better than most IT companies. Great for people who value stability over rapid growth.", "cons": "Salary increments are the lowest in the industry at 4-6%. Technology choices are limited by client requirements. Appraisal system feels unfair and opaque.", "sentiment": "positive", "sentiment_score": 0.2, "is_current_employee": true, "review_date": "2025-11-20"},
+      {"title": "Not for ambitious people", "role": "Software Developer", "location": "Chennai", "rating": 2.8, "pros": "Good work-life balance in most projects. Decent health benefits and insurance coverage. TCS iON learning platform has useful courses.", "cons": "Extremely low salary compared to market standards. No recognition for hard work, promotions are time-based not merit-based. Bond period of 2 years traps freshers.", "sentiment": "negative", "sentiment_score": -0.35, "is_current_employee": false, "review_date": "2025-08-15"},
+      {"title": "Massive scale with global exposure", "role": "IT Analyst", "location": "Kolkata", "rating": 4.0, "pros": "Opportunity to work with Fortune 500 clients globally. Internal mobility program (ILP) is well-structured. TCS has one of the best training ecosystems.", "cons": "Getting into good projects depends heavily on luck. Bench period anxiety is real. Manager quality varies wildly across teams.", "sentiment": "positive", "sentiment_score": 0.3, "is_current_employee": true, "review_date": "2025-12-10"},
+      {"title": "Decent first job experience", "role": "Systems Engineer", "location": "Trivandrum", "rating": 3.5, "pros": "Campus is well-maintained with good cafeteria. Team leads are generally supportive of freshers. Flexible work-from-home policy.", "cons": "Pay is significantly below what startups offer. Getting into digital or cloud projects is very competitive. Annual bonus is negligible.", "sentiment": "neutral", "sentiment_score": 0.05, "is_current_employee": true, "review_date": "2026-01-20"}
+    ],
+    "salaries": [
+      {"role": "Systems Engineer", "location": "Chennai", "min_salary": 330000, "max_salary": 470000, "avg_salary": 400000, "currency": "INR", "experience": "0-2 years", "sample_count": 2100},
+      {"role": "IT Analyst", "location": "Mumbai", "min_salary": 500000, "max_salary": 800000, "avg_salary": 650000, "currency": "INR", "experience": "2-5 years", "sample_count": 1450},
+      {"role": "Assistant Consultant", "location": "Bangalore", "min_salary": 800000, "max_salary": 1400000, "avg_salary": 1100000, "currency": "INR", "experience": "5-8 years", "sample_count": 620},
+      {"role": "Consultant", "location": "Pune", "min_salary": 1300000, "max_salary": 2200000, "avg_salary": 1700000, "currency": "INR", "experience": "8-12 years", "sample_count": 280}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Coverage up to 5 lakhs for employee and family"},
+      {"category": "leave", "name": "Paid Time Off", "details": "22 earned leaves + 10 sick leaves + 12 public holidays"},
+      {"category": "financial", "name": "Provident Fund", "details": "12% employer PF contribution"},
+      {"category": "perks", "name": "Transport Allowance", "details": "Company bus service and transport reimbursement"},
+      {"category": "insurance", "name": "Group Term Life Insurance", "details": "Life cover of 2x annual CTC"},
+      {"category": "perks", "name": "TCS Gems Rewards", "details": "Points-based recognition program redeemable for gifts"}
+    ]
+  },
+  {
+    "slug": "wipro",
+    "name": "Wipro",
+    "logo_url": null,
+    "industry": "IT Services & Consulting",
+    "headquarters": "Bangalore, Karnataka",
+    "employee_count": "250,000+",
+    "founded": 1945,
+    "website": "https://www.wipro.com",
+    "overall_rating": 3.5,
+    "work_life_balance": 3.5,
+    "salary_benefits": 2.9,
+    "job_security": 3.6,
+    "career_growth": 3.2,
+    "company_culture": 3.4,
+    "reviews": [
+      {"title": "Okay for beginners, not long term", "role": "Project Engineer", "location": "Bangalore", "rating": 3.2, "pros": "Brand name of Wipro helps in getting interviews elsewhere. Work-life balance depends on the project but is generally manageable. Good diversity and women-friendly policies.", "cons": "One of the lowest paying IT companies in India. Appraisal cycle is inconsistent and disappointing. Frequent layoffs have hurt employee morale recently.", "sentiment": "negative", "sentiment_score": -0.12, "is_current_employee": false, "review_date": "2025-10-05"},
+      {"title": "Improving culture under new leadership", "role": "Senior Software Engineer", "location": "Hyderabad", "rating": 3.8, "pros": "New CEO has brought positive changes in technology adoption. Cloud and AI practices are growing rapidly. Internal hackathons and innovation challenges are fun.", "cons": "Legacy accounts still dominate the revenue. Salary corrections happen rarely. Office infrastructure could be better in some locations.", "sentiment": "positive", "sentiment_score": 0.25, "is_current_employee": true, "review_date": "2025-12-18"},
+      {"title": "Stable but uninspiring", "role": "Technical Lead", "location": "Pune", "rating": 3.0, "pros": "Good job security if you perform decently. Health insurance coverage is comprehensive. Flexible timings in most projects.", "cons": "Promotions are extremely slow and political. Salary gap between freshers and experienced hires is minimal. Client-facing roles have high stress.", "sentiment": "neutral", "sentiment_score": -0.08, "is_current_employee": true, "review_date": "2025-09-12"},
+      {"title": "Good training, poor retention", "role": "Analyst", "location": "Chennai", "rating": 3.5, "pros": "Wipro TalentNext training is comprehensive for freshers. Exposure to multiple domains in the first year. Supportive HR team.", "cons": "Retention bonus structure is confusing. No clear career roadmap. High attrition means constant team changes.", "sentiment": "neutral", "sentiment_score": 0.04, "is_current_employee": true, "review_date": "2026-02-01"}
+    ],
+    "salaries": [
+      {"role": "Project Engineer", "location": "Bangalore", "min_salary": 320000, "max_salary": 480000, "avg_salary": 395000, "currency": "INR", "experience": "0-2 years", "sample_count": 1800},
+      {"role": "Senior Software Engineer", "location": "Hyderabad", "min_salary": 550000, "max_salary": 900000, "avg_salary": 720000, "currency": "INR", "experience": "3-6 years", "sample_count": 750},
+      {"role": "Technical Lead", "location": "Pune", "min_salary": 1100000, "max_salary": 1800000, "avg_salary": 1450000, "currency": "INR", "experience": "6-10 years", "sample_count": 320},
+      {"role": "Architect", "location": "Bangalore", "min_salary": 1800000, "max_salary": 3200000, "avg_salary": 2400000, "currency": "INR", "experience": "10-15 years", "sample_count": 110}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Mediclaim up to 4 lakhs for employee and dependents"},
+      {"category": "leave", "name": "Paid Time Off", "details": "22 annual leaves + 10 sick leaves + 12 holidays"},
+      {"category": "financial", "name": "Provident Fund", "details": "Statutory PF contribution of 12%"},
+      {"category": "perks", "name": "Employee Stock Options", "details": "ESOPs available for senior roles after 3 years"},
+      {"category": "insurance", "name": "Accident Insurance", "details": "Personal accident cover of 5 lakhs"},
+      {"category": "perks", "name": "Learning Platform", "details": "Free access to Pluralsight and internal Wipro learning courses"}
+    ]
+  },
+  {
+    "slug": "flipkart",
+    "name": "Flipkart",
+    "logo_url": null,
+    "industry": "E-Commerce",
+    "headquarters": "Bangalore, Karnataka",
+    "employee_count": "30,000+",
+    "founded": 2007,
+    "website": "https://www.flipkart.com",
+    "overall_rating": 4.1,
+    "work_life_balance": 3.4,
+    "salary_benefits": 4.3,
+    "job_security": 3.5,
+    "career_growth": 4.2,
+    "company_culture": 4.0,
+    "reviews": [
+      {"title": "High pay, high pressure", "role": "SDE-2", "location": "Bangalore", "rating": 4.0, "pros": "Compensation is among the best in India, including ESOPs. Engineering culture is strong with focus on scale and performance. Smart colleagues push you to grow.", "cons": "Work-life balance is poor during sale events like Big Billion Days. On-call rotations can be brutal. Recent Walmart integration has added bureaucracy.", "sentiment": "positive", "sentiment_score": 0.28, "is_current_employee": true, "review_date": "2025-11-25"},
+      {"title": "Best for engineers who want scale", "role": "SDE-3", "location": "Bangalore", "rating": 4.5, "pros": "Working on systems that handle millions of requests per second. ESOPs have great value especially post-Walmart acquisition. Tech stack is modern - Kubernetes, microservices, event-driven architecture.", "cons": "Promotions to principal engineer level are extremely competitive. Work hours regularly exceed 50+ per week. Management layers have increased post-Walmart.", "sentiment": "positive", "sentiment_score": 0.52, "is_current_employee": true, "review_date": "2025-12-20"},
+      {"title": "Good compensation, average culture", "role": "Product Manager", "location": "Bangalore", "rating": 3.8, "pros": "Product managers get significant ownership and autonomy. Data-driven decision making culture. Compensation including ESOPs is very competitive.", "cons": "Cross-team collaboration can be challenging. Frequent org restructuring creates uncertainty. Work-life balance suffers during peak seasons.", "sentiment": "positive", "sentiment_score": 0.18, "is_current_employee": true, "review_date": "2026-01-15"},
+      {"title": "Not what it used to be", "role": "Business Analyst", "location": "Bangalore", "rating": 3.2, "pros": "Good brand on resume. Free food and well-stocked pantry. Smart people across the organization.", "cons": "Startup culture is fading, feels more corporate now. Layoffs have happened multiple times creating fear. Growth for non-tech roles is limited.", "sentiment": "negative", "sentiment_score": -0.2, "is_current_employee": false, "review_date": "2025-08-30"}
+    ],
+    "salaries": [
+      {"role": "SDE-1", "location": "Bangalore", "min_salary": 1500000, "max_salary": 2500000, "avg_salary": 1900000, "currency": "INR", "experience": "0-2 years", "sample_count": 320},
+      {"role": "SDE-2", "location": "Bangalore", "min_salary": 2500000, "max_salary": 4200000, "avg_salary": 3200000, "currency": "INR", "experience": "2-5 years", "sample_count": 450},
+      {"role": "SDE-3", "location": "Bangalore", "min_salary": 4000000, "max_salary": 7000000, "avg_salary": 5200000, "currency": "INR", "experience": "5-10 years", "sample_count": 180},
+      {"role": "Product Manager", "location": "Bangalore", "min_salary": 2000000, "max_salary": 4500000, "avg_salary": 3000000, "currency": "INR", "experience": "3-7 years", "sample_count": 120},
+      {"role": "Business Analyst", "location": "Bangalore", "min_salary": 1000000, "max_salary": 2000000, "avg_salary": 1500000, "currency": "INR", "experience": "1-4 years", "sample_count": 90}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Comprehensive coverage up to 10 lakhs including parents"},
+      {"category": "leave", "name": "Paid Time Off", "details": "28 annual leaves + unlimited sick leaves + 12 holidays"},
+      {"category": "financial", "name": "ESOPs", "details": "Employee Stock Ownership Plan vesting over 4 years"},
+      {"category": "perks", "name": "Free Meals", "details": "Breakfast, lunch, and dinner in office cafeteria"},
+      {"category": "insurance", "name": "Life Insurance", "details": "Term life cover of 4x annual CTC"},
+      {"category": "perks", "name": "Gym Membership", "details": "Free gym membership or fitness reimbursement"},
+      {"category": "financial", "name": "Relocation Bonus", "details": "One-time relocation allowance for new joiners"}
+    ]
+  },
+  {
+    "slug": "zomato",
+    "name": "Zomato",
+    "logo_url": null,
+    "industry": "Food Delivery & Technology",
+    "headquarters": "Gurugram, Haryana",
+    "employee_count": "5,000+",
+    "founded": 2008,
+    "website": "https://www.zomato.com",
+    "overall_rating": 3.9,
+    "work_life_balance": 3.2,
+    "salary_benefits": 4.0,
+    "job_security": 3.0,
+    "career_growth": 4.1,
+    "company_culture": 4.2,
+    "reviews": [
+      {"title": "Fast-paced and exciting", "role": "Software Engineer", "location": "Gurugram", "rating": 4.2, "pros": "Exciting startup culture with flat hierarchy. Engineers have significant ownership of features end-to-end. Deepinder Goyal's vision keeps the company innovative.", "cons": "Work-life balance is almost non-existent during crunch periods. Rapid changes in strategy can make your work redundant overnight. On-call duties are very demanding.", "sentiment": "positive", "sentiment_score": 0.32, "is_current_employee": true, "review_date": "2025-12-05"},
+      {"title": "Great for young professionals", "role": "Associate Product Manager", "location": "Gurugram", "rating": 4.0, "pros": "Incredible learning curve in the first 2 years. Company culture encourages experimentation and failure. Good compensation with ESOPs.", "cons": "Job security concerns due to periodic cost-cutting. Processes are still maturing and can be chaotic. Pressure to deliver is intense.", "sentiment": "positive", "sentiment_score": 0.22, "is_current_employee": true, "review_date": "2025-10-28"},
+      {"title": "Too much uncertainty", "role": "Operations Manager", "location": "Mumbai", "rating": 3.0, "pros": "Learning about hyperlocal logistics at massive scale. Young and energetic team. Good office space and perks.", "cons": "Multiple rounds of layoffs have destroyed trust. Operations roles are undervalued compared to tech. Frequent restructuring means your role can change without notice.", "sentiment": "negative", "sentiment_score": -0.28, "is_current_employee": false, "review_date": "2025-07-15"},
+      {"title": "Innovation hub but chaotic", "role": "Data Scientist", "location": "Gurugram", "rating": 4.3, "pros": "Access to massive real-world datasets for ML problems. Strong data engineering infrastructure. Freedom to experiment with cutting-edge ML techniques.", "cons": "Documentation is often poor or non-existent. Cross-team dependencies slow down projects. Comp can vary wildly between similar roles.", "sentiment": "positive", "sentiment_score": 0.38, "is_current_employee": true, "review_date": "2026-01-22"}
+    ],
+    "salaries": [
+      {"role": "Software Engineer", "location": "Gurugram", "min_salary": 1200000, "max_salary": 2200000, "avg_salary": 1700000, "currency": "INR", "experience": "0-3 years", "sample_count": 180},
+      {"role": "Senior Software Engineer", "location": "Gurugram", "min_salary": 2200000, "max_salary": 4000000, "avg_salary": 3000000, "currency": "INR", "experience": "3-6 years", "sample_count": 120},
+      {"role": "Data Scientist", "location": "Gurugram", "min_salary": 1800000, "max_salary": 3500000, "avg_salary": 2500000, "currency": "INR", "experience": "2-5 years", "sample_count": 65},
+      {"role": "Product Manager", "location": "Gurugram", "min_salary": 2000000, "max_salary": 4500000, "avg_salary": 3200000, "currency": "INR", "experience": "3-7 years", "sample_count": 55},
+      {"role": "Operations Manager", "location": "Mumbai", "min_salary": 800000, "max_salary": 1500000, "avg_salary": 1100000, "currency": "INR", "experience": "2-5 years", "sample_count": 95}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Health cover of 7 lakhs for employee and family"},
+      {"category": "leave", "name": "Period Leave", "details": "10 days paid period leave per year for women employees"},
+      {"category": "leave", "name": "Paid Time Off", "details": "26 annual leaves + unlimited sick leaves"},
+      {"category": "perks", "name": "Zomato Credits", "details": "Monthly Zomato food credits for personal use"},
+      {"category": "financial", "name": "ESOPs", "details": "Stock options with 4-year vesting schedule"},
+      {"category": "perks", "name": "Work From Anywhere", "details": "Flexible remote work policy with quarterly office weeks"}
+    ]
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo_url": null,
+    "industry": "Fintech",
+    "headquarters": "Bangalore, Karnataka",
+    "employee_count": "3,000+",
+    "founded": 2014,
+    "website": "https://razorpay.com",
+    "overall_rating": 4.2,
+    "work_life_balance": 3.5,
+    "salary_benefits": 4.4,
+    "job_security": 3.3,
+    "career_growth": 4.3,
+    "company_culture": 4.1,
+    "reviews": [
+      {"title": "Best fintech to work for in India", "role": "Backend Engineer", "location": "Bangalore", "rating": 4.5, "pros": "Working on India's payment infrastructure is deeply satisfying. Engineering practices are top-notch with strong code review culture. Compensation including ESOPs is very competitive.", "cons": "Work hours are long, especially around RBI compliance deadlines. Rapid growth means processes change frequently. Some teams are understaffed leading to burnout.", "sentiment": "positive", "sentiment_score": 0.48, "is_current_employee": true, "review_date": "2025-11-30"},
+      {"title": "Great tech, demanding work", "role": "Frontend Engineer", "location": "Bangalore", "rating": 4.0, "pros": "Modern tech stack with React, TypeScript, and micro-frontends. Strong mentorship from senior engineers. Flat hierarchy means your voice is heard.", "cons": "On-call can be stressful given payment systems are mission-critical. Growth has slowed meaning fewer new exciting projects. Recent profitability push has increased pressure.", "sentiment": "positive", "sentiment_score": 0.25, "is_current_employee": true, "review_date": "2025-12-12"},
+      {"title": "Startup vibes fading", "role": "Product Manager", "location": "Bangalore", "rating": 3.5, "pros": "Product managers get real ownership and P&L responsibility. Fintech domain expertise is highly valued in the market. Good perks and office culture.", "cons": "Decision making has become slower with more layers of approval. ESOPs value is uncertain given delayed IPO. Work-life balance depends entirely on your team.", "sentiment": "neutral", "sentiment_score": 0.08, "is_current_employee": true, "review_date": "2026-02-10"},
+      {"title": "High growth trajectory", "role": "DevOps Engineer", "location": "Bangalore", "rating": 4.3, "pros": "Infrastructure challenges at massive scale with 99.99% uptime requirements. Strong Kubernetes and cloud-native practices. Good learning budget and conference attendance support.", "cons": "Incidents can disrupt weekends and holidays. Documentation could be more thorough. Compensation for DevOps roles lags behind SDE roles.", "sentiment": "positive", "sentiment_score": 0.4, "is_current_employee": true, "review_date": "2025-10-18"}
+    ],
+    "salaries": [
+      {"role": "Software Engineer", "location": "Bangalore", "min_salary": 1600000, "max_salary": 2800000, "avg_salary": 2100000, "currency": "INR", "experience": "0-3 years", "sample_count": 140},
+      {"role": "Senior Software Engineer", "location": "Bangalore", "min_salary": 2800000, "max_salary": 5000000, "avg_salary": 3800000, "currency": "INR", "experience": "3-6 years", "sample_count": 95},
+      {"role": "Staff Engineer", "location": "Bangalore", "min_salary": 5000000, "max_salary": 8000000, "avg_salary": 6200000, "currency": "INR", "experience": "7-12 years", "sample_count": 35},
+      {"role": "Product Manager", "location": "Bangalore", "min_salary": 2200000, "max_salary": 5000000, "avg_salary": 3500000, "currency": "INR", "experience": "3-7 years", "sample_count": 45},
+      {"role": "DevOps Engineer", "location": "Bangalore", "min_salary": 1400000, "max_salary": 3000000, "avg_salary": 2200000, "currency": "INR", "experience": "2-5 years", "sample_count": 40}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Health cover up to 10 lakhs including parents and in-laws"},
+      {"category": "leave", "name": "Paid Time Off", "details": "30 annual leaves + unlimited sick leaves + 12 holidays"},
+      {"category": "financial", "name": "ESOPs", "details": "Generous stock options with 4-year vesting cliff at 1 year"},
+      {"category": "perks", "name": "Learning Budget", "details": "Annual learning budget of 1 lakh for courses and conferences"},
+      {"category": "insurance", "name": "Life Insurance", "details": "Group term life insurance of 5x annual salary"},
+      {"category": "perks", "name": "Home Office Setup", "details": "One-time 50K allowance for home office equipment"},
+      {"category": "financial", "name": "Gratuity", "details": "Gratuity payment after 5 years of service"}
+    ]
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo_url": null,
+    "industry": "Food Delivery & Technology",
+    "headquarters": "Bangalore, Karnataka",
+    "employee_count": "5,500+",
+    "founded": 2014,
+    "website": "https://www.swiggy.com",
+    "overall_rating": 3.8,
+    "work_life_balance": 3.1,
+    "salary_benefits": 4.1,
+    "job_security": 2.9,
+    "career_growth": 4.0,
+    "company_culture": 3.9,
+    "reviews": [
+      {"title": "Great tech problems to solve", "role": "SDE-2", "location": "Bangalore", "rating": 4.2, "pros": "Real-time logistics optimization problems are intellectually stimulating. Strong engineering culture with emphasis on system design. Good compensation and stock options.", "cons": "Post-IPO culture has shifted towards cost optimization. Weekend deployments happen more often than comfortable. Some teams have toxic managers.", "sentiment": "positive", "sentiment_score": 0.3, "is_current_employee": true, "review_date": "2025-12-08"},
+      {"title": "Roller coaster ride", "role": "Senior Product Manager", "location": "Bangalore", "rating": 3.5, "pros": "Massive user base means your features impact millions. Product teams have good autonomy. Instamart is an exciting growth area.", "cons": "Frequent pivots mean work gets thrown away. Multiple rounds of layoffs have hurt morale. Leadership communication could be more transparent.", "sentiment": "neutral", "sentiment_score": 0.05, "is_current_employee": true, "review_date": "2025-09-22"},
+      {"title": "Not recommended for operations", "role": "City Operations Lead", "location": "Delhi", "rating": 2.5, "pros": "Learn about hyperlocal operations at scale. Young team with good energy. Decent base salary for operations roles.", "cons": "Layoffs hit operations teams the hardest. Targets are unrealistic and keep increasing. No work-life balance with constant firefighting.", "sentiment": "negative", "sentiment_score": -0.42, "is_current_employee": false, "review_date": "2025-06-10"},
+      {"title": "Engineering paradise with caveats", "role": "Staff Engineer", "location": "Bangalore", "rating": 4.0, "pros": "Scale of problems is unmatched in Indian startups. Microservices architecture at true hyperscale. Smart colleagues you can learn from daily.", "cons": "On-call rotations during festive seasons are brutal. Technical debt in older services is significant. Salary negotiations favor new joiners over loyal employees.", "sentiment": "positive", "sentiment_score": 0.22, "is_current_employee": true, "review_date": "2026-01-30"}
+    ],
+    "salaries": [
+      {"role": "SDE-1", "location": "Bangalore", "min_salary": 1400000, "max_salary": 2400000, "avg_salary": 1800000, "currency": "INR", "experience": "0-2 years", "sample_count": 200},
+      {"role": "SDE-2", "location": "Bangalore", "min_salary": 2400000, "max_salary": 4200000, "avg_salary": 3200000, "currency": "INR", "experience": "2-5 years", "sample_count": 160},
+      {"role": "Staff Engineer", "location": "Bangalore", "min_salary": 4500000, "max_salary": 7500000, "avg_salary": 5800000, "currency": "INR", "experience": "7-12 years", "sample_count": 30},
+      {"role": "Product Manager", "location": "Bangalore", "min_salary": 2000000, "max_salary": 4500000, "avg_salary": 3000000, "currency": "INR", "experience": "3-7 years", "sample_count": 60}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Coverage up to 8 lakhs for employee and family"},
+      {"category": "leave", "name": "Paid Time Off", "details": "26 annual leaves + 12 public holidays + wellness days"},
+      {"category": "financial", "name": "ESOPs", "details": "Stock options now publicly traded on NSE/BSE"},
+      {"category": "perks", "name": "Swiggy Credits", "details": "Monthly food credits on Swiggy platform"},
+      {"category": "perks", "name": "Mental Health Support", "details": "Free counseling sessions and mental wellness app access"},
+      {"category": "insurance", "name": "Term Life Insurance", "details": "Life cover of 3x annual CTC"}
+    ]
+  },
+  {
+    "slug": "paytm",
+    "name": "Paytm (One97 Communications)",
+    "logo_url": null,
+    "industry": "Fintech & Digital Payments",
+    "headquarters": "Noida, Uttar Pradesh",
+    "employee_count": "8,000+",
+    "founded": 2010,
+    "website": "https://paytm.com",
+    "overall_rating": 3.3,
+    "work_life_balance": 2.8,
+    "salary_benefits": 3.4,
+    "job_security": 2.4,
+    "career_growth": 3.5,
+    "company_culture": 3.2,
+    "reviews": [
+      {"title": "Once great, now uncertain", "role": "Software Engineer", "location": "Noida", "rating": 3.0, "pros": "Huge scale of India's payment ecosystem. You learn to build resilient distributed systems. Good brand on resume for fintech roles.", "cons": "RBI restrictions have created massive uncertainty about the future. Multiple rounds of layoffs in 2024-2025. Work culture is stressful with unrealistic deadlines.", "sentiment": "negative", "sentiment_score": -0.18, "is_current_employee": true, "review_date": "2025-11-10"},
+      {"title": "Challenging times but learning opportunities", "role": "Senior Engineer", "location": "Noida", "rating": 3.5, "pros": "Working on payments at India-scale teaches you reliability engineering. Team members are talented and hardworking. Recent restructuring has improved focus.", "cons": "Stock price decline has eroded ESOP value significantly. Frequent changes in direction from leadership. Benefits have been cut as part of cost reduction.", "sentiment": "neutral", "sentiment_score": 0.02, "is_current_employee": true, "review_date": "2025-12-22"},
+      {"title": "Stay away from operations roles", "role": "Business Development Manager", "location": "Delhi", "rating": 2.2, "pros": "Large merchant network gives exposure to diverse business models. Vijay Shekhar Sharma's energy is infectious. Fast-paced environment forces you to adapt.", "cons": "Targets are impossibly high and change monthly. Compensation has not kept up with market rates. Company's regulatory troubles make clients hesitant.", "sentiment": "negative", "sentiment_score": -0.45, "is_current_employee": false, "review_date": "2025-08-05"},
+      {"title": "Good tech, poor stability", "role": "Data Engineer", "location": "Bangalore", "rating": 3.8, "pros": "Data infrastructure handles billions of transactions. Modern stack with Kafka, Spark, and Airflow. Small team means high visibility for your work.", "cons": "Bangalore office feels like a secondary office. Promotions have been frozen during restructuring. Uncertainty about which business units will survive.", "sentiment": "neutral", "sentiment_score": 0.1, "is_current_employee": true, "review_date": "2026-01-08"}
+    ],
+    "salaries": [
+      {"role": "Software Engineer", "location": "Noida", "min_salary": 800000, "max_salary": 1600000, "avg_salary": 1200000, "currency": "INR", "experience": "0-3 years", "sample_count": 280},
+      {"role": "Senior Software Engineer", "location": "Noida", "min_salary": 1500000, "max_salary": 2800000, "avg_salary": 2100000, "currency": "INR", "experience": "3-6 years", "sample_count": 150},
+      {"role": "Data Engineer", "location": "Bangalore", "min_salary": 1400000, "max_salary": 2600000, "avg_salary": 1900000, "currency": "INR", "experience": "2-5 years", "sample_count": 55},
+      {"role": "Business Development Manager", "location": "Delhi", "min_salary": 600000, "max_salary": 1200000, "avg_salary": 900000, "currency": "INR", "experience": "1-4 years", "sample_count": 120},
+      {"role": "Product Manager", "location": "Noida", "min_salary": 1800000, "max_salary": 3500000, "avg_salary": 2500000, "currency": "INR", "experience": "3-7 years", "sample_count": 40}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Health cover of 5 lakhs for employee and dependents"},
+      {"category": "leave", "name": "Paid Time Off", "details": "20 annual leaves + 10 sick leaves + 12 holidays"},
+      {"category": "financial", "name": "ESOPs", "details": "Stock options available but value has declined significantly"},
+      {"category": "perks", "name": "Paytm Wallet Credits", "details": "Monthly wallet credits for personal transactions"},
+      {"category": "insurance", "name": "Life Insurance", "details": "Group term life insurance of 2x annual salary"}
+    ]
+  },
+  {
+    "slug": "hdfc-bank",
+    "name": "HDFC Bank",
+    "logo_url": null,
+    "industry": "Banking & Financial Services",
+    "headquarters": "Mumbai, Maharashtra",
+    "employee_count": "175,000+",
+    "founded": 1994,
+    "website": "https://www.hdfcbank.com",
+    "overall_rating": 3.6,
+    "work_life_balance": 2.9,
+    "salary_benefits": 3.5,
+    "job_security": 4.0,
+    "career_growth": 3.7,
+    "company_culture": 3.3,
+    "reviews": [
+      {"title": "Great brand, demanding work culture", "role": "Relationship Manager", "location": "Mumbai", "rating": 3.5, "pros": "HDFC Bank brand carries immense weight in the banking sector. Learning about financial products is comprehensive. Performance-based incentives can be lucrative.", "cons": "Sales targets are ruthlessly aggressive. Work hours extend well beyond 9-6, especially at branch level. Saturdays are working days in many branches.", "sentiment": "neutral", "sentiment_score": 0.05, "is_current_employee": true, "review_date": "2025-11-18"},
+      {"title": "Technology team is underrated", "role": "Technology Analyst", "location": "Bangalore", "rating": 4.0, "pros": "Digital banking initiatives are genuinely innovative. Job security in banking sector is excellent. Salary for tech roles is competitive with IT companies.", "cons": "Legacy systems still power core banking and are painful to work with. Change management processes are extremely slow. Regulatory compliance adds friction to every project.", "sentiment": "positive", "sentiment_score": 0.28, "is_current_employee": true, "review_date": "2025-12-15"},
+      {"title": "Avoid branch banking roles", "role": "Branch Manager", "location": "Delhi", "rating": 2.8, "pros": "Strong career progression path if you survive the pressure. Comprehensive banking knowledge across all products. Good retirement benefits and pension schemes.", "cons": "Extreme pressure to meet cross-selling targets. Mental health suffers with constant audits and compliance checks. Transfer policy disrupts personal life frequently.", "sentiment": "negative", "sentiment_score": -0.32, "is_current_employee": true, "review_date": "2025-10-02"},
+      {"title": "Good for risk and compliance roles", "role": "Risk Analyst", "location": "Mumbai", "rating": 3.8, "pros": "Exposure to complex financial risk models. Excellent training programs for banking professionals. Job stability is unmatched in the private sector.", "cons": "Work-life balance is average at best. Bureaucratic decision-making processes. Limited exposure to modern tech like AI/ML in risk.", "sentiment": "positive", "sentiment_score": 0.18, "is_current_employee": true, "review_date": "2026-02-05"}
+    ],
+    "salaries": [
+      {"role": "Relationship Manager", "location": "Mumbai", "min_salary": 400000, "max_salary": 800000, "avg_salary": 600000, "currency": "INR", "experience": "1-4 years", "sample_count": 850},
+      {"role": "Technology Analyst", "location": "Bangalore", "min_salary": 800000, "max_salary": 1500000, "avg_salary": 1100000, "currency": "INR", "experience": "2-5 years", "sample_count": 220},
+      {"role": "Branch Manager", "location": "Delhi", "min_salary": 1000000, "max_salary": 1800000, "avg_salary": 1400000, "currency": "INR", "experience": "5-10 years", "sample_count": 180},
+      {"role": "Risk Analyst", "location": "Mumbai", "min_salary": 700000, "max_salary": 1400000, "avg_salary": 1000000, "currency": "INR", "experience": "2-6 years", "sample_count": 95},
+      {"role": "Senior Vice President", "location": "Mumbai", "min_salary": 3000000, "max_salary": 6000000, "avg_salary": 4500000, "currency": "INR", "experience": "15+ years", "sample_count": 40}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Comprehensive health coverage up to 5 lakhs with top-up options"},
+      {"category": "leave", "name": "Paid Time Off", "details": "24 privilege leaves + 12 sick leaves + bank holidays"},
+      {"category": "financial", "name": "Pension Scheme", "details": "NPS contribution with employer matching up to 10%"},
+      {"category": "financial", "name": "Subsidized Loans", "details": "Home and car loans at preferential interest rates for employees"},
+      {"category": "insurance", "name": "Life Insurance", "details": "Group life cover of 3x annual salary"},
+      {"category": "perks", "name": "Banking Benefits", "details": "Free salary account with premium features and zero-balance requirement"},
+      {"category": "financial", "name": "Performance Bonus", "details": "Quarterly performance bonus linked to target achievement"}
+    ]
+  },
+  {
+    "slug": "reliance",
+    "name": "Reliance Industries",
+    "logo_url": null,
+    "industry": "Conglomerate (Oil, Retail, Telecom)",
+    "headquarters": "Mumbai, Maharashtra",
+    "employee_count": "350,000+",
+    "founded": 1966,
+    "website": "https://www.ril.com",
+    "overall_rating": 3.9,
+    "work_life_balance": 3.0,
+    "salary_benefits": 4.0,
+    "job_security": 4.1,
+    "career_growth": 3.8,
+    "company_culture": 3.5,
+    "reviews": [
+      {"title": "Massive scale, corporate culture", "role": "Software Developer (Jio)", "location": "Mumbai", "rating": 4.0, "pros": "Working on Jio's telecom infrastructure impacts 450M+ subscribers. Compensation is competitive with generous bonuses. Brand value of Reliance is unmatched in India.", "cons": "Highly corporate and hierarchical culture. Decisions flow top-down with limited autonomy. Work-life balance is poor with 6-day work weeks in some divisions.", "sentiment": "positive", "sentiment_score": 0.2, "is_current_employee": true, "review_date": "2025-11-28"},
+      {"title": "Great for retail management", "role": "Store Manager (Reliance Retail)", "location": "Pune", "rating": 3.5, "pros": "India's largest retail chain offers unmatched exposure. Performance incentives are genuinely achievable. Career growth is fast for high performers.", "cons": "Long working hours including weekends. Target pressure is very high. Transfers across cities happen frequently.", "sentiment": "neutral", "sentiment_score": 0.06, "is_current_employee": true, "review_date": "2025-09-30"},
+      {"title": "Good pay, demanding expectations", "role": "Engineer (Jio Platforms)", "location": "Bangalore", "rating": 4.2, "pros": "Jio Platforms works on cutting-edge 5G and AI. Salary packages are among the best for the experience level. Access to global technology partnerships.", "cons": "Ambani-driven culture means everything is top priority. Work-life balance suffers during product launches. Internal politics at senior levels.", "sentiment": "positive", "sentiment_score": 0.35, "is_current_employee": true, "review_date": "2026-01-12"},
+      {"title": "Not for everyone", "role": "Analyst (RIL Corporate)", "location": "Mumbai", "rating": 3.2, "pros": "Exposure to multiple business verticals from oil to telecom. Strong job security with Reliance's financial backing. Good campus with excellent amenities at Navi Mumbai.", "cons": "Extremely formal and bureaucratic work environment. Innovation is stifled by layers of approvals. Communication between departments is poor.", "sentiment": "neutral", "sentiment_score": -0.04, "is_current_employee": false, "review_date": "2025-08-20"}
+    ],
+    "salaries": [
+      {"role": "Software Developer (Jio)", "location": "Mumbai", "min_salary": 800000, "max_salary": 1800000, "avg_salary": 1300000, "currency": "INR", "experience": "0-3 years", "sample_count": 350},
+      {"role": "Senior Engineer (Jio)", "location": "Bangalore", "min_salary": 1500000, "max_salary": 3000000, "avg_salary": 2200000, "currency": "INR", "experience": "3-7 years", "sample_count": 180},
+      {"role": "Store Manager (Retail)", "location": "Various", "min_salary": 500000, "max_salary": 1000000, "avg_salary": 750000, "currency": "INR", "experience": "3-7 years", "sample_count": 420},
+      {"role": "Analyst (Corporate)", "location": "Mumbai", "min_salary": 600000, "max_salary": 1200000, "avg_salary": 900000, "currency": "INR", "experience": "1-4 years", "sample_count": 150},
+      {"role": "Vice President", "location": "Mumbai", "min_salary": 4000000, "max_salary": 8000000, "avg_salary": 6000000, "currency": "INR", "experience": "15+ years", "sample_count": 25}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Premium health coverage up to 10 lakhs including parents"},
+      {"category": "leave", "name": "Paid Time Off", "details": "21 annual leaves + 10 sick leaves + public holidays"},
+      {"category": "financial", "name": "Annual Bonus", "details": "Performance bonus of 15-25% of annual CTC"},
+      {"category": "perks", "name": "Jio Benefits", "details": "Free Jio mobile plan and JioFiber for all employees"},
+      {"category": "financial", "name": "Reliance Employee Discount", "details": "Discount on Reliance Retail, Ajio, and other group company products"},
+      {"category": "insurance", "name": "Life Insurance", "details": "Group life insurance of 4x annual salary"},
+      {"category": "perks", "name": "Employee Township", "details": "Subsidized housing in Reliance townships near offices"}
+    ]
+  },
+  {
+    "slug": "hcl-technologies",
+    "name": "HCL Technologies",
+    "logo_url": null,
+    "industry": "IT Services & Consulting",
+    "headquarters": "Noida, Uttar Pradesh",
+    "employee_count": "225,000+",
+    "founded": 1991,
+    "website": "https://www.hcltech.com",
+    "overall_rating": 3.6,
+    "work_life_balance": 3.5,
+    "salary_benefits": 3.3,
+    "job_security": 3.7,
+    "career_growth": 3.4,
+    "company_culture": 3.5,
+    "reviews": [
+      {"title": "Better than other service companies", "role": "Software Engineer", "location": "Noida", "rating": 3.8, "pros": "HCL has invested heavily in product engineering (DRYiCE, Volt MX). Work-life balance is better than TCS/Infosys in most projects. New campus in Noida is excellent.", "cons": "Salary is still below product companies by a wide margin. Appraisal process lacks transparency. Variable pay is almost never paid in full.", "sentiment": "positive", "sentiment_score": 0.15, "is_current_employee": true, "review_date": "2025-11-22"},
+      {"title": "Product engineering is the future here", "role": "Lead Engineer", "location": "Bangalore", "rating": 4.0, "pros": "HCL Products division works on genuinely interesting software. Transition from services to products creates unique career opportunities. International projects offer global exposure.", "cons": "Services division still feels like a body shop. Politics increases significantly at lead level and above. Benefits have not kept pace with competitors.", "sentiment": "positive", "sentiment_score": 0.28, "is_current_employee": true, "review_date": "2025-12-28"},
+      {"title": "Decent for mid-career professionals", "role": "Project Manager", "location": "Chennai", "rating": 3.5, "pros": "PM roles get real authority and client interaction. Training opportunities through HCL Academy are good. Stable company with consistent revenue growth.", "cons": "Salary increments average 6-8% which barely beats inflation. Bench period policies are stricter than competitors. Some clients micromanage heavily.", "sentiment": "neutral", "sentiment_score": 0.04, "is_current_employee": true, "review_date": "2025-10-14"},
+      {"title": "Avoid if you want rapid growth", "role": "Analyst", "location": "Noida", "rating": 3.0, "pros": "Job security is good for freshers. Free transport and decent cafeteria. Colleagues are generally friendly and helpful.", "cons": "Career growth is painfully slow with time-bound promotions. Technology exposure depends entirely on which project you land. Exit opportunities are limited to similar service firms.", "sentiment": "negative", "sentiment_score": -0.15, "is_current_employee": false, "review_date": "2025-07-20"}
+    ],
+    "salaries": [
+      {"role": "Software Engineer", "location": "Noida", "min_salary": 350000, "max_salary": 550000, "avg_salary": 450000, "currency": "INR", "experience": "0-2 years", "sample_count": 1100},
+      {"role": "Senior Software Engineer", "location": "Bangalore", "min_salary": 600000, "max_salary": 1100000, "avg_salary": 850000, "currency": "INR", "experience": "3-6 years", "sample_count": 650},
+      {"role": "Lead Engineer", "location": "Bangalore", "min_salary": 1100000, "max_salary": 2000000, "avg_salary": 1500000, "currency": "INR", "experience": "6-10 years", "sample_count": 280},
+      {"role": "Project Manager", "location": "Chennai", "min_salary": 1400000, "max_salary": 2400000, "avg_salary": 1800000, "currency": "INR", "experience": "8-12 years", "sample_count": 150}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Mediclaim of 4 lakhs for employee and family"},
+      {"category": "leave", "name": "Paid Time Off", "details": "22 earned leaves + 10 sick leaves + 12 public holidays"},
+      {"category": "financial", "name": "Provident Fund", "details": "12% employer contribution to EPF"},
+      {"category": "perks", "name": "Transport", "details": "Free office cab service for all shifts"},
+      {"category": "insurance", "name": "Group Accident Insurance", "details": "Personal accident cover of 5 lakhs"},
+      {"category": "perks", "name": "HCL Academy", "details": "Free access to technical and soft skill courses"}
+    ]
+  },
+  {
+    "slug": "zoho",
+    "name": "Zoho Corporation",
+    "logo_url": null,
+    "industry": "Software / SaaS",
+    "headquarters": "Chennai, Tamil Nadu",
+    "employee_count": "15,000+",
+    "founded": 1996,
+    "website": "https://www.zoho.com",
+    "overall_rating": 4.0,
+    "work_life_balance": 4.2,
+    "salary_benefits": 3.3,
+    "job_security": 4.3,
+    "career_growth": 3.8,
+    "company_culture": 4.4,
+    "reviews": [
+      {"title": "Best work culture in Indian IT", "role": "Software Developer", "location": "Chennai", "rating": 4.5, "pros": "Sridhar Vembu's vision creates a unique non-corporate culture. No layoffs policy gives genuine peace of mind. Rural office campuses (Tenkasi) are innovative and refreshing.", "cons": "Salary is 20-30% below market rate for equivalent roles. Limited brand recognition outside of SaaS industry. Career growth paths are not well-defined.", "sentiment": "positive", "sentiment_score": 0.45, "is_current_employee": true, "review_date": "2025-12-02"},
+      {"title": "Product company with services salary", "role": "Senior Developer", "location": "Chennai", "rating": 3.8, "pros": "Building products used by millions of businesses worldwide. Complete ownership of features from design to deployment. No corporate politics, very flat hierarchy.", "cons": "Compensation is significantly below market, especially for senior roles. Stock options are not available as Zoho is privately held. Limited exposure to trendy tech stacks, mostly Zoho's own frameworks.", "sentiment": "positive", "sentiment_score": 0.2, "is_current_employee": true, "review_date": "2025-10-25"},
+      {"title": "Hidden gem for work-life balance", "role": "QA Engineer", "location": "Chennai", "rating": 4.2, "pros": "Genuinely 9-5 work culture with no weekend work. Company treats employees like family. Zoho University program creates talented colleagues from non-traditional backgrounds.", "cons": "Pay is the biggest drawback, hard to justify staying long-term. Chennai-centric presence limits office choices. Internal tools can feel dated compared to industry standards.", "sentiment": "positive", "sentiment_score": 0.38, "is_current_employee": true, "review_date": "2026-01-18"},
+      {"title": "Unique company, modest pay", "role": "Technical Writer", "location": "Chennai", "rating": 3.5, "pros": "Respectful workplace with no toxic hustle culture. Free food and campus amenities are excellent. Company invests in employee wellbeing genuinely.", "cons": "Salary reviews happen only once a year with modest hikes. Remote work options are limited compared to competitors. Promotion criteria can be vague.", "sentiment": "neutral", "sentiment_score": 0.1, "is_current_employee": true, "review_date": "2025-09-08"}
+    ],
+    "salaries": [
+      {"role": "Software Developer", "location": "Chennai", "min_salary": 400000, "max_salary": 900000, "avg_salary": 650000, "currency": "INR", "experience": "0-3 years", "sample_count": 380},
+      {"role": "Senior Developer", "location": "Chennai", "min_salary": 800000, "max_salary": 1600000, "avg_salary": 1200000, "currency": "INR", "experience": "3-7 years", "sample_count": 220},
+      {"role": "Technical Lead", "location": "Chennai", "min_salary": 1400000, "max_salary": 2500000, "avg_salary": 1800000, "currency": "INR", "experience": "7-12 years", "sample_count": 80},
+      {"role": "QA Engineer", "location": "Chennai", "min_salary": 350000, "max_salary": 800000, "avg_salary": 550000, "currency": "INR", "experience": "0-4 years", "sample_count": 140},
+      {"role": "Technical Writer", "location": "Chennai", "min_salary": 300000, "max_salary": 700000, "avg_salary": 500000, "currency": "INR", "experience": "0-4 years", "sample_count": 60}
+    ],
+    "benefits": [
+      {"category": "health", "name": "Health Insurance", "details": "Health coverage up to 5 lakhs for employee and family"},
+      {"category": "leave", "name": "Paid Time Off", "details": "22 casual leaves + 12 sick leaves + 14 public holidays"},
+      {"category": "perks", "name": "Free Meals", "details": "Breakfast, lunch, and snacks provided at all campus offices"},
+      {"category": "perks", "name": "Zoho University", "details": "Internal university that trains non-graduates for engineering roles"},
+      {"category": "financial", "name": "Provident Fund", "details": "12% employer PF contribution"},
+      {"category": "perks", "name": "Rural Campus", "details": "Option to work from scenic Tenkasi rural campus in Tamil Nadu"},
+      {"category": "insurance", "name": "Life Insurance", "details": "Group term life cover of 2x annual salary"},
+      {"category": "perks", "name": "Sports & Recreation", "details": "On-campus badminton, table tennis, cricket, and gym facilities"}
+    ]
+  }
+]
