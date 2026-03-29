@@ -1,0 +1,142 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Company {
+  id            String    @id @default(cuid())
+  slug          String    @unique
+  name          String
+  logoUrl       String?
+  industry      String?
+  headquarters  String?
+  employeeCount String?
+  founded       Int?
+  website       String?
+
+  overallRating   Float?
+  workLifeBalance Float?
+  salaryBenefits  Float?
+  jobSecurity     Float?
+  careerGrowth    Float?
+  companyCulture  Float?
+
+  reviews       Review[]
+  salaries      Salary[]
+  benefits      Benefit[]
+  sentimentData SentimentSnapshot[]
+  userReviews   UserReview[]
+  userSalaries  UserSalarySubmission[]
+
+  source        String    @default("seed")
+  lastScrapedAt DateTime?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+model Review {
+  id                String   @id @default(cuid())
+  companyId         String
+  company           Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  title             String?
+  role              String?
+  location          String?
+  rating            Float?
+  pros              String
+  cons              String
+  sentiment         String?
+  sentimentScore    Float?
+  isCurrentEmployee Boolean?
+  reviewDate        DateTime?
+  createdAt         DateTime @default(now())
+}
+
+model Salary {
+  id          String  @id @default(cuid())
+  companyId   String
+  company     Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  role        String
+  location    String?
+  minSalary   Int
+  maxSalary   Int
+  avgSalary   Int?
+  currency    String  @default("INR")
+  experience  String?
+  sampleCount Int?
+  createdAt   DateTime @default(now())
+}
+
+model Benefit {
+  id        String  @id @default(cuid())
+  companyId String
+  company   Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  category  String
+  name      String
+  details   String?
+}
+
+model SentimentSnapshot {
+  id                String   @id @default(cuid())
+  companyId         String
+  company           Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  positiveCount     Int
+  negativeCount     Int
+  neutralCount      Int
+  topPositiveThemes String
+  topNegativeThemes String
+  analyzedAt        DateTime @default(now())
+}
+
+model User {
+  id              String   @id @default(cuid())
+  email           String   @unique
+  displayName     String?
+  passwordHash    String
+  currentCompany  String?
+  currentRole     String?
+  isEmailVerified Boolean  @default(false)
+  createdAt       DateTime @default(now())
+  reviews         UserReview[]
+  salaries        UserSalarySubmission[]
+}
+
+model UserReview {
+  id                    String   @id @default(cuid())
+  userId                String
+  user                  User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  companyId             String
+  company               Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  title                 String
+  role                  String
+  location              String?
+  overallRating         Float
+  workLifeBalanceRating Float?
+  salaryRating          Float?
+  jobSecurityRating     Float?
+  careerGrowthRating    Float?
+  companyCultureRating  Float?
+  pros                  String
+  cons                  String
+  isAnonymous           Boolean  @default(true)
+  isCurrentEmployee     Boolean  @default(false)
+  upvotes               Int      @default(0)
+  createdAt             DateTime @default(now())
+}
+
+model UserSalarySubmission {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  companyId  String
+  company    Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  role       String
+  location   String?
+  baseSalary Int
+  totalComp  Int?
+  experience String?
+  createdAt  DateTime @default(now())
+}
