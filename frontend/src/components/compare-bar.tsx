@@ -10,7 +10,7 @@ export function CompareBar() {
   if (companies.length === 0) return null;
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 bg-white border-t shadow-lg">
+    <div className="fixed bottom-[48px] md:bottom-0 left-0 right-0 z-50 bg-white border-t shadow-lg">
       <div className="max-w-5xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-2">
         <div className="flex flex-wrap items-center gap-2">
           <span className="text-sm font-medium text-muted-foreground">

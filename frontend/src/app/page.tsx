@@ -5,6 +5,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { useAuth } from "@/context/auth-context";
 
 const FEATURED_COMPANIES = [
   { name: "Infosys", slug: "infosys", industry: "IT Services" },
@@ -25,6 +26,7 @@ const STATS = [
 export default function Home() {
   const [search, setSearch] = useState("");
   const router = useRouter();
+  const { user, loading: authLoading, logout } = useAuth();
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -48,6 +50,17 @@ export default function Home() {
             <Link href="/recruiter">
               <Button variant="ghost" size="sm">Recruiter</Button>
             </Link>
+            {!authLoading && (
+              user ? (
+                <Button variant="ghost" size="sm" onClick={logout} className="text-xs">
+                  Logout
+                </Button>
+              ) : (
+                <Link href="/login">
+                  <Button variant="outline" size="sm" className="text-xs">Sign In</Button>
+                </Link>
+              )
+            )}
           </div>
         </div>
       </nav>

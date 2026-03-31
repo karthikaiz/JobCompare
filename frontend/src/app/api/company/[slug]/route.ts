@@ -26,6 +26,17 @@ export async function GET(
         orderBy: { analyzedAt: "desc" },
         take: 1,
       },
+      userReviews: {
+        orderBy: { createdAt: "desc" },
+        take: 50,
+        include: {
+          user: { select: { displayName: true } },
+        },
+      },
+      userSalaries: {
+        orderBy: { createdAt: "desc" },
+        take: 50,
+      },
     },
   });
 

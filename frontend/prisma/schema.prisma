@@ -102,6 +102,7 @@ model User {
   createdAt       DateTime @default(now())
   reviews         UserReview[]
   salaries        UserSalarySubmission[]
+  upvotes         UserReviewUpvote[]
 }
 
 model UserReview {
@@ -125,6 +126,18 @@ model UserReview {
   isCurrentEmployee     Boolean  @default(false)
   upvotes               Int      @default(0)
   createdAt             DateTime @default(now())
+  upvotedBy             UserReviewUpvote[]
+}
+
+model UserReviewUpvote {
+  id        String     @id @default(cuid())
+  userId    String
+  user      User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  reviewId  String
+  review    UserReview @relation(fields: [reviewId], references: [id], onDelete: Cascade)
+  createdAt DateTime   @default(now())
+
+  @@unique([userId, reviewId])
 }
 
 model UserSalarySubmission {

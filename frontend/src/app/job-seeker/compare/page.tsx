@@ -134,7 +134,7 @@ export default function ComparePage() {
     .filter(([, companies]) => Object.keys(companies).length >= 2 || data.length < 2)
     .slice(0, 8)
     .map(([role, companies]) => {
-      const maxLen = isMobile ? 10 : 20;
+      const maxLen = isMobile ? 14 : 22;
       return {
         role: role.length > maxLen ? role.slice(0, maxLen - 2) + "..." : role,
         ...companies,

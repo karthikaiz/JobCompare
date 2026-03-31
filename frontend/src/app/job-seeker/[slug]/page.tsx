@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, useCallback } from "react";
 import { useParams } from "next/navigation";
 import { DashboardShell } from "@/components/layout/dashboard-shell";
 import { SearchBar } from "@/components/search-bar";
@@ -9,11 +9,43 @@ import { BenefitsRadar } from "@/components/charts/benefits-radar";
 import { SalaryChart } from "@/components/charts/salary-chart";
 import { BenefitsBadges } from "@/components/charts/benefits-badges";
 import { ReviewCard } from "@/components/charts/review-card";
+import { ReviewForm } from "@/components/review-form";
+import { SalaryForm } from "@/components/salary-form";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Button } from "@/components/ui/button";
 import { useCompare } from "@/context/compare-context";
+import { useAuth } from "@/context/auth-context";
+
+interface ScrapedReview {
+  id: string;
+  title: string | null;
+  role: string | null;
+  location: string | null;
+  rating: number | null;
+  pros: string;
+  cons: string;
+  sentiment: string | null;
+  sentimentScore: number | null;
+  isCurrentEmployee: boolean | null;
+  reviewDate: string | null;
+}
+
+interface UserReview {
+  id: string;
+  title: string;
+  role: string;
+  location: string | null;
+  overallRating: number;
+  pros: string;
+  cons: string;
+  isAnonymous: boolean;
+  isCurrentEmployee: boolean;
+  upvotes: number;
+  createdAt: string;
+  user: { displayName: string | null };
+}
 
 interface CompanyData {
   id: string;
@@ -32,19 +64,8 @@ interface CompanyData {
   companyCulture: number | null;
   source: string;
   lastScrapedAt: string | null;
-  reviews: Array<{
-    id: string;
-    title: string | null;
-    role: string | null;
-    location: string | null;
-    rating: number | null;
-    pros: string;
-    cons: string;
-    sentiment: string | null;
-    sentimentScore: number | null;
-    isCurrentEmployee: boolean | null;
-    reviewDate: string | null;
-  }>;
+  reviews: ScrapedReview[];
+  userReviews: UserReview[];
   salaries: Array<{
     role: string;
     minSalary: number;
@@ -53,6 +74,14 @@ interface CompanyData {
     currency: string;
     experience: string | null;
     sampleCount: number | null;
+  }>;
+  userSalaries: Array<{
+    id: string;
+    role: string;
+    location: string | null;
+    baseSalary: number;
+    totalComp: number | null;
+    experience: string | null;
   }>;
   benefits: Array<{
     category: string;
@@ -66,6 +95,24 @@ interface CompanyData {
     topPositiveThemes: string[];
     topNegativeThemes: string[];
   } | null;
+}
+
+// Unified review type for display
+interface UnifiedReview {
+  id: string;
+  title: string | null;
+  role: string | null;
+  location: string | null;
+  rating: number | null;
+  pros: string;
+  cons: string;
+  sentiment: string | null;
+  sentimentScore: number | null;
+  isCurrentEmployee: boolean | null;
+  reviewDate: string | null;
+  source: "scraped" | "community";
+  upvotes?: number;
+  authorName?: string | null;
 }
 
 function CompanyDetailSkeleton() {
@@ -83,6 +130,50 @@ function CompanyDetailSkeleton() {
   );
 }
 
+function UpvoteButton({ reviewId, initialUpvotes }: { reviewId: string; initialUpvotes: number }) {
+  const { user } = useAuth();
+  const [upvotes, setUpvotes] = useState(initialUpvotes);
+  const [voted, setVoted] = useState(false);
+
+  const handleUpvote = async () => {
+    if (!user || voted) return;
+    const res = await fetch("/api/reviews/upvote", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ reviewId }),
+    });
+    if (res.ok) {
+      const data = await res.json();
+      setUpvotes(data.upvotes);
+      setVoted(true);
+    } else if (res.status === 409) {
+      // Already upvoted (e.g. from another tab)
+      setVoted(true);
+    }
+  };
+
+  return (
+    <button
+      onClick={handleUpvote}
+      disabled={!user || voted}
+      className={`flex items-center gap-1 text-xs px-2 py-1 rounded-md transition-colors ${
+        voted
+          ? "bg-blue-100 text-blue-600"
+          : user
+          ? "hover:bg-gray-100 text-gray-500"
+          : "text-gray-300 cursor-not-allowed"
+      }`}
+      title={!user ? "Sign in to upvote" : voted ? "You upvoted this" : "Upvote"}
+      aria-label={`Upvote review${upvotes > 0 ? `, ${upvotes} upvotes` : ""}`}
+    >
+      <svg className="w-3.5 h-3.5" fill={voted ? "currentColor" : "none"} stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
+      </svg>
+      {upvotes > 0 && <span>{upvotes}</span>}
+    </button>
+  );
+}
+
 export default function CompanyDetailPage() {
   const params = useParams();
   const slug = params.slug as string;
@@ -90,36 +181,70 @@ export default function CompanyDetailPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [reviewFilter, setReviewFilter] = useState<"all" | "positive" | "negative" | "neutral">("all");
+  const [sourceFilter, setSourceFilter] = useState<"all" | "scraped" | "community">("all");
   const [showAllReviews, setShowAllReviews] = useState(false);
+  const [showReviewForm, setShowReviewForm] = useState(false);
+  const [showSalaryForm, setShowSalaryForm] = useState(false);
   const { addCompany, removeCompany, isSelected } = useCompare();
   const inCompare = company ? isSelected(company.slug) : false;
 
-  useEffect(() => {
-    async function fetchCompany() {
-      try {
-        const res = await fetch(`/api/company/${slug}`);
-        if (res.status === 404) {
-          setError("Company not found");
-          return;
-        }
-        if (!res.ok) throw new Error("Failed to fetch");
-        const data = await res.json();
-        setCompany(data);
-      } catch {
-        setError("Failed to load company data");
-      } finally {
-        setLoading(false);
+  const fetchCompany = useCallback(async () => {
+    try {
+      const res = await fetch(`/api/company/${slug}`);
+      if (res.status === 404) {
+        setError("Company not found");
+        return;
       }
+      if (!res.ok) throw new Error("Failed to fetch");
+      const data = await res.json();
+      setCompany(data);
+    } catch {
+      setError("Failed to load company data");
+    } finally {
+      setLoading(false);
     }
-    fetchCompany();
   }, [slug]);
 
-  const filteredReviews = company?.reviews.filter((r) => {
+  useEffect(() => {
+    fetchCompany();
+  }, [fetchCompany]);
+
+  // Merge scraped + community reviews into unified list
+  const unifiedReviews: UnifiedReview[] = [];
+  if (company) {
+    for (const r of company.reviews) {
+      unifiedReviews.push({ ...r, source: "scraped" });
+    }
+    for (const r of company.userReviews) {
+      unifiedReviews.push({
+        id: r.id,
+        title: r.title,
+        role: r.role,
+        location: r.location,
+        rating: r.overallRating,
+        pros: r.pros,
+        cons: r.cons,
+        sentiment: null,
+        sentimentScore: null,
+        isCurrentEmployee: r.isCurrentEmployee,
+        reviewDate: r.createdAt,
+        source: "community",
+        upvotes: r.upvotes,
+        authorName: r.isAnonymous ? null : r.user.displayName,
+      });
+    }
+  }
+
+  const filteredReviews = unifiedReviews.filter((r) => {
+    if (sourceFilter !== "all" && r.source !== sourceFilter) return false;
     if (reviewFilter === "all") return true;
     return r.sentiment === reviewFilter;
-  }) ?? [];
+  });
 
   const displayedReviews = showAllReviews ? filteredReviews : filteredReviews.slice(0, 10);
+  const communityCount = company?.userReviews.length ?? 0;
+  const scrapedCount = company?.reviews.length ?? 0;
+  const totalReviews = communityCount + scrapedCount;
 
   return (
     <DashboardShell role="job-seeker">
@@ -195,7 +320,6 @@ export default function CompanyDetailPage() {
 
           {/* Rating + Radar Row */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {/* Overall Rating */}
             <Card>
               <CardHeader className="pb-2">
                 <CardTitle className="text-sm">Overall Rating</CardTitle>
@@ -223,7 +347,6 @@ export default function CompanyDetailPage() {
               </CardContent>
             </Card>
 
-            {/* Radar Chart */}
             <Card className="md:col-span-2">
               <CardHeader className="pb-2">
                 <CardTitle className="text-sm">Rating Breakdown</CardTitle>
@@ -244,16 +367,19 @@ export default function CompanyDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
             <Card>
               <CardContent className="pt-4 pb-3 text-center">
-                <div className="text-2xl font-bold text-blue-600">
-                  {company.reviews.length}
-                </div>
+                <div className="text-2xl font-bold text-blue-600">{totalReviews}</div>
                 <div className="text-xs text-muted-foreground">Reviews</div>
+                {communityCount > 0 && (
+                  <div className="text-xs text-muted-foreground mt-0.5">
+                    {communityCount} community
+                  </div>
+                )}
               </CardContent>
             </Card>
             <Card>
               <CardContent className="pt-4 pb-3 text-center">
                 <div className="text-2xl font-bold text-purple-600">
-                  {company.salaries.length}
+                  {company.salaries.length + (company.userSalaries?.length ?? 0)}
                 </div>
                 <div className="text-xs text-muted-foreground">Salary Entries</div>
               </CardContent>
@@ -267,6 +393,48 @@ export default function CompanyDetailPage() {
               </CardContent>
             </Card>
           </div>
+
+          {/* Contribute Section */}
+          <div className="flex flex-wrap gap-3">
+            <Button
+              onClick={() => { setShowReviewForm(!showReviewForm); setShowSalaryForm(false); }}
+              variant={showReviewForm ? "default" : "outline"}
+              className={showReviewForm ? "bg-blue-600 hover:bg-blue-700" : ""}
+            >
+              Write a Review
+            </Button>
+            <Button
+              onClick={() => { setShowSalaryForm(!showSalaryForm); setShowReviewForm(false); }}
+              variant={showSalaryForm ? "default" : "outline"}
+              className={showSalaryForm ? "bg-blue-600 hover:bg-blue-700" : ""}
+            >
+              Share Salary
+            </Button>
+          </div>
+
+          {showReviewForm && (
+            <ReviewForm
+              slug={company.slug}
+              companyName={company.name}
+              onSuccess={() => {
+                setShowReviewForm(false);
+                fetchCompany();
+              }}
+              onCancel={() => setShowReviewForm(false)}
+            />
+          )}
+
+          {showSalaryForm && (
+            <SalaryForm
+              slug={company.slug}
+              companyName={company.name}
+              onSuccess={() => {
+                setShowSalaryForm(false);
+                fetchCompany();
+              }}
+              onCancel={() => setShowSalaryForm(false)}
+            />
+          )}
 
           {/* Salary Chart */}
           <Card>
@@ -293,9 +461,29 @@ export default function CompanyDetailPage() {
             <CardHeader className="pb-2">
               <div className="flex flex-wrap items-center justify-between gap-2">
                 <CardTitle className="text-sm">
-                  Employee Reviews ({filteredReviews.length})
+                  Reviews ({filteredReviews.length})
                 </CardTitle>
                 <div className="flex flex-wrap gap-1">
+                  {/* Source filter */}
+                  {communityCount > 0 && (
+                    <div className="flex gap-1 sm:border-r sm:pr-2 sm:mr-1">
+                      {(["all", "scraped", "community"] as const).map((f) => (
+                        <Button
+                          key={f}
+                          variant={sourceFilter === f ? "default" : "ghost"}
+                          size="sm"
+                          className="text-xs h-8 px-2.5"
+                          onClick={() => {
+                            setSourceFilter(f);
+                            setShowAllReviews(false);
+                          }}
+                        >
+                          {f === "all" ? "All Sources" : f === "scraped" ? "Data" : "Community"}
+                        </Button>
+                      ))}
+                    </div>
+                  )}
+                  {/* Sentiment filter */}
                   {(["all", "positive", "negative", "neutral"] as const).map((f) => (
                     <Button
                       key={f}
@@ -328,7 +516,24 @@ export default function CompanyDetailPage() {
               ) : (
                 <>
                   {displayedReviews.map((review) => (
-                    <ReviewCard key={review.id} review={review} />
+                    <div key={review.id} className="relative">
+                      {review.source === "community" && (
+                        <div className="flex items-center justify-between mb-1">
+                          <div className="flex items-center gap-2">
+                            <Badge className="bg-purple-100 text-purple-700 text-xs border-0">
+                              Community
+                            </Badge>
+                            {review.authorName && (
+                              <span className="text-xs text-muted-foreground">
+                                by {review.authorName}
+                              </span>
+                            )}
+                          </div>
+                          <UpvoteButton reviewId={review.id} initialUpvotes={review.upvotes ?? 0} />
+                        </div>
+                      )}
+                      <ReviewCard review={review} />
+                    </div>
                   ))}
                   {!showAllReviews && filteredReviews.length > 10 && (
                     <div className="text-center pt-2">

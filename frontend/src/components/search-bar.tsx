@@ -85,7 +85,7 @@ export function SearchBar({ basePath, placeholder, initialQuery = "" }: SearchBa
       )}
 
       {isOpen && results.length > 0 && (
-        <div className="absolute top-full mt-1 w-full bg-white border rounded-lg shadow-lg z-50 overflow-hidden">
+        <div className="absolute top-full mt-1 w-full bg-white border rounded-lg shadow-lg z-[60] overflow-hidden">
           {results.map((company) => (
             <button
               key={company.slug}

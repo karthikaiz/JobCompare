@@ -184,6 +184,9 @@ export default function RegistryPage() {
                 }`}
               >
                 {message.text}
+                {message.type === "error" && (
+                  <button onClick={fetchCompanies} className="ml-2 underline font-medium">Retry</button>
+                )}
               </div>
             )}
           </CardContent>

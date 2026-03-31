@@ -1,7 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 
-const SYNC_API_KEY = process.env.SYNC_API_KEY || "jobcompare-dev-key";
+const SYNC_API_KEY = process.env.SYNC_API_KEY;
+if (!SYNC_API_KEY) {
+  console.warn("WARNING: SYNC_API_KEY not set — sync endpoint will reject all requests");
+}
 const MAX_REVIEWS = 500;
 const MAX_SALARIES = 100;
 const MAX_BENEFITS = 100;
@@ -10,6 +13,12 @@ const MAX_STRING_LENGTH = 10000;
 function truncate(s: string | undefined | null, max: number = MAX_STRING_LENGTH): string {
   if (!s) return "";
   return s.length > max ? s.slice(0, max) : s;
+}
+
+/** Clamp a rating to 0-5 range, return null if not a valid number */
+function clampRating(v: unknown): number | null {
+  if (v == null || typeof v !== "number" || isNaN(v)) return null;
+  return Math.round(Math.max(0, Math.min(5, v)) * 100) / 100;
 }
 
 interface ReviewInput {
@@ -119,12 +128,12 @@ export async function POST(request: NextRequest) {
         employeeCount: truncate(body.employeeCount, 100),
         founded: body.founded,
         website: truncate(body.website, 2000),
-        overallRating: body.overallRating,
-        workLifeBalance: body.workLifeBalance,
-        salaryBenefits: body.salaryBenefits,
-        jobSecurity: body.jobSecurity,
-        careerGrowth: body.careerGrowth,
-        companyCulture: body.companyCulture,
+        overallRating: clampRating(body.overallRating),
+        workLifeBalance: clampRating(body.workLifeBalance),
+        salaryBenefits: clampRating(body.salaryBenefits),
+        jobSecurity: clampRating(body.jobSecurity),
+        careerGrowth: clampRating(body.careerGrowth),
+        companyCulture: clampRating(body.companyCulture),
         source: truncate(body.source, 50) || "ambitionbox",
         lastScrapedAt: new Date(),
       },
@@ -136,12 +145,12 @@ export async function POST(request: NextRequest) {
         employeeCount: truncate(body.employeeCount, 100),
         founded: body.founded,
         website: truncate(body.website, 2000),
-        overallRating: body.overallRating,
-        workLifeBalance: body.workLifeBalance,
-        salaryBenefits: body.salaryBenefits,
-        jobSecurity: body.jobSecurity,
-        careerGrowth: body.careerGrowth,
-        companyCulture: body.companyCulture,
+        overallRating: clampRating(body.overallRating),
+        workLifeBalance: clampRating(body.workLifeBalance),
+        salaryBenefits: clampRating(body.salaryBenefits),
+        jobSecurity: clampRating(body.jobSecurity),
+        careerGrowth: clampRating(body.careerGrowth),
+        companyCulture: clampRating(body.companyCulture),
         source: truncate(body.source, 50) || "ambitionbox",
         lastScrapedAt: new Date(),
       },

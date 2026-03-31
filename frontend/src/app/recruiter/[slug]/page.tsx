@@ -379,8 +379,8 @@ export default function RecruiterCompanyPage() {
                       className="text-xs h-8 px-2.5 border rounded-md bg-white"
                     >
                       <option value="">All Roles</option>
-                      {roles.slice(0, 20).map((role) => (
-                        <option key={role} value={role}>{role}</option>
+                      {roles.map((role) => (
+                        <option key={role} value={role}>{role.length > 40 ? role.slice(0, 38) + "..." : role}</option>
                       ))}
                     </select>
                   )}

@@ -3,9 +3,12 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
+import { useAuth } from "@/context/auth-context";
+import { Button } from "@/components/ui/button";
 
 export function Navbar() {
   const pathname = usePathname();
+  const { user, loading, logout } = useAuth();
   const isJobSeeker = pathname.startsWith("/job-seeker");
   const isRecruiter = pathname.startsWith("/recruiter");
 
@@ -17,7 +20,7 @@ export function Navbar() {
             Job<span className="text-blue-600">Compare</span>
           </Link>
 
-          {/* Role switcher — visible on all screen sizes */}
+          {/* Role switcher */}
           <div className="flex items-center bg-gray-100 rounded-lg p-0.5">
             <Link
               href="/job-seeker"
@@ -44,10 +47,30 @@ export function Navbar() {
           </div>
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 sm:gap-3">
           <Link href="/admin/registry">
             <span className="text-xs text-gray-400 hover:text-gray-600 transition-colors">Admin</span>
           </Link>
+          {!loading && (
+            <>
+              {user ? (
+                <div className="flex items-center gap-2">
+                  <span className="text-xs sm:text-sm text-gray-600 hidden sm:inline">
+                    {user.displayName || user.email.split("@")[0]}
+                  </span>
+                  <Button variant="ghost" size="sm" onClick={logout} className="text-xs h-8">
+                    Logout
+                  </Button>
+                </div>
+              ) : (
+                <Link href="/login">
+                  <Button variant="outline" size="sm" className="text-xs h-8">
+                    Sign In
+                  </Button>
+                </Link>
+              )}
+            </>
+          )}
         </div>
       </div>
     </nav>

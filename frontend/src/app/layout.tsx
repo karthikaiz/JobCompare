@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import { CompareProvider } from "@/context/compare-context";
+import { AuthProvider } from "@/context/auth-context";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -22,9 +23,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} min-h-screen bg-background font-sans antialiased`}>
-        <CompareProvider>
-          {children}
-        </CompareProvider>
+        <AuthProvider>
+          <CompareProvider>
+            {children}
+          </CompareProvider>
+        </AuthProvider>
       </body>
     </html>
   );

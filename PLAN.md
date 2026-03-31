@@ -206,20 +206,47 @@ Tasks:
 
 ---
 
-## Story 8: User Reviews & Community Features
+## Story 8: User Reviews & Community Features ✅ DONE
 **As a job seeker, I want to submit my own review and salary data.**
 
-Tasks:
-- User auth (NextAuth.js - email/password)
-- ReviewForm - multi-step: ratings → pros/cons → salary (optional)
-- SalarySubmitForm with privacy-preserving range buckets
-- UserReviewCard with "Community Review" badge
-- Upvote system, merge with scraped reviews
-- Filter by source (AmbitionBox / Community / All)
+- [x] JWT auth system (jose + bcryptjs) — register, login, logout, /api/auth/me
+- [x] AuthProvider context for client-side auth state
+- [x] Login & Register pages at /login and /register
+- [x] Navbar shows Sign In / user name + Logout across all pages
+- [x] Multi-step ReviewForm (3 steps: About You → Ratings → Pros/Cons)
+- [x] POST /api/reviews with validation, rate limiting (1/company/24h), string truncation
+- [x] SalarySubmitForm with experience range picker
+- [x] POST /api/salaries with validation, rate limiting (1/company/week)
+- [x] Community reviews merged with scraped reviews in company detail
+- [x] "Community" badge on user-submitted reviews
+- [x] Upvote system (POST /api/reviews/upvote) with upvote button UI
+- [x] Source filter: All Sources / Data / Community
+- [x] Company detail API updated to include userReviews and userSalaries
 
 **Test**:
 - Register → Login → Submit review → Appears with "Community" badge
 - Upvote a review → Count increments
+- Filter by source → Only matching reviews shown
+
+---
+
+## Story 8B: Firebase Google Sign-In ✅ DONE
+**As a user, I want to sign in with my Google account for a faster, passwordless login.**
+
+- [x] Firebase project created (jobcompare-f5b98), Google sign-in enabled
+- [x] Firebase config stored in `.env`
+- [x] `firebase` SDK installed, `src/lib/firebase.ts` with app init + Google provider
+- [x] "Continue with Google" button on `/login` and `/register` pages (with Google logo SVG)
+- [x] `POST /api/auth/firebase` — Verifies Firebase ID token via Google public keys + jose, auto-creates User in DB, issues JWT session cookie
+- [x] AuthProvider updated with `loginWithGoogle()` method
+- [x] Email linking: if Google email matches existing email/password user, same account is used
+- [x] Firebase sign-out on logout
+
+**Test**:
+- Click "Continue with Google" → Google popup → Redirected to /job-seeker as logged-in user
+- First-time Google user → User auto-created in DB
+- Existing email/password user signs in with same email via Google → Accounts linked
+- Submit review after Google sign-in → Works with Community badge
 
 ---
 
