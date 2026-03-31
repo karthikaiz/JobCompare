@@ -1,0 +1,23 @@
+{
+  "infosys": {
+    "status": "success",
+    "scraped_at": "2026-03-30T04:24:32.126007+00:00",
+    "reviews": 60,
+    "salaries": 8,
+    "benefits": 24
+  },
+  "flipkart": {
+    "status": "success",
+    "scraped_at": "2026-03-30T04:07:39.489348+00:00",
+    "reviews": 60,
+    "salaries": 8,
+    "benefits": 27
+  },
+  "razorpay": {
+    "status": "success",
+    "scraped_at": "2026-03-30T04:11:15.902112+00:00",
+    "reviews": 60,
+    "salaries": 8,
+    "benefits": 22
+  }
+}

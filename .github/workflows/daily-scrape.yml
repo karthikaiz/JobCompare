@@ -1,0 +1,106 @@
+name: Daily Scraper
+
+on:
+  schedule:
+    # 2:00 AM IST = 8:30 PM UTC (previous day)
+    # Using 20:30 UTC to match 2:00 AM IST
+    - cron: '30 20 * * *'
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      company:
+        description: 'Scrape a specific company (leave empty for all)'
+        required: false
+        default: ''
+      scrape_only:
+        description: 'Only scrape, skip pipeline sync'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: pip install -r requirements.txt
+
+      - name: Run scheduler (all companies)
+        if: ${{ github.event.inputs.company == '' || github.event.inputs.company == null }}
+        working-directory: scraper
+        run: |
+          if [ "${{ github.event.inputs.scrape_only }}" = "true" ]; then
+            python scheduler.py --scrape-only
+          else
+            python scheduler.py --dry-run
+          fi
+
+      - name: Run scheduler (single company)
+        if: ${{ github.event.inputs.company != '' && github.event.inputs.company != null }}
+        working-directory: scraper
+        run: |
+          if [ "${{ github.event.inputs.scrape_only }}" = "true" ]; then
+            python scheduler.py --company "${{ github.event.inputs.company }}" --scrape-only
+          else
+            python scheduler.py --company "${{ github.event.inputs.company }}" --dry-run
+          fi
+
+      - name: Show run summary
+        if: always()
+        working-directory: scraper
+        run: |
+          echo "## Scrape Summary" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/last_run_summary.json ]; then
+            echo '```json' >> $GITHUB_STEP_SUMMARY
+            cat data/last_run_summary.json >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Scrape Status" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/scrape_status.json ]; then
+            echo '```json' >> $GITHUB_STEP_SUMMARY
+            cat data/scrape_status.json >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Commit scraped data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scraper/data/scraped/ scraper/data/scrape_status.json scraper/data/last_run_summary.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            COMPANY_COUNT=$(ls -1 scraper/data/scraped/*.json 2>/dev/null | wc -l | tr -d ' ')
+            git commit -m "chore: daily scrape update (${COMPANY_COUNT} companies)
+
+            Automated by GitHub Actions
+            Run: ${{ github.run_id }}"
+            git push
+          fi
+
+      - name: Upload scrape log as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-data-${{ github.run_number }}
+          path: |
+            scraper/data/scrape_status.json
+            scraper/data/last_run_summary.json
+          retention-days: 30

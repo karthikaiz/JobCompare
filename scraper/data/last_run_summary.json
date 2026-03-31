@@ -1,0 +1,11 @@
+{
+  "total": 3,
+  "succeeded": 3,
+  "failed": 0,
+  "total_reviews": 180,
+  "total_salaries": 24,
+  "failed_companies": [],
+  "stale_companies": [],
+  "completed_at": "2026-03-30T04:24:32.166099+00:00",
+  "elapsed_seconds": 61.7
+}

@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from routers import ambitionbox, glassdoor_mock, sentiment
+from routers import ambitionbox, glassdoor_mock, sentiment, registry
 
 app = FastAPI(
     title="JobCompare Scraper Service",
@@ -11,7 +11,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["http://localhost:3000", "http://localhost:3001"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -20,6 +20,7 @@ app.add_middleware(
 app.include_router(ambitionbox.router, prefix="/scrape", tags=["AmbitionBox"])
 app.include_router(glassdoor_mock.router, prefix="/mock", tags=["Glassdoor Mock"])
 app.include_router(sentiment.router, prefix="/analyze", tags=["Sentiment Analysis"])
+app.include_router(registry.router, tags=["Company Registry"])
 
 
 @app.get("/health")

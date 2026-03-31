@@ -1,0 +1,265 @@
+{
+  "description": "Master registry of companies to scrape from AmbitionBox. Slug must match AmbitionBox URL pattern.",
+  "companies": [
+    {
+      "name": "Infosys",
+      "slug": "infosys",
+      "industry": "IT Services"
+    },
+    {
+      "name": "TCS",
+      "slug": "tata-consultancy-services",
+      "industry": "IT Services"
+    },
+    {
+      "name": "Wipro",
+      "slug": "wipro",
+      "industry": "IT Services"
+    },
+    {
+      "name": "HCL Technologies",
+      "slug": "hcl-technologies",
+      "industry": "IT Services"
+    },
+    {
+      "name": "Tech Mahindra",
+      "slug": "tech-mahindra",
+      "industry": "IT Services"
+    },
+    {
+      "name": "Cognizant",
+      "slug": "cognizant-technology-solutions",
+      "industry": "IT Services"
+    },
+    {
+      "name": "LTIMindtree",
+      "slug": "ltimindtree",
+      "industry": "IT Services"
+    },
+    {
+      "name": "Mphasis",
+      "slug": "mphasis",
+      "industry": "IT Services"
+    },
+    {
+      "name": "Razorpay",
+      "slug": "razorpay",
+      "industry": "Fintech"
+    },
+    {
+      "name": "Paytm",
+      "slug": "paytm",
+      "industry": "Fintech"
+    },
+    {
+      "name": "PhonePe",
+      "slug": "phonepe",
+      "industry": "Fintech"
+    },
+    {
+      "name": "CRED",
+      "slug": "cred",
+      "industry": "Fintech"
+    },
+    {
+      "name": "BharatPe",
+      "slug": "bharatpe",
+      "industry": "Fintech"
+    },
+    {
+      "name": "PolicyBazaar",
+      "slug": "policybazaar",
+      "industry": "Fintech"
+    },
+    {
+      "name": "Zerodha",
+      "slug": "zerodha",
+      "industry": "Fintech"
+    },
+    {
+      "name": "Groww",
+      "slug": "groww",
+      "industry": "Fintech"
+    },
+    {
+      "name": "Flipkart",
+      "slug": "flipkart",
+      "industry": "E-Commerce"
+    },
+    {
+      "name": "Amazon India",
+      "slug": "amazon",
+      "industry": "E-Commerce"
+    },
+    {
+      "name": "Myntra",
+      "slug": "myntra",
+      "industry": "E-Commerce"
+    },
+    {
+      "name": "Meesho",
+      "slug": "meesho",
+      "industry": "E-Commerce"
+    },
+    {
+      "name": "Nykaa",
+      "slug": "nykaa",
+      "industry": "E-Commerce"
+    },
+    {
+      "name": "Zomato",
+      "slug": "zomato",
+      "industry": "Food & Delivery"
+    },
+    {
+      "name": "Swiggy",
+      "slug": "swiggy",
+      "industry": "Food & Delivery"
+    },
+    {
+      "name": "HDFC Bank",
+      "slug": "hdfc-bank",
+      "industry": "Banking"
+    },
+    {
+      "name": "ICICI Bank",
+      "slug": "icici-bank",
+      "industry": "Banking"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "slug": "kotak-mahindra-bank",
+      "industry": "Banking"
+    },
+    {
+      "name": "Axis Bank",
+      "slug": "axis-bank",
+      "industry": "Banking"
+    },
+    {
+      "name": "State Bank of India",
+      "slug": "state-bank-of-india-sbi",
+      "industry": "Banking"
+    },
+    {
+      "name": "Reliance Industries",
+      "slug": "reliance-industries",
+      "industry": "Conglomerate"
+    },
+    {
+      "name": "Tata Group",
+      "slug": "tata-group",
+      "industry": "Conglomerate"
+    },
+    {
+      "name": "Adani Group",
+      "slug": "adani-group",
+      "industry": "Conglomerate"
+    },
+    {
+      "name": "Mahindra & Mahindra",
+      "slug": "mahindra-and-mahindra",
+      "industry": "Conglomerate"
+    },
+    {
+      "name": "Zoho",
+      "slug": "zoho",
+      "industry": "SaaS"
+    },
+    {
+      "name": "Freshworks",
+      "slug": "freshworks",
+      "industry": "SaaS"
+    },
+    {
+      "name": "Postman",
+      "slug": "postman",
+      "industry": "SaaS"
+    },
+    {
+      "name": "BrowserStack",
+      "slug": "browserstack",
+      "industry": "SaaS"
+    },
+    {
+      "name": "Chargebee",
+      "slug": "chargebee",
+      "industry": "SaaS"
+    },
+    {
+      "name": "Ola",
+      "slug": "ola",
+      "industry": "Mobility"
+    },
+    {
+      "name": "Uber India",
+      "slug": "uber",
+      "industry": "Mobility"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "slug": "maruti-suzuki-india",
+      "industry": "Automotive"
+    },
+    {
+      "name": "Tata Motors",
+      "slug": "tata-motors",
+      "industry": "Automotive"
+    },
+    {
+      "name": "Sun Pharma",
+      "slug": "sun-pharmaceutical-industries",
+      "industry": "Pharma"
+    },
+    {
+      "name": "Dr. Reddy's",
+      "slug": "dr-reddys-laboratories",
+      "industry": "Pharma"
+    },
+    {
+      "name": "Cipla",
+      "slug": "cipla",
+      "industry": "Pharma"
+    },
+    {
+      "name": "Jio",
+      "slug": "reliance-jio",
+      "industry": "Telecom"
+    },
+    {
+      "name": "Airtel",
+      "slug": "bharti-airtel",
+      "industry": "Telecom"
+    },
+    {
+      "name": "Dream11",
+      "slug": "dream11",
+      "industry": "Gaming"
+    },
+    {
+      "name": "Google India",
+      "slug": "google",
+      "industry": "Tech MNC"
+    },
+    {
+      "name": "Microsoft India",
+      "slug": "microsoft-corporation",
+      "industry": "Tech MNC"
+    },
+    {
+      "name": "Deloitte India",
+      "slug": "deloitte",
+      "industry": "Consulting"
+    },
+    {
+      "name": "Maersk",
+      "slug": "maersk",
+      "industry": "Logistics"
+    },
+    {
+      "name": "Motorola",
+      "slug": "motorola-solutions",
+      "industry": "Tech MNC"
+    }
+  ]
+}

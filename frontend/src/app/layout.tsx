@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import { CompareProvider } from "@/context/compare-context";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -21,7 +22,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} min-h-screen bg-background font-sans antialiased`}>
-        {children}
+        <CompareProvider>
+          {children}
+        </CompareProvider>
       </body>
     </html>
   );
