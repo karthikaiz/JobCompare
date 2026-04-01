@@ -38,14 +38,16 @@ NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID="G-KEPV6K2K15"
 # ============================================================
 # GITHUB ACTIONS SECRETS (Settings → Secrets → Actions)
 # ============================================================
-# NEXTJS_SYNC_URL = https://YOUR-APP.vercel.app/api/sync
-# SYNC_API_KEY    = (same value as SYNC_API_KEY above)
+# NEXTJS_SYNC_URL = https://job-compare-omega.vercel.app/api/sync
+# SYNC_API_KEY = (same value as SYNC_API_KEY above)
+# SCRAPE_WEBHOOK_TOKEN = (generate: openssl rand -hex 32)
 
 
 # ============================================================
-# RENDER ENV VARS (Scraper service → Environment)
+# RENDER ENV VARS (Scraper web service → Environment)
 # ============================================================
-# VERCEL_PRODUCTION_URL = YOUR-APP.vercel.app
+VERCEL_PRODUCTION_URL="job-compare-omega.vercel.app"
+SCRAPE_WEBHOOK_TOKEN="GENERATE_A_RANDOM_STRING_HERE"
 
 
 # ============================================================

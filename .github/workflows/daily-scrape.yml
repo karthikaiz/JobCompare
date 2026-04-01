@@ -27,100 +27,45 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-          cache-dependency-path: scraper/requirements.txt
-
-      - name: Install dependencies
-        working-directory: scraper
-        run: pip install -r requirements.txt
-
-      - name: Run scheduler (all companies)
+      - name: Trigger Render scraper webhook (all companies)
         if: ${{ github.event.inputs.company == '' || github.event.inputs.company == null }}
-        working-directory: scraper
-        env:
-          # Longer delays for datacenter IPs to avoid bot detection
-          AMBITIONBOX_DELAY_MIN: "6.0"
-          AMBITIONBOX_DELAY_MAX: "12.0"
-          # Sync URL — set NEXTJS_SYNC_URL secret in repo settings to enable DB sync
-          # If not set, pipeline runs in dry-run mode (sentiment analysis only, no DB sync)
-          NEXTJS_SYNC_URL: ${{ secrets.NEXTJS_SYNC_URL }}
-          SYNC_API_KEY: ${{ secrets.SYNC_API_KEY }}
         run: |
-          if [ "${{ github.event.inputs.scrape_only }}" = "true" ]; then
-            python scheduler.py --scrape-only
-          elif [ -z "$NEXTJS_SYNC_URL" ]; then
-            echo "NEXTJS_SYNC_URL not set — running pipeline in dry-run mode"
-            python scheduler.py --dry-run
+          echo "🚀 Triggering Render scraper webhook..."
+
+          RESPONSE=$(curl -s -X POST \
+            https://jobcompare-scraper.onrender.com/trigger-scrape \
+            -H "Content-Type: application/json" \
+            -d "{\"token\": \"${{ secrets.SCRAPE_WEBHOOK_TOKEN }}\"}" \
+            -w "\n%{http_code}")
+
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n 1)
+          BODY=$(echo "$RESPONSE" | head -n -1)
+
+          echo "Response: $BODY"
+          echo "HTTP Status: $HTTP_CODE"
+
+          if [ "$HTTP_CODE" = "200" ]; then
+            echo "✓ Scraper triggered successfully"
           else
-            python scheduler.py
+            echo "❌ Failed to trigger scraper"
+            exit 1
           fi
 
-      - name: Run scheduler (single company)
+      - name: Trigger Render scraper webhook (single company)
         if: ${{ github.event.inputs.company != '' && github.event.inputs.company != null }}
-        working-directory: scraper
-        env:
-          AMBITIONBOX_DELAY_MIN: "6.0"
-          AMBITIONBOX_DELAY_MAX: "12.0"
-          NEXTJS_SYNC_URL: ${{ secrets.NEXTJS_SYNC_URL }}
-          SYNC_API_KEY: ${{ secrets.SYNC_API_KEY }}
         run: |
-          if [ "${{ github.event.inputs.scrape_only }}" = "true" ]; then
-            python scheduler.py --company "${{ github.event.inputs.company }}" --scrape-only
-          elif [ -z "$NEXTJS_SYNC_URL" ]; then
-            echo "NEXTJS_SYNC_URL not set — running pipeline in dry-run mode"
-            python scheduler.py --company "${{ github.event.inputs.company }}" --dry-run
-          else
-            python scheduler.py --company "${{ github.event.inputs.company }}"
-          fi
+          echo "⚠ Single company scraping not supported via webhook"
+          echo "Please use manual trigger on Render dashboard or GitHub Actions UI"
+          exit 0
 
-      - name: Show run summary
+      - name: Log webhook trigger
         if: always()
-        working-directory: scraper
         run: |
-          echo "## Scrape Summary" >> $GITHUB_STEP_SUMMARY
-          if [ -f data/last_run_summary.json ]; then
-            echo '```json' >> $GITHUB_STEP_SUMMARY
-            cat data/last_run_summary.json >> $GITHUB_STEP_SUMMARY
-            echo '```' >> $GITHUB_STEP_SUMMARY
-          fi
+          echo "## Scraper Webhook Triggered" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### Scrape Status" >> $GITHUB_STEP_SUMMARY
-          if [ -f data/scrape_status.json ]; then
-            echo '```json' >> $GITHUB_STEP_SUMMARY
-            cat data/scrape_status.json >> $GITHUB_STEP_SUMMARY
-            echo '```' >> $GITHUB_STEP_SUMMARY
-          fi
-
-      - name: Commit scraped data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN_PAT }}@github.com/karthikaiz/JobCompare.git
-
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            COMPANY_COUNT=$(ls -1 scraper/data/scraped/*.json 2>/dev/null | wc -l | tr -d ' ')
-            git commit -m "chore: daily scrape update (${COMPANY_COUNT} companies)
-
-            Automated by GitHub Actions
-            Run: ${{ github.run_id }}"
-            git push
-          fi
-
-      - name: Upload scrape log as artifact
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: scrape-data-${{ github.run_number }}
-          path: |
-            scraper/data/scrape_status.json
-            scraper/data/last_run_summary.json
-          retention-days: 30
+          echo "The scraper is running on **Render** (not GitHub Actions)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "📊 Monitor progress:" >> $GITHUB_STEP_SUMMARY
+          echo "- Check Render logs: https://dashboard.render.com" >> $GITHUB_STEP_SUMMARY
+          echo "- View scraped data: https://github.com/karthikaiz/JobCompare/tree/main/scraper/data/scraped" >> $GITHUB_STEP_SUMMARY
