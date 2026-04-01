@@ -59,7 +59,7 @@ async function verifyFirebaseToken(idToken: string): Promise<FirebaseTokenPayloa
 export async function POST(request: NextRequest) {
   try {
     const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
-    const limited = checkRateLimit(`firebase:${ip}`, 20, 15 * 60 * 1000);
+    const limited = await checkRateLimit(`firebase:${ip}`, 20, 15 * 60 * 1000);
     if (limited) {
       return NextResponse.json(
         { error: "Too many attempts. Please try again later." },

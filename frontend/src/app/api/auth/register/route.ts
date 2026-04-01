@@ -10,7 +10,7 @@ const REGISTER_WINDOW = 60 * 60 * 1000;
 export async function POST(request: NextRequest) {
   try {
     const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
-    const limited = checkRateLimit(`register:${ip}`, REGISTER_LIMIT, REGISTER_WINDOW);
+    const limited = await checkRateLimit(`register:${ip}`, REGISTER_LIMIT, REGISTER_WINDOW);
     if (limited) {
       return NextResponse.json(
         { error: "Too many registration attempts. Please try again later." },

@@ -48,11 +48,18 @@ jobs:
           # Longer delays for datacenter IPs to avoid bot detection
           AMBITIONBOX_DELAY_MIN: "6.0"
           AMBITIONBOX_DELAY_MAX: "12.0"
+          # Sync URL — set NEXTJS_SYNC_URL secret in repo settings to enable DB sync
+          # If not set, pipeline runs in dry-run mode (sentiment analysis only, no DB sync)
+          NEXTJS_SYNC_URL: ${{ secrets.NEXTJS_SYNC_URL }}
+          SYNC_API_KEY: ${{ secrets.SYNC_API_KEY }}
         run: |
           if [ "${{ github.event.inputs.scrape_only }}" = "true" ]; then
             python scheduler.py --scrape-only
-          else
+          elif [ -z "$NEXTJS_SYNC_URL" ]; then
+            echo "NEXTJS_SYNC_URL not set — running pipeline in dry-run mode"
             python scheduler.py --dry-run
+          else
+            python scheduler.py
           fi
 
       - name: Run scheduler (single company)
@@ -61,11 +68,16 @@ jobs:
         env:
           AMBITIONBOX_DELAY_MIN: "6.0"
           AMBITIONBOX_DELAY_MAX: "12.0"
+          NEXTJS_SYNC_URL: ${{ secrets.NEXTJS_SYNC_URL }}
+          SYNC_API_KEY: ${{ secrets.SYNC_API_KEY }}
         run: |
           if [ "${{ github.event.inputs.scrape_only }}" = "true" ]; then
             python scheduler.py --company "${{ github.event.inputs.company }}" --scrape-only
-          else
+          elif [ -z "$NEXTJS_SYNC_URL" ]; then
+            echo "NEXTJS_SYNC_URL not set — running pipeline in dry-run mode"
             python scheduler.py --company "${{ github.event.inputs.company }}" --dry-run
+          else
+            python scheduler.py --company "${{ github.event.inputs.company }}"
           fi
 
       - name: Show run summary

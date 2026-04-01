@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
-const SCRAPER_URL = process.env.NEXT_PUBLIC_SCRAPER_URL || "http://localhost:8000";
+const SCRAPER_URL = process.env.NEXT_PUBLIC_SCRAPER_URL ?? "";
 
 interface Company {
   name: string;

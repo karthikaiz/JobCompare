@@ -1,4 +1,7 @@
-const SCRAPER_URL = process.env.SCRAPER_SERVICE_URL || "http://localhost:8000";
+const SCRAPER_URL = process.env.SCRAPER_SERVICE_URL;
+if (!SCRAPER_URL) {
+  console.warn("WARNING: SCRAPER_SERVICE_URL not set");
+}
 
 interface ScraperCompanyData {
   slug: string;

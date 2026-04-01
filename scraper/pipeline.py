@@ -25,7 +25,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 SCRAPED_DIR = Path(__file__).parent / "data" / "scraped"
 NEXTJS_SYNC_URL = os.getenv("NEXTJS_SYNC_URL", "http://localhost:3000/api/sync")
-SYNC_API_KEY = os.getenv("SYNC_API_KEY", "jobcompare-dev-key")
+SYNC_API_KEY = os.getenv("SYNC_API_KEY", "")
 
 # Theme keywords to detect in review text
 THEME_KEYWORDS = {

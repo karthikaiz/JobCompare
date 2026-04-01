@@ -259,29 +259,36 @@ Prerequisites (manual):
 - [ ] Add Vercel production URL to Firebase Auth authorized domains
 
 Tasks:
-- **Database migration (SQLite → PostgreSQL)**
-  - Change Prisma provider from `sqlite` to `postgresql`
-  - Update `DATABASE_URL` to Neon connection string
-  - Run `prisma db push` to create tables on Neon
-  - Run seed script to populate initial data
-  - Test all API routes against PostgreSQL
-- **Rate limiter migration (in-memory → DB-based)**
-  - Add `RateLimit` model to Prisma schema (key, count, expiresAt)
-  - Rewrite `src/lib/rate-limit.ts` to use Prisma queries instead of Map
-  - Works across serverless invocations without Redis
-- **Environment variable cleanup**
-  - Remove all hardcoded localhost fallbacks from scraper-client.ts, refresh route, admin page
-  - Fix internal API call in `refresh/[slug]` to use relative URL or `VERCEL_URL`
-  - Configure all env vars in Vercel dashboard
-- **Scraper service deployment**
-  - Add `Dockerfile` or `render.yaml` to scraper/
-  - Update CORS origins to include Vercel production URL
-  - Deploy to Render free tier
-  - Update `SCRAPER_SERVICE_URL` env var to Render URL
-- **Vercel deployment**
-  - Set root directory to `frontend/` in Vercel project settings
-  - Configure build command and output settings
-  - Verify all pages work on production URL
+- **Database migration (SQLite → PostgreSQL)** ✅
+  - [x] Changed Prisma provider from `sqlite` to `postgresql`
+  - [x] Updated `.env` with Neon placeholder connection string
+  - [x] Created `.env.example` for the repo
+  - [ ] Create Neon account → get real connection string → update `.env`
+  - [ ] Run `prisma db push` to create tables on Neon
+  - [ ] Run seed script to populate initial data
+  - [ ] Test all API routes against PostgreSQL
+- **Rate limiter migration (in-memory → DB-based)** ✅
+  - [x] Added `RateLimit` model to Prisma schema (key, count, expiresAt, with index)
+  - [x] Rewrote `src/lib/rate-limit.ts` to use Prisma queries (async, upsert/increment)
+  - [x] Updated all call sites to `await checkRateLimit()` (login, register, firebase)
+  - [x] Fails open if DB unavailable (no downtime from rate limit failures)
+- **Environment variable cleanup** ✅
+  - [x] Removed hardcoded `localhost:8000` fallback from `scraper-client.ts`
+  - [x] Removed hardcoded `localhost:8000` fallback from `admin/registry/page.tsx`
+  - [x] Rewrote `refresh/[slug]` to use direct Prisma calls (no internal HTTP to `/api/sync`)
+  - [x] Removed hardcoded `SYNC_API_KEY` fallback from refresh route
+  - [x] Added `.env` to `.gitignore` (was only ignoring `.env*.local`)
+  - [ ] Configure all env vars in Vercel dashboard
+- **Scraper service deployment** ✅
+  - [x] Added `Dockerfile` to `scraper/`
+  - [x] Updated CORS origins to include Vercel production URL via `VERCEL_PRODUCTION_URL` env var
+  - [ ] Create Render account → deploy scraper as web service
+  - [ ] Update `SCRAPER_SERVICE_URL` env var to Render URL
+- **Vercel deployment** (manual)
+  - [ ] Set root directory to `frontend/` in Vercel project settings
+  - [ ] Configure build command and output settings
+  - [ ] Add Vercel production URL to Firebase Auth authorized domains
+  - [ ] Verify all pages work on production URL
 
 **Test**:
 - Visit production Vercel URL → Landing page loads

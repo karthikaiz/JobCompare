@@ -11,14 +11,14 @@ export async function GET(request: NextRequest) {
 
   if (q) {
     where.OR = [
-      { name: { contains: q } },
-      { slug: { contains: q.toLowerCase() } },
-      { industry: { contains: q } },
+      { name: { contains: q, mode: "insensitive" } },
+      { slug: { contains: q.toLowerCase(), mode: "insensitive" } },
+      { industry: { contains: q, mode: "insensitive" } },
     ];
   }
 
   if (industry) {
-    where.industry = { contains: industry };
+    where.industry = { contains: industry, mode: "insensitive" };
   }
 
   const [companies, total] = await Promise.all([

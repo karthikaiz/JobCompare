@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
+import { classifySentiment } from "@/lib/sentiment";
 
 const SYNC_API_KEY = process.env.SYNC_API_KEY;
 if (!SYNC_API_KEY) {
@@ -173,6 +174,15 @@ export async function POST(request: NextRequest) {
       const hash = reviewHash(review);
       if (existingHashes.has(hash)) continue;
 
+      // Use provided sentiment or classify from rating/text
+      let sentiment = review.sentiment;
+      let sentimentScore = review.sentimentScore;
+      if (!sentiment) {
+        const classified = classifySentiment(review.rating, review.pros, review.cons);
+        sentiment = classified.sentiment;
+        sentimentScore = classified.score;
+      }
+
       await prisma.review.create({
         data: {
           companyId: company.id,
@@ -182,8 +192,8 @@ export async function POST(request: NextRequest) {
           rating: review.rating,
           pros: truncate(review.pros),
           cons: truncate(review.cons),
-          sentiment: truncate(review.sentiment, 20),
-          sentimentScore: review.sentimentScore,
+          sentiment: truncate(sentiment, 20),
+          sentimentScore: sentimentScore,
           isCurrentEmployee: review.isCurrentEmployee,
           reviewDate: review.reviewDate ? new Date(review.reviewDate) : null,
         },

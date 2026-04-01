@@ -20,7 +20,7 @@ export async function POST(request: NextRequest) {
     const passwordStr = String(password);
 
     // Rate limit by email to prevent brute force
-    const limited = checkRateLimit(`login:${emailStr}`, LOGIN_LIMIT, LOGIN_WINDOW);
+    const limited = await checkRateLimit(`login:${emailStr}`, LOGIN_LIMIT, LOGIN_WINDOW);
     if (limited) {
       return NextResponse.json(
         { error: "Too many login attempts. Please try again later." },
