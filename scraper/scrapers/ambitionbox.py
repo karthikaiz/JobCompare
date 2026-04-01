@@ -3,6 +3,12 @@ import re
 from scrapers.base import BaseScraper
 from models.schemas import CompanyData, ReviewData, SalaryData, BenefitData
 
+try:
+    from bs4 import BeautifulSoup
+    HAS_BS4 = True
+except ImportError:
+    HAS_BS4 = False
+
 
 class AmbitionBoxScraper(BaseScraper):
     """Scraper for AmbitionBox public company pages."""
@@ -10,19 +16,49 @@ class AmbitionBoxScraper(BaseScraper):
     BASE_URL = "https://www.ambitionbox.com"
 
     def _extract_next_data(self, html: str) -> dict:
+        """Extract __NEXT_DATA__ JSON from a Next.js page.
+
+        Tries the standard script tag first, then falls back to
+        searching for any large JSON blob that looks like Next.js data.
+        """
+        # Primary: standard __NEXT_DATA__ script tag
         match = re.search(
             r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.DOTALL
         )
-        if not match:
-            raise ValueError("Could not find __NEXT_DATA__ in page")
-        return json.loads(match.group(1))
+        if match:
+            return json.loads(match.group(1))
 
-    def _extract_nuxt_data(self, html: str) -> dict | None:
-        """Extract data from Nuxt.js pages (salaries page uses Vue/Nuxt)."""
-        # Try to find JSON-like salary data in the page
-        # The Nuxt data is in window.__NUXT__ which is JS, not pure JSON
-        # We'll extract specific fields using regex patterns
-        return None
+        # Fallback 1: __NEXT_DATA__ without id attribute (some Next.js versions)
+        match = re.search(
+            r'__NEXT_DATA__\s*=\s*({.*?})\s*[;<]', html, re.DOTALL
+        )
+        if match:
+            return json.loads(match.group(1))
+
+        # Fallback 2: Any script tag with type=application/json containing pageProps
+        json_scripts = re.findall(
+            r'<script[^>]*type="application/json"[^>]*>(.*?)</script>', html, re.DOTALL
+        )
+        for script_content in json_scripts:
+            try:
+                data = json.loads(script_content)
+                if isinstance(data, dict) and ("pageProps" in data.get("props", {}) or "pageProps" in data):
+                    return data
+            except (json.JSONDecodeError, AttributeError):
+                continue
+
+        # Diagnostic: report what we actually got
+        title_match = re.search(r"<title[^>]*>(.*?)</title>", html[:3000], re.DOTALL | re.IGNORECASE)
+        title = title_match.group(1).strip()[:80] if title_match else "(no title)"
+        has_next = "__NEXT" in html
+        html_len = len(html)
+        script_count = html.count("<script")
+
+        raise ValueError(
+            f"Could not find __NEXT_DATA__ in page. "
+            f"Title: '{title}', HTML size: {html_len}, "
+            f"Scripts: {script_count}, Has __NEXT ref: {has_next}"
+        )
 
     async def scrape_overview(self, company_slug: str) -> dict:
         url = f"{self.BASE_URL}/overview/{company_slug}-overview"

@@ -14,6 +14,7 @@ import argparse
 import asyncio
 import json
 import os
+import random
 import sys
 import time
 from datetime import datetime, timezone
@@ -105,7 +106,7 @@ async def run_batch(
     total = len(companies)
     succeeded = 0
     failed = 0
-    skipped = 0
+    failed_companies = []
 
     start_time = time.time()
     print(f"\n{'='*60}")
@@ -114,51 +115,97 @@ async def run_batch(
     print(f"Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"{'='*60}\n")
 
-    for i, company in enumerate(companies, 1):
-        slug = company["slug"]
-        name = company["name"]
-        print(f"[{i}/{total}]", end=" ")
+    try:
+        for i, company in enumerate(companies, 1):
+            slug = company["slug"]
+            name = company["name"]
+            print(f"[{i}/{total}]", end=" ")
 
-        result = await scrape_company(
-            scraper, company, max_review_pages, max_salary_roles
-        )
+            result = await scrape_company(
+                scraper, company, max_review_pages, max_salary_roles
+            )
 
-        if result:
-            # Validate slug before using as filename (prevent path traversal)
-            if not SLUG_PATTERN.match(slug):
-                print(f"  WARNING: Invalid slug '{slug}', skipping file write")
+            if result:
+                # Validate slug before using as filename (prevent path traversal)
+                if not SLUG_PATTERN.match(slug):
+                    print(f"  WARNING: Invalid slug '{slug}', skipping file write")
+                    failed += 1
+                    continue
+
+                # Add metadata
+                result["_scraped_at"] = datetime.now(timezone.utc).isoformat()
+                result["_source"] = "ambitionbox"
+                result["_registry_name"] = name
+                result["_registry_industry"] = company.get("industry", "")
+
+                # Save to file
+                output_path = SCRAPED_DIR / f"{slug}.json"
+                with open(output_path, "w") as f:
+                    json.dump(result, f, indent=2, ensure_ascii=False)
+
+                status[slug] = {
+                    "status": "success",
+                    "scraped_at": datetime.now(timezone.utc).isoformat(),
+                    "reviews": len(result.get("reviews", [])),
+                    "salaries": len(result.get("salaries", [])),
+                    "benefits": len(result.get("benefits", [])),
+                }
+                succeeded += 1
+            else:
+                status[slug] = {
+                    "status": "failed",
+                    "scraped_at": datetime.now(timezone.utc).isoformat(),
+                    "error": "Scrape returned no data",
+                }
                 failed += 1
-                continue
+                failed_companies.append(company)
 
-            # Add metadata
-            result["_scraped_at"] = datetime.now(timezone.utc).isoformat()
-            result["_source"] = "ambitionbox"
-            result["_registry_name"] = name
-            result["_registry_industry"] = company.get("industry", "")
+            # Save status after each company (resume-friendly)
+            save_status(status)
 
-            # Save to file
-            output_path = SCRAPED_DIR / f"{slug}.json"
-            with open(output_path, "w") as f:
-                json.dump(result, f, indent=2, ensure_ascii=False)
+        # Auto-retry failed companies once with a fresh session
+        if failed_companies and len(failed_companies) < total:
+            print(f"\n--- Retrying {len(failed_companies)} failed companies with fresh session ---\n")
+            await scraper.close()
+            # Extra delay before retry round
+            await asyncio.sleep(random.uniform(10.0, 20.0))
 
-            status[slug] = {
-                "status": "success",
-                "scraped_at": datetime.now(timezone.utc).isoformat(),
-                "reviews": len(result.get("reviews", [])),
-                "salaries": len(result.get("salaries", [])),
-                "benefits": len(result.get("benefits", [])),
-            }
-            succeeded += 1
-        else:
-            status[slug] = {
-                "status": "failed",
-                "scraped_at": datetime.now(timezone.utc).isoformat(),
-                "error": "Scrape returned no data",
-            }
-            failed += 1
+            for i, company in enumerate(failed_companies, 1):
+                slug = company["slug"]
+                name = company["name"]
+                print(f"[retry {i}/{len(failed_companies)}]", end=" ")
 
-        # Save status after each company (resume-friendly)
-        save_status(status)
+                result = await scrape_company(
+                    scraper, company, max_review_pages, max_salary_roles
+                )
+
+                if result:
+                    if not SLUG_PATTERN.match(slug):
+                        print(f"  WARNING: Invalid slug '{slug}', skipping file write")
+                        continue
+
+                    result["_scraped_at"] = datetime.now(timezone.utc).isoformat()
+                    result["_source"] = "ambitionbox"
+                    result["_registry_name"] = name
+                    result["_registry_industry"] = company.get("industry", "")
+
+                    output_path = SCRAPED_DIR / f"{slug}.json"
+                    with open(output_path, "w") as f:
+                        json.dump(result, f, indent=2, ensure_ascii=False)
+
+                    status[slug] = {
+                        "status": "success",
+                        "scraped_at": datetime.now(timezone.utc).isoformat(),
+                        "reviews": len(result.get("reviews", [])),
+                        "salaries": len(result.get("salaries", [])),
+                        "benefits": len(result.get("benefits", [])),
+                    }
+                    succeeded += 1
+                    failed -= 1
+
+                save_status(status)
+    finally:
+        await scraper.close()
 
     elapsed = round(time.time() - start_time, 1)
     print(f"\n{'='*60}")

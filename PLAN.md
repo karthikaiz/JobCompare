@@ -250,6 +250,49 @@ Tasks:
 
 ---
 
+## Story 8C: Vercel Deployment — Database & Infrastructure Migration
+**As a developer, I want to deploy the frontend to Vercel so users can access the platform online.**
+
+Prerequisites (manual):
+- [ ] Create free Neon account at neon.tech → Create a project "jobcompare"
+- [ ] Create free Render account at render.com → Deploy Python scraper as a web service
+- [ ] Add Vercel production URL to Firebase Auth authorized domains
+
+Tasks:
+- **Database migration (SQLite → PostgreSQL)**
+  - Change Prisma provider from `sqlite` to `postgresql`
+  - Update `DATABASE_URL` to Neon connection string
+  - Run `prisma db push` to create tables on Neon
+  - Run seed script to populate initial data
+  - Test all API routes against PostgreSQL
+- **Rate limiter migration (in-memory → DB-based)**
+  - Add `RateLimit` model to Prisma schema (key, count, expiresAt)
+  - Rewrite `src/lib/rate-limit.ts` to use Prisma queries instead of Map
+  - Works across serverless invocations without Redis
+- **Environment variable cleanup**
+  - Remove all hardcoded localhost fallbacks from scraper-client.ts, refresh route, admin page
+  - Fix internal API call in `refresh/[slug]` to use relative URL or `VERCEL_URL`
+  - Configure all env vars in Vercel dashboard
+- **Scraper service deployment**
+  - Add `Dockerfile` or `render.yaml` to scraper/
+  - Update CORS origins to include Vercel production URL
+  - Deploy to Render free tier
+  - Update `SCRAPER_SERVICE_URL` env var to Render URL
+- **Vercel deployment**
+  - Set root directory to `frontend/` in Vercel project settings
+  - Configure build command and output settings
+  - Verify all pages work on production URL
+
+**Test**:
+- Visit production Vercel URL → Landing page loads
+- Search companies → Data returned from Neon PostgreSQL
+- Sign in with Google → Firebase auth works on production domain
+- Submit review → Stored in Neon DB, rate limiting works
+- Refresh company → Calls Render-hosted scraper
+- All pages render correctly on mobile + desktop
+
+---
+
 ## Story 9: Polish & Dark Mode
 **As a user, I want a polished experience with dark mode and proper error handling.**
 

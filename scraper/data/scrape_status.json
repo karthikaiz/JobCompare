@@ -1,7 +1,7 @@
 {
   "infosys": {
     "status": "success",
-    "scraped_at": "2026-03-30T04:24:32.126007+00:00",
+    "scraped_at": "2026-04-01T03:18:50.597504+00:00",
     "reviews": 60,
     "salaries": 8,
     "benefits": 24
@@ -19,5 +19,12 @@
     "reviews": 60,
     "salaries": 8,
     "benefits": 22
+  },
+  "tata-consultancy-services": {
+    "status": "success",
+    "scraped_at": "2026-04-01T03:19:58.252325+00:00",
+    "reviews": 60,
+    "salaries": 8,
+    "benefits": 24
   }
 }
