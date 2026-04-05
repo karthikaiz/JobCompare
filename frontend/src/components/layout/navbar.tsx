@@ -13,21 +13,21 @@ export function Navbar() {
   const isRecruiter = pathname.startsWith("/recruiter");
 
   return (
-    <nav className="border-b bg-white/80 backdrop-blur-sm sticky top-0 z-50">
+    <nav className="border-b border-white/8 bg-[#0d0d0d]/90 backdrop-blur-md sticky top-0 z-50">
       <div className="px-4 h-14 flex items-center justify-between">
         <Link href="/" className="text-lg sm:text-xl font-bold tracking-tight whitespace-nowrap">
-          Job<span className="text-blue-600">Compare</span>
+          Job<span className="gradient-text">Compare</span>
         </Link>
 
         {/* Role switcher — hidden on mobile */}
-        <div className="hidden sm:flex items-center bg-gray-100 rounded-lg p-0.5 mx-auto">
+        <div className="hidden sm:flex items-center bg-white/5 border border-white/8 rounded-lg p-0.5 mx-auto">
           <Link
             href="/job-seeker"
             className={cn(
-              "px-2 sm:px-3 py-1.5 rounded-md text-xs sm:text-sm font-medium transition-colors",
+              "px-2 sm:px-3 py-1.5 rounded-md text-xs sm:text-sm font-medium transition-all",
               isJobSeeker
-                ? "bg-white text-blue-700 shadow-sm"
-                : "text-gray-500 hover:text-gray-700"
+                ? "bg-[#0070F3]/15 text-[#0070F3] shadow-none"
+                : "text-white/50 hover:text-white/80"
             )}
           >
             Job Seeker
@@ -35,10 +35,10 @@ export function Navbar() {
           <Link
             href="/recruiter"
             className={cn(
-              "px-2 sm:px-3 py-1.5 rounded-md text-xs sm:text-sm font-medium transition-colors",
+              "px-2 sm:px-3 py-1.5 rounded-md text-xs sm:text-sm font-medium transition-all",
               isRecruiter
-                ? "bg-white text-blue-700 shadow-sm"
-                : "text-gray-500 hover:text-gray-700"
+                ? "bg-[#0070F3]/15 text-[#0070F3] shadow-none"
+                : "text-white/50 hover:text-white/80"
             )}
           >
             Recruiter
@@ -47,13 +47,13 @@ export function Navbar() {
 
         <div className="flex items-center gap-1 sm:gap-3 ml-auto">
           <Link href="/admin/registry" className="hidden sm:block">
-            <span className="text-xs text-gray-400 hover:text-gray-600 transition-colors">Admin</span>
+            <span className="text-xs text-white/30 hover:text-white/60 transition-colors">Admin</span>
           </Link>
           {!loading && (
             <>
               {user ? (
                 <div className="flex items-center gap-2">
-                  <span className="text-xs sm:text-sm text-gray-600 hidden sm:inline">
+                  <span className="text-xs sm:text-sm text-white/60 hidden sm:inline">
                     {user.displayName || user.email.split("@")[0]}
                   </span>
                   <Button variant="ghost" size="sm" onClick={logout} className="text-xs h-8">

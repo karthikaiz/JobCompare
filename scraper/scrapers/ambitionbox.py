@@ -120,13 +120,20 @@ class AmbitionBoxScraper(BaseScraper):
                     job_profile = r.get("jobProfile", {}) or {}
                     job_location = r.get("jobLocation", {}) or {}
 
+                    raw_title = r.get("reviewTitle") or ""
+                    clean_title = None if re.match(r"^rated by\b", raw_title, re.IGNORECASE) else (raw_title or None)
+                    pros = r.get("likesText") or ""
+                    cons = r.get("disLikesText") or ""
+                    # Skip reviews with no text content
+                    if not pros.strip() and not cons.strip():
+                        continue
                     reviews.append(ReviewData(
-                        title=r.get("reviewTitle"),
+                        title=clean_title,
                         role=job_profile.get("name"),
                         location=job_location.get("name"),
                         rating=r.get("overallCompanyRating"),
-                        pros=r.get("likesText") or "",
-                        cons=r.get("disLikesText") or "",
+                        pros=pros,
+                        cons=cons,
                         is_current_employee=bool(r.get("continued")),
                         review_date=r.get("modifiedMachineReadable"),
                     ))
@@ -284,14 +291,14 @@ class AmbitionBoxScraper(BaseScraper):
         }
         return mapping.get(ab_category, "perks")
 
-    async def scrape_company(self, company_slug: str) -> CompanyData:
+    async def scrape_company(self, company_slug: str, max_review_pages: int = 2, max_salary_roles: int = 8) -> CompanyData:
         """Scrape all available data for a company."""
         # Scrape overview first to get basic company info
         overview = await self.scrape_overview(company_slug)
 
         # Then scrape reviews, salaries, and benefits
-        reviews = await self.scrape_reviews(company_slug)
-        salaries = await self.scrape_salaries(company_slug)
+        reviews = await self.scrape_reviews(company_slug, max_pages=max_review_pages)
+        salaries = await self.scrape_salaries(company_slug, max_roles=max_salary_roles)
         benefits = await self.scrape_benefits(company_slug)
 
         return CompanyData(

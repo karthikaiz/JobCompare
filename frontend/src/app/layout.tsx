@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import { Playfair_Display } from "next/font/google";
+
 import "./globals.css";
 import { CompareProvider } from "@/context/compare-context";
 import { AuthProvider } from "@/context/auth-context";
@@ -9,6 +11,20 @@ const geistSans = localFont({
   variable: "--font-geist-sans",
   weight: "100 900",
 });
+
+const geistMono = localFont({
+  src: "./fonts/GeistMonoVF.woff",
+  variable: "--font-geist-mono",
+  weight: "100 900",
+});
+
+const playfair = Playfair_Display({
+  subsets: ["latin"],
+  variable: "--font-playfair",
+  weight: ["400", "500", "600", "700", "800", "900"],
+  style: ["normal", "italic"],
+});
+
 
 export const metadata: Metadata = {
   title: "JobCompare - Compare Companies, Salaries & Reviews",
@@ -21,8 +37,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${geistSans.variable} min-h-screen bg-background font-sans antialiased`}>
+    <html lang="en" className={`${geistMono.variable} ${playfair.variable}`}>
+      <body className={`${geistSans.variable} min-h-screen bg-cream font-sans antialiased`}>
         <AuthProvider>
           <CompareProvider>
             {children}

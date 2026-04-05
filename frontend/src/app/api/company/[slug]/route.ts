@@ -57,11 +57,21 @@ export async function GET(
       }
     : null;
 
+  // Deduplicate scraped reviews by pros+cons fingerprint (keep first occurrence)
+  const seen = new Set<string>();
+  const dedupedReviews = company.reviews.filter((r) => {
+    const key = `${r.pros?.trim()}||${r.cons?.trim()}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+
   // Round float ratings to avoid precision artifacts (e.g. 3.900000095367432 → 3.9)
   const round = (v: number | null) => (v != null ? Math.round(v * 100) / 100 : v);
 
   return NextResponse.json({
     ...company,
+    reviews: dedupedReviews,
     overallRating: round(company.overallRating),
     workLifeBalance: round(company.workLifeBalance),
     salaryBenefits: round(company.salaryBenefits),

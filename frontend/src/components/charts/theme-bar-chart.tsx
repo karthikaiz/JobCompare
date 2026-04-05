@@ -40,18 +40,22 @@ function countThemes(reviews: ThemeBarChartProps["reviews"], type: "positive" | 
   return counts;
 }
 
-const POS_COLORS = ["#22c55e", "#16a34a", "#15803d", "#166534", "#14532d"];
-const NEG_COLORS = ["#ef4444", "#dc2626", "#b91c1c", "#991b1b", "#7f1d1d"];
+const POS_COLORS = ["#4A7C59", "#5C8A5C", "#6B9E6B", "#3D6B4A", "#7AAF7A"];
+const NEG_COLORS = ["#B05252", "#C46262", "#A04040", "#CC7070", "#8B3A3A"];
+
+const TOOLTIP_STYLE = {
+  backgroundColor: "#FDFCF5",
+  border: "1px solid rgba(26,21,4,0.12)",
+  borderRadius: "4px",
+  color: "#1a1504",
+};
 
 export function ThemeBarChart({ themes, reviews, type }: ThemeBarChartProps) {
   const isMobile = useIsMobile();
 
-  // If we have pre-computed themes from sentiment snapshot, use those
-  // Otherwise compute from reviews
   let data: Array<{ theme: string; count: number }>;
 
   if (themes.length > 0) {
-    // We have theme names but not counts — compute counts from reviews
     const counts = countThemes(reviews, type);
     data = themes.map((t) => ({ theme: t, count: counts[t] || 0 }));
   } else {
@@ -63,7 +67,7 @@ export function ThemeBarChart({ themes, reviews, type }: ThemeBarChartProps) {
   }
 
   if (data.length === 0) {
-    return <p className="text-sm text-muted-foreground text-center py-6">No theme data available</p>;
+    return <p className="text-sm text-warmgray text-center py-6 font-sans">No theme data available</p>;
   }
 
   const colors = type === "positive" ? POS_COLORS : NEG_COLORS;
@@ -71,14 +75,19 @@ export function ThemeBarChart({ themes, reviews, type }: ThemeBarChartProps) {
   return (
     <ResponsiveContainer width="100%" height={Math.max(150, data.length * 40 + 20)}>
       <BarChart data={data} layout="vertical" margin={{ left: 0, right: 10, top: 5, bottom: 5 }}>
-        <XAxis type="number" tick={{ fontSize: isMobile ? 10 : 11, fill: "#6b7280" }} allowDecimals={false} />
+        <XAxis type="number" tick={{ fontSize: isMobile ? 10 : 11, fill: "#6b6559" }} allowDecimals={false} />
         <YAxis
           type="category"
           dataKey="theme"
           width={isMobile ? 75 : 130}
-          tick={{ fontSize: isMobile ? 9 : 11, fill: "#374151" }}
+          tick={{ fontSize: isMobile ? 9 : 11, fill: "#1a1504" }}
         />
-        <Tooltip formatter={(value) => [`${value} mentions`, ""]} />
+        <Tooltip
+          formatter={(value) => [`${value} mentions`, ""]}
+          contentStyle={TOOLTIP_STYLE}
+          itemStyle={{ color: "#6b6559" }}
+          labelStyle={{ color: "#C4714A", fontWeight: 600 }}
+        />
         <Bar dataKey="count" radius={[0, 4, 4, 0]} barSize={22}>
           {data.map((_, i) => (
             <Cell key={i} fill={colors[i % colors.length]} />

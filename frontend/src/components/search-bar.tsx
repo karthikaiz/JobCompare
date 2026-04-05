@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
-import { Input } from "@/components/ui/input";
 
 interface Company {
   slug: string;
@@ -12,7 +11,7 @@ interface Company {
 }
 
 interface SearchBarProps {
-  basePath: string; // "/job-seeker" or "/recruiter"
+  basePath: string;
   placeholder?: string;
   initialQuery?: string;
 }
@@ -22,18 +21,14 @@ export function SearchBar({ basePath, placeholder, initialQuery = "" }: SearchBa
   const [results, setResults] = useState<Company[]>([]);
   const [isOpen, setIsOpen] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [focused, setFocused] = useState(false);
   const router = useRouter();
   const wrapperRef = useRef<HTMLDivElement>(null);
   const debounceRef = useRef<NodeJS.Timeout>();
 
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current);
-
-    if (query.trim().length < 2) {
-      setResults([]);
-      setIsOpen(false);
-      return;
-    }
+    if (query.trim().length < 2) { setResults([]); setIsOpen(false); return; }
 
     debounceRef.current = setTimeout(async () => {
       setLoading(true);
@@ -49,16 +44,12 @@ export function SearchBar({ basePath, placeholder, initialQuery = "" }: SearchBa
       }
     }, 300);
 
-    return () => {
-      if (debounceRef.current) clearTimeout(debounceRef.current);
-    };
+    return () => { if (debounceRef.current) clearTimeout(debounceRef.current); };
   }, [query]);
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
-      if (wrapperRef.current && !wrapperRef.current.contains(e.target as Node)) {
-        setIsOpen(false);
-      }
+      if (wrapperRef.current && !wrapperRef.current.contains(e.target as Node)) setIsOpen(false);
     }
     document.addEventListener("mousedown", handleClickOutside);
     return () => document.removeEventListener("mousedown", handleClickOutside);
@@ -69,38 +60,53 @@ export function SearchBar({ basePath, placeholder, initialQuery = "" }: SearchBa
     router.push(`${basePath}/${slug}`);
   };
 
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    setIsOpen(false);
+    if (query.trim()) router.push(`${basePath}?q=${encodeURIComponent(query.trim())}`);
+  };
+
   return (
     <div ref={wrapperRef} className="relative w-full max-w-lg">
-      <Input
-        placeholder={placeholder || "Search companies..."}
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-        onFocus={() => results.length > 0 && setIsOpen(true)}
-        className="h-11"
-      />
-      {loading && (
-        <div className="absolute right-3 top-3">
-          <div className="w-5 h-5 border-2 border-blue-300 border-t-blue-600 rounded-full animate-spin" />
-        </div>
-      )}
+      <form onSubmit={handleSubmit} className={`flex border-2 transition-colors duration-200 ${focused ? "border-terracotta" : "border-ink/20"}`}>
+        <input
+          type="text"
+          placeholder={placeholder || "Search companies..."}
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          onFocus={() => { setFocused(true); if (results.length > 0) setIsOpen(true); }}
+          onBlur={() => setFocused(false)}
+          className="flex-1 h-11 px-4 text-sm text-ink placeholder:text-warmgray/55 bg-white outline-none font-sans"
+        />
+        {loading ? (
+          <div className="h-11 w-11 flex items-center justify-center bg-white flex-shrink-0">
+            <div className="w-4 h-4 border-2 border-terracotta/30 border-t-terracotta rounded-full animate-spin" />
+          </div>
+        ) : (
+          <button type="submit" className="h-11 px-4 bg-ink text-cream text-xs uppercase tracking-[0.12em] font-medium font-sans hover:bg-terracotta transition-colors flex-shrink-0">
+            Search
+          </button>
+        )}
+      </form>
 
       {isOpen && results.length > 0 && (
-        <div className="absolute top-full mt-1 w-full bg-white border rounded-lg shadow-lg z-[60] overflow-hidden">
+        <div className="absolute top-full mt-1 w-full bg-white border border-ink/15 shadow-[0_4px_24px_rgba(26,21,4,0.1)] z-[60] overflow-hidden">
           {results.map((company) => (
             <button
               key={company.slug}
+              onMouseDown={(e) => e.preventDefault()}
               onClick={() => selectCompany(company.slug)}
-              className="w-full flex items-center gap-3 px-4 py-3 hover:bg-blue-50 transition-colors text-left"
+              className="w-full flex items-center gap-3 px-4 py-3 hover:bg-terracotta/5 transition-colors text-left border-b border-ink/8 last:border-0 group"
             >
-              <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 font-bold text-xs flex-shrink-0">
+              <div className="w-8 h-8 bg-terracotta/10 flex items-center justify-center text-terracotta font-bold text-xs flex-shrink-0 font-serif">
                 {company.name.charAt(0)}
               </div>
               <div className="flex-1 min-w-0">
-                <div className="font-medium text-sm truncate">{company.name}</div>
-                <div className="text-xs text-muted-foreground">{company.industry}</div>
+                <div className="font-medium text-sm truncate text-ink font-sans group-hover:text-terracotta transition-colors">{company.name}</div>
+                {company.industry && <div className="text-xs text-warmgray font-sans">{company.industry}</div>}
               </div>
               {company.overallRating != null && (
-                <div className="text-sm font-medium text-yellow-600">
+                <div className="text-sm font-bold font-mono text-terracotta flex-shrink-0">
                   {company.overallRating.toFixed(1)}
                 </div>
               )}
@@ -110,7 +116,7 @@ export function SearchBar({ basePath, placeholder, initialQuery = "" }: SearchBa
       )}
 
       {isOpen && query.trim().length >= 2 && results.length === 0 && !loading && (
-        <div className="absolute top-full mt-1 w-full bg-white border rounded-lg shadow-lg z-50 p-4 text-center text-sm text-muted-foreground">
+        <div className="absolute top-full mt-1 w-full bg-white border border-ink/15 shadow-[0_4px_24px_rgba(26,21,4,0.08)] z-50 p-4 text-center text-sm text-warmgray font-sans">
           No companies found for &ldquo;{query}&rdquo;
         </div>
       )}

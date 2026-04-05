@@ -35,7 +35,7 @@ export function Sidebar({ role }: SidebarProps) {
   const navItems = role === "job-seeker" ? JOB_SEEKER_NAV : RECRUITER_NAV;
 
   return (
-    <aside className="hidden md:flex w-56 flex-col border-r bg-gray-50/50 p-4 gap-1">
+    <aside className="hidden md:flex w-56 flex-col border-r border-white/8 bg-[#0d0d0d] p-4 gap-1">
       {navItems.map((item) => {
         const isActive = pathname === item.href;
         return (
@@ -43,10 +43,10 @@ export function Sidebar({ role }: SidebarProps) {
             key={item.href}
             href={item.href}
             className={cn(
-              "flex items-center gap-3 px-3 py-2 rounded-md text-sm font-medium transition-colors",
+              "flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium transition-all",
               isActive
-                ? "bg-blue-100 text-blue-700"
-                : "text-gray-600 hover:bg-gray-100 hover:text-gray-900"
+                ? "bg-[#0070F3]/10 text-[#0070F3] border-l-2 border-[#0070F3] pl-[10px]"
+                : "text-white/50 hover:bg-white/8 hover:text-white/80 border border-transparent"
             )}
           >
             {ICON_MAP[item.icon]}

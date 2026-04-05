@@ -31,15 +31,15 @@ function formatLakhs(value: number): string {
 }
 
 const COLORS = [
-  "#3b82f6", "#6366f1", "#8b5cf6", "#a855f7",
-  "#ec4899", "#f43f5e", "#f97316", "#eab308",
+  "#C4714A", "#B0623C", "#D4896A", "#A05530",
+  "#E09A7E", "#8B4C30", "#CC7F5E", "#9A6045",
 ];
 
 export function SalaryChart({ salaries }: SalaryChartProps) {
   const isMobile = useIsMobile();
 
   if (salaries.length === 0) {
-    return <p className="text-sm text-muted-foreground text-center py-8">No salary data available</p>;
+    return <p className="text-sm text-[#6b6559] text-center py-8 font-sans">No salary data available</p>;
   }
 
   const maxRoleLen = isMobile ? 15 : 25;
@@ -61,13 +61,13 @@ export function SalaryChart({ salaries }: SalaryChartProps) {
         <XAxis
           type="number"
           tickFormatter={formatLakhs}
-          tick={{ fontSize: isMobile ? 10 : 11, fill: "#6b7280" }}
+          tick={{ fontSize: isMobile ? 10 : 11, fill: "#6b6559" }}
         />
         <YAxis
           type="category"
           dataKey="role"
           width={yAxisWidth}
-          tick={{ fontSize: isMobile ? 10 : 11, fill: "#374151" }}
+          tick={{ fontSize: isMobile ? 10 : 11, fill: "#1a1504" }}
         />
         <Tooltip
           formatter={(value) => [`${formatLakhs(Number(value))}/yr`, ""]}
@@ -75,6 +75,9 @@ export function SalaryChart({ salaries }: SalaryChartProps) {
             const item = data.find((d) => d.role === String(label));
             return item?.fullRole || String(label);
           }}
+          contentStyle={{ backgroundColor: "#FDFCF5", border: "1px solid rgba(26,21,4,0.12)", borderRadius: "4px", color: "#1a1504" }}
+          itemStyle={{ color: "#6b6559" }}
+          labelStyle={{ color: "#C4714A", fontWeight: 600 }}
         />
         <Bar dataKey="avg" name="Avg Salary" radius={[0, 4, 4, 0]} barSize={20}>
           {data.map((_, i) => (

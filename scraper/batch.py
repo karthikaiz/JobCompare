@@ -74,7 +74,7 @@ async def scrape_company(
         print(f"  Scraping {name} ({slug})...", end=" ", flush=True)
         start = time.time()
 
-        data = await scraper.scrape_company(slug)
+        data = await scraper.scrape_company(slug, max_review_pages=max_review_pages, max_salary_roles=max_salary_roles)
         result = data.model_dump()
 
         elapsed = round(time.time() - start, 1)

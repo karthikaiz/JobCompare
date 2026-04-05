@@ -17,7 +17,7 @@ interface ReviewFormProps {
 function StarInput({ value, onChange, label }: { value: number; onChange: (v: number) => void; label: string }) {
   return (
     <div className="flex items-center justify-between gap-2" role="group" aria-label={`${label} rating`}>
-      <span className="text-sm text-gray-600 min-w-[120px]">{label}</span>
+      <span className="text-sm text-white/60 min-w-[120px]">{label}</span>
       <div className="flex gap-1">
         {[1, 2, 3, 4, 5].map((star) => (
           <button
@@ -30,7 +30,7 @@ function StarInput({ value, onChange, label }: { value: number; onChange: (v: nu
             }}
             aria-label={`Rate ${star} out of 5`}
             aria-pressed={star <= value}
-            className={`text-xl transition-colors min-w-[28px] min-h-[28px] ${star <= value ? "text-yellow-400" : "text-gray-200 hover:text-yellow-200"}`}
+            className={`text-xl transition-colors min-w-[28px] min-h-[28px] ${star <= value ? "text-[#0070F3]" : "text-white/20 hover:text-[#0070F3]/50"}`}
           >
             &#9733;
           </button>
@@ -71,7 +71,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
         <CardContent className="py-8 text-center space-y-3">
           <p className="text-muted-foreground">Sign in to submit a review</p>
           <Link href="/login">
-            <Button className="bg-blue-600 hover:bg-blue-700">Sign In</Button>
+            <Button>Sign In</Button>
           </Link>
         </CardContent>
       </Card>
@@ -123,7 +123,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
           {[1, 2, 3].map((s) => (
             <div
               key={s}
-              className={`h-1.5 flex-1 rounded-full ${s <= step ? "bg-blue-600" : "bg-gray-200"}`}
+              className={`h-1.5 flex-1 rounded-full ${s <= step ? "bg-[#0070F3]" : "bg-white/10"}`}
             />
           ))}
         </div>
@@ -133,13 +133,13 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
       </CardHeader>
       <CardContent className="space-y-4">
         {error && (
-          <div className="bg-red-50 text-red-600 text-sm px-3 py-2 rounded-md">{error}</div>
+          <div className="bg-red-500/15 text-red-400 text-sm px-3 py-2 rounded-md border border-red-500/20">{error}</div>
         )}
 
         {step === 1 && (
           <>
             <div className="space-y-1.5">
-              <label className="text-sm font-medium">Review Title *</label>
+              <label className="text-sm font-medium text-white/80">Review Title *</label>
               <Input
                 placeholder='e.g. "Great work culture but average pay"'
                 value={title}
@@ -148,7 +148,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
               />
             </div>
             <div className="space-y-1.5">
-              <label className="text-sm font-medium">Your Role *</label>
+              <label className="text-sm font-medium text-white/80">Your Role *</label>
               <Input
                 placeholder="e.g. Software Engineer"
                 value={role}
@@ -157,7 +157,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
               />
             </div>
             <div className="space-y-1.5">
-              <label className="text-sm font-medium">Location (optional)</label>
+              <label className="text-sm font-medium text-white/80">Location (optional)</label>
               <Input
                 placeholder="e.g. Bangalore"
                 value={location}
@@ -190,8 +190,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
               <Button
                 onClick={() => setStep(2)}
                 disabled={!title.trim() || !role.trim()}
-                className="bg-blue-600 hover:bg-blue-700"
-              >
+>
                 Next
               </Button>
             </div>
@@ -213,8 +212,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
               <Button
                 onClick={() => setStep(3)}
                 disabled={overallRating === 0}
-                className="bg-blue-600 hover:bg-blue-700"
-              >
+>
                 Next
               </Button>
             </div>
@@ -224,26 +222,26 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
         {step === 3 && (
           <>
             <div className="space-y-1.5">
-              <label className="text-sm font-medium">Pros *</label>
+              <label className="text-sm font-medium text-white/80">Pros *</label>
               <textarea
                 placeholder="What do you like about working here?"
                 value={pros}
                 onChange={(e) => setPros(e.target.value)}
                 maxLength={2000}
                 rows={4}
-                className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                className="w-full rounded-md border border-white/10 bg-white/5 backdrop-blur-sm px-3 py-2 text-sm text-white placeholder:text-white/30 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#0070F3]/50"
               />
               <span className="text-xs text-muted-foreground">{pros.length}/2000</span>
             </div>
             <div className="space-y-1.5">
-              <label className="text-sm font-medium">Cons *</label>
+              <label className="text-sm font-medium text-white/80">Cons *</label>
               <textarea
                 placeholder="What could be improved?"
                 value={cons}
                 onChange={(e) => setCons(e.target.value)}
                 maxLength={2000}
                 rows={4}
-                className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                className="w-full rounded-md border border-white/10 bg-white/5 backdrop-blur-sm px-3 py-2 text-sm text-white placeholder:text-white/30 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#0070F3]/50"
               />
               <span className="text-xs text-muted-foreground">{cons.length}/2000</span>
             </div>
@@ -252,8 +250,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
               <Button
                 onClick={handleSubmit}
                 disabled={submitting || !pros.trim() || !cons.trim()}
-                className="bg-blue-600 hover:bg-blue-700"
-              >
+>
                 {submitting ? "Submitting..." : "Submit Review"}
               </Button>
             </div>

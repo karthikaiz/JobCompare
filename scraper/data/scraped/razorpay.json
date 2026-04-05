@@ -15,7 +15,7 @@
   "company_culture": 3.42,
   "reviews": [
     {
-      "title": "rated by a Senior Area Sales Manager in Mumbai",
+      "title": null,
       "role": "Senior Area Sales Manager",
       "location": "Mumbai",
       "rating": 4.0,
@@ -27,7 +27,7 @@
       "review_date": "2026-01-31"
     },
     {
-      "title": "rated by a Business Operations Intern in Bengaluru",
+      "title": null,
       "role": "Business Operations Intern",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -39,7 +39,7 @@
       "review_date": "2026-01-09"
     },
     {
-      "title": "rated by a Business Development Manager in Kolkata",
+      "title": null,
       "role": "Business Development Manager",
       "location": "Kolkata",
       "rating": 4.0,
@@ -51,7 +51,7 @@
       "review_date": "2026-01-01"
     },
     {
-      "title": "rated by a Software Engineer in Bengaluru",
+      "title": null,
       "role": "Software Engineer",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -63,7 +63,7 @@
       "review_date": "2025-12-24"
     },
     {
-      "title": "rated by a Finance Executive in Bengaluru",
+      "title": null,
       "role": "Finance Executive",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -75,7 +75,7 @@
       "review_date": "2025-12-19"
     },
     {
-      "title": "rated by a Senior Area Manager in Ghaziabad",
+      "title": null,
       "role": "Senior Area Manager",
       "location": "Ghaziabad",
       "rating": 1.0,
@@ -87,7 +87,7 @@
       "review_date": "2025-12-02"
     },
     {
-      "title": "rated by a Sdet Automation Test Engineer in Bengaluru",
+      "title": null,
       "role": "Sdet Automation Test Engineer",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -99,7 +99,7 @@
       "review_date": "2025-11-28"
     },
     {
-      "title": "rated by a Product Manager in Mumbai",
+      "title": null,
       "role": "Product Manager",
       "location": "Mumbai",
       "rating": 1.0,
@@ -111,7 +111,7 @@
       "review_date": "2025-06-17"
     },
     {
-      "title": "rated by a Software Development Engineer Lead in Bengaluru",
+      "title": null,
       "role": "Software Development Engineer Lead",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -123,7 +123,7 @@
       "review_date": "2025-11-14"
     },
     {
-      "title": "rated by a Regional Manager in Kolkata",
+      "title": null,
       "role": "Regional Manager",
       "location": "Kolkata",
       "rating": 2.0,
@@ -135,7 +135,7 @@
       "review_date": "2025-11-02"
     },
     {
-      "title": "rated by a Program Manager in Bengaluru",
+      "title": null,
       "role": "Program Manager",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -147,7 +147,7 @@
       "review_date": "2025-04-25"
     },
     {
-      "title": "rated by a Software Engineer in Bengaluru",
+      "title": null,
       "role": "Software Engineer",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -159,7 +159,7 @@
       "review_date": "2025-09-27"
     },
     {
-      "title": "rated by a Software Developer in Bengaluru",
+      "title": null,
       "role": "Software Developer",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -171,7 +171,7 @@
       "review_date": "2025-10-15"
     },
     {
-      "title": "rated by a Senior Territory Manager in Hyderabad",
+      "title": null,
       "role": "Senior Territory Manager",
       "location": "Hyderabad",
       "rating": 2.0,
@@ -183,7 +183,7 @@
       "review_date": "2025-11-24"
     },
     {
-      "title": "rated by a Salesforce Administrator in Bengaluru",
+      "title": null,
       "role": "Salesforce Administrator",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -195,7 +195,7 @@
       "review_date": "2025-05-13"
     },
     {
-      "title": "rated by an Associate Program Manager in Bengaluru",
+      "title": null,
       "role": "Associate Program Manager",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -207,7 +207,7 @@
       "review_date": "2025-07-26"
     },
     {
-      "title": "rated by a Product Development Engineer in Bengaluru",
+      "title": null,
       "role": "Product Development Engineer",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -219,7 +219,7 @@
       "review_date": "2025-08-14"
     },
     {
-      "title": "rated by a Senior Banking Operations Manager in Mumbai",
+      "title": null,
       "role": "Senior Banking Operations Manager",
       "location": "Mumbai",
       "rating": 3.0,
@@ -231,7 +231,7 @@
       "review_date": "2025-06-22"
     },
     {
-      "title": "rated by a Regional Manager in Bengaluru",
+      "title": null,
       "role": "Regional Manager",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -243,7 +243,7 @@
       "review_date": "2025-09-29"
     },
     {
-      "title": "rated by a Senior Associate in Bengaluru",
+      "title": null,
       "role": "Senior Associate",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -255,7 +255,7 @@
       "review_date": "2025-07-25"
     },
     {
-      "title": "rated by a Senior Territory Sales Manager in New Delhi",
+      "title": null,
       "role": "Senior Territory Sales Manager",
       "location": "New Delhi",
       "rating": 5.0,
@@ -267,7 +267,7 @@
       "review_date": "2025-10-11"
     },
     {
-      "title": "rated by a Banking Operations Manager in Bengaluru",
+      "title": null,
       "role": "Banking Operations Manager",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -279,7 +279,7 @@
       "review_date": "2025-10-05"
     },
     {
-      "title": "rated by a Senior Technical Consultant in Bengaluru",
+      "title": null,
       "role": "Senior Technical Consultant",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -291,7 +291,7 @@
       "review_date": "2025-01-28"
     },
     {
-      "title": "rated by a Banking Operations Analyst in Bengaluru",
+      "title": null,
       "role": "Banking Operations Analyst",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -303,7 +303,7 @@
       "review_date": "2025-02-10"
     },
     {
-      "title": "rated by a Senior Software Engineer in Bengaluru",
+      "title": null,
       "role": "Senior Software Engineer",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -315,7 +315,7 @@
       "review_date": "2025-11-21"
     },
     {
-      "title": "rated by a Front end Engineer in Bengaluru",
+      "title": null,
       "role": "Front end Engineer",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -327,7 +327,7 @@
       "review_date": "2025-02-10"
     },
     {
-      "title": "rated by a Java Developer in Bengaluru",
+      "title": null,
       "role": "Java Developer",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -339,7 +339,7 @@
       "review_date": "2025-03-23"
     },
     {
-      "title": "rated by a Risk Analyst in Bengaluru",
+      "title": null,
       "role": "Risk Analyst",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -351,7 +351,7 @@
       "review_date": "2025-07-14"
     },
     {
-      "title": "rated by an Associate Product Support Manager in Bengaluru",
+      "title": null,
       "role": "Associate Product Support Manager",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -363,7 +363,7 @@
       "review_date": "2024-10-16"
     },
     {
-      "title": "rated by a Risk Analyst in Bengaluru",
+      "title": null,
       "role": "Risk Analyst",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -375,7 +375,7 @@
       "review_date": "2025-03-18"
     },
     {
-      "title": "rated by a Software Development Engineer II in Pune",
+      "title": null,
       "role": "Software Development Engineer II",
       "location": "Pune",
       "rating": 5.0,
@@ -387,7 +387,7 @@
       "review_date": "2024-07-18"
     },
     {
-      "title": "rated by a Senior Territory Manager in Mumbai",
+      "title": null,
       "role": "Senior Territory Manager",
       "location": "Mumbai",
       "rating": 5.0,
@@ -399,7 +399,7 @@
       "review_date": "2025-08-01"
     },
     {
-      "title": "rated by a Software Engineer in Bengaluru",
+      "title": null,
       "role": "Software Engineer",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -411,7 +411,7 @@
       "review_date": "2025-02-02"
     },
     {
-      "title": "rated by a Software Developer in Bengaluru",
+      "title": null,
       "role": "Software Developer",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -423,7 +423,7 @@
       "review_date": "2025-03-21"
     },
     {
-      "title": "rated by a Department Manager in Gurugram",
+      "title": null,
       "role": "Department Manager",
       "location": "Gurugram",
       "rating": 1.0,
@@ -435,7 +435,7 @@
       "review_date": "2025-01-14"
     },
     {
-      "title": "rated by a Business Development Manager in New Delhi",
+      "title": null,
       "role": "Business Development Manager",
       "location": "New Delhi",
       "rating": 5.0,
@@ -447,31 +447,7 @@
       "review_date": "2025-02-21"
     },
     {
-      "title": "rated by a Software Development Engineer in Bengaluru",
-      "role": "Software Development Engineer",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-05-03"
-    },
-    {
-      "title": "rated by an Application Support Engineer\r in Bengaluru",
-      "role": "Application Support Engineer\r",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-05-02"
-    },
-    {
-      "title": "rated by a Business Operations Executive in Bengaluru",
+      "title": null,
       "role": "Business Operations Executive",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -483,19 +459,7 @@
       "review_date": "2025-06-10"
     },
     {
-      "title": "rated by an Executive Accountant in Pune",
-      "role": "Executive Accountant",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-06-05"
-    },
-    {
-      "title": "rated by an Assistant Manager in Bengaluru",
+      "title": null,
       "role": "Assistant Manager",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -507,19 +471,7 @@
       "review_date": "2025-04-21"
     },
     {
-      "title": "rated by a Senior Software Engineer in Bengaluru",
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-04-24"
-    },
-    {
-      "title": "rated by a KAM in Bengaluru",
+      "title": null,
       "role": "KAM",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -531,7 +483,7 @@
       "review_date": "2024-11-11"
     },
     {
-      "title": "rated by a Product Engineer in Bengaluru",
+      "title": null,
       "role": "Product Engineer",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -543,19 +495,7 @@
       "review_date": "2025-01-17"
     },
     {
-      "title": "rated by an Analyst in Bengaluru",
-      "role": "Analyst",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-04-21"
-    },
-    {
-      "title": "rated by an Analyst in Bengaluru",
+      "title": null,
       "role": "Analyst",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -567,19 +507,7 @@
       "review_date": "2025-01-29"
     },
     {
-      "title": "rated by a Business Development Manager in Kolkata",
-      "role": "Business Development Manager",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-05-12"
-    },
-    {
-      "title": "rated by a Business Analyst and Product Owner in Bengaluru",
+      "title": null,
       "role": "Business Analyst and Product Owner",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -591,7 +519,7 @@
       "review_date": "2024-08-30"
     },
     {
-      "title": "rated by an Associate Manager in Bengaluru",
+      "title": null,
       "role": "Associate Manager",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -603,7 +531,7 @@
       "review_date": "2025-02-04"
     },
     {
-      "title": "rated by a Product Development Engineer in Pune",
+      "title": null,
       "role": "Product Development Engineer",
       "location": "Pune",
       "rating": 4.0,
@@ -615,7 +543,7 @@
       "review_date": "2024-10-30"
     },
     {
-      "title": "rated by a Senior Accounts Manager in Bengaluru",
+      "title": null,
       "role": "Senior Accounts Manager",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -627,19 +555,7 @@
       "review_date": "2025-04-09"
     },
     {
-      "title": "rated by a Senior Product Manager in Mumbai",
-      "role": "Senior Product Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-03-20"
-    },
-    {
-      "title": "rated by a Risk Analyst in Bengaluru",
+      "title": null,
       "role": "Risk Analyst",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -651,19 +567,7 @@
       "review_date": "2024-09-30"
     },
     {
-      "title": "rated by a Software Engineer Level 1 in Bengaluru",
-      "role": "Software Engineer Level 1",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-03-15"
-    },
-    {
-      "title": "rated by a Business Development Manager in Kolkata",
+      "title": null,
       "role": "Business Development Manager",
       "location": "Kolkata",
       "rating": 3.0,
@@ -675,7 +579,7 @@
       "review_date": "2025-01-31"
     },
     {
-      "title": "rated by a Senior Business Development Associate in Bengaluru",
+      "title": null,
       "role": "Senior Business Development Associate",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -687,19 +591,7 @@
       "review_date": "2024-11-07"
     },
     {
-      "title": "rated by a Front end Engineer in Bengaluru",
-      "role": "Front end Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "",
-      "cons": "",
-      "sentiment": null,
-      "sentiment_score": null,
-      "is_current_employee": true,
-      "review_date": "2025-04-03"
-    },
-    {
-      "title": "rated by an Assistant Manager in Bengaluru",
+      "title": null,
       "role": "Assistant Manager",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -711,7 +603,7 @@
       "review_date": "2024-12-28"
     },
     {
-      "title": "rated by a Risk Management Analyst in Bengaluru",
+      "title": null,
       "role": "Risk Management Analyst",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -723,7 +615,7 @@
       "review_date": "2025-01-16"
     },
     {
-      "title": "rated by an Analytical in Bengaluru",
+      "title": null,
       "role": "Analytical",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -733,15 +625,1335 @@
       "sentiment_score": -0.9596,
       "is_current_employee": false,
       "review_date": "2024-07-17"
+    },
+    {
+      "title": null,
+      "role": "Software Developer",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "🔔",
+      "cons": "Razorpay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-11-06"
+    },
+    {
+      "title": null,
+      "role": "Senior Process Associate",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Nothing, terrible experience",
+      "cons": "1. No work life balance\n2. No flexibility \n3. Flexibility given only based on favourism\n4.Targeting one employee continuously instead of helping the employee\n5. Demotivating",
+      "sentiment": "positive",
+      "sentiment_score": 0.4438,
+      "is_current_employee": false,
+      "review_date": "2024-11-04"
+    },
+    {
+      "title": null,
+      "role": "Procurement",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "It is an awesome experience to work here in Razorpay. Their innovatin and work-life balance is excellent.",
+      "cons": "Nothing",
+      "sentiment": "positive",
+      "sentiment_score": 0.8316,
+      "is_current_employee": false,
+      "review_date": "2024-10-04"
+    },
+    {
+      "title": null,
+      "role": "Senior MIS Analyst",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "It's comparatively chill ,the working culture is good and some good people",
+      "cons": "Politics is one of the negative sides as in all the groups it visible",
+      "sentiment": "positive",
+      "sentiment_score": 0.2732,
+      "is_current_employee": true,
+      "review_date": "2024-12-19"
+    },
+    {
+      "title": null,
+      "role": "Senior Area Manager",
+      "location": "Kolkata",
+      "rating": 5.0,
+      "pros": "Working Culture is best of Class and Great Leaderships",
+      "cons": "Nothing",
+      "sentiment": "positive",
+      "sentiment_score": 0.8519,
+      "is_current_employee": false,
+      "review_date": "2024-11-28"
+    },
+    {
+      "title": null,
+      "role": "Senior Software Engineer",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Don’t trust them they never support small startups",
+      "cons": "Once they onboarding you while you start collecting the amount they hold your settlement and they never send your money and last they suspended your account",
+      "sentiment": "negative",
+      "sentiment_score": -0.2635,
+      "is_current_employee": false,
+      "review_date": "2024-09-10"
+    },
+    {
+      "title": null,
+      "role": "Operations Manager",
+      "location": "New Delhi",
+      "rating": 5.0,
+      "pros": "Culture: Some say Razorpay has a great culture and values, and a transparent culture of growing together.",
+      "cons": "Culture: Some say Razorpay has a great culture and values, and a transparent culture of growing together.",
+      "sentiment": "positive",
+      "sentiment_score": 0.9432,
+      "is_current_employee": false,
+      "review_date": "2024-10-01"
+    },
+    {
+      "title": null,
+      "role": "Senior Analyst",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "False commitment given from management at the time of onboarding \nNo learning \nNo work life balance",
+      "cons": "Everything except food",
+      "sentiment": "positive",
+      "sentiment_score": 0.3156,
+      "is_current_employee": false,
+      "review_date": "2024-08-13"
+    },
+    {
+      "title": null,
+      "role": "Senior Business Development Manager",
+      "location": "Kolkata",
+      "rating": 3.0,
+      "pros": "N.a",
+      "cons": "My reporting manager behaviour \nToxic manager and doing micro-management.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-03-01"
+    },
+    {
+      "title": null,
+      "role": "Senior Associate",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Amazing work life balance",
+      "cons": "Changes every now and then",
+      "sentiment": "positive",
+      "sentiment_score": 0.5859,
+      "is_current_employee": false,
+      "review_date": "2024-10-03"
+    },
+    {
+      "title": null,
+      "role": "Director",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "People 1st org, good for retirement",
+      "cons": "Too much politics, nepotism, layers and slow decision making",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": false,
+      "review_date": "2024-12-07"
+    },
+    {
+      "title": null,
+      "role": "Technical Consultant",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "enough of responsibilities where ove",
+      "cons": "overloaded Work",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": false,
+      "review_date": "2024-12-14"
+    },
+    {
+      "title": null,
+      "role": "Data Analyst",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Kind of work which is challenging and interesting.",
+      "cons": "Nothing",
+      "sentiment": "positive",
+      "sentiment_score": 0.5106,
+      "is_current_employee": false,
+      "review_date": "2024-09-21"
+    },
+    {
+      "title": null,
+      "role": "Senior Associate",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Amazing Goodies",
+      "cons": "Really toxic culture \nThe leadership doesn’t inspire only does dirty politics and fights\nNot much growth prospects",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0444,
+      "is_current_employee": false,
+      "review_date": "2024-10-09"
+    },
+    {
+      "title": null,
+      "role": "Business Development Manager",
+      "location": "Kolkata",
+      "rating": 3.0,
+      "pros": "Timing flexible",
+      "cons": "If you are performing well then it's ok but if you don't perform company will throw you out within few days",
+      "sentiment": "positive",
+      "sentiment_score": 0.3818,
+      "is_current_employee": false,
+      "review_date": "2024-07-19"
+    },
+    {
+      "title": null,
+      "role": "Executive Assistant",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Less hierarchy bias, end to end ownership of delieverables, Sound culture that promotes being in charge",
+      "cons": "Lesser leadership involvement (Interaction) with in-house people",
+      "sentiment": "positive",
+      "sentiment_score": 0.3134,
+      "is_current_employee": false,
+      "review_date": "2024-10-11"
+    },
+    {
+      "title": null,
+      "role": "Associate Technical Consultant",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Culture is good",
+      "cons": "None it’s the best company",
+      "sentiment": "negative",
+      "sentiment_score": -0.12,
+      "is_current_employee": true,
+      "review_date": "2025-01-12"
+    },
+    {
+      "title": null,
+      "role": "Assistant Merchant",
+      "location": "Pune",
+      "rating": 1.0,
+      "pros": "They just delay everything",
+      "cons": "Just Big no to Razorpay pay there support system will likely to kill your self .. it takes 24 hours to get a reply and suppose they have asked for some clarification and you replied to mail with your clarification.\nWait for 24 hours.\nRazorpay will reply you without reading your previous mail and they will ask you some new irrelevant questions.\nSomehow you are going to reply them with there irrelevant questions and wait for 24 hours.\nRazorpay pay reply after 24 hours again without reading your some irrelevant questions with your replied answer. They ask you some new irrelevant documents to submit ha ha ha ...\nIt is happening with me they will debit your amount without any receipt or notice they will hold your settlement they ignore to resolve the main problem.\nThey will start a loop of irrelevant questions and the loop will get active after 24 hours you will feel like why I have used Razorpay for our company.\nThere chat support is very wonderful garbage they don't know what to do and they are not there to help you instead they reply you the same \"\" I will forward this issue to our team \"'\nI am facing this twice now still waiting for 24 hours and with some new irrelevant questions.\nI have all the records and email communication with them which I am keeping to start a legal battle.\nSorry I forgot to write they will reply you by deleting your previous email.\nNew update 16 Feb 2024\nAfter Submitting what was asked on 15 Feb 2024 by Razorpay. Razorpay replied with the same irrelevant questions which was asked 1 month before.. there is no use of submitting what they are asking. Again again the same loop.\nI just replied them to read the mail what they have asked we have submitted but they even don't bother to open the mail and read it.\nLet see again waiting for 24 hours I will wait back here just waiting for 24 hours.\nUpdate 19 Feb\nReply from Razorpay.. They just replied that please write us back what we have asked...\nReply by us\nPlease send your merchant customer care number we are going call and resolve this because we don't think you people are going to read the emails or solve this by email.\nWait for 24 hours....tik tik\nYeahhh\nUpdate on 20 Feb\nReply by Razorpay...\nDear Partner\nGreetings From Razorpay\nThank you for your response ,\nWe tried calling you over the phone , but didnot got any response .\nPlease revert back to the mail with an alternate phone number or time where we can reach out to you .\nWe seek your help and support in this regard.\n.........Reply by us..........\nWe have not received any call from your side we have screenshot of call recording.\n\"\"\" Without calling to us they just replied we are unable to reach.....\"\"\"\nStill they are not sharing support number to call ..",
+      "sentiment": "positive",
+      "sentiment_score": 0.9868,
+      "is_current_employee": true,
+      "review_date": "2024-02-20"
+    },
+    {
+      "title": null,
+      "role": "Senior Engineering Lead",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "N/A",
+      "cons": "Cheap politics, silent layoffs, corrupt leaders and abusive culture",
+      "sentiment": "negative",
+      "sentiment_score": -0.6369,
+      "is_current_employee": false,
+      "review_date": "2024-09-17"
+    },
+    {
+      "title": null,
+      "role": "Senior Software Engineer",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "- Non-Corporate, Open Culture where you can have memes and stuff in ppts and messages",
+      "cons": "- Leadership is focused on only one thing. Profitability. Cost cutting in all aspects (Including promo hikes)\n- No clear path of leadership on execution. Quarter plan is one thing and what they make you execute is totally other thing.\n- No Work Life Balance",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0475,
+      "is_current_employee": true,
+      "review_date": "2024-01-31"
+    },
+    {
+      "title": null,
+      "role": "Senior Salesforce Administrator",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Culture",
+      "cons": "Work pressure is little more.",
+      "sentiment": "negative",
+      "sentiment_score": -0.296,
+      "is_current_employee": false,
+      "review_date": "2024-09-06"
+    },
+    {
+      "title": null,
+      "role": "Enterprise Account Manager",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Free food in the house",
+      "cons": "Single digit appraisals",
+      "sentiment": "positive",
+      "sentiment_score": 0.5106,
+      "is_current_employee": false,
+      "review_date": "2024-09-26"
+    },
+    {
+      "title": null,
+      "role": "Operations Executive",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Nothing. Work load is more and no career growth.",
+      "cons": "Everything. Office politics. No promotion or salary revision.",
+      "sentiment": "negative",
+      "sentiment_score": -0.7061,
+      "is_current_employee": true,
+      "review_date": "2025-01-30"
+    },
+    {
+      "title": null,
+      "role": "Financial Controller",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Proximity & office infrastructure",
+      "cons": "Vindictive culure & groupism",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-01-28"
+    },
+    {
+      "title": null,
+      "role": "Marketing Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "The founders seem clear about what they want\nThe compensation is good",
+      "cons": "People work in silos\nPoor upper management alignment \nBureaucracy and multiple processes \nUnrealistic expectations from employees",
+      "sentiment": "positive",
+      "sentiment_score": 0.4019,
+      "is_current_employee": false,
+      "review_date": "2024-05-23"
+    },
+    {
+      "title": null,
+      "role": "Associate Solutions Engineer",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "A decent work culture",
+      "cons": "Micro-Managing, lack of personal life, daily over time required to complete tasks, absence of salary hike and recognition, not a market-worth salary",
+      "sentiment": "negative",
+      "sentiment_score": -0.3182,
+      "is_current_employee": false,
+      "review_date": "2024-05-03"
+    },
+    {
+      "title": null,
+      "role": "Regional Manager",
+      "location": "Gurugram",
+      "rating": 4.0,
+      "pros": "Lots of freedom to work in your own way. Few banks fully support Razorpay over competition.",
+      "cons": "Incentives are less than with competition.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8588,
+      "is_current_employee": false,
+      "review_date": "2024-05-27"
+    },
+    {
+      "title": null,
+      "role": "Analytics Manager",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "A lot of responsibility and decision making in work.",
+      "cons": "Lacking vision in some places due to a lot of home grown folks who may not have varied experience.",
+      "sentiment": "positive",
+      "sentiment_score": 0.25,
+      "is_current_employee": false,
+      "review_date": "2024-09-30"
+    },
+    {
+      "title": null,
+      "role": "Customer Success Associate",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "The Company Culture is amazing!",
+      "cons": "Compensation could be better, employees don't feel valued unless you are a manager.",
+      "sentiment": "positive",
+      "sentiment_score": 0.6794,
+      "is_current_employee": false,
+      "review_date": "2024-07-11"
+    },
+    {
+      "title": null,
+      "role": "Senior Associate",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Razorpay has very good working culture, you don't need to take prior approvals for senior management to take leaves.",
+      "cons": "Appraisals, Promotion, Senior Management doesn't want to listen anything",
+      "sentiment": "positive",
+      "sentiment_score": 0.4536,
+      "is_current_employee": true,
+      "review_date": "2024-04-09"
+    },
+    {
+      "title": null,
+      "role": "Technical Account Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Free food and youth croud",
+      "cons": "No work life balance",
+      "sentiment": "positive",
+      "sentiment_score": 0.2732,
+      "is_current_employee": false,
+      "review_date": "2024-11-16"
+    },
+    {
+      "title": null,
+      "role": "Product Development Engineer",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Learning curve is exponential, but learning can be used within org mostly",
+      "cons": "Work like hell, no work life balance\nCtc is low compared to SDE, but work is same\nAlmost no promotion and little Appraisal below 10%\nYou will get on PIP and can be moved out",
+      "sentiment": "negative",
+      "sentiment_score": -0.8992,
+      "is_current_employee": true,
+      "review_date": "2024-03-24"
+    },
+    {
+      "title": null,
+      "role": "Senior Key Account Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Ownership",
+      "cons": "Salary parity is not maintained",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": false,
+      "review_date": "2024-09-01"
+    },
+    {
+      "title": null,
+      "role": "Associate Consultant",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "The work culture is very nice",
+      "cons": "Sometimes work can be hectic",
+      "sentiment": "positive",
+      "sentiment_score": 0.4754,
+      "is_current_employee": false,
+      "review_date": "2024-08-01"
+    },
+    {
+      "title": null,
+      "role": "Customer experience Specialist",
+      "location": "Gurugram",
+      "rating": 1.0,
+      "pros": "Its a fraud company. Request employers not to fall for the trap",
+      "cons": "everything is pathetic.\nCx service\nManagement is least bothered.\nthey forget to file compliances each time",
+      "sentiment": "negative",
+      "sentiment_score": -0.867,
+      "is_current_employee": false,
+      "review_date": "2024-05-03"
+    },
+    {
+      "title": null,
+      "role": "Key Account Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Culture",
+      "cons": "Politics, performance appraisal, bias, doesn’t have a clear vision, reactive approach to everything",
+      "sentiment": "positive",
+      "sentiment_score": 0.4939,
+      "is_current_employee": false,
+      "review_date": "2024-06-05"
+    },
+    {
+      "title": null,
+      "role": "Software Engineer",
+      "location": "Mumbai",
+      "rating": 4.0,
+      "pros": "Good culture, food & work",
+      "cons": "Work life Balance and appraisals",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": false,
+      "review_date": "2024-07-08"
+    },
+    {
+      "title": null,
+      "role": "Software Developer",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Transparency, Culture, Flexibility",
+      "cons": "Growth and opportunities, Way of working.",
+      "sentiment": "positive",
+      "sentiment_score": 0.765,
+      "is_current_employee": false,
+      "review_date": "2024-07-02"
+    },
+    {
+      "title": null,
+      "role": "Senior Solution Consultant",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Free food\nGood people to work with",
+      "cons": "To many product launches. Focus should be",
+      "sentiment": "positive",
+      "sentiment_score": 0.7351,
+      "is_current_employee": false,
+      "review_date": "2024-06-21"
+    },
+    {
+      "title": null,
+      "role": "Software Development Engineer",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Razorpay is a great place to work, you can learn new technologies.",
+      "cons": "Promotions and Appraisals are really bad at Razorpay.",
+      "sentiment": "positive",
+      "sentiment_score": 0.079,
+      "is_current_employee": false,
+      "review_date": "2024-05-15"
+    },
+    {
+      "title": null,
+      "role": "Senior Business Development Associate",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Work life balance and good culture",
+      "cons": "Less hike",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": false,
+      "review_date": "2024-06-23"
+    },
+    {
+      "title": null,
+      "role": "Product Manager",
+      "location": "Belagavi",
+      "rating": 1.0,
+      "pros": "Nothing at all to like",
+      "cons": "Everything is horrible here actually",
+      "sentiment": "negative",
+      "sentiment_score": -0.25,
+      "is_current_employee": false,
+      "review_date": "2024-10-05"
+    },
+    {
+      "title": null,
+      "role": "Product Development Engineer",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Colleague are helpful and motivates you",
+      "cons": "Organization wide roles and responsibilities not defined properly.",
+      "sentiment": "positive",
+      "sentiment_score": 0.4215,
+      "is_current_employee": false,
+      "review_date": "2024-08-16"
+    },
+    {
+      "title": null,
+      "role": "Territory Manager",
+      "location": "Gurugram",
+      "rating": 5.0,
+      "pros": "Good work",
+      "cons": "pos rental issue and pos merchant issue",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2024-04-22"
+    },
+    {
+      "title": null,
+      "role": "Brand Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Great culture and people to work with.",
+      "cons": "Not a long term vision for the company",
+      "sentiment": "positive",
+      "sentiment_score": 0.7269,
+      "is_current_employee": false,
+      "review_date": "2024-05-22"
+    },
+    {
+      "title": null,
+      "role": "Salesman",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "culture\nlife style\nmanager\nsalary\noffice\nfood",
+      "cons": "nothing as much",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": false,
+      "review_date": "2024-06-23"
+    },
+    {
+      "title": null,
+      "role": "Data Analyst",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Work life balance is good.",
+      "cons": "I haven't seen any cons as of now.",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": false,
+      "review_date": "2024-07-02"
+    },
+    {
+      "title": null,
+      "role": "Senior Android Developer",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "All good",
+      "cons": "Nothing as such to share",
+      "sentiment": "positive",
+      "sentiment_score": 0.6249,
+      "is_current_employee": false,
+      "review_date": "2025-01-03"
+    },
+    {
+      "title": null,
+      "role": "Production Manager",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Not good salary\nWork is good",
+      "cons": "No good salary \nGood food",
+      "sentiment": "positive",
+      "sentiment_score": 0.2472,
+      "is_current_employee": false,
+      "review_date": "2024-06-12"
+    },
+    {
+      "title": null,
+      "role": "Software Developer",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Nothing much",
+      "cons": "No proper career growth\nNo proper appraisals or promotions \nSame redundant work\nHigher management always blames lower members incase of incident or escalations",
+      "sentiment": "negative",
+      "sentiment_score": -0.3843,
+      "is_current_employee": true,
+      "review_date": "2024-04-03"
+    },
+    {
+      "title": null,
+      "role": "Lead Product Engineer",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Work is interesting some times",
+      "cons": "Poor management. They started this SDE PDE confusion which is making people to leave the company",
+      "sentiment": "negative",
+      "sentiment_score": -0.4215,
+      "is_current_employee": true,
+      "review_date": "2024-04-24"
+    },
+    {
+      "title": null,
+      "role": "Sr.Executivefinance",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Overall company and culture was good.",
+      "cons": "The finance team was not at all friendly and extremely hierarchy based with no value to anyone below managerial levels.",
+      "sentiment": "negative",
+      "sentiment_score": -0.1935,
+      "is_current_employee": true,
+      "review_date": "2024-12-26"
+    },
+    {
+      "title": null,
+      "role": "Program Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Nothing much",
+      "cons": "Company culture, colleagues, role of program manager is nothing, politics",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": false,
+      "review_date": "2024-06-26"
+    },
+    {
+      "title": null,
+      "role": "Food & Beverage Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Culture for Razorpay employees good not for c&w",
+      "cons": "Micromanaging mind set",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": false,
+      "review_date": "2024-09-16"
+    },
+    {
+      "title": null,
+      "role": "Key Account Manager",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "The culture is good for the organisation.",
+      "cons": "As they have started hiring people from non fintechs due to which it is hampering the work culture. Being B2B and a payment gateway company, they are hiring candidates from b2c. \nThe designation they offer is low as compared to the work ex you have. \nAgain when it comes to the work it depends on which team you are working with.",
+      "sentiment": "positive",
+      "sentiment_score": 0.2023,
+      "is_current_employee": false,
+      "review_date": "2023-08-15"
+    },
+    {
+      "title": null,
+      "role": "Department Manager",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Problem statements are good and challenging",
+      "cons": "Silent Layoffs, Weaponization of PIP to fire People, and No respect for people who have invested multiple years building the organisation successfully. \nSeem the founder has lost all morals in the greed of making the IPO successful.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0397,
+      "is_current_employee": false,
+      "review_date": "2023-11-21"
+    },
+    {
+      "title": null,
+      "role": "Product Developer",
+      "location": "Pune",
+      "rating": 5.0,
+      "pros": "Culture is very good",
+      "cons": "Technology changed as per project",
+      "sentiment": "positive",
+      "sentiment_score": 0.4927,
+      "is_current_employee": true,
+      "review_date": "2024-04-08"
+    },
+    {
+      "title": null,
+      "role": "Senior Associate",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Good company culture",
+      "cons": "Increment appraisals",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2024-04-14"
+    },
+    {
+      "title": null,
+      "role": "Senior Engineering Manager",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Good people to work with",
+      "cons": "_ Founder expectation",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2024-04-04"
+    },
+    {
+      "title": null,
+      "role": "Product Development Engineer",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Good engineering culture, in terms of learning and focus on improving dev productivity.\nSmart peers, good office.",
+      "cons": "As fintech is competitive space, there's some deadline pressure as such in projects, which can cause tech debts in project at times. \nLots of tech debts in many projects.\nMany repo's are still in PHP which is an outdated technology, although they are putting efforts to shift to Golang.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8689,
+      "is_current_employee": false,
+      "review_date": "2023-08-12"
+    },
+    {
+      "title": null,
+      "role": "Production Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "High growth company with something to learn",
+      "cons": "Unethical work culture and unreasonable leadership",
+      "sentiment": "negative",
+      "sentiment_score": -0.1779,
+      "is_current_employee": true,
+      "review_date": "2024-04-13"
+    },
+    {
+      "title": null,
+      "role": "Team Lead Operations",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "The office vibes.",
+      "cons": "Differentiation on the basis of North and South.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": false,
+      "review_date": "2024-11-06"
+    },
+    {
+      "title": null,
+      "role": "Sales Executive",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Work Culture is Amazing",
+      "cons": "Salary is less",
+      "sentiment": "positive",
+      "sentiment_score": 0.5859,
+      "is_current_employee": true,
+      "review_date": "2024-04-29"
+    },
+    {
+      "title": null,
+      "role": "Solution Engineer",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Environment, Food",
+      "cons": "Nothing as such",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": false,
+      "review_date": "2024-08-30"
+    },
+    {
+      "title": null,
+      "role": "Senior Manager",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Nothing",
+      "cons": "Culture, it exists only on ppt slides for all hands meet to fool the people.",
+      "sentiment": "negative",
+      "sentiment_score": -0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-01-14"
+    },
+    {
+      "title": null,
+      "role": "Senior Area Manager",
+      "location": "Ahmedabad",
+      "rating": 1.0,
+      "pros": "Nothing & There is nothing god",
+      "cons": "working and Products not good",
+      "sentiment": "negative",
+      "sentiment_score": -0.4973,
+      "is_current_employee": false,
+      "review_date": "2024-07-24"
+    },
+    {
+      "title": null,
+      "role": "Product Designer",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Nothing much",
+      "cons": "Nothing much, no growth is what i experienced",
+      "sentiment": "positive",
+      "sentiment_score": 0.2206,
+      "is_current_employee": false,
+      "review_date": "2024-06-24"
+    },
+    {
+      "title": null,
+      "role": "Senior Associate",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "good culture",
+      "cons": "nothing as such",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": false,
+      "review_date": "2024-08-08"
+    },
+    {
+      "title": null,
+      "role": "Senior Software Engineer",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "WLB",
+      "cons": "Hike, Work, Culture has also started becoming toxic now in few teams",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2024-01-09"
+    },
+    {
+      "title": null,
+      "role": "Product Manager",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Learning, fast paced",
+      "cons": "Low growth, hustle culture",
+      "sentiment": "positive",
+      "sentiment_score": 0.128,
+      "is_current_employee": false,
+      "review_date": "2024-06-01"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Company is good satisfying",
+      "cons": "The CS Management is not good",
+      "sentiment": "positive",
+      "sentiment_score": 0.5414,
+      "is_current_employee": false,
+      "review_date": "2024-11-19"
+    },
+    {
+      "title": null,
+      "role": "Financial Analyst",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Facilities provided to employees are great even as a startup.",
+      "cons": "Growth is not easy",
+      "sentiment": "positive",
+      "sentiment_score": 0.6479,
+      "is_current_employee": true,
+      "review_date": "2023-12-15"
+    },
+    {
+      "title": null,
+      "role": "Analyst",
+      "location": "Hyderabad",
+      "rating": 3.0,
+      "pros": "Good to work the org",
+      "cons": "Bad to work with org",
+      "sentiment": "negative",
+      "sentiment_score": -0.1531,
+      "is_current_employee": false,
+      "review_date": "2024-05-16"
+    },
+    {
+      "title": null,
+      "role": "Marketing",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Great exposure and freedom to experiment",
+      "cons": "Extremely poor recognition system and appraisal process. Highly toxic culture in terms of only rear-kissers will get promoted.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8275,
+      "is_current_employee": false,
+      "review_date": "2023-10-17"
+    },
+    {
+      "title": null,
+      "role": "Senior Director Marketing",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Razorpay is a startup with the vision to be a generational company. With that vision in mind, it focusses on building a great culture, progressive policies, transparent dealings and much more. The whole org is geared to help PPL improve.",
+      "cons": "Not much really. It can be a bit too lax at times",
+      "sentiment": "positive",
+      "sentiment_score": 0.9136,
+      "is_current_employee": false,
+      "review_date": "2023-07-29"
+    },
+    {
+      "title": null,
+      "role": "Senior Manager",
+      "location": "Hyderabad",
+      "rating": 5.0,
+      "pros": "Can learn lot of things in terms of gaining knowledge about product..",
+      "cons": "The management of the company doesn't listen anything about group reality..",
+      "sentiment": "positive",
+      "sentiment_score": 0.4215,
+      "is_current_employee": true,
+      "review_date": "2024-01-29"
+    },
+    {
+      "title": null,
+      "role": "Senior Software Engineer",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "- Good overall culture",
+      "cons": "- Inefficient higher management\n- poor work life balance\n- not good appraisals",
+      "sentiment": "negative",
+      "sentiment_score": -0.383,
+      "is_current_employee": true,
+      "review_date": "2023-12-12"
+    },
+    {
+      "title": null,
+      "role": "Business Development Associate",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Company culture",
+      "cons": "Team management, higher leadership, product half cooked, employee compensation and professional growth, product support and fake market persona of Razorpay",
+      "sentiment": "positive",
+      "sentiment_score": 0.296,
+      "is_current_employee": false,
+      "review_date": "2023-11-27"
+    },
+    {
+      "title": null,
+      "role": "Staff Engineer",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Nothing",
+      "cons": "Worst place to work. Toxic, politics. Worst person Nikhil Singh Associate Director of engg.",
+      "sentiment": "negative",
+      "sentiment_score": -0.2037,
+      "is_current_employee": true,
+      "review_date": "2024-12-23"
+    },
+    {
+      "title": null,
+      "role": "Customer Success Analyst",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "best company for professional development",
+      "cons": "none",
+      "sentiment": "positive",
+      "sentiment_score": 0.6369,
+      "is_current_employee": true,
+      "review_date": "2024-04-04"
+    },
+    {
+      "title": null,
+      "role": "Engineering Manager",
+      "location": "Pune",
+      "rating": 4.0,
+      "pros": "Lots of fun while working.",
+      "cons": "Pressure from each side",
+      "sentiment": "positive",
+      "sentiment_score": 0.2732,
+      "is_current_employee": false,
+      "review_date": "2023-11-21"
+    },
+    {
+      "title": null,
+      "role": "Analytical Specialist",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "- Great company culture\n- Lunch+Snacks+Dinner is on the house\n- Great work-life balance",
+      "cons": "- You can be a victim of pay disparity",
+      "sentiment": "positive",
+      "sentiment_score": 0.7717,
+      "is_current_employee": false,
+      "review_date": "2023-10-06"
+    },
+    {
+      "title": null,
+      "role": "Senior Software Development Engineer",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Work culture",
+      "cons": "salary benifits and politics",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2023-12-13"
+    },
+    {
+      "title": null,
+      "role": "Senior Front end Developer",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Talented engineers to work with. Company is growing fast.",
+      "cons": "Projects are not well planned leading to delays in delivery. Lots of ad-hoc requirement changes are there most of the time. Lots of difference in salary of people. You will frequently see that engineers with less experience are earning way more than a more experienced engineer. And the difference is not 1-2 lakh rupees, it's way more! Razorpay should try to bring everyone at one designation to almost equal salary. Razorpay should have confidence to tell prospective employees that they offer only this much range for this designation. Many people have complained that the newly joining engineers have more pay and benefits than those who have stayed loyal with company. This pushes the people to switch jobs to get higher pay as they see people switching jobs annually are having so many benefits.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8963,
+      "is_current_employee": false,
+      "review_date": "2023-02-10"
+    },
+    {
+      "title": null,
+      "role": "Sdet Lead",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "All the things that are provided is very good.",
+      "cons": "Nothing as of now",
+      "sentiment": "positive",
+      "sentiment_score": 0.4927,
+      "is_current_employee": false,
+      "review_date": "2023-10-27"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "The culture and the environment is simply the best",
+      "cons": "In certain operation teams they are bringing people from hardcore banking for a bargain who are used to a stern micro managerial culture and that is spreading.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7964,
+      "is_current_employee": false,
+      "review_date": "2023-07-28"
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Company culture.",
+      "cons": "Promotions, Appraisal, Job Security, Skill Development / Learning, Salary & Benefits",
+      "sentiment": "positive",
+      "sentiment_score": 0.6124,
+      "is_current_employee": true,
+      "review_date": "2023-12-21"
+    },
+    {
+      "title": null,
+      "role": "Analytical Specialist",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "It has job security, like a govt job",
+      "cons": "No much to learn and hikes are very very poor",
+      "sentiment": "negative",
+      "sentiment_score": -0.2433,
+      "is_current_employee": false,
+      "review_date": "2023-10-30"
+    },
+    {
+      "title": null,
+      "role": "Collection Associate",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Work culture, positive environment, peers, employee value, learning",
+      "cons": "Lack of proper structure (primary responsibilities, work assigned), still in hustle mode",
+      "sentiment": "positive",
+      "sentiment_score": 0.5719,
+      "is_current_employee": false,
+      "review_date": "2024-05-28"
+    },
+    {
+      "title": null,
+      "role": "Area Manager",
+      "location": "Guwahati",
+      "rating": 5.0,
+      "pros": "Good work staff",
+      "cons": "Need to improve some product issue",
+      "sentiment": "positive",
+      "sentiment_score": 0.7003,
+      "is_current_employee": true,
+      "review_date": "2026-01-19"
+    },
+    {
+      "title": null,
+      "role": "Associate Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Great set of people to work with.",
+      "cons": "Employee growth trajectory could be faster.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7717,
+      "is_current_employee": false,
+      "review_date": "2023-10-31"
+    },
+    {
+      "title": null,
+      "role": "Associate Account Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Razorpay culture is good with respect to the events, activities etc",
+      "cons": "Too many experiments are happening in my department (Mid Market). The main aim of the account manager is taken on a toss and too much focus is being given on cross sells. \nThe support system for Merchants is not upto the mark. Empathy is missing from the internal teams while working on the issues of the Merchants.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7579,
+      "is_current_employee": false,
+      "review_date": "2023-01-29"
+    },
+    {
+      "title": null,
+      "role": "Software Developer",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "cannot say much about the org",
+      "cons": "cannot say much about the org",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2024-04-27"
+    },
+    {
+      "title": null,
+      "role": "Engineering Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Culture used to be good.",
+      "cons": "How they handled wfo/wfh situation.",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": false,
+      "review_date": "2024-04-30"
+    },
+    {
+      "title": null,
+      "role": "Senior Associate",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Work culture, ownership, flexibility and experimentation culture",
+      "cons": "None so far. Promotions are market- dependent.",
+      "sentiment": "positive",
+      "sentiment_score": 0.34,
+      "is_current_employee": false,
+      "review_date": "2023-08-07"
+    },
+    {
+      "title": null,
+      "role": "Administration Manager",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Employee oriented company...",
+      "cons": "Nothing.. everything was nice...",
+      "sentiment": "negative",
+      "sentiment_score": -0.3252,
+      "is_current_employee": false,
+      "review_date": "2023-11-15"
+    },
+    {
+      "title": null,
+      "role": "HR Manager",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Nothing",
+      "cons": "The Interview process was horrible, no communication, no structure, the HRBP Manager took my interview and as usual asked me a few questions about my experience but wait, she didn't allow me to talk or complete my statements.\nShe kept speaking and held a very egoistic body language - with an attitude which says 'you are nothing'.\nSince the very beginning of interaction, the communication was never clear, i checked with acouple of folks about the same and they too had similar experiences.\nThe best part is my ex colleague is also working here and this person clearly warned me of the toxic culture within the org and the unprofessional behaviour among employees, sadly now the culture isn't an issue as the people who've built the culture are themselves toxic.\nPlease do no spoil your career by joining here.\nRegards,\nAnother fellow HR",
+      "sentiment": "negative",
+      "sentiment_score": -0.7566,
+      "is_current_employee": false,
+      "review_date": "2023-08-11"
+    },
+    {
+      "title": null,
+      "role": "Lead Product Engineer",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Culture is very very good",
+      "cons": "Work from Office policy is bad",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0074,
+      "is_current_employee": false,
+      "review_date": "2023-10-05"
+    },
+    {
+      "title": null,
+      "role": "Senior Territory Manager",
+      "location": "Noida",
+      "rating": 5.0,
+      "pros": "Fruitful work culture, & also whole team are dedicated for any time support.",
+      "cons": "As an employee still i've not fined any issue in this company",
+      "sentiment": "positive",
+      "sentiment_score": 0.6908,
+      "is_current_employee": false,
+      "review_date": "2023-07-09"
+    },
+    {
+      "title": null,
+      "role": "Associate Director",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Work life balance",
+      "cons": "toxic culture\nMicromanagement",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": false,
+      "review_date": "2023-10-27"
+    },
+    {
+      "title": null,
+      "role": "Customer Success Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Good, Emerging startup, flexible timing",
+      "cons": "Saturday working , Compensation may be average",
+      "sentiment": "positive",
+      "sentiment_score": 0.5859,
+      "is_current_employee": false,
+      "review_date": "2023-08-25"
+    },
+    {
+      "title": null,
+      "role": "Software Development Engineer",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Company culture is good here.",
+      "cons": "Promotions are very hard to get",
+      "sentiment": "positive",
+      "sentiment_score": 0.2975,
+      "is_current_employee": false,
+      "review_date": "2023-10-08"
+    },
+    {
+      "title": null,
+      "role": "Banking Officer",
+      "location": null,
+      "rating": 5.0,
+      "pros": "Good 👍",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-11-24"
+    },
+    {
+      "title": null,
+      "role": "Senior Associate",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "The values of the company don't allow any micromanagement and insecurities at work.",
+      "cons": "Appraisal for employees meeting expectations was 3.5%",
+      "sentiment": "negative",
+      "sentiment_score": -0.194,
+      "is_current_employee": false,
+      "review_date": "2023-06-08"
+    },
+    {
+      "title": null,
+      "role": "Associate Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Work-Life Balance is really great",
+      "cons": "Nothing that I dislike as of now.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7634,
+      "is_current_employee": false,
+      "review_date": "2023-09-01"
+    },
+    {
+      "title": null,
+      "role": "System Engineer",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "The best of the companies in India and a great pay master with wonderful HR support and people culture :)",
+      "cons": "The best place to work, great perks and incentives",
+      "sentiment": "positive",
+      "sentiment_score": 0.9816,
+      "is_current_employee": false,
+      "review_date": "2023-06-15"
+    },
+    {
+      "title": null,
+      "role": "Production Analyst",
+      "location": "Pune",
+      "rating": 4.0,
+      "pros": "Work environment is good and knowledge in payment domain is strong",
+      "cons": "Hierarchy not satisfied",
+      "sentiment": "positive",
+      "sentiment_score": 0.5951,
+      "is_current_employee": false,
+      "review_date": "2023-08-09"
+    },
+    {
+      "title": null,
+      "role": "Strategic Account Manager",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Lunch",
+      "cons": "No fresh air zone. \nInternal politics will hold your growth. No fair evaluation process. \nBeing a market leader, there are a lot of unmentioned drawbacks\nMajor focus on appearances and favouritism rather than work.",
+      "sentiment": "negative",
+      "sentiment_score": -0.0834,
+      "is_current_employee": false,
+      "review_date": "2023-10-24"
+    },
+    {
+      "title": null,
+      "role": "Associate",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Flexible working hours\nCulture is very good",
+      "cons": "Few managers are not supposed to be part of razorpay as they dont know anything abouts hiring & sales",
+      "sentiment": "positive",
+      "sentiment_score": 0.624,
+      "is_current_employee": false,
+      "review_date": "2023-05-18"
+    },
+    {
+      "title": null,
+      "role": "Product Development Engineer",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Nothing",
+      "cons": "Salary. Work life balance . Pressure",
+      "sentiment": "negative",
+      "sentiment_score": -0.296,
+      "is_current_employee": false,
+      "review_date": "2023-10-09"
     }
   ],
   "salaries": [
     {
       "role": "Senior Software Engineer",
       "location": null,
-      "min_salary": 1600000,
+      "min_salary": 1670000,
       "max_salary": 4250000,
-      "avg_salary": 2981741,
+      "avg_salary": 3004771,
       "currency": "INR",
       "experience": "1-6 years",
       "sample_count": null
@@ -749,41 +1961,41 @@
     {
       "role": "Software Developer",
       "location": null,
-      "min_salary": 933600,
+      "min_salary": 948800,
       "max_salary": 2700000,
-      "avg_salary": 1925237,
+      "avg_salary": 1950771,
       "currency": "INR",
       "experience": "1-4 years",
-      "sample_count": null
-    },
-    {
-      "role": "Software Development Engineer",
-      "location": null,
-      "min_salary": 1370000,
-      "max_salary": 2663999,
-      "avg_salary": 1973719,
-      "currency": "INR",
-      "experience": "0-4 years",
       "sample_count": null
     },
     {
       "role": "Software Engineer",
       "location": null,
-      "min_salary": 845600,
-      "max_salary": 2440000,
-      "avg_salary": 1618244,
+      "min_salary": 800000,
+      "max_salary": 2400000,
+      "avg_salary": 1598063,
       "currency": "INR",
-      "experience": "1-4 years",
+      "experience": "0-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Software Development Engineer",
+      "location": null,
+      "min_salary": 1400000,
+      "max_salary": 2700000,
+      "avg_salary": 2054526,
+      "currency": "INR",
+      "experience": "0-4 years",
       "sample_count": null
     },
     {
       "role": "Product Manager",
       "location": null,
       "min_salary": 2000000,
-      "max_salary": 4000000,
-      "avg_salary": 2994211,
+      "max_salary": 4200000,
+      "avg_salary": 3020479,
       "currency": "INR",
-      "experience": "1-7 years",
+      "experience": "2-8 years",
       "sample_count": null
     },
     {
@@ -801,7 +2013,7 @@
       "location": null,
       "min_salary": 1600000,
       "max_salary": 2700000,
-      "avg_salary": 1966062,
+      "avg_salary": 1948810,
       "currency": "INR",
       "experience": "0-4 years",
       "sample_count": null
@@ -811,9 +2023,129 @@
       "location": null,
       "min_salary": 2700000,
       "max_salary": 6000000,
-      "avg_salary": 4812067,
+      "avg_salary": 4763277,
       "currency": "INR",
       "experience": "5-9 years",
+      "sample_count": null
+    },
+    {
+      "role": "Analytics Specialist",
+      "location": null,
+      "min_salary": 1200000,
+      "max_salary": 1800000,
+      "avg_salary": 1473980,
+      "currency": "INR",
+      "experience": "1-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Product Development Engineer",
+      "location": null,
+      "min_salary": 700000,
+      "max_salary": 1200000,
+      "avg_salary": 992862,
+      "currency": "INR",
+      "experience": "1-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Senior Software Development Engineer",
+      "location": null,
+      "min_salary": 2500000,
+      "max_salary": 4200000,
+      "avg_salary": 3475247,
+      "currency": "INR",
+      "experience": "2-8 years",
+      "sample_count": null
+    },
+    {
+      "role": "Front end Developer",
+      "location": null,
+      "min_salary": 1200000,
+      "max_salary": 5500000,
+      "avg_salary": 3088947,
+      "currency": "INR",
+      "experience": "1-5 years",
+      "sample_count": null
+    },
+    {
+      "role": "Business Analyst",
+      "location": null,
+      "min_salary": 375000,
+      "max_salary": 1050000,
+      "avg_salary": 632244,
+      "currency": "INR",
+      "experience": "0-3 years",
+      "sample_count": null
+    },
+    {
+      "role": "Data Analyst",
+      "location": null,
+      "min_salary": 600000,
+      "max_salary": 1200000,
+      "avg_salary": 940456,
+      "currency": "INR",
+      "experience": "0-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Front end Engineer",
+      "location": null,
+      "min_salary": 1200000,
+      "max_salary": 2600000,
+      "avg_salary": 1927829,
+      "currency": "INR",
+      "experience": "0-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Engineering Manager",
+      "location": null,
+      "min_salary": 3500000,
+      "max_salary": 9000000,
+      "avg_salary": 6168256,
+      "currency": "INR",
+      "experience": "5-13 years",
+      "sample_count": null
+    },
+    {
+      "role": "Product Manager 2",
+      "location": null,
+      "min_salary": 3100000,
+      "max_salary": 5000000,
+      "avg_salary": 4044849,
+      "currency": "INR",
+      "experience": "3-8 years",
+      "sample_count": null
+    },
+    {
+      "role": "Technical Consultant",
+      "location": null,
+      "min_salary": 500000,
+      "max_salary": 960000,
+      "avg_salary": 647374,
+      "currency": "INR",
+      "experience": "0-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Sdet Automation Test Engineer",
+      "location": null,
+      "min_salary": 1300000,
+      "max_salary": 1740000,
+      "avg_salary": 1533334,
+      "currency": "INR",
+      "experience": "3-3 years",
+      "sample_count": null
+    },
+    {
+      "role": "Key Account Manager",
+      "location": null,
+      "min_salary": 1400000,
+      "max_salary": 2711900,
+      "avg_salary": 1847103,
+      "currency": "INR",
+      "experience": "5-10 years",
       "sample_count": null
     }
   ],
@@ -929,27 +2261,27 @@
       "details": "Under the policy, Razorpay will provide continued financial support to the employee’s immediate family in case of an unfortunate demise."
     }
   ],
-  "_scraped_at": "2026-03-30T04:11:15.900016+00:00",
+  "_scraped_at": "2026-04-05T03:49:24.319579+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Razorpay",
   "_registry_industry": "Fintech",
   "_sentiment": {
-    "positiveCount": 33,
-    "negativeCount": 16,
-    "neutralCount": 11,
+    "positiveCount": 102,
+    "negativeCount": 40,
+    "neutralCount": 19,
     "topPositiveThemes": [
       "company culture",
       "salary & compensation",
+      "work-life balance",
       "career growth",
-      "benefits",
-      "work-life balance"
+      "benefits"
     ],
     "topNegativeThemes": [
       "company culture",
       "management",
       "career growth",
       "salary & compensation",
-      "job security"
+      "work-life balance"
     ]
   }
 }

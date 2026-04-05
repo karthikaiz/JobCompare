@@ -13,26 +13,26 @@ interface BenefitsBadgesProps {
 }
 
 const CATEGORY_COLORS: Record<string, string> = {
-  "health & insurance": "bg-red-100 text-red-700 border-red-200",
-  "health insurance": "bg-red-100 text-red-700 border-red-200",
-  "insurance": "bg-red-100 text-red-700 border-red-200",
-  "leaves & holidays": "bg-green-100 text-green-700 border-green-200",
-  "leaves": "bg-green-100 text-green-700 border-green-200",
-  "work-life balance": "bg-blue-100 text-blue-700 border-blue-200",
-  "work from home": "bg-blue-100 text-blue-700 border-blue-200",
-  "wfh": "bg-blue-100 text-blue-700 border-blue-200",
-  "food & drinks": "bg-orange-100 text-orange-700 border-orange-200",
-  "food": "bg-orange-100 text-orange-700 border-orange-200",
-  "cafeteria": "bg-orange-100 text-orange-700 border-orange-200",
-  "transport": "bg-purple-100 text-purple-700 border-purple-200",
-  "cab": "bg-purple-100 text-purple-700 border-purple-200",
-  "financial": "bg-emerald-100 text-emerald-700 border-emerald-200",
-  "retirement": "bg-emerald-100 text-emerald-700 border-emerald-200",
-  "learning & development": "bg-indigo-100 text-indigo-700 border-indigo-200",
-  "education": "bg-indigo-100 text-indigo-700 border-indigo-200",
-  "perks": "bg-pink-100 text-pink-700 border-pink-200",
-  "wellness": "bg-teal-100 text-teal-700 border-teal-200",
-  "gym": "bg-teal-100 text-teal-700 border-teal-200",
+  "health & insurance": "bg-red-500/15 text-red-400 border-red-500/25",
+  "health insurance": "bg-red-500/15 text-red-400 border-red-500/25",
+  "insurance": "bg-red-500/15 text-red-400 border-red-500/25",
+  "leaves & holidays": "bg-emerald-500/15 text-emerald-400 border-emerald-500/25",
+  "leaves": "bg-emerald-500/15 text-emerald-400 border-emerald-500/25",
+  "work-life balance": "bg-[#0070F3]/15 text-[#0070F3] border-[#0070F3]/25",
+  "work from home": "bg-[#0070F3]/15 text-[#0070F3] border-[#0070F3]/25",
+  "wfh": "bg-[#0070F3]/15 text-[#0070F3] border-[#0070F3]/25",
+  "food & drinks": "bg-orange-500/15 text-orange-400 border-orange-500/25",
+  "food": "bg-orange-500/15 text-orange-400 border-orange-500/25",
+  "cafeteria": "bg-orange-500/15 text-orange-400 border-orange-500/25",
+  "transport": "bg-purple-500/15 text-purple-400 border-purple-500/25",
+  "cab": "bg-purple-500/15 text-purple-400 border-purple-500/25",
+  "financial": "bg-[#00A6FF]/15 text-[#00A6FF] border-[#00A6FF]/25",
+  "retirement": "bg-[#00A6FF]/15 text-[#00A6FF] border-[#00A6FF]/25",
+  "learning & development": "bg-indigo-500/15 text-indigo-400 border-indigo-500/25",
+  "education": "bg-indigo-500/15 text-indigo-400 border-indigo-500/25",
+  "perks": "bg-pink-500/15 text-pink-400 border-pink-500/25",
+  "wellness": "bg-teal-500/15 text-teal-400 border-teal-500/25",
+  "gym": "bg-teal-500/15 text-teal-400 border-teal-500/25",
 };
 
 function getCategoryColor(category: string): string {
@@ -40,7 +40,7 @@ function getCategoryColor(category: string): string {
   for (const [key, value] of Object.entries(CATEGORY_COLORS)) {
     if (lower.includes(key)) return value;
   }
-  return "bg-gray-100 text-gray-700 border-gray-200";
+  return "bg-white/10 text-white/70 border-white/10";
 }
 
 export function BenefitsBadges({ benefits }: BenefitsBadgesProps) {

@@ -8,14 +8,62 @@
   "founded": 2007,
   "website": "https://www.flipkart.com/",
   "overall_rating": 3.9000000953674316,
-  "work_life_balance": 3.73,
+  "work_life_balance": 3.72,
   "salary_benefits": 3.75,
-  "job_security": 3.7,
-  "career_growth": 3.3,
-  "company_culture": 3.75,
+  "job_security": 3.69,
+  "career_growth": 3.29,
+  "company_culture": 3.74,
   "reviews": [
     {
-      "title": "rated by a Hub Operations Executive in Bhubaneswar",
+      "title": null,
+      "role": "BPO Executive",
+      "location": "Tenali",
+      "rating": 5.0,
+      "pros": "I like to solve the CX problem",
+      "cons": "I only like to work with flipkart I don't have any dislikes with flipkart I am very happy me I am working with flipkart",
+      "sentiment": "positive",
+      "sentiment_score": 0.8538,
+      "is_current_employee": true,
+      "review_date": "2026-03-31"
+    },
+    {
+      "title": null,
+      "role": "Team Manager",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Prior to 2022 it had been the best company with opportunities to explore, try new ideas and contribute. The humans in the system were valued and respected and fairly treated ethically, morally, financially and professionally.",
+      "cons": "Recently humans are treated very low ethically and morally and least respected.",
+      "sentiment": "positive",
+      "sentiment_score": 0.834,
+      "is_current_employee": true,
+      "review_date": "2026-03-31"
+    },
+    {
+      "title": null,
+      "role": "Operations Manager",
+      "location": "New Delhi",
+      "rating": 3.0,
+      "pros": "working alongside talented and driven people helps you grow both technically and professionally. There’s also a strong focus on customer-centric thinking, which makes the work meaningful because you’re directly impacting millions of users.",
+      "cons": "One downside of working at Flipkart can be the high-pressure environment. Since it’s a fast-paced e-commerce company, deadlines are often tight—especially during major sales events—which can sometimes lead to long working hours and work-life balance challenges.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8689,
+      "is_current_employee": true,
+      "review_date": "2026-03-30"
+    },
+    {
+      "title": null,
+      "role": "Lead HR Business Partner",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Competitive salary\nImportant decision announcement",
+      "cons": "Manager's need to be logical, shouldn't expect magic and try to adopt leadership role rather than being a typical Manager..\nWork life balance should be considered for the roles which can be managed remotely",
+      "sentiment": "positive",
+      "sentiment_score": 0.4939,
+      "is_current_employee": true,
+      "review_date": "2026-03-27"
+    },
+    {
+      "title": null,
       "role": "Hub Operations Executive",
       "location": "Bhubaneswar",
       "rating": 3.0,
@@ -27,7 +75,7 @@
       "review_date": "2026-03-25"
     },
     {
-      "title": "rated by a HUB Incharge in Ahmedabad",
+      "title": null,
       "role": "HUB Incharge",
       "location": "Ahmedabad",
       "rating": 1.0,
@@ -39,7 +87,7 @@
       "review_date": "2026-03-20"
     },
     {
-      "title": "rated by a Data Analyst in Bengaluru",
+      "title": null,
       "role": "Data Analyst",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -51,7 +99,7 @@
       "review_date": "2026-03-18"
     },
     {
-      "title": "rated by a Lead in Bengaluru",
+      "title": null,
       "role": "Lead",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -63,7 +111,7 @@
       "review_date": "2026-03-16"
     },
     {
-      "title": "rated by a Senior Key Account Manager in New Delhi",
+      "title": null,
       "role": "Senior Key Account Manager",
       "location": "New Delhi",
       "rating": 1.0,
@@ -75,7 +123,7 @@
       "review_date": "2026-03-16"
     },
     {
-      "title": "rated by a Key Account Manager in Bengaluru",
+      "title": null,
       "role": "Key Account Manager",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -87,7 +135,7 @@
       "review_date": "2026-03-01"
     },
     {
-      "title": "rated by a HR Executive Recruiter in Gurugram",
+      "title": null,
       "role": "HR Executive Recruiter",
       "location": "Gurugram",
       "rating": 5.0,
@@ -99,7 +147,7 @@
       "review_date": "2026-02-28"
     },
     {
-      "title": "rated by a Category Manager in Bengaluru",
+      "title": null,
       "role": "Category Manager",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -111,7 +159,7 @@
       "review_date": "2026-02-24"
     },
     {
-      "title": "rated by a Lead Operator in Gurugram",
+      "title": null,
       "role": "Lead Operator",
       "location": "Gurugram",
       "rating": 4.0,
@@ -123,79 +171,43 @@
       "review_date": "2026-01-10"
     },
     {
-      "title": "rated by a Category Manager in Bengaluru",
-      "role": "Category Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Flexibility or option to move Internaly is the only plus point.",
-      "cons": "Pathetic work life balance. People in leadership lack team management skills / empathy. Flipkart operates on one sole philosophy. Crank up the pressure and people will deliver at-least something on the plate.",
-      "sentiment": "negative",
-      "sentiment_score": -0.7003,
-      "is_current_employee": true,
-      "review_date": "2025-12-30"
-    },
-    {
-      "title": "rated by a Data Analyst in Bengaluru",
-      "role": "Data Analyst",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "A few people were nice.",
-      "cons": "There's a lot to say about my dislikes in Flipkart.\n1) favouritism \n2) clumsy work culture \n3) micromanagement \n4) no growth",
-      "sentiment": "negative",
-      "sentiment_score": -0.2695,
-      "is_current_employee": true,
-      "review_date": "2025-12-30"
-    },
-    {
-      "title": "rated by a Planning Manager in Bengaluru",
-      "role": "Planning Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
+      "title": null,
+      "role": "Executive",
+      "location": "Nandyal",
+      "rating": 5.0,
       "pros": "",
-      "cons": "Worst Company ever- No work life balance, least hike and no job security.. leadership keeps changing and new leader new way of working and again your life is hell",
+      "cons": "No it good",
       "sentiment": "negative",
-      "sentiment_score": -0.9341,
+      "sentiment_score": -0.5583,
       "is_current_employee": true,
-      "review_date": "2025-12-18"
+      "review_date": "2026-04-04"
     },
     {
-      "title": "rated by a Manager in Bengaluru",
-      "role": "Manager",
-      "location": "Bengaluru",
+      "title": null,
+      "role": "Floor Man",
+      "location": "Mumbai",
+      "rating": 5.0,
+      "pros": "Thank u sir",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.3612,
+      "is_current_employee": true,
+      "review_date": "2026-04-03"
+    },
+    {
+      "title": null,
+      "role": "Warehouse Incharge\r",
+      "location": "Ahmedabad",
       "rating": 4.0,
-      "pros": "Flipkart culture has helped me develop new skills that is helping me in shaping my career.\nThe fast paced environment keeps me engaged and never felt left out or not involved in the work taken by org to grow.",
-      "cons": "Sometimes the the work load makes you spend more than extra hrs and stretch beyond the limit. But still makes you feel good after effects brings positive results.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9042,
+      "pros": "Emp health insurance policy",
+      "cons": "Work-life balance",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "is_current_employee": true,
-      "review_date": "2025-12-18"
+      "review_date": "2026-03-30"
     },
     {
-      "title": "rated by a Senior Executive in Bengaluru",
-      "role": "Senior Executive",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "I worked 4 years 3 month, Working flexibility & Culture, Online courses, Career Growth, Top management approach...",
-      "cons": "I worked 4 years 3 months and during COVID I was thrown out by company. \nAppointment new persons without knowing about Flipkart Work Culture and working style.\nHR team also not discussing openly with employees to give other options (moving to other teams or our other companies) while taking decision.\nManager raises to send out employee complaints and sending employee.\nReally not thinking about Employees & family situation and also in the COVID pandemic siutaion..\nMy team manager Mr.Harindran was initiated the ISO in Jeeves and successfully completed the ISO 3 audits with zero major NCs.\n After new manager takes charges team collapsed, all employees (Krishna Raja, Viswanath, Amar Hatti) force fully put the Resign letter. One of the worst experience with last reporting manager Sonal Metha and HR team also not enquired the correct details and Issues with employees.\nI worked 4+ years but while sending out from company not even single minute they thinked about Employees career. Manager nor HR team also not thinked about employees.",
-      "sentiment": "negative",
-      "sentiment_score": -0.3252,
-      "is_current_employee": true,
-      "review_date": "2025-12-16"
-    },
-    {
-      "title": "rated by an Assistant Manager in Hyderabad",
-      "role": "Assistant Manager",
-      "location": "Hyderabad",
-      "rating": 3.0,
-      "pros": "Company holdes very good employee policy for leaves and medical benefits",
-      "cons": "Huge politics and 0% tech . \nPeople who work tend to work and 90% people doesnt work and no questions are asked . Creates distructuve work cluture",
-      "sentiment": "positive",
-      "sentiment_score": 0.8773,
-      "is_current_employee": true,
-      "review_date": "2025-12-12"
-    },
-    {
-      "title": "rated by an Assistant Store Manager in Guwahati",
+      "title": null,
       "role": "Assistant Store Manager",
       "location": "Guwahati",
       "rating": 5.0,
@@ -207,7 +219,43 @@
       "review_date": "2026-03-29"
     },
     {
-      "title": "rated by a Data Analyst in Bengaluru",
+      "title": null,
+      "role": "Executive Pharmacist",
+      "location": "Noida",
+      "rating": 5.0,
+      "pros": "Good",
+      "cons": "Online quick commerce",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2026-03-28"
+    },
+    {
+      "title": null,
+      "role": "HR Executive",
+      "location": "Kolkata",
+      "rating": 5.0,
+      "pros": "All",
+      "cons": "Na",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-03-27"
+    },
+    {
+      "title": null,
+      "role": "Key Accounts Executive",
+      "location": "Noida",
+      "rating": 1.0,
+      "pros": "Nothing no one care how you working",
+      "cons": "Very bad culture no one care how you working in the company what efforts you are giving",
+      "sentiment": "negative",
+      "sentiment_score": -0.5255,
+      "is_current_employee": true,
+      "review_date": "2026-03-27"
+    },
+    {
+      "title": null,
       "role": "Data Analyst",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -219,7 +267,7 @@
       "review_date": "2026-03-25"
     },
     {
-      "title": "rated by a Team Lead in Varanasi",
+      "title": null,
       "role": "Team Lead",
       "location": "Varanasi",
       "rating": 4.0,
@@ -231,7 +279,7 @@
       "review_date": "2026-03-25"
     },
     {
-      "title": "rated by a Delivery Executive in Murshidabad",
+      "title": null,
       "role": "Delivery Executive",
       "location": "Murshidabad",
       "rating": 4.0,
@@ -243,7 +291,7 @@
       "review_date": "2026-03-23"
     },
     {
-      "title": "rated by a Shift Incharge in Patna",
+      "title": null,
       "role": "Shift Incharge",
       "location": "Patna",
       "rating": 4.0,
@@ -255,7 +303,7 @@
       "review_date": "2026-03-23"
     },
     {
-      "title": "rated by a HR and Talent Acquisition Recruiter in Kolkata",
+      "title": null,
       "role": "HR and Talent Acquisition Recruiter",
       "location": "Kolkata",
       "rating": 5.0,
@@ -267,7 +315,7 @@
       "review_date": "2026-03-23"
     },
     {
-      "title": "rated by a Manager in Bhiwandi",
+      "title": null,
       "role": "Manager",
       "location": "Bhiwandi",
       "rating": 2.0,
@@ -279,7 +327,7 @@
       "review_date": "2026-03-23"
     },
     {
-      "title": "rated by an Area Manager - Last Mile Delivery in Kochi",
+      "title": null,
       "role": "Area Manager - Last Mile Delivery",
       "location": "Kochi",
       "rating": 1.0,
@@ -291,7 +339,7 @@
       "review_date": "2026-03-22"
     },
     {
-      "title": "rated by a Branch Service Manager\r in Surat",
+      "title": null,
       "role": "Branch Service Manager\r",
       "location": "Surat",
       "rating": 3.0,
@@ -303,7 +351,7 @@
       "review_date": "2026-03-22"
     },
     {
-      "title": "rated by a Team Lead in Nellore",
+      "title": null,
       "role": "Team Lead",
       "location": "Nellore",
       "rating": 3.0,
@@ -315,7 +363,7 @@
       "review_date": "2026-03-20"
     },
     {
-      "title": "rated by a Store Manager in Greater Noida",
+      "title": null,
       "role": "Store Manager",
       "location": "Greater Noida",
       "rating": 1.0,
@@ -327,7 +375,7 @@
       "review_date": "2026-03-19"
     },
     {
-      "title": "rated by a Data Entry Operator in Kolkata",
+      "title": null,
       "role": "Data Entry Operator",
       "location": "Kolkata",
       "rating": 2.0,
@@ -339,7 +387,7 @@
       "review_date": "2026-03-18"
     },
     {
-      "title": "rated by an Operations Manager in Bengaluru",
+      "title": null,
       "role": "Operations Manager",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -351,7 +399,7 @@
       "review_date": "2026-03-17"
     },
     {
-      "title": "rated by an Executive in Surat",
+      "title": null,
       "role": "Executive",
       "location": "Surat",
       "rating": 5.0,
@@ -363,7 +411,7 @@
       "review_date": "2026-03-15"
     },
     {
-      "title": "rated by a Senior Recruiter in Patna",
+      "title": null,
       "role": "Senior Recruiter",
       "location": "Patna",
       "rating": 1.0,
@@ -375,7 +423,7 @@
       "review_date": "2026-03-15"
     },
     {
-      "title": "rated by an Assistant Manager II in New Delhi",
+      "title": null,
       "role": "Assistant Manager II",
       "location": "New Delhi",
       "rating": 5.0,
@@ -387,7 +435,7 @@
       "review_date": "2026-03-15"
     },
     {
-      "title": "rated by a Supply Chain Management and Procurement Manager in Guwahati",
+      "title": null,
       "role": "Supply Chain Management and Procurement Manager",
       "location": "Guwahati",
       "rating": 1.0,
@@ -399,19 +447,7 @@
       "review_date": "2026-03-14"
     },
     {
-      "title": "rated by a Desktop Support Engineer L1 and L2 in Gurugram",
-      "role": "Desktop Support Engineer L1 and L2",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "It's ok",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.296,
-      "is_current_employee": true,
-      "review_date": "2026-03-14"
-    },
-    {
-      "title": "rated by a Supervisor in Lucknow",
+      "title": null,
       "role": "Supervisor",
       "location": "Lucknow",
       "rating": 5.0,
@@ -423,7 +459,7 @@
       "review_date": "2026-03-13"
     },
     {
-      "title": "rated by a Senior Executive in Ludhiana",
+      "title": null,
       "role": "Senior Executive",
       "location": "Ludhiana",
       "rating": 5.0,
@@ -435,7 +471,7 @@
       "review_date": "2026-03-13"
     },
     {
-      "title": "rated by a Delivery Boy in Navi Mumbai",
+      "title": null,
       "role": "Delivery Boy",
       "location": "Navi Mumbai",
       "rating": 2.0,
@@ -447,7 +483,7 @@
       "review_date": "2026-03-13"
     },
     {
-      "title": "rated by an Operations Executive in Bengaluru",
+      "title": null,
       "role": "Operations Executive",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -459,7 +495,7 @@
       "review_date": "2026-03-13"
     },
     {
-      "title": "rated by a HUB Incharge in Patna",
+      "title": null,
       "role": "HUB Incharge",
       "location": "Patna",
       "rating": 1.0,
@@ -471,7 +507,7 @@
       "review_date": "2026-03-12"
     },
     {
-      "title": "rated by a HR Recruiter in Ranchi",
+      "title": null,
       "role": "HR Recruiter",
       "location": "Ranchi",
       "rating": 3.0,
@@ -483,7 +519,7 @@
       "review_date": "2026-03-11"
     },
     {
-      "title": "rated by a HUB Executive in Sonipat",
+      "title": null,
       "role": "HUB Executive",
       "location": "Sonipat",
       "rating": 5.0,
@@ -495,7 +531,7 @@
       "review_date": "2026-03-10"
     },
     {
-      "title": "rated by a Team Manager in Mumbai",
+      "title": null,
       "role": "Team Manager",
       "location": "Mumbai",
       "rating": 5.0,
@@ -507,7 +543,7 @@
       "review_date": "2026-03-09"
     },
     {
-      "title": "rated by a Quality Lead in Patna",
+      "title": null,
       "role": "Quality Lead",
       "location": "Patna",
       "rating": 3.0,
@@ -519,7 +555,7 @@
       "review_date": "2026-03-08"
     },
     {
-      "title": "rated by a Shift Incharge in Mumbai",
+      "title": null,
       "role": "Shift Incharge",
       "location": "Mumbai",
       "rating": 1.0,
@@ -531,7 +567,7 @@
       "review_date": "2026-03-08"
     },
     {
-      "title": "rated by a Business Finance Manager in Bengaluru",
+      "title": null,
       "role": "Business Finance Manager",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -543,7 +579,7 @@
       "review_date": "2026-03-08"
     },
     {
-      "title": "rated by a City Head in New Delhi",
+      "title": null,
       "role": "City Head",
       "location": "New Delhi",
       "rating": 3.0,
@@ -555,7 +591,7 @@
       "review_date": "2026-03-07"
     },
     {
-      "title": "rated by a Team Lead in Pune",
+      "title": null,
       "role": "Team Lead",
       "location": "Pune",
       "rating": 5.0,
@@ -567,7 +603,7 @@
       "review_date": "2026-02-28"
     },
     {
-      "title": "rated by a Senior Executive in Gurugram",
+      "title": null,
       "role": "Senior Executive",
       "location": "Gurugram",
       "rating": 4.0,
@@ -579,7 +615,7 @@
       "review_date": "2026-02-28"
     },
     {
-      "title": "rated by a Senior Support Engineer in Indore",
+      "title": null,
       "role": "Senior Support Engineer",
       "location": "Indore",
       "rating": 2.0,
@@ -591,7 +627,7 @@
       "review_date": "2026-02-26"
     },
     {
-      "title": "rated by an Escalation Lead in Bengaluru",
+      "title": null,
       "role": "Escalation Lead",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -603,7 +639,7 @@
       "review_date": "2026-02-26"
     },
     {
-      "title": "rated by a Junior Data Analyst in Gurugram",
+      "title": null,
       "role": "Junior Data Analyst",
       "location": "Gurugram",
       "rating": 4.0,
@@ -615,7 +651,7 @@
       "review_date": "2026-02-25"
     },
     {
-      "title": "rated by a System Engineer in Lucknow",
+      "title": null,
       "role": "System Engineer",
       "location": "Lucknow",
       "rating": 5.0,
@@ -627,7 +663,7 @@
       "review_date": "2026-02-24"
     },
     {
-      "title": "rated by a Senior Executive Operations in Gurugram",
+      "title": null,
       "role": "Senior Executive Operations",
       "location": "Gurugram",
       "rating": 5.0,
@@ -639,7 +675,7 @@
       "review_date": "2026-02-21"
     },
     {
-      "title": "rated by a Data Entry Operator in Kolkata",
+      "title": null,
       "role": "Data Entry Operator",
       "location": "Kolkata",
       "rating": 4.0,
@@ -651,7 +687,7 @@
       "review_date": "2026-02-21"
     },
     {
-      "title": "rated by a Manufacturing Manager in Bengaluru",
+      "title": null,
       "role": "Manufacturing Manager",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -663,7 +699,7 @@
       "review_date": "2026-02-20"
     },
     {
-      "title": "rated by a Senior Executive in Kalyan-Dombivli",
+      "title": null,
       "role": "Senior Executive",
       "location": "Kalyan-Dombivli",
       "rating": 3.0,
@@ -675,7 +711,7 @@
       "review_date": "2026-02-19"
     },
     {
-      "title": "rated by a Supervisor in Bhiwandi",
+      "title": null,
       "role": "Supervisor",
       "location": "Bhiwandi",
       "rating": 3.0,
@@ -687,7 +723,7 @@
       "review_date": "2026-02-18"
     },
     {
-      "title": "rated by a Customer Service Associate (working remotely)",
+      "title": null,
       "role": "Customer Service Associate",
       "location": "Kolkata",
       "rating": 5.0,
@@ -699,7 +735,7 @@
       "review_date": "2026-02-17"
     },
     {
-      "title": "rated by an Assistant Manager in Gurugram",
+      "title": null,
       "role": "Assistant Manager",
       "location": "Gurugram",
       "rating": 5.0,
@@ -711,7 +747,7 @@
       "review_date": "2026-02-16"
     },
     {
-      "title": "rated by a HUB Incharge in Jalpaiguri",
+      "title": null,
       "role": "HUB Incharge",
       "location": "Jalpaiguri",
       "rating": 4.0,
@@ -723,7 +759,7 @@
       "review_date": "2026-02-14"
     },
     {
-      "title": "rated by a Human Resources Business Partner in Lucknow",
+      "title": null,
       "role": "Human Resources Business Partner",
       "location": "Lucknow",
       "rating": 5.0,
@@ -733,6 +769,1650 @@
       "sentiment_score": 0.3597,
       "is_current_employee": true,
       "review_date": "2026-02-14"
+    },
+    {
+      "title": null,
+      "role": "Manager Supply Chain Management",
+      "location": "Mumbai",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "Everything is there but for namesakes.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-02-13"
+    },
+    {
+      "title": null,
+      "role": "fresher",
+      "location": "Giridih",
+      "rating": 5.0,
+      "pros": "Good",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2026-02-11"
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager",
+      "location": "Kolkata",
+      "rating": 3.0,
+      "pros": "On time salary and bonus",
+      "cons": "No job security \nMost of the employees are oiling managers for survival",
+      "sentiment": "positive",
+      "sentiment_score": 0.068,
+      "is_current_employee": true,
+      "review_date": "2026-02-11"
+    },
+    {
+      "title": null,
+      "role": "HR Executive",
+      "location": "Patna",
+      "rating": 4.0,
+      "pros": "Like",
+      "cons": "Ftc & fte culture",
+      "sentiment": "positive",
+      "sentiment_score": 0.3612,
+      "is_current_employee": true,
+      "review_date": "2026-02-07"
+    },
+    {
+      "title": null,
+      "role": "Warehouse Supervisor",
+      "location": "Nagpur",
+      "rating": 5.0,
+      "pros": "Company growth and my growth",
+      "cons": "Sorry",
+      "sentiment": "positive",
+      "sentiment_score": 0.5994,
+      "is_current_employee": true,
+      "review_date": "2026-02-07"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "I learn so many think .",
+      "cons": "",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-02-06"
+    },
+    {
+      "title": null,
+      "role": "Cluster Manager",
+      "location": "New Delhi",
+      "rating": 5.0,
+      "pros": "Very Good",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4927,
+      "is_current_employee": true,
+      "review_date": "2026-02-05"
+    },
+    {
+      "title": null,
+      "role": "Data Analytics Lead",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Everything is good but as long as your team is good",
+      "cons": "Not all the team and managers are making you feel that you’re working in Flipkart",
+      "sentiment": "positive",
+      "sentiment_score": 0.7003,
+      "is_current_employee": true,
+      "review_date": "2026-02-04"
+    },
+    {
+      "title": null,
+      "role": "Senior Assistant",
+      "location": "Chennai",
+      "rating": 3.0,
+      "pros": "Feel good",
+      "cons": "No mobile usage",
+      "sentiment": "positive",
+      "sentiment_score": 0.1779,
+      "is_current_employee": true,
+      "review_date": "2026-02-01"
+    },
+    {
+      "title": null,
+      "role": "Sales Executive",
+      "location": "Udaipur",
+      "rating": 5.0,
+      "pros": "Good",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2026-02-01"
+    },
+    {
+      "title": null,
+      "role": "Senior Business Development Executive",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "There is no problem SOP here. Follow the rules made by seniors. Over all it is good",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.6319,
+      "is_current_employee": true,
+      "review_date": "2026-01-31"
+    },
+    {
+      "title": null,
+      "role": "Supply Chain Manager",
+      "location": "Gurugram",
+      "rating": 4.0,
+      "pros": "Work life balance, culture, skills development",
+      "cons": "Growth is slow",
+      "sentiment": "positive",
+      "sentiment_score": 0.3818,
+      "is_current_employee": true,
+      "review_date": "2026-01-30"
+    },
+    {
+      "title": null,
+      "role": "Senior Specialist",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Work culture",
+      "cons": "No promotions",
+      "sentiment": "negative",
+      "sentiment_score": -0.296,
+      "is_current_employee": true,
+      "review_date": "2026-01-28"
+    },
+    {
+      "title": null,
+      "role": "Key Account Manager",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Seller account manager all works promotions advertisements growth account all",
+      "cons": "Not  good company",
+      "sentiment": "positive",
+      "sentiment_score": 0.05,
+      "is_current_employee": true,
+      "review_date": "2026-01-25"
+    },
+    {
+      "title": null,
+      "role": "Human Resources Business Partner",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Flexibility",
+      "cons": "Unstructured mgmt\nZero compliance\nOperates like logistics company",
+      "sentiment": "positive",
+      "sentiment_score": 0.5994,
+      "is_current_employee": true,
+      "review_date": "2026-01-24"
+    },
+    {
+      "title": null,
+      "role": "Hub Operations Supervisor",
+      "location": "Saharanpur",
+      "rating": 5.0,
+      "pros": "Good operation work",
+      "cons": "Job security",
+      "sentiment": "positive",
+      "sentiment_score": 0.6486,
+      "is_current_employee": true,
+      "review_date": "2026-01-24"
+    },
+    {
+      "title": null,
+      "role": "Area Manager",
+      "location": "Mumbai",
+      "rating": 4.0,
+      "pros": "Work culture and good pay out",
+      "cons": "office politics",
+      "sentiment": "positive",
+      "sentiment_score": 0.3612,
+      "is_current_employee": true,
+      "review_date": "2026-01-23"
+    },
+    {
+      "title": null,
+      "role": "Category Lead",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Its Great place to work.",
+      "cons": "As of now no dislikes found",
+      "sentiment": "positive",
+      "sentiment_score": 0.7475,
+      "is_current_employee": true,
+      "review_date": "2026-01-23"
+    },
+    {
+      "title": null,
+      "role": "Retail Sales Officer",
+      "location": "New Delhi",
+      "rating": 3.0,
+      "pros": "Okayish. Didn't like it much.",
+      "cons": "Not really liked the company",
+      "sentiment": "negative",
+      "sentiment_score": -0.566,
+      "is_current_employee": true,
+      "review_date": "2026-01-21"
+    },
+    {
+      "title": null,
+      "role": "Store Manager",
+      "location": "Kolkata",
+      "rating": 4.0,
+      "pros": "Bijay Ghosh",
+      "cons": "",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-01-20"
+    },
+    {
+      "title": null,
+      "role": "Operations Executive",
+      "location": "Farrukhnagar",
+      "rating": 5.0,
+      "pros": "very nice 👍",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4754,
+      "is_current_employee": true,
+      "review_date": "2026-01-17"
+    },
+    {
+      "title": null,
+      "role": "Assistant Store Manager",
+      "location": "Mumbai",
+      "rating": 3.0,
+      "pros": "👍🏻",
+      "cons": "👍🏻",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-01-17"
+    },
+    {
+      "title": null,
+      "role": "Delivery Executive",
+      "location": "New Delhi",
+      "rating": 1.0,
+      "pros": "Nothing only mujburi",
+      "cons": "Everything worst",
+      "sentiment": "negative",
+      "sentiment_score": -0.6249,
+      "is_current_employee": true,
+      "review_date": "2026-01-16"
+    },
+    {
+      "title": null,
+      "role": "US Recruiter",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "when you tell people that I work at flipkart",
+      "cons": "almost everything",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-01-15"
+    },
+    {
+      "title": null,
+      "role": "Key Account Manager",
+      "location": "New Delhi",
+      "rating": 2.0,
+      "pros": "",
+      "cons": "No job security as they hire from third party anytime they can change location for which you are hired , you have option either relocate or they will throw you out",
+      "sentiment": "negative",
+      "sentiment_score": -0.1371,
+      "is_current_employee": true,
+      "review_date": "2026-01-12"
+    },
+    {
+      "title": null,
+      "role": "Executive",
+      "location": "Patna",
+      "rating": 5.0,
+      "pros": "Good",
+      "cons": "Yes",
+      "sentiment": "positive",
+      "sentiment_score": 0.6808,
+      "is_current_employee": true,
+      "review_date": "2026-01-11"
+    },
+    {
+      "title": null,
+      "role": "Hub Lead",
+      "location": "Arrah",
+      "rating": 4.0,
+      "pros": "learn many things about logistics and supply chain management",
+      "cons": "not have time for your family",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-01-11"
+    },
+    {
+      "title": null,
+      "role": "Operations Executive",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "It was good friendly nature work culture is good",
+      "cons": "Nothing everything was good",
+      "sentiment": "positive",
+      "sentiment_score": 0.7646,
+      "is_current_employee": true,
+      "review_date": "2026-01-09"
+    },
+    {
+      "title": null,
+      "role": "Executive",
+      "location": "Gurugram",
+      "rating": 5.0,
+      "pros": "All is good",
+      "cons": "No any",
+      "sentiment": "positive",
+      "sentiment_score": 0.1779,
+      "is_current_employee": true,
+      "review_date": "2026-01-05"
+    },
+    {
+      "title": null,
+      "role": "Operations Excellence Executive",
+      "location": "Jaipur",
+      "rating": 1.0,
+      "pros": "Nothing",
+      "cons": "Office politics and misbehave by hub top leaders.",
+      "sentiment": "negative",
+      "sentiment_score": -0.2732,
+      "is_current_employee": true,
+      "review_date": "2026-01-05"
+    },
+    {
+      "title": null,
+      "role": "Marketing Manager",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "The people are very good",
+      "cons": "Due to dynamic leadership, the strategy keeps changing every 6 months and working in a retention channel, it is considered as an order generating channel and not a channel which is supposed to ensure stickiness, uninstalls , etc",
+      "sentiment": "positive",
+      "sentiment_score": 0.8122,
+      "is_current_employee": true,
+      "review_date": "2026-01-04"
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "There is nothing to like about Flipkart. There is no strong policy regards work life balance.",
+      "cons": "There is no work life balance anyone can call you anytime anyday. There is leave concept even if you are on leave they will call and ask work. There is no good hike no appreciation but if you do small error also will be big escalation. Moreover management is always biased for specific resources. Flipkart is only for CA for Non CA they will treat as labour but if you are CA do not know anything still they will be happy to hire you with good pay.",
+      "sentiment": "positive",
+      "sentiment_score": 0.224,
+      "is_current_employee": true,
+      "review_date": "2025-08-12"
+    },
+    {
+      "title": null,
+      "role": "Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Flipkart culture has helped me develop new skills that is helping me in shaping my career.\nThe fast paced environment keeps me engaged and never felt left out or not involved in the work taken by org to grow.",
+      "cons": "Sometimes the the work load makes you spend more than extra hrs and stretch beyond the limit. But still makes you feel good after effects brings positive results.",
+      "sentiment": "positive",
+      "sentiment_score": 0.9042,
+      "is_current_employee": true,
+      "review_date": "2025-12-18"
+    },
+    {
+      "title": null,
+      "role": "Department Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "On time salary",
+      "cons": "Worked in Flipkart Malur BTS there are some very aged prolonged seniors in Flipkart who created toxic work culture, to save themselves they sacrifice others carrier, one stupid name called Biswaroop Adhikari is there who is a senior manager who has lack of operational knowledge always do dirty politics like North and South if we  say a single word against his view he will definately take revenge in rating and spoil south people carrier he don't like south Indians at all",
+      "sentiment": "negative",
+      "sentiment_score": -0.7514,
+      "is_current_employee": true,
+      "review_date": "2025-09-12"
+    },
+    {
+      "title": null,
+      "role": "Category Manager",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Flexibility or option to move Internaly is the only plus point.",
+      "cons": "Pathetic work life balance. People in leadership lack team management skills / empathy. Flipkart operates on one sole philosophy. Crank up the pressure and people will deliver at-least something on the plate.",
+      "sentiment": "negative",
+      "sentiment_score": -0.7003,
+      "is_current_employee": true,
+      "review_date": "2025-12-30"
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager",
+      "location": "Hyderabad",
+      "rating": 3.0,
+      "pros": "Company holdes very good employee policy for leaves and medical benefits",
+      "cons": "Huge politics and 0% tech . \nPeople who work tend to work and 90% people doesnt work and no questions are asked . Creates distructuve work cluture",
+      "sentiment": "positive",
+      "sentiment_score": 0.8773,
+      "is_current_employee": true,
+      "review_date": "2025-12-12"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Working in flipkart enhance your resume.You management skill, negotiation,skill development, people will show they don't care but they do care . especially HR ,AM,RM ,some of your colleague also.They environment make you more strong that you are capable of many more things.",
+      "cons": "Overtime should be paid to employees and in operation atleast in a month 8 days of should be provide. No a survivor should be harrassed either male / female . Should provide training about the email writing, communication, public speaking motivation etc. None should be treated on their caste ,creed , religion ,class and gender.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8863,
+      "is_current_employee": true,
+      "review_date": "2025-06-25"
+    },
+    {
+      "title": null,
+      "role": "Department Manager",
+      "location": "Gurugram",
+      "rating": 3.0,
+      "pros": "On time salary Only",
+      "cons": "They are the people of the company that make a company good or bad. A conpany is always considered to be good if the managers recognise the efforts being put in by their reportees, provide them equal opportunities to grow and excel their career path. Unfortunately that is not the case with FKI. The company policies are confimed to books and record purposes only and hardly get followed by the managers.",
+      "sentiment": "positive",
+      "sentiment_score": 0.6705,
+      "is_current_employee": true,
+      "review_date": "2025-10-13"
+    },
+    {
+      "title": null,
+      "role": "Senior Executive",
+      "location": "Gurugram",
+      "rating": 2.0,
+      "pros": "Nothing literally this company having dumb manager with zero updated skill,",
+      "cons": "maximum of hiring are not on metrics but on references and relatives, work life sucks working hours 12 to 14 hours.. zero leave encashment, if needs PL for 7 days not provided... Biased stakeholders, even HR works according to Managers lineups, HR works under operations...",
+      "sentiment": "negative",
+      "sentiment_score": -0.5391,
+      "is_current_employee": true,
+      "review_date": "2025-10-15"
+    },
+    {
+      "title": null,
+      "role": "Key Accounts and Ecommerce Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "There is opportunity in the same umbrella to move if anybody wants",
+      "cons": "Culture is horrible. Leadership don't have any strategy and if strategy comes, it gets shuffled in a week or two. There is no constant path",
+      "sentiment": "negative",
+      "sentiment_score": -0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-12-11"
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "- Employee benefits are good\n- Job security \n- Work life balance",
+      "cons": "-Politics \n- No hike in last 3 years \n- No support from HR\n-Work is slowly turning toxic during to cost cutting as company progress for IPO\n-Due to quick commerce churning market share their is huge pressure from leadership making life difficult even during BAU days also \n-Every year 8% target of putting employee in PIP means if you are not top priority you will be put in PIP irrespective of your work",
+      "sentiment": "positive",
+      "sentiment_score": 0.6059,
+      "is_current_employee": true,
+      "review_date": "2025-06-13"
+    },
+    {
+      "title": null,
+      "role": "Control Tower Manager",
+      "location": "Chennai",
+      "rating": 3.0,
+      "pros": "Good Organization to work with.\nGood salary package when you join, however post which it is slow.\nLeave options and benefits",
+      "cons": "I worked in a toxic team, cannot blame the whole organisation for the same.\nMetrics management instead of operations management. ( again the team not the organisation).\nThe team had a culture of blaming the person handling the process, instead of solving structural issues, even after highlighting the challenges.\nNo work life balance.\nYour bosses have no manners and can call you up even at midnight, Sundays and National Holidays asking for numbers.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8456,
+      "is_current_employee": true,
+      "review_date": "2025-06-29"
+    },
+    {
+      "title": null,
+      "role": "Senior Business Development Executive",
+      "location": "Ludhiana",
+      "rating": 1.0,
+      "pros": "Only Skills upgrade,",
+      "cons": "Third party payroll, Not consider your any opinion if you have the talent to grow, No opportunity, no job security, extremely poor work culture, only onroll people can survive. Overall bad experience.",
+      "sentiment": "negative",
+      "sentiment_score": -0.5958,
+      "is_current_employee": true,
+      "review_date": "2025-10-17"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Bhubaneswar",
+      "rating": 3.0,
+      "pros": "Only Salary on time",
+      "cons": "1. Lot Of politics \n2.Every single guy is behaving like a slave to there manager \n3.No one will help you to learn the things in a defined way",
+      "sentiment": "positive",
+      "sentiment_score": 0.6369,
+      "is_current_employee": true,
+      "review_date": "2025-11-25"
+    },
+    {
+      "title": null,
+      "role": "Senior Data Analyst",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Good collaborative work culture in analytics department. Company has focused towards learning and personal growth.. Great place to work. Employee engagement are well organized time to time.",
+      "cons": "Some time when the some event will be going on you have to got to work day night. But again that is the culture of an ecommerce. if they would have provided lunch or dinner then it would have great.",
+      "sentiment": "positive",
+      "sentiment_score": 0.936,
+      "is_current_employee": true,
+      "review_date": "2025-06-26"
+    },
+    {
+      "title": null,
+      "role": "Senior Software Test Engineer",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "I am a contractor at Flipkart, priority and benefits are not for contract employees as compared with full time employees, 0% other benefits except salary and 100% work load",
+      "sentiment": "positive",
+      "sentiment_score": 0.6369,
+      "is_current_employee": true,
+      "review_date": "2025-11-20"
+    },
+    {
+      "title": null,
+      "role": "Planning Analyst",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Salary and work is interesting, also good work life balance",
+      "cons": "Lake of process, too much politics, no clear career growth path, promotion only depends on you relationship with others(if you are able to entertain others with gossips and politics), office culture is not good, and hr also doesn’t help at all.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7438,
+      "is_current_employee": true,
+      "review_date": "2025-07-23"
+    },
+    {
+      "title": null,
+      "role": "Business Finance Executive",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "ITS GOOD MET ALOT OF PEOPLE WHO HAVE HELPED ME THROUGHOUT MY JOURNEY HERE",
+      "cons": "SOME PEOPLE HAVE LACK SENSE OF CREDABILITY TOWARDS THERE WORK AND PROMISES",
+      "sentiment": "positive",
+      "sentiment_score": 0.4939,
+      "is_current_employee": true,
+      "review_date": "2025-11-14"
+    },
+    {
+      "title": null,
+      "role": "Data Analyst",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "A few people were nice.",
+      "cons": "There's a lot to say about my dislikes in Flipkart.\n1) favouritism \n2) clumsy work culture \n3) micromanagement \n4) no growth",
+      "sentiment": "negative",
+      "sentiment_score": -0.2695,
+      "is_current_employee": true,
+      "review_date": "2025-12-30"
+    },
+    {
+      "title": null,
+      "role": "Data Entry Operator and Supervisor",
+      "location": "Nagpur",
+      "rating": 5.0,
+      "pros": "Flipkart provides excellent facilities, and I’ve had the opportunity to learn from every department. The company also offers various programs that enhance professional growth. One of the most exciting experiences is participating in the Big Billion Days (BBD) sales, which is a major highlight and learning opportunity.",
+      "cons": "Not dislke",
+      "sentiment": "positive",
+      "sentiment_score": 0.9523,
+      "is_current_employee": true,
+      "review_date": "2025-08-06"
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager Planning",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "I deeply appreciate the work culture at my company, where collaboration, respect, and transparency are truly valued. The environment encourages innovation, open communication, and continuous learning, making it a place where employees feel empowered and motivated. One of the standout aspects is the leadership — our leaders are extremely approachable, down-to-earth, and supportive. They actively listen to ideas and feedback, mentor teams with humility, and foster a culture where every individual, regardless of their role, feels important and heard. This leadership style not only drives high performance but also builds a strong sense of belonging and loyalty among employees.",
+      "cons": "Nothing",
+      "sentiment": "positive",
+      "sentiment_score": 0.9703,
+      "is_current_employee": true,
+      "review_date": "2025-04-28"
+    },
+    {
+      "title": null,
+      "role": "HUB Incharge",
+      "location": "Ahmedabad",
+      "rating": 3.0,
+      "pros": "One of the best company \nGreat work culture \nEmployee policy is awesome\nEmployee friendly",
+      "cons": "All good \nJust crule management, environment was not friendly",
+      "sentiment": "positive",
+      "sentiment_score": 0.9507,
+      "is_current_employee": true,
+      "review_date": "2025-10-11"
+    },
+    {
+      "title": null,
+      "role": "Sorting Executive",
+      "location": "Muvattupuzha",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "Worst company i have ever seen in my life.the authorities are not bothered about the employees, over time duties,work pressure there is no leave for special occasions, always duties, don't be become an employees in a lower rank in flipkart company",
+      "sentiment": "negative",
+      "sentiment_score": -0.5705,
+      "is_current_employee": true,
+      "review_date": "2025-12-11"
+    },
+    {
+      "title": null,
+      "role": "Senior Manager",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Getting my order related issues sorted with out waiting to get help from customer care..!!",
+      "cons": "Employee policies are for name sake. It doesn't work in real life.. leave policies are amazing to read, and when you need a leave, business requirements comes in..!! There is no scope to have a free mind and work..!!",
+      "sentiment": "positive",
+      "sentiment_score": 0.9112,
+      "is_current_employee": true,
+      "review_date": "2025-08-13"
+    },
+    {
+      "title": null,
+      "role": "Finance Control Manager",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Work life balance, Salary, skill development.",
+      "cons": "Working style, Process is haphazard, more of start-up culture, pressure during month - end activity.",
+      "sentiment": "negative",
+      "sentiment_score": -0.296,
+      "is_current_employee": true,
+      "review_date": "2025-10-10"
+    },
+    {
+      "title": null,
+      "role": "Senior Support Engineer",
+      "location": "Rajkot",
+      "rating": 5.0,
+      "pros": "IT team is working as a Team, all the IT Employees are supported together any time.",
+      "cons": "Mail communication system",
+      "sentiment": "positive",
+      "sentiment_score": 0.3182,
+      "is_current_employee": true,
+      "review_date": "2025-11-19"
+    },
+    {
+      "title": null,
+      "role": "Accounts Payable Executive",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Learning new things meeting new people's and the work culture ect...",
+      "cons": "NA",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-12-09"
+    },
+    {
+      "title": null,
+      "role": "Senior Executive",
+      "location": "Moradabad",
+      "rating": 4.0,
+      "pros": "",
+      "cons": "Flipkart is good place work for Diversity but Manager ( Amit Dixit ) is not good & He would work late into the night and always be shouting . He never supported me He always asked me to resign and put so much pressure on me that I resigned.",
+      "sentiment": "negative",
+      "sentiment_score": -0.9085,
+      "is_current_employee": true,
+      "review_date": "2025-10-14"
+    },
+    {
+      "title": null,
+      "role": "Inventory Analyst",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "Here they won't job culture and satisfaction and development skills.",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-12-06"
+    },
+    {
+      "title": null,
+      "role": "MIS Executive",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "I like friendly team and good connection",
+      "cons": "Politics is exict in Flipkart and I see no promotion of my job role atleast 3 years",
+      "sentiment": "positive",
+      "sentiment_score": 0.7506,
+      "is_current_employee": true,
+      "review_date": "2025-12-11"
+    },
+    {
+      "title": null,
+      "role": "Data Entry Operator",
+      "location": "Haora",
+      "rating": 5.0,
+      "pros": "Work culture very good.",
+      "cons": "One holiday is not off at office work.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7316,
+      "is_current_employee": true,
+      "review_date": "2025-12-12"
+    },
+    {
+      "title": null,
+      "role": "Senior Regional Manager",
+      "location": "Kolkata",
+      "rating": 4.0,
+      "pros": "Good salary & work life balance",
+      "cons": "Poor leadership and old employees poor & cheap mindset leads into office politics..",
+      "sentiment": "negative",
+      "sentiment_score": -0.5106,
+      "is_current_employee": true,
+      "review_date": "2025-10-18"
+    },
+    {
+      "title": null,
+      "role": "HUB Executive",
+      "location": "Dehradun",
+      "rating": 5.0,
+      "pros": "Manager is very good",
+      "cons": "Work life balance",
+      "sentiment": "positive",
+      "sentiment_score": 0.4927,
+      "is_current_employee": true,
+      "review_date": "2025-12-26"
+    },
+    {
+      "title": null,
+      "role": "Logistics Area Manager",
+      "location": "New Delhi",
+      "rating": 3.0,
+      "pros": "Brand Value, Learning",
+      "cons": "Work culture \nPolicies",
+      "sentiment": "positive",
+      "sentiment_score": 0.34,
+      "is_current_employee": true,
+      "review_date": "2025-12-15"
+    },
+    {
+      "title": null,
+      "role": "Store Manager",
+      "location": "Kolkata",
+      "rating": 3.0,
+      "pros": "Learning new things \nSalary",
+      "cons": "No work life balance \nNo job security \nPoor culture",
+      "sentiment": "negative",
+      "sentiment_score": -0.8194,
+      "is_current_employee": true,
+      "review_date": "2025-11-02"
+    },
+    {
+      "title": null,
+      "role": "Administration Manager",
+      "location": "Mumbai",
+      "rating": 5.0,
+      "pros": "",
+      "cons": "Promotion\nAnnual Performance rating not up to the mark",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-12-10"
+    },
+    {
+      "title": null,
+      "role": "Store Manager",
+      "location": "Jaipur",
+      "rating": 1.0,
+      "pros": "Salary on time",
+      "cons": "Flipkart Minutes very bad culture, 24 *7 working",
+      "sentiment": "negative",
+      "sentiment_score": -0.5849,
+      "is_current_employee": true,
+      "review_date": "2025-11-25"
+    },
+    {
+      "title": null,
+      "role": "Customer Support Executive",
+      "location": "New Delhi",
+      "rating": 4.0,
+      "pros": "There rate very affordable",
+      "cons": "There service some times very late",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-11-18"
+    },
+    {
+      "title": null,
+      "role": "Regional Quality Lead",
+      "location": "Kolkata",
+      "rating": 4.0,
+      "pros": "Till now experience is good.",
+      "cons": "Micro Management",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-12-08"
+    },
+    {
+      "title": null,
+      "role": "Operations Executive",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Nothing as they are hypocrites and build a community of their own based on language and the insiders suffer.",
+      "cons": "Everything. They are totally unprofessional and unethical",
+      "sentiment": "negative",
+      "sentiment_score": -0.8923,
+      "is_current_employee": true,
+      "review_date": "2025-12-12"
+    },
+    {
+      "title": null,
+      "role": "Senior Manager",
+      "location": "Kolkata",
+      "rating": 4.0,
+      "pros": "Working culture\nJob security\nHigher education assistance \nReimbursements\nSalary & perks",
+      "cons": "Skill developement",
+      "sentiment": "positive",
+      "sentiment_score": 0.34,
+      "is_current_employee": true,
+      "review_date": "2025-10-11"
+    },
+    {
+      "title": null,
+      "role": "Quality Verifier",
+      "location": "Dehradun",
+      "rating": 5.0,
+      "pros": "Environment is very good staff is supportive",
+      "cons": "Salary is low",
+      "sentiment": "positive",
+      "sentiment_score": 0.5095,
+      "is_current_employee": true,
+      "review_date": "2025-11-18"
+    },
+    {
+      "title": null,
+      "role": "Data Analyst",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Work life balance till your manager is good or else your life will be in hell. If your package is high compare to other person who are working then make sure you can get kicked out by saying this after 3months . All of a sudden you will get to hear ' sorry we don't have any project we can't keep you please look for other job '. Though the project is going on and no official mail is there. Please be aware before joining . Manager name : SURESH RAWAT",
+      "cons": "You work life depends on your manager. If you are joining through third party payroll then don't expect any hike or promotion and be ready after 1year of you want to stay you will always get a threat to kick you out from the organisation be it FTC / FTE . Salary structure is very poor. Here promotions happen not considering your work or something but if you have source or can oil your manager then there are possibility. Eg: a manager with 10years of operations experience become a analytics manager in a day and given this fact , he will be getting training from the current data analyst employees. Plus the data analyst who are already working for 3years they wont give you any promotion opportunity rather they will say 'we are unable to pay you salary we don't have budget , if you are interested for promotion by hearing this go for it\" . Are you serious how can a one tech analytics manager play with the careers of the employees.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7828,
+      "is_current_employee": true,
+      "review_date": "2025-02-04"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Makhdumpur",
+      "rating": 4.0,
+      "pros": "This is a good company, women get preference and there is job security too.",
+      "cons": "nothing",
+      "sentiment": "positive",
+      "sentiment_score": 0.6486,
+      "is_current_employee": true,
+      "review_date": "2025-12-04"
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "Job security far",
+      "cons": "Incompetent managers, unclear directions, poor work life balance",
+      "sentiment": "negative",
+      "sentiment_score": -0.7003,
+      "is_current_employee": true,
+      "review_date": "2025-11-29"
+    },
+    {
+      "title": null,
+      "role": "Senior Payroll Executive",
+      "location": "Noida",
+      "rating": 3.0,
+      "pros": "Team members are so nice",
+      "cons": "Management are not like corporate behaviour, treatment as like lala company",
+      "sentiment": "positive",
+      "sentiment_score": 0.6132,
+      "is_current_employee": true,
+      "review_date": "2025-10-13"
+    },
+    {
+      "title": null,
+      "role": "HUB Incharge",
+      "location": "Lucknow",
+      "rating": 1.0,
+      "pros": "Only salary",
+      "cons": "Manger do politics they do see the data only believe on feedback of those employees who worked at same level since they joined \nHr not supported anything they many employees don't know the data to hide faults they do politics",
+      "sentiment": "negative",
+      "sentiment_score": -0.6968,
+      "is_current_employee": true,
+      "review_date": "2025-09-08"
+    },
+    {
+      "title": null,
+      "role": "Data Entry Operator",
+      "location": "Firozabad",
+      "rating": 5.0,
+      "pros": "Actually Bus services is Best and food like lunch and dinner And also amazing",
+      "cons": "No everything is the best",
+      "sentiment": "positive",
+      "sentiment_score": 0.926,
+      "is_current_employee": true,
+      "review_date": "2025-08-20"
+    },
+    {
+      "title": null,
+      "role": "Cluster Head",
+      "location": "Kolkata",
+      "rating": 4.0,
+      "pros": "Health benefits program excellence.",
+      "cons": "Salary and excellence of job role very slow",
+      "sentiment": "positive",
+      "sentiment_score": 0.8957,
+      "is_current_employee": true,
+      "review_date": "2025-10-25"
+    },
+    {
+      "title": null,
+      "role": "Cluster Manager",
+      "location": "Kolkata",
+      "rating": 1.0,
+      "pros": "Customer gets service within minutes and company earns benifits in lieu of Employee dissatisfaction.",
+      "cons": "There negative work life balance and negative work culture which leads to complete destruction of career.",
+      "sentiment": "negative",
+      "sentiment_score": -0.936,
+      "is_current_employee": true,
+      "review_date": "2025-07-19"
+    },
+    {
+      "title": null,
+      "role": "Senior Executive",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Flipkart work life is good",
+      "cons": "But in some warehouse s , managers supporting perticular people only , they are not supporting newly joined people from other warehouse or other locations. If it changes entir Flipkart is Super Good.",
+      "sentiment": "positive",
+      "sentiment_score": 0.9168,
+      "is_current_employee": true,
+      "review_date": "2025-10-14"
+    },
+    {
+      "title": null,
+      "role": "Operations Manager",
+      "location": "Coimbatore",
+      "rating": 1.0,
+      "pros": "Wage, Team",
+      "cons": "Working hours and No weak off. work life balance is missing. managers not allowing leave. \nworking culture is pathetic.",
+      "sentiment": "negative",
+      "sentiment_score": -0.5181,
+      "is_current_employee": true,
+      "review_date": "2025-09-21"
+    },
+    {
+      "title": null,
+      "role": "Senior Executive",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Everything are good",
+      "cons": "Nothing like that",
+      "sentiment": "positive",
+      "sentiment_score": 0.1999,
+      "is_current_employee": true,
+      "review_date": "2025-12-27"
+    },
+    {
+      "title": null,
+      "role": "Quality Process Excellence Manager",
+      "location": "Gurugram",
+      "rating": 5.0,
+      "pros": "Work culture",
+      "cons": "",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-12-23"
+    },
+    {
+      "title": null,
+      "role": "Executive",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Good",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-12-24"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Work-Life Balance was great, Salary was satisfactory, and Job Security was awesome",
+      "cons": "No promotions, Need to have bucketing",
+      "sentiment": "positive",
+      "sentiment_score": 0.8979,
+      "is_current_employee": true,
+      "review_date": "2025-11-14"
+    },
+    {
+      "title": null,
+      "role": "Return Executive",
+      "location": "Motihari",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "Bad Experience",
+      "sentiment": "negative",
+      "sentiment_score": -0.5423,
+      "is_current_employee": true,
+      "review_date": "2025-12-22"
+    },
+    {
+      "title": null,
+      "role": "People Operations Partner",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Best place to work",
+      "cons": "Nothing as of now",
+      "sentiment": "positive",
+      "sentiment_score": 0.6369,
+      "is_current_employee": true,
+      "review_date": "2025-11-23"
+    },
+    {
+      "title": null,
+      "role": "Operations Executive",
+      "location": "New Delhi",
+      "rating": 3.0,
+      "pros": "it's ok",
+      "cons": "Working culture is bad.",
+      "sentiment": "negative",
+      "sentiment_score": -0.3182,
+      "is_current_employee": true,
+      "review_date": "2025-11-18"
+    },
+    {
+      "title": null,
+      "role": "Category Manager",
+      "location": "Bengaluru",
+      "rating": 3.0,
+      "pros": "Learning about Q-comm business",
+      "cons": "Work Culture\nLeadership is non-sense\nOperations heavy\nNo work life balance",
+      "sentiment": "negative",
+      "sentiment_score": -0.296,
+      "is_current_employee": true,
+      "review_date": "2025-12-16"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Goo 👍🏻",
+      "cons": "",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-12-20"
+    },
+    {
+      "title": null,
+      "role": "MIS Executive",
+      "location": "Lucknow",
+      "rating": 5.0,
+      "pros": "🥰🥰",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.9393,
+      "is_current_employee": true,
+      "review_date": "2025-12-19"
+    },
+    {
+      "title": null,
+      "role": "Senior Executive Operations",
+      "location": "Kheda",
+      "rating": 5.0,
+      "pros": "Leadership and Culture",
+      "cons": "leave policy",
+      "sentiment": "negative",
+      "sentiment_score": -0.0516,
+      "is_current_employee": true,
+      "review_date": "2025-12-03"
+    },
+    {
+      "title": null,
+      "role": "Operations Executive",
+      "location": "Pune",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "Toxic work culture",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-12-21"
+    },
+    {
+      "title": null,
+      "role": "Executive",
+      "location": "Egra",
+      "rating": 5.0,
+      "pros": "Ethics and Culture",
+      "cons": "Nothing",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-12-12"
+    },
+    {
+      "title": null,
+      "role": "Team Lead Operations",
+      "location": "Guwahati",
+      "rating": 5.0,
+      "pros": "According to employee reviews, people often cite the positive aspects of working at Flipkart as its dynamic and fast-paced work environment, strong culture of learning and taking ownership, supportive team atmosphere, good growth opportunities, and a focus on innovation;",
+      "cons": "lack of work-life balance, heavy workload, excessive internal politics, poor management, limited career growth opportunities, inconsistent performance evaluations, and a feeling of favoritism in promotions, with some complaining about long working hours and a disconnect between different departments making collaboration difficult.",
+      "sentiment": "positive",
+      "sentiment_score": 0.9531,
+      "is_current_employee": true,
+      "review_date": "2025-01-19"
+    },
+    {
+      "title": null,
+      "role": "Data Entry Operator",
+      "location": "Kolkata",
+      "rating": 3.0,
+      "pros": "",
+      "cons": "No",
+      "sentiment": "negative",
+      "sentiment_score": -0.296,
+      "is_current_employee": true,
+      "review_date": "2025-12-28"
+    },
+    {
+      "title": null,
+      "role": "Social Worker",
+      "location": "Mumbai",
+      "rating": 5.0,
+      "pros": "Me experience but Flipkart",
+      "cons": "Flipkart experience but on Flipkart",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-11-16"
+    },
+    {
+      "title": null,
+      "role": "Executive",
+      "location": "New Delhi",
+      "rating": 5.0,
+      "pros": "Good",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-12-11"
+    },
+    {
+      "title": null,
+      "role": "Customer Support Executive",
+      "location": "Pune",
+      "rating": 2.0,
+      "pros": "Nothing to like flipkart just wanted heavy responses but not actually give proper resolution to customer and just wanted the good response from agent level",
+      "cons": "No.job security,they even can't afford to provide you diwali any sweets or any other bonus they just hire you at Big billion days then later just terminate you without any reason dumbess job I ever do with this kind of process",
+      "sentiment": "positive",
+      "sentiment_score": 0.9238,
+      "is_current_employee": true,
+      "review_date": "2025-06-11"
+    },
+    {
+      "title": null,
+      "role": "Data Entry Operator",
+      "location": "Chennai",
+      "rating": 5.0,
+      "pros": "Im working in flipkart so I feel better .",
+      "cons": "Some changes update",
+      "sentiment": "positive",
+      "sentiment_score": 0.4877,
+      "is_current_employee": true,
+      "review_date": "2025-10-13"
+    },
+    {
+      "title": null,
+      "role": "Driver",
+      "location": "Bharuch",
+      "rating": 5.0,
+      "pros": "Flipkart is very nice company.",
+      "cons": "Nothing",
+      "sentiment": "positive",
+      "sentiment_score": 0.4754,
+      "is_current_employee": true,
+      "review_date": "2025-11-14"
+    },
+    {
+      "title": null,
+      "role": "HR Executive",
+      "location": "Gurugram",
+      "rating": 5.0,
+      "pros": "Customer support.seller support",
+      "cons": "Long and extended hours: poor work Life blance.",
+      "sentiment": "negative",
+      "sentiment_score": -0.1027,
+      "is_current_employee": true,
+      "review_date": "2025-11-17"
+    },
+    {
+      "title": null,
+      "role": "Data Entry Operator",
+      "location": "Bavla",
+      "rating": 4.0,
+      "pros": "Everything is good",
+      "cons": "No",
+      "sentiment": "positive",
+      "sentiment_score": 0.1779,
+      "is_current_employee": true,
+      "review_date": "2025-12-04"
+    },
+    {
+      "title": null,
+      "role": "Operator",
+      "location": "Surat",
+      "rating": 4.0,
+      "pros": "Good  facility nice work and humbly",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.6908,
+      "is_current_employee": true,
+      "review_date": "2025-10-27"
+    },
+    {
+      "title": null,
+      "role": "Warehouse Operations Supervisor",
+      "location": "Nagpur",
+      "rating": 5.0,
+      "pros": "",
+      "cons": "Good Work",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-12-03"
+    },
+    {
+      "title": null,
+      "role": "Product Security Engineer",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Learning",
+      "cons": "Work culture and promotions",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-11-17"
+    },
+    {
+      "title": null,
+      "role": "Senior Data Entry Operator",
+      "location": "Lucknow",
+      "rating": 5.0,
+      "pros": "3 years Flipkart grocery Data entry operator Experience in",
+      "cons": "Inventory management system work for you",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-10-30"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "Good working atmosphere and helps grow your technical and communication skill.",
+      "cons": "To much work load and demands morethan what you get paid.",
+      "sentiment": "positive",
+      "sentiment_score": 0.6705,
+      "is_current_employee": true,
+      "review_date": "2025-11-04"
+    },
+    {
+      "title": null,
+      "role": "Business Development",
+      "location": "Kolkata",
+      "rating": 5.0,
+      "pros": "If you're on roll employee.. you will be the happiest one. \nSalary on time \nOffice top notch \nEvery free meals keep you motivated to go office \nAnd many other allowances",
+      "cons": "If you're 3rd party employee. Think 10000 time before joining.. few managers are so toxic.. they will not even think twice to fire you.. they will call you and force you to resign . They can't tolerate if you grow infront of them.. they will target you. Slient firing is only thing that happens in the back end",
+      "sentiment": "positive",
+      "sentiment_score": 0.8316,
+      "is_current_employee": true,
+      "review_date": "2025-01-27"
+    },
+    {
+      "title": null,
+      "role": "Manager",
+      "location": "Kochi",
+      "rating": 2.0,
+      "pros": "",
+      "cons": "Poor work life balance \n24*7*375\nNonpublic holiday or any other leave.",
+      "sentiment": "negative",
+      "sentiment_score": -0.1531,
+      "is_current_employee": true,
+      "review_date": "2025-11-22"
+    },
+    {
+      "title": null,
+      "role": "Business Development Executive",
+      "location": "Jaipur",
+      "rating": 5.0,
+      "pros": "Good",
+      "cons": "No",
+      "sentiment": "positive",
+      "sentiment_score": 0.1779,
+      "is_current_employee": true,
+      "review_date": "2025-12-28"
+    },
+    {
+      "title": null,
+      "role": "Cluster Head Human Resource",
+      "location": "Chennai",
+      "rating": 4.0,
+      "pros": "Good culture and work space",
+      "cons": "Nothing",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-10-14"
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager",
+      "location": "Kolkata",
+      "rating": 5.0,
+      "pros": "All good",
+      "cons": "NA......",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-11-18"
+    },
+    {
+      "title": null,
+      "role": "Senior Talent Acquisition",
+      "location": "New Delhi",
+      "rating": 5.0,
+      "pros": "Positive work life balance",
+      "cons": "If manager is not good then it will become difficult to survive",
+      "sentiment": "negative",
+      "sentiment_score": -0.0788,
+      "is_current_employee": true,
+      "review_date": "2025-08-26"
+    },
+    {
+      "title": null,
+      "role": "Shift Incharge",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "its good",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-11-17"
+    },
+    {
+      "title": null,
+      "role": "Data Analyst",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "Good Company",
+      "cons": "All is good",
+      "sentiment": "positive",
+      "sentiment_score": 0.7003,
+      "is_current_employee": true,
+      "review_date": "2025-11-17"
+    },
+    {
+      "title": null,
+      "role": "Management Trainee",
+      "location": "Noida",
+      "rating": 5.0,
+      "pros": "Like",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.3612,
+      "is_current_employee": true,
+      "review_date": "2025-11-17"
+    },
+    {
+      "title": null,
+      "role": "Hub Assistant",
+      "location": "Harda",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "Jyada bimar hone per bhi leave na milna",
+      "sentiment": "negative",
+      "sentiment_score": -0.0516,
+      "is_current_employee": true,
+      "review_date": "2025-12-13"
+    },
+    {
+      "title": null,
+      "role": "Floor Executive",
+      "location": "Gurugram",
+      "rating": 5.0,
+      "pros": "Superb",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.6249,
+      "is_current_employee": true,
+      "review_date": "2025-11-16"
+    },
+    {
+      "title": null,
+      "role": "Packing Helper",
+      "location": "New Delhi",
+      "rating": 4.0,
+      "pros": "Good experience",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-10-29"
+    },
+    {
+      "title": null,
+      "role": "Data Entry Operator",
+      "location": "Sonipat",
+      "rating": 5.0,
+      "pros": "Yes",
+      "cons": "No",
+      "sentiment": "positive",
+      "sentiment_score": 0.128,
+      "is_current_employee": true,
+      "review_date": "2025-11-03"
+    },
+    {
+      "title": null,
+      "role": "Strategy and Planning Manager",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Brand Value",
+      "cons": "Work Culture \nDepth of work",
+      "sentiment": "positive",
+      "sentiment_score": 0.34,
+      "is_current_employee": true,
+      "review_date": "2025-09-23"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Mumbai",
+      "rating": 1.0,
+      "pros": "Nothing",
+      "cons": "toxic work culture,nasty politics,fake diversity support and career destruction await under a system that shames instead of supports.",
+      "sentiment": "negative",
+      "sentiment_score": -0.2023,
+      "is_current_employee": true,
+      "review_date": "2025-07-23"
+    },
+    {
+      "title": null,
+      "role": "Director",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "Nothing",
+      "cons": "Leadership issues, uncertainty, ambiguity",
+      "sentiment": "positive",
+      "sentiment_score": 0.2584,
+      "is_current_employee": true,
+      "review_date": "2025-11-12"
+    },
+    {
+      "title": null,
+      "role": "Operations Executive",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "",
+      "cons": "Excellent",
+      "sentiment": "positive",
+      "sentiment_score": 0.5719,
+      "is_current_employee": true,
+      "review_date": "2025-10-30"
+    },
+    {
+      "title": null,
+      "role": "Senior Executive",
+      "location": "New Delhi",
+      "rating": 5.0,
+      "pros": "Nice work environment and supporting staffs",
+      "cons": "Nothing, everything is ok",
+      "sentiment": "positive",
+      "sentiment_score": 0.5875,
+      "is_current_employee": true,
+      "review_date": "2025-08-25"
+    },
+    {
+      "title": null,
+      "role": "Vendor Management Executive",
+      "location": "Bengaluru",
+      "rating": 4.0,
+      "pros": "the hospitality for direct emplyees",
+      "cons": "being in contract emplee the culter of contract is worst i ever had",
+      "sentiment": "negative",
+      "sentiment_score": -0.6249,
+      "is_current_employee": true,
+      "review_date": "2025-10-13"
+    },
+    {
+      "title": null,
+      "role": "HUB Incharge",
+      "location": "Bhopal",
+      "rating": 5.0,
+      "pros": "I like",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.3612,
+      "is_current_employee": true,
+      "review_date": "2025-12-02"
+    },
+    {
+      "title": null,
+      "role": "Learning and Development Executive",
+      "location": "Kolkata",
+      "rating": 5.0,
+      "pros": "The work culture is absolutely fabulous—it really motivates and inspires.",
+      "cons": "The L&D team does not seem to have sufficient avenues for growth and career progression.",
+      "sentiment": "positive",
+      "sentiment_score": 0.6969,
+      "is_current_employee": true,
+      "review_date": "2025-09-22"
+    },
+    {
+      "title": null,
+      "role": "Team Lead",
+      "location": "Noida",
+      "rating": 1.0,
+      "pros": "Nothing only reference people can survive and get promotion",
+      "cons": "No job security for on role person also don't join here if you are 10th fail you can be a team leader and Hub incharge,if you are graduate you are fired",
+      "sentiment": "negative",
+      "sentiment_score": -0.9047,
+      "is_current_employee": true,
+      "review_date": "2025-06-17"
+    },
+    {
+      "title": null,
+      "role": "Courier Boy",
+      "location": "Junagadh",
+      "rating": 5.0,
+      "pros": "Have good work",
+      "cons": "No everything okey",
+      "sentiment": "positive",
+      "sentiment_score": 0.1779,
+      "is_current_employee": true,
+      "review_date": "2025-08-23"
+    },
+    {
+      "title": null,
+      "role": "Supply Chain Trainee",
+      "location": "Agra",
+      "rating": 1.0,
+      "pros": "will provide you to grow up and learn operational skills",
+      "cons": "Job security and promotion are very rare if you don't know how to butter your manager",
+      "sentiment": "positive",
+      "sentiment_score": 0.34,
+      "is_current_employee": true,
+      "review_date": "2025-09-10"
+    },
+    {
+      "title": null,
+      "role": "Data Entry and Computer Operator",
+      "location": "Kolkata",
+      "rating": 4.0,
+      "pros": "No",
+      "cons": "",
+      "sentiment": "negative",
+      "sentiment_score": -0.296,
+      "is_current_employee": true,
+      "review_date": "2025-11-21"
+    },
+    {
+      "title": null,
+      "role": "Data Entry Operator",
+      "location": "Gurugram",
+      "rating": 4.0,
+      "pros": "Good",
+      "cons": "",
+      "sentiment": "positive",
+      "sentiment_score": 0.4404,
+      "is_current_employee": true,
+      "review_date": "2025-11-20"
+    },
+    {
+      "title": null,
+      "role": "Team Lead Operations",
+      "location": "Bhiwadi",
+      "rating": 5.0,
+      "pros": "Hi",
+      "cons": "",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2025-11-19"
+    },
+    {
+      "title": null,
+      "role": "Senior Executive",
+      "location": "Jaipur",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "Job security and promotion",
+      "sentiment": "positive",
+      "sentiment_score": 0.34,
+      "is_current_employee": true,
+      "review_date": "2025-10-10"
     }
   ],
   "salaries": [
@@ -740,8 +2420,8 @@
       "role": "Operations Executive",
       "location": null,
       "min_salary": 300000,
-      "max_salary": 513880,
-      "avg_salary": 436837,
+      "max_salary": 515000,
+      "avg_salary": 437271,
       "currency": "INR",
       "experience": "0-6 years",
       "sample_count": null
@@ -751,7 +2431,7 @@
       "location": null,
       "min_salary": 145000,
       "max_salary": 300000,
-      "avg_salary": 237478,
+      "avg_salary": 238050,
       "currency": "INR",
       "experience": "0-5 years",
       "sample_count": null
@@ -760,8 +2440,8 @@
       "role": "Data Analyst",
       "location": null,
       "min_salary": 400000,
-      "max_salary": 948000,
-      "avg_salary": 607676,
+      "max_salary": 950000,
+      "avg_salary": 607942,
       "currency": "INR",
       "experience": "0-6 years",
       "sample_count": null
@@ -771,29 +2451,29 @@
       "location": null,
       "min_salary": 400000,
       "max_salary": 650000,
-      "avg_salary": 558338,
+      "avg_salary": 557258,
       "currency": "INR",
       "experience": "0-8 years",
+      "sample_count": null
+    },
+    {
+      "role": "Key Account Manager",
+      "location": null,
+      "min_salary": 390000,
+      "max_salary": 1900000,
+      "avg_salary": 725132,
+      "currency": "INR",
+      "experience": "1-8 years",
       "sample_count": null
     },
     {
       "role": "HUB Incharge",
       "location": null,
       "min_salary": 420000,
-      "max_salary": 747879,
-      "avg_salary": 614211,
+      "max_salary": 743500,
+      "avg_salary": 614479,
       "currency": "INR",
       "experience": "1-13 years",
-      "sample_count": null
-    },
-    {
-      "role": "Key Account Manager",
-      "location": null,
-      "min_salary": 366000,
-      "max_salary": 1800000,
-      "avg_salary": 730041,
-      "currency": "INR",
-      "experience": "0-8 years",
       "sample_count": null
     },
     {
@@ -801,7 +2481,7 @@
       "location": null,
       "min_salary": 1600000,
       "max_salary": 2800000,
-      "avg_salary": 2197157,
+      "avg_salary": 2207780,
       "currency": "INR",
       "experience": "0-8 years",
       "sample_count": null
@@ -810,10 +2490,130 @@
       "role": "Business Development Executive",
       "location": null,
       "min_salary": 370000,
-      "max_salary": 554000,
-      "avg_salary": 520455,
+      "max_salary": 555000,
+      "avg_salary": 520884,
       "currency": "INR",
       "experience": "0-8 years",
+      "sample_count": null
+    },
+    {
+      "role": "Software Development Engineer II",
+      "location": null,
+      "min_salary": 2600000,
+      "max_salary": 4000000,
+      "avg_salary": 3197744,
+      "currency": "INR",
+      "experience": "2-6 years",
+      "sample_count": null
+    },
+    {
+      "role": "Software Developer",
+      "location": null,
+      "min_salary": 1200000,
+      "max_salary": 3500000,
+      "avg_salary": 3404023,
+      "currency": "INR",
+      "experience": "0-5 years",
+      "sample_count": null
+    },
+    {
+      "role": "Business Development Manager",
+      "location": null,
+      "min_salary": 1568300,
+      "max_salary": 3000000,
+      "avg_salary": 2280522,
+      "currency": "INR",
+      "experience": "0-9 years",
+      "sample_count": null
+    },
+    {
+      "role": "Software Engineer",
+      "location": null,
+      "min_salary": 1000000,
+      "max_salary": 3258800,
+      "avg_salary": 2322191,
+      "currency": "INR",
+      "experience": "0-5 years",
+      "sample_count": null
+    },
+    {
+      "role": "Team Lead Operations",
+      "location": null,
+      "min_salary": 300000,
+      "max_salary": 845000,
+      "avg_salary": 620372,
+      "currency": "INR",
+      "experience": "1-11 years",
+      "sample_count": null
+    },
+    {
+      "role": "Business Analyst",
+      "location": null,
+      "min_salary": 650000,
+      "max_salary": 2400000,
+      "avg_salary": 1680244,
+      "currency": "INR",
+      "experience": "0-5 years",
+      "sample_count": null
+    },
+    {
+      "role": "Lead Operator",
+      "location": null,
+      "min_salary": 596000,
+      "max_salary": 1000000,
+      "avg_salary": 829181,
+      "currency": "INR",
+      "experience": "3-13 years",
+      "sample_count": null
+    },
+    {
+      "role": "Customer Care Executive",
+      "location": null,
+      "min_salary": 150000,
+      "max_salary": 350000,
+      "avg_salary": 260548,
+      "currency": "INR",
+      "experience": "0-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "System Engineer",
+      "location": null,
+      "min_salary": 260000,
+      "max_salary": 400000,
+      "avg_salary": 325922,
+      "currency": "INR",
+      "experience": "0-7 years",
+      "sample_count": null
+    },
+    {
+      "role": "Shift Incharge",
+      "location": null,
+      "min_salary": 350000,
+      "max_salary": 853000,
+      "avg_salary": 716350,
+      "currency": "INR",
+      "experience": "3-11 years",
+      "sample_count": null
+    },
+    {
+      "role": "Customer Service Executive",
+      "location": null,
+      "min_salary": 160000,
+      "max_salary": 320000,
+      "avg_salary": 255771,
+      "currency": "INR",
+      "experience": "0-6 years",
+      "sample_count": null
+    },
+    {
+      "role": "Area Manager",
+      "location": null,
+      "min_salary": 808000,
+      "max_salary": 1520000,
+      "avg_salary": 1193426,
+      "currency": "INR",
+      "experience": "8-18 years",
       "sample_count": null
     }
   ],
@@ -954,27 +2754,27 @@
       "details": "• Budding Star Program\n• Higher Education Assistance Program\n• Meal Allowance \n• Car Lease Program\n• Mobile & Broadband Reimbursements\n• Salary Advance Facility\n• Post demise family support"
     }
   ],
-  "_scraped_at": "2026-03-30T04:07:39.487231+00:00",
+  "_scraped_at": "2026-04-05T04:09:18.700417+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Flipkart",
   "_registry_industry": "E-Commerce",
   "_sentiment": {
-    "positiveCount": 31,
-    "negativeCount": 19,
-    "neutralCount": 10,
+    "positiveCount": 119,
+    "negativeCount": 52,
+    "neutralCount": 29,
     "topPositiveThemes": [
       "company culture",
-      "management",
-      "career growth",
       "salary & compensation",
+      "career growth",
+      "management",
       "training"
     ],
     "topNegativeThemes": [
       "company culture",
       "management",
-      "salary & compensation",
       "career growth",
-      "work-life balance"
+      "work-life balance",
+      "salary & compensation"
     ]
   }
 }

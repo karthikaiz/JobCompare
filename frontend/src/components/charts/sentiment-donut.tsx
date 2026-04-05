@@ -9,13 +9,20 @@ interface SentimentDonutProps {
   neutral: number;
 }
 
-const COLORS = { Positive: "#22c55e", Neutral: "#9ca3af", Negative: "#ef4444" };
+const COLORS = { Positive: "#4A7C59", Neutral: "#C4B99A", Negative: "#B05252" };
+
+const TOOLTIP_STYLE = {
+  backgroundColor: "#FDFCF5",
+  border: "1px solid rgba(26,21,4,0.12)",
+  borderRadius: "4px",
+  color: "#1a1504",
+};
 
 export function SentimentDonut({ positive, negative, neutral }: SentimentDonutProps) {
   const isMobile = useIsMobile();
   const total = positive + negative + neutral;
   if (total === 0) {
-    return <p className="text-sm text-muted-foreground text-center py-8">No sentiment data</p>;
+    return <p className="text-sm text-warmgray text-center py-8 font-sans">No sentiment data</p>;
   }
 
   const data = [
@@ -36,7 +43,7 @@ export function SentimentDonut({ positive, negative, neutral }: SentimentDonutPr
             outerRadius={isMobile ? 70 : 90}
             dataKey="value"
             strokeWidth={2}
-            stroke="#fff"
+            stroke="#FDFCF5"
           >
             {data.map((entry) => (
               <Cell key={entry.name} fill={COLORS[entry.name as keyof typeof COLORS]} />
@@ -47,21 +54,26 @@ export function SentimentDonut({ positive, negative, neutral }: SentimentDonutPr
               `${value} (${Math.round((Number(value) / total) * 100)}%)`,
               String(name),
             ]}
+            contentStyle={TOOLTIP_STYLE}
+            itemStyle={{ color: "#6b6559" }}
           />
           <Legend
             verticalAlign="bottom"
             layout={isMobile ? "vertical" : "horizontal"}
-            align={isMobile ? "center" : "center"}
             formatter={(value: string) => {
               const item = data.find((d) => d.name === value);
-              return `${value}: ${item?.value ?? 0} (${Math.round(((item?.value ?? 0) / total) * 100)}%)`;
+              return (
+                <span style={{ color: "#6b6559", fontFamily: "var(--font-geist-sans)", fontSize: "11px" }}>
+                  {`${value}: ${item?.value ?? 0} (${Math.round(((item?.value ?? 0) / total) * 100)}%)`}
+                </span>
+              );
             }}
           />
         </PieChart>
       </ResponsiveContainer>
       <div className="text-center -mt-2">
-        <span className="text-2xl font-bold">{total}</span>
-        <span className="text-sm text-muted-foreground ml-1">total reviews</span>
+        <span className="text-2xl font-bold font-mono text-ink">{total}</span>
+        <span className="text-sm text-warmgray ml-1 font-sans">total reviews</span>
       </div>
     </div>
   );

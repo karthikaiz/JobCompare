@@ -1,0 +1,13 @@
+
+============================================================
+JobCompare Batch Scraper
+Companies: 52
+Started: 2026-04-04 22:03:12
+============================================================
+
+[1/52]   Scraping Infosys (infosys)...   [warmup] Visiting AmbitionBox homepage to establish session...
+  [warmup] Status: 200, Cookies: 1
+OK (64.1s) — 60 reviews, 8 salaries, 24 benefits
+[2/52]   Scraping TCS (tata-consultancy-services)... OK (62.5s) — 60 reviews, 8 salaries, 24 benefits
+[3/52]   Scraping Wipro (wipro)... OK (63.0s) — 60 reviews, 8 salaries, 26 benefits
+[4/52]   Scraping HCL Technologies (hcl-technologies)... 

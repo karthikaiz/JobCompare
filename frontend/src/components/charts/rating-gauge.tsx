@@ -1,5 +1,7 @@
 "use client";
 
+import { useEffect, useRef, useState } from "react";
+
 interface RatingGaugeProps {
   rating: number;
   maxRating?: number;
@@ -8,19 +10,19 @@ interface RatingGaugeProps {
 }
 
 function ratingColor(rating: number): string {
-  if (rating >= 4.0) return "text-green-600";
-  if (rating >= 3.5) return "text-blue-600";
-  if (rating >= 3.0) return "text-yellow-600";
-  if (rating >= 2.0) return "text-orange-500";
-  return "text-red-500";
+  if (rating >= 4.0) return "text-[#4A7C59]";
+  if (rating >= 3.5) return "text-terracotta";
+  if (rating >= 3.0) return "text-[#C4714A]";
+  if (rating >= 2.0) return "text-[#B05252]";
+  return "text-[#8B3A3A]";
 }
 
-function ringColor(rating: number): string {
-  if (rating >= 4.0) return "stroke-green-500";
-  if (rating >= 3.5) return "stroke-blue-500";
-  if (rating >= 3.0) return "stroke-yellow-500";
-  if (rating >= 2.0) return "stroke-orange-500";
-  return "stroke-red-500";
+function ringColorHex(rating: number): string {
+  if (rating >= 4.0) return "#4A7C59";
+  if (rating >= 3.5) return "#C4714A";
+  if (rating >= 3.0) return "#C4714A";
+  if (rating >= 2.0) return "#B05252";
+  return "#8B3A3A";
 }
 
 const SIZES = {
@@ -33,7 +35,27 @@ export function RatingGauge({ rating, maxRating = 5, label, size = "md" }: Ratin
   const { outer, stroke, fontSize } = SIZES[size];
   const radius = (outer - stroke) / 2;
   const circumference = 2 * Math.PI * radius;
-  const progress = (rating / maxRating) * circumference;
+  const targetProgress = (rating / maxRating) * circumference;
+
+  const ref = useRef<SVGCircleElement>(null);
+  const [animated, setAnimated] = useState(false);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting && !animated) {
+          setAnimated(true);
+        }
+      },
+      { threshold: 0.3 }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [animated]);
+
+  const dashOffset = animated ? circumference - targetProgress : circumference;
 
   return (
     <div className="flex flex-col items-center gap-1">
@@ -44,29 +66,30 @@ export function RatingGauge({ rating, maxRating = 5, label, size = "md" }: Ratin
             cy={outer / 2}
             r={radius}
             fill="none"
-            stroke="currentColor"
+            stroke="rgba(26,21,4,0.08)"
             strokeWidth={stroke}
-            className="text-gray-100"
           />
           <circle
+            ref={ref}
             cx={outer / 2}
             cy={outer / 2}
             r={radius}
             fill="none"
             strokeWidth={stroke}
             strokeDasharray={circumference}
-            strokeDashoffset={circumference - progress}
+            strokeDashoffset={dashOffset}
             strokeLinecap="round"
-            className={ringColor(rating)}
+            stroke={ringColorHex(rating)}
+            style={{ transition: "stroke-dashoffset 1s cubic-bezier(0.4, 0, 0.2, 1)" }}
           />
         </svg>
         <div className="absolute inset-0 flex items-center justify-center">
-          <span className={`${fontSize} font-bold ${ratingColor(rating)}`}>
+          <span className={`${fontSize} font-bold font-mono ${ratingColor(rating)}`}>
             {rating.toFixed(1)}
           </span>
         </div>
       </div>
-      {label && <span className="text-xs text-muted-foreground">{label}</span>}
+      {label && <span className="text-xs text-warmgray font-sans">{label}</span>}
     </div>
   );
 }

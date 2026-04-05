@@ -1,30 +1,362 @@
 {
   "infosys": {
     "status": "success",
-    "scraped_at": "2026-04-01T03:18:50.597504+00:00",
-    "reviews": 60,
-    "salaries": 8,
+    "scraped_at": "2026-04-05T03:29:30.669559+00:00",
+    "reviews": 200,
+    "salaries": 20,
     "benefits": 24
   },
   "flipkart": {
     "status": "success",
-    "scraped_at": "2026-03-30T04:07:39.489348+00:00",
-    "reviews": 60,
-    "salaries": 8,
+    "scraped_at": "2026-04-05T04:09:18.704896+00:00",
+    "reviews": 200,
+    "salaries": 20,
     "benefits": 27
   },
   "razorpay": {
     "status": "success",
-    "scraped_at": "2026-03-30T04:11:15.902112+00:00",
-    "reviews": 60,
-    "salaries": 8,
+    "scraped_at": "2026-04-05T03:49:24.324368+00:00",
+    "reviews": 161,
+    "salaries": 20,
     "benefits": 22
   },
   "tata-consultancy-services": {
     "status": "success",
-    "scraped_at": "2026-04-01T03:19:58.252325+00:00",
-    "reviews": 60,
-    "salaries": 8,
+    "scraped_at": "2026-04-05T03:32:04.659228+00:00",
+    "reviews": 200,
+    "salaries": 20,
     "benefits": 24
+  },
+  "wipro": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:34:23.180212+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 26
+  },
+  "hcl-technologies": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:36:54.261467+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 24
+  },
+  "tech-mahindra": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:39:21.917743+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 27
+  },
+  "cognizant-technology-solutions": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:42:01.419048+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 26
+  },
+  "ltimindtree": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:44:27.616629+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 25
+  },
+  "mphasis": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:46:55.124339+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 24
+  },
+  "paytm": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:52:01.024418+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 24
+  },
+  "phonepe": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:54:35.479959+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "cred": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:57:06.147537+00:00",
+    "reviews": 120,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "bharatpe": {
+    "status": "success",
+    "scraped_at": "2026-04-05T03:59:32.504203+00:00",
+    "reviews": 162,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "policybazaar": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:02:00.072688+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 28
+  },
+  "zerodha": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:04:20.087687+00:00",
+    "reviews": 127,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "groww": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:06:53.218700+00:00",
+    "reviews": 153,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "amazon": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:11:50.537394+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 24
+  },
+  "myntra": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:14:16.391910+00:00",
+    "reviews": 139,
+    "salaries": 20,
+    "benefits": 26
+  },
+  "meesho": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:16:50.376865+00:00",
+    "reviews": 144,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "nykaa": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:17:47.676553+00:00",
+    "reviews": 141,
+    "salaries": 0,
+    "benefits": 0
+  },
+  "zomato": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:20:13.938836+00:00",
+    "reviews": 158,
+    "salaries": 20,
+    "benefits": 29
+  },
+  "swiggy": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:22:38.021818+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "hdfc-bank": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:25:05.823891+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "icici-bank": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:27:28.267211+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "kotak-mahindra-bank": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:30:00.330582+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "axis-bank": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:32:29.760862+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 26
+  },
+  "state-bank-of-india-sbi": {
+    "status": "failed",
+    "scraped_at": "2026-04-05T04:32:33.514686+00:00",
+    "error": "Scrape returned no data"
+  },
+  "reliance-industries": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:34:56.418687+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 23
+  },
+  "tata-group": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:37:27.954575+00:00",
+    "reviews": 171,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "adani-group": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:39:49.870790+00:00",
+    "reviews": 168,
+    "salaries": 20,
+    "benefits": 24
+  },
+  "mahindra-and-mahindra": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:42:22.164916+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "zoho": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:44:42.114220+00:00",
+    "reviews": 151,
+    "salaries": 20,
+    "benefits": 23
+  },
+  "freshworks": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:47:11.827660+00:00",
+    "reviews": 160,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "postman": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:49:01.328648+00:00",
+    "reviews": 30,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "browserstack": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:51:22.728853+00:00",
+    "reviews": 112,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "chargebee": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:53:38.919233+00:00",
+    "reviews": 105,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "ola": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:56:06.165283+00:00",
+    "reviews": 174,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "uber": {
+    "status": "success",
+    "scraped_at": "2026-04-05T04:58:33.765992+00:00",
+    "reviews": 165,
+    "salaries": 20,
+    "benefits": 18
+  },
+  "maruti-suzuki-india": {
+    "status": "failed",
+    "scraped_at": "2026-04-05T04:58:38.119538+00:00",
+    "error": "Scrape returned no data"
+  },
+  "tata-motors": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:01:05.594413+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "sun-pharmaceutical-industries": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:03:35.677880+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 24
+  },
+  "dr-reddys-laboratories": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:06:06.932565+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 34
+  },
+  "cipla": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:08:36.461701+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 23
+  },
+  "reliance-jio": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:11:00.448170+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "bharti-airtel": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:13:23.642055+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 27
+  },
+  "dream11": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:15:36.584528+00:00",
+    "reviews": 91,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "google": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:18:09.326895+00:00",
+    "reviews": 173,
+    "salaries": 20,
+    "benefits": 23
+  },
+  "microsoft-corporation": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:20:38.973989+00:00",
+    "reviews": 136,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "deloitte": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:23:06.767156+00:00",
+    "reviews": 200,
+    "salaries": 20,
+    "benefits": 25
+  },
+  "maersk": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:25:43.814164+00:00",
+    "reviews": 173,
+    "salaries": 20,
+    "benefits": 29
+  },
+  "motorola-solutions": {
+    "status": "success",
+    "scraped_at": "2026-04-05T05:28:09.466405+00:00",
+    "reviews": 132,
+    "salaries": 20,
+    "benefits": 0
   }
 }

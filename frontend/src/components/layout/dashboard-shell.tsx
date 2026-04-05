@@ -2,10 +2,10 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Navbar } from "./navbar";
-import { Sidebar } from "./sidebar";
+import { AnimatePresence, motion } from "framer-motion";
 import { CompareBar } from "@/components/compare-bar";
 import { useCompare } from "@/context/compare-context";
+import { useAuth } from "@/context/auth-context";
 import { cn } from "@/lib/utils";
 
 interface DashboardShellProps {
@@ -13,65 +13,142 @@ interface DashboardShellProps {
   children: React.ReactNode;
 }
 
-function MobileNav({ role }: { role: "job-seeker" | "recruiter" }) {
+export function DashboardShell({ role, children }: DashboardShellProps) {
+  useCompare();
+  const { user, loading, logout } = useAuth();
   const pathname = usePathname();
-  const items = role === "job-seeker"
-    ? [
-        { href: "/job-seeker", label: "Dashboard", icon: "M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" },
-        { href: "/job-seeker/compare", label: "Compare", icon: "M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7" },
-      ]
-    : [
-        { href: "/recruiter", label: "Dashboard", icon: "M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" },
-      ];
+  const isJobSeeker = pathname.startsWith("/job-seeker");
+  const isRecruiter = pathname.startsWith("/recruiter");
+
+  const navItems =
+    role === "job-seeker"
+      ? [
+          { href: "/job-seeker", label: "Dashboard" },
+          { href: "/job-seeker/compare", label: "Compare" },
+        ]
+      : [{ href: "/recruiter", label: "Dashboard" }];
 
   return (
-    <nav className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white border-t">
-      <div className="flex justify-around">
-        {items.map((item) => {
-          const isActive = pathname === item.href;
-          return (
+    <div className="min-h-screen flex flex-col bg-cream">
+      {/* h-11 top bar */}
+      <header className="h-11 border-b-2 border-ink/20 bg-cream sticky top-0 z-50 flex items-center px-4 gap-4">
+        {/* Logo */}
+        <Link href="/" className="font-serif font-bold text-ink text-base tracking-tight whitespace-nowrap mr-2">
+          Job<span className="text-terracotta">Compare</span>
+        </Link>
+
+        <span className="w-px h-4 bg-ink/20 hidden sm:block" />
+
+        {/* Role switcher */}
+        <div className="flex items-center border border-ink/20 overflow-hidden">
+          <Link
+            href="/job-seeker"
+            className={cn(
+              "px-3 py-1 text-[10px] uppercase tracking-[0.1em] font-sans font-medium transition-all whitespace-nowrap",
+              isJobSeeker
+                ? "bg-terracotta text-white"
+                : "text-warmgray hover:text-ink hover:bg-ink/5"
+            )}
+          >
+            Job Seeker
+          </Link>
+          <span className="w-px h-4 bg-ink/15" />
+          <Link
+            href="/recruiter"
+            className={cn(
+              "px-3 py-1 text-[10px] uppercase tracking-[0.1em] font-sans font-medium transition-all whitespace-nowrap",
+              isRecruiter
+                ? "bg-terracotta text-white"
+                : "text-warmgray hover:text-ink hover:bg-ink/5"
+            )}
+          >
+            Recruiter
+          </Link>
+        </div>
+
+        {/* Page nav */}
+        <nav className="hidden sm:flex items-center gap-1 ml-2">
+          {navItems.map((item) => (
             <Link
               key={item.href}
               href={item.href}
               className={cn(
-                "flex flex-col items-center gap-0.5 py-2 px-3 text-xs min-h-[48px] justify-center",
-                isActive ? "text-blue-600" : "text-gray-500"
+                "px-2.5 py-1 text-xs font-sans transition-all",
+                pathname === item.href
+                  ? "text-ink font-medium"
+                  : "text-warmgray hover:text-ink"
               )}
             >
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d={item.icon} />
-              </svg>
               {item.label}
             </Link>
-          );
-        })}
-      </div>
-    </nav>
-  );
-}
+          ))}
+        </nav>
 
-export function DashboardShell({ role, children }: DashboardShellProps) {
-  const { companies } = useCompare();
-  const hasCompareBar = role === "job-seeker" && companies.length > 0;
+        {/* Auth — pushed to the right */}
+        <div className="ml-auto flex items-center gap-3">
+          {!loading && (
+            <>
+              {user ? (
+                <>
+                  <span className="text-xs text-warmgray hidden sm:inline font-sans">
+                    {user.displayName || user.email.split("@")[0]}
+                  </span>
+                  <button
+                    onClick={logout}
+                    className="text-xs uppercase tracking-[0.1em] text-warmgray hover:text-ink transition-colors font-sans"
+                  >
+                    Logout
+                  </button>
+                </>
+              ) : (
+                <Link
+                  href="/login"
+                  className="text-xs uppercase tracking-[0.1em] border border-ink text-ink px-3 py-1.5 hover:bg-ink hover:text-cream transition-colors font-sans"
+                >
+                  Sign In
+                </Link>
+              )}
+            </>
+          )}
+        </div>
+      </header>
 
-  // Mobile: 48px mobile nav + 56px compare bar (if present) = 104px max
-  // Desktop: no mobile nav, just compare bar ~56px if present
-  const bottomPadding = hasCompareBar
-    ? "pb-[108px] md:pb-[72px]"  // mobile nav + compare bar | desktop: just compare bar
-    : "pb-[56px] md:pb-6";       // mobile nav only | desktop: normal
-
-  return (
-    <div className="min-h-screen flex flex-col">
-      <Navbar />
-      <div className="flex-1 flex">
-        <Sidebar role={role} />
-        <main className={`flex-1 p-4 sm:p-6 ${bottomPadding} bg-gray-50/30`}>
+      {/* Main content */}
+      <AnimatePresence mode="wait">
+        <motion.main
+          key={pathname.split("?")[0]}
+          initial={{ opacity: 0, x: 16 }}
+          animate={{ opacity: 1, x: 0 }}
+          exit={{ opacity: 0, x: -16 }}
+          transition={{ duration: 0.2, ease: [0.4, 0, 0.2, 1] }}
+          className="flex-1"
+        >
           {children}
-        </main>
-      </div>
-      {/* Compare bar sits above mobile nav */}
+        </motion.main>
+      </AnimatePresence>
+
       {role === "job-seeker" && <CompareBar />}
-      <MobileNav role={role} />
+
+      {/* Mobile bottom nav */}
+      <nav className="sm:hidden fixed bottom-0 left-0 right-0 z-50 bg-cream border-t-2 border-ink/20">
+        <div className="flex justify-around">
+          {navItems.map((item) => {
+            const isActive = pathname === item.href;
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={cn(
+                  "flex flex-col items-center gap-0.5 py-2 px-4 text-xs font-sans min-h-[48px] justify-center transition-colors",
+                  isActive ? "text-terracotta font-medium" : "text-warmgray hover:text-ink"
+                )}
+              >
+                {item.label}
+              </Link>
+            );
+          })}
+        </div>
+      </nav>
     </div>
   );
 }

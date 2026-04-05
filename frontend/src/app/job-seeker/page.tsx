@@ -2,10 +2,10 @@
 
 import { useSearchParams } from "next/navigation";
 import { Suspense } from "react";
+import Link from "next/link";
+import { motion } from "framer-motion";
 import { DashboardShell } from "@/components/layout/dashboard-shell";
 import { SearchBar } from "@/components/search-bar";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import Link from "next/link";
 
 const TOP_COMPANIES = [
   { name: "Infosys", slug: "infosys", rating: 3.5, industry: "IT Services" },
@@ -18,75 +18,149 @@ const TOP_COMPANIES = [
   { name: "Swiggy", slug: "swiggy", rating: 3.8, industry: "Food & Delivery" },
 ];
 
+const FEATURED = TOP_COMPANIES[0];
+const TILES = TOP_COMPANIES.slice(1);
+
+const EXPLORE_ITEMS = [
+  { label: "Ratings & Reviews", desc: "Overall score + sub-ratings from employees" },
+  { label: "Salary Ranges", desc: "Min / avg / max by role and experience" },
+  { label: "Benefits & Perks", desc: "Insurance, leaves, food, transport, and more" },
+  { label: "Side-by-Side Compare", desc: "Compare 2–3 companies across all metrics" },
+];
+
 function JobSeekerContent() {
   const searchParams = useSearchParams();
   const initialQuery = searchParams.get("q") || "";
 
   return (
     <DashboardShell role="job-seeker">
-      <div className="max-w-4xl mx-auto space-y-8">
-        {/* Header + Search */}
-        <div>
-          <h1 className="text-2xl font-bold mb-1">Job Seeker Dashboard</h1>
-          <p className="text-muted-foreground text-sm mb-4">
-            Search a company to see ratings, salaries, benefits, and employee reviews.
-          </p>
+      <div className="bg-cream min-h-screen p-4 sm:p-6 pb-20 sm:pb-6 space-y-5">
+        {/* Search row */}
+        <motion.div
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.45, ease: "easeOut" }}
+        >
+          <div className="flex items-center gap-2 mb-2">
+            <span className="w-4 h-px bg-terracotta" />
+            <span className="text-[10px] uppercase tracking-[0.18em] text-terracotta font-sans font-medium">Search Companies</span>
+          </div>
           <SearchBar
             basePath="/job-seeker"
             placeholder="Search companies (e.g. Infosys, Flipkart, TCS...)"
             initialQuery={initialQuery}
           />
-        </div>
+        </motion.div>
 
-        {/* Quick Browse */}
-        <div>
-          <h2 className="text-lg font-semibold mb-3">Browse Companies</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
-            {TOP_COMPANIES.map((company) => (
-              <Link key={company.slug} href={`/job-seeker/${company.slug}`}>
-                <Card className="hover:border-blue-300 hover:shadow-sm transition-all cursor-pointer">
-                  <CardContent className="p-4">
-                    <div className="flex items-center gap-3">
-                      <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 font-bold text-sm flex-shrink-0">
-                        {company.name.charAt(0)}
-                      </div>
-                      <div className="min-w-0">
-                        <div className="font-medium text-sm truncate">{company.name}</div>
-                        <div className="text-xs text-muted-foreground">{company.industry}</div>
-                      </div>
+        {/* Bento grid */}
+        <div
+          className="grid gap-4"
+          style={{
+            gridTemplateAreas: `
+              "featured tiles tiles tiles"
+              "actions  actions actions actions"
+            `,
+            gridTemplateColumns: "repeat(4, 1fr)",
+          }}
+        >
+          {/* Featured spotlight */}
+          <motion.div
+            style={{ gridArea: "featured" }}
+            className="min-w-0"
+            initial={{ opacity: 0, x: -20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.1, duration: 0.5, ease: "easeOut" }}
+          >
+            <Link href={`/job-seeker/${FEATURED.slug}`} className="block h-full group">
+              <div className="bg-white border-2 border-ink/15 h-full overflow-hidden flex flex-col hover:border-terracotta/40 transition-colors">
+                <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex items-center justify-between">
+                  <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Spotlight</span>
+                  <span className="w-1.5 h-1.5 rounded-full bg-terracotta animate-pulse" />
+                </div>
+                <div className="p-4 flex flex-col justify-between flex-1">
+                  <div>
+                    <div className="w-10 h-10 bg-terracotta/10 border border-terracotta/20 flex items-center justify-center text-terracotta font-bold text-lg mb-3 font-serif">
+                      {FEATURED.name.charAt(0)}
                     </div>
-                    <div className="mt-3 flex items-center gap-1">
-                      <span className="text-yellow-500 text-sm">&#9733;</span>
-                      <span className="text-sm font-medium">{company.rating.toFixed(1)}</span>
-                      <span className="text-xs text-muted-foreground">/5.0</span>
+                    <div className="font-serif font-bold text-ink text-lg leading-tight">{FEATURED.name}</div>
+                    <div className="text-[10px] uppercase tracking-[0.1em] text-warmgray font-sans mt-0.5">{FEATURED.industry}</div>
+                  </div>
+                  <div className="mt-5">
+                    <div className="flex items-end gap-1">
+                      <span className="text-3xl font-bold font-mono text-terracotta">{FEATURED.rating.toFixed(1)}</span>
+                      <span className="text-warmgray text-sm mb-1 font-sans">/5.0</span>
                     </div>
-                  </CardContent>
-                </Card>
-              </Link>
-            ))}
-          </div>
-        </div>
+                    <div className="text-[10px] uppercase tracking-[0.1em] text-warmgray font-sans mt-0.5">Overall Rating</div>
+                    <div className="mt-4 text-xs text-terracotta font-sans group-hover:underline">View details →</div>
+                  </div>
+                </div>
+              </div>
+            </Link>
+          </motion.div>
 
-        {/* What you can explore */}
-        <div>
-          <h2 className="text-lg font-semibold mb-3">What You Can Explore</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {[
-              { title: "Ratings & Reviews", desc: "Overall rating, work-life balance, salary, growth, culture scores with employee reviews" },
-              { title: "Salary Ranges", desc: "Min/avg/max salary data by role with experience levels" },
-              { title: "Benefits & Perks", desc: "Insurance, leaves, food, transport, and more — categorized" },
-              { title: "Company Comparison", desc: "Compare 2-3 companies side by side across all metrics" },
-            ].map((item) => (
-              <Card key={item.title}>
-                <CardHeader className="pb-2">
-                  <CardTitle className="text-sm">{item.title}</CardTitle>
-                </CardHeader>
-                <CardContent className="pt-0">
-                  <p className="text-xs text-muted-foreground">{item.desc}</p>
-                </CardContent>
-              </Card>
-            ))}
-          </div>
+          {/* Tiles grid */}
+          <motion.div
+            style={{ gridArea: "tiles" }}
+            className="min-w-0"
+            initial={{ opacity: 0, y: 16 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.15, duration: 0.5, ease: "easeOut" }}
+          >
+            <div className="bg-white border border-ink/15 h-full overflow-hidden flex flex-col">
+              <div className="px-4 py-2.5 border-b border-ink/10 bg-cream">
+                <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Browse Companies</span>
+              </div>
+              <div className="p-3 flex-1">
+                <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2 h-full">
+                  {TILES.map((company, i) => (
+                    <motion.div
+                      key={company.slug}
+                      initial={{ opacity: 0, y: 8 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ delay: 0.25 + i * 0.06, duration: 0.35, ease: "easeOut" }}
+                    >
+                      <Link href={`/job-seeker/${company.slug}`} className="block">
+                        <div className="border border-ink/15 p-3 hover:border-terracotta/40 hover:bg-terracotta/3 transition-all cursor-pointer group">
+                          <div className="w-6 h-6 bg-terracotta/10 flex items-center justify-center text-terracotta font-bold text-xs mb-2 font-serif group-hover:bg-terracotta/15 transition-colors">
+                            {company.name.charAt(0)}
+                          </div>
+                          <div className="text-ink text-xs font-medium font-sans truncate">{company.name}</div>
+                          <div className="text-warmgray text-[10px] font-sans truncate mt-0.5">{company.industry}</div>
+                          <div className="flex items-center gap-1 mt-2">
+                            <span className="text-terracotta text-xs">★</span>
+                            <span className="text-ink text-xs font-mono">{company.rating.toFixed(1)}</span>
+                          </div>
+                        </div>
+                      </Link>
+                    </motion.div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </motion.div>
+
+          {/* Actions / explore strip */}
+          <motion.div
+            style={{ gridArea: "actions" }}
+            className="min-w-0"
+            initial={{ opacity: 0, y: 16 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3, duration: 0.5, ease: "easeOut" }}
+          >
+            <div className="bg-white border border-ink/15 overflow-hidden">
+              <div className="px-4 py-2.5 border-b border-ink/10 bg-cream">
+                <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">What You Can Explore</span>
+              </div>
+              <div className="grid grid-cols-2 sm:grid-cols-4 divide-y sm:divide-y-0 sm:divide-x divide-ink/8">
+                {EXPLORE_ITEMS.map((item) => (
+                  <div key={item.label} className="px-4 py-3">
+                    <div className="text-ink text-sm font-medium font-sans mb-1">{item.label}</div>
+                    <div className="text-warmgray text-xs font-sans leading-relaxed">{item.desc}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </motion.div>
         </div>
       </div>
     </DashboardShell>
@@ -95,7 +169,7 @@ function JobSeekerContent() {
 
 export default function JobSeekerPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen bg-gray-50/30" />}>
+    <Suspense fallback={<div className="min-h-screen bg-cream" />}>
       <JobSeekerContent />
     </Suspense>
   );

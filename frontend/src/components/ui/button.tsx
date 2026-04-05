@@ -4,16 +4,18 @@ import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/utils";
 
 const buttonVariants = cva(
-  "inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50",
+  "inline-flex items-center justify-center whitespace-nowrap rounded-lg text-sm font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#0070F3]/50 focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:pointer-events-none disabled:opacity-50",
   {
     variants: {
       variant: {
-        default: "bg-primary text-primary-foreground hover:bg-primary/90",
-        destructive: "bg-destructive text-destructive-foreground hover:bg-destructive/90",
-        outline: "border border-input bg-background hover:bg-accent hover:text-accent-foreground",
-        secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80",
-        ghost: "hover:bg-accent hover:text-accent-foreground",
-        link: "text-primary underline-offset-4 hover:underline",
+        default: "bg-[#0070F3] text-white hover:bg-[#005FD4] shadow-lg shadow-[#0070F3]/20 hover:shadow-[#0070F3]/35 hover:scale-[1.02] active:scale-[0.98]",
+        destructive: "bg-red-500/20 text-red-400 border border-red-500/30 hover:bg-red-500/30",
+        outline: "border border-white/15 text-white/80 hover:bg-white/8 hover:text-white hover:border-[#0070F3]/40",
+        secondary: "bg-white/8 text-white/80 border border-white/8 hover:bg-white/12",
+        ghost: "text-white/60 hover:text-white hover:bg-white/8",
+        link: "text-[#0070F3] underline-offset-4 hover:underline",
+        gradient: "bg-[#0070F3] text-white hover:bg-[#005FD4] shadow-lg shadow-[#0070F3]/20 hover:shadow-[#0070F3]/35 hover:scale-[1.02] active:scale-[0.98]",
+        glass: "bg-white/8 border border-white/10 text-white hover:bg-white/12 hover:border-[#0070F3]/20",
       },
       size: {
         default: "h-10 px-4 py-2",
