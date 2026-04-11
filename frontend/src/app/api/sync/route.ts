@@ -168,13 +168,12 @@ export async function POST(request: NextRequest) {
       )
     );
 
-    // Insert new reviews (skip duplicates)
-    let newReviews = 0;
+    // Insert new reviews in one batch (skip duplicates)
+    const newReviewData = [];
     for (const review of body.reviews) {
       const hash = reviewHash(review);
       if (existingHashes.has(hash)) continue;
 
-      // Use provided sentiment or classify from rating/text
       let sentiment = review.sentiment;
       let sentimentScore = review.sentimentScore;
       if (!sentiment) {
@@ -183,58 +182,55 @@ export async function POST(request: NextRequest) {
         sentimentScore = classified.score;
       }
 
-      await prisma.review.create({
-        data: {
-          companyId: company.id,
-          title: truncate(review.title, 500),
-          role: truncate(review.role, 300),
-          location: truncate(review.location, 300),
-          rating: review.rating,
-          pros: truncate(review.pros),
-          cons: truncate(review.cons),
-          sentiment: truncate(sentiment, 20),
-          sentimentScore: sentimentScore,
-          isCurrentEmployee: review.isCurrentEmployee,
-          reviewDate: review.reviewDate ? new Date(review.reviewDate) : null,
-        },
+      newReviewData.push({
+        companyId: company.id,
+        title: truncate(review.title, 500),
+        role: truncate(review.role, 300),
+        location: truncate(review.location, 300),
+        rating: review.rating,
+        pros: truncate(review.pros),
+        cons: truncate(review.cons),
+        sentiment: truncate(sentiment, 20),
+        sentimentScore: sentimentScore,
+        isCurrentEmployee: review.isCurrentEmployee,
+        reviewDate: review.reviewDate ? new Date(review.reviewDate) : null,
       });
-      newReviews++;
     }
+    if (newReviewData.length > 0) {
+      await prisma.review.createMany({ data: newReviewData });
+    }
+    const newReviews = newReviewData.length;
 
-    // Replace salaries (always update with latest data)
+    // Replace salaries in one batch
     await prisma.salary.deleteMany({ where: { companyId: company.id } });
-    let salaryCount = 0;
-    for (const salary of body.salaries) {
-      await prisma.salary.create({
-        data: {
-          companyId: company.id,
-          role: truncate(salary.role, 300),
-          location: truncate(salary.location, 300),
-          minSalary: salary.minSalary,
-          maxSalary: salary.maxSalary,
-          avgSalary: salary.avgSalary,
-          currency: truncate(salary.currency, 10) || "INR",
-          experience: truncate(salary.experience, 100),
-          sampleCount: salary.sampleCount,
-        },
-      });
-      salaryCount++;
+    const salaryData = body.salaries.map((salary) => ({
+      companyId: company.id,
+      role: truncate(salary.role, 300),
+      location: truncate(salary.location, 300),
+      minSalary: salary.minSalary,
+      maxSalary: salary.maxSalary,
+      avgSalary: salary.avgSalary,
+      currency: truncate(salary.currency, 10) || "INR",
+      experience: truncate(salary.experience, 100),
+      sampleCount: salary.sampleCount,
+    }));
+    if (salaryData.length > 0) {
+      await prisma.salary.createMany({ data: salaryData });
     }
+    const salaryCount = salaryData.length;
 
-    // Replace benefits (always update with latest data)
+    // Replace benefits in one batch
     await prisma.benefit.deleteMany({ where: { companyId: company.id } });
-    let benefitCount = 0;
-    for (const benefit of body.benefits) {
-      await prisma.benefit.create({
-        data: {
-          companyId: company.id,
-          category: truncate(benefit.category, 200),
-          name: truncate(benefit.name, 500),
-          details: truncate(benefit.details, 2000),
-        },
-      });
-      benefitCount++;
+    const benefitData = body.benefits.map((benefit) => ({
+      companyId: company.id,
+      category: truncate(benefit.category, 200),
+      name: truncate(benefit.name, 500),
+      details: truncate(benefit.details, 2000),
+    }));
+    if (benefitData.length > 0) {
+      await prisma.benefit.createMany({ data: benefitData });
     }
+    const benefitCount = benefitData.length;
 
     // Create sentiment snapshot if provided
     if (body.sentiment) {

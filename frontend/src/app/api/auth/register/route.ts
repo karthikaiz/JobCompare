@@ -37,20 +37,32 @@ export async function POST(request: NextRequest) {
     }
 
     const existing = await prisma.user.findUnique({ where: { email: emailStr } });
-    if (existing) {
-      // Don't reveal that the email exists — prevent enumeration
-      return NextResponse.json({ error: "Registration failed. Please try a different email or sign in." }, { status: 400 });
-    }
 
     const passwordHash = await hashPassword(passwordStr);
 
-    const user = await prisma.user.create({
-      data: {
-        email: emailStr,
-        passwordHash,
-        displayName: displayName ? String(displayName).trim().slice(0, 100) : null,
-      },
-    });
+    let user;
+    if (existing) {
+      // Allow setting a password if account was created via Google/Firebase
+      if (!existing.passwordHash.startsWith("firebase:")) {
+        return NextResponse.json({ error: "Email already registered. Please sign in." }, { status: 400 });
+      }
+      // Firebase account — set a real password so they can use email/password login
+      user = await prisma.user.update({
+        where: { email: emailStr },
+        data: {
+          passwordHash,
+          displayName: displayName ? String(displayName).trim().slice(0, 100) : existing.displayName,
+        },
+      });
+    } else {
+      user = await prisma.user.create({
+        data: {
+          email: emailStr,
+          passwordHash,
+          displayName: displayName ? String(displayName).trim().slice(0, 100) : null,
+        },
+      });
+    }
 
     const token = await createToken({ userId: user.id, email: user.email });
 

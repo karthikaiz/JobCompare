@@ -1,21 +1,10 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { DashboardShell } from "@/components/layout/dashboard-shell";
 import { SearchBar } from "@/components/search-bar";
-
-const TOP_COMPANIES = [
-  { name: "Infosys", slug: "infosys", rating: 3.5, industry: "IT Services" },
-  { name: "TCS", slug: "tcs", rating: 3.7, industry: "IT Services" },
-  { name: "Flipkart", slug: "flipkart", rating: 3.9, industry: "E-Commerce" },
-  { name: "Razorpay", slug: "razorpay", rating: 3.4, industry: "Fintech" },
-  { name: "Zomato", slug: "zomato", rating: 3.9, industry: "Food & Delivery" },
-  { name: "HDFC Bank", slug: "hdfc-bank", rating: 3.6, industry: "Banking" },
-];
-
-const FEATURED = TOP_COMPANIES[0];
-const TILES = TOP_COMPANIES.slice(1);
 
 const INSIGHTS = [
   { label: "Sentiment Analysis", desc: "Positive / negative / neutral breakdown" },
@@ -23,7 +12,26 @@ const INSIGHTS = [
   { label: "Competitive Intel", desc: "Compare against competitors in the same industry" },
 ];
 
+interface Company {
+  slug: string;
+  name: string;
+  industry: string | null;
+  overallRating: number | null;
+}
+
 export default function RecruiterPage() {
+  const [companies, setCompanies] = useState<Company[]>([]);
+
+  useEffect(() => {
+    fetch("/api/companies?limit=6&offset=0")
+      .then((r) => r.json())
+      .then((d) => setCompanies(d.companies || []))
+      .catch(() => {});
+  }, []);
+
+  const featured = companies[0];
+  const tiles = companies.slice(1);
+
   return (
     <DashboardShell role="recruiter">
       <div className="bg-cream min-h-screen p-4 sm:p-6 pb-6 space-y-5">
@@ -41,55 +49,48 @@ export default function RecruiterPage() {
         </motion.div>
 
         {/* Bento grid */}
-        <div
-          className="grid gap-4"
-          style={{
-            gridTemplateAreas: `
-              "featured tiles tiles tiles"
-              "actions  actions actions actions"
-            `,
-            gridTemplateColumns: "repeat(4, 1fr)",
-          }}
-        >
+        <div className="grid grid-cols-1 sm:grid-cols-4 gap-4">
           {/* Featured spotlight */}
           <motion.div
-            style={{ gridArea: "featured" }}
-            className="min-w-0"
+            className="sm:col-span-1 min-w-0"
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.1, duration: 0.5, ease: "easeOut" }}
           >
-            <Link href={`/recruiter/${FEATURED.slug}`} className="block h-full group">
-              <div className="bg-white border-2 border-ink/15 h-full overflow-hidden flex flex-col hover:border-terracotta/40 transition-colors">
-                <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex items-center justify-between">
-                  <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Spotlight</span>
-                  <span className="w-1.5 h-1.5 rounded-full bg-terracotta animate-pulse" />
-                </div>
-                <div className="p-4 flex flex-col justify-between flex-1">
-                  <div>
-                    <div className="w-10 h-10 bg-terracotta/10 border border-terracotta/20 flex items-center justify-center text-terracotta font-bold text-lg mb-3 font-serif">
-                      {FEATURED.name.charAt(0)}
-                    </div>
-                    <div className="font-serif font-bold text-ink text-lg leading-tight">{FEATURED.name}</div>
-                    <div className="text-[10px] uppercase tracking-[0.1em] text-warmgray font-sans mt-0.5">{FEATURED.industry}</div>
+            {featured ? (
+              <Link href={`/recruiter/${featured.slug}`} className="block h-full group">
+                <div className="bg-white border-2 border-ink/15 h-full overflow-hidden flex flex-col hover:border-terracotta/40 transition-colors">
+                  <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex items-center justify-between">
+                    <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Spotlight</span>
+                    <span className="w-1.5 h-1.5 rounded-full bg-terracotta animate-pulse" />
                   </div>
-                  <div className="mt-5">
-                    <div className="flex items-end gap-1">
-                      <span className="text-3xl font-bold font-mono text-terracotta">{FEATURED.rating.toFixed(1)}</span>
-                      <span className="text-warmgray text-sm mb-1 font-sans">/5.0</span>
+                  <div className="p-4 flex flex-col justify-between flex-1">
+                    <div>
+                      <div className="w-10 h-10 bg-terracotta/10 border border-terracotta/20 flex items-center justify-center text-terracotta font-bold text-lg mb-3 font-serif">
+                        {featured.name.charAt(0)}
+                      </div>
+                      <div className="font-serif font-bold text-ink text-lg leading-tight">{featured.name}</div>
+                      <div className="text-[10px] uppercase tracking-[0.1em] text-warmgray font-sans mt-0.5">{featured.industry}</div>
                     </div>
-                    <div className="text-[10px] uppercase tracking-[0.1em] text-warmgray font-sans mt-0.5">Overall Rating</div>
-                    <div className="mt-4 text-xs text-terracotta font-sans group-hover:underline">Analyze →</div>
+                    <div className="mt-5">
+                      <div className="flex items-end gap-1">
+                        <span className="text-3xl font-bold font-mono text-terracotta">{featured.overallRating?.toFixed(1) ?? "—"}</span>
+                        <span className="text-warmgray text-sm mb-1 font-sans">/5.0</span>
+                      </div>
+                      <div className="text-[10px] uppercase tracking-[0.1em] text-warmgray font-sans mt-0.5">Overall Rating</div>
+                      <div className="mt-4 text-xs text-terracotta font-sans group-hover:underline">Analyze →</div>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </Link>
+              </Link>
+            ) : (
+              <div className="bg-white border-2 border-ink/10 h-full min-h-[200px] animate-pulse" />
+            )}
           </motion.div>
 
           {/* Tiles */}
           <motion.div
-            style={{ gridArea: "tiles" }}
-            className="min-w-0"
+            className="sm:col-span-3 min-w-0"
             initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.15, duration: 0.5, ease: "easeOut" }}
@@ -100,7 +101,7 @@ export default function RecruiterPage() {
               </div>
               <div className="p-3 flex-1">
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
-                  {TILES.map((company, i) => (
+                  {tiles.length > 0 ? tiles.map((company, i) => (
                     <motion.div
                       key={company.slug}
                       initial={{ opacity: 0, y: 8 }}
@@ -118,6 +119,8 @@ export default function RecruiterPage() {
                         </div>
                       </Link>
                     </motion.div>
+                  )) : Array.from({ length: 5 }).map((_, i) => (
+                    <div key={i} className="border border-ink/10 p-3 h-20 animate-pulse bg-ink/3" />
                   ))}
                 </div>
               </div>
@@ -126,8 +129,7 @@ export default function RecruiterPage() {
 
           {/* Insights strip */}
           <motion.div
-            style={{ gridArea: "actions" }}
-            className="min-w-0"
+            className="sm:col-span-4 min-w-0"
             initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3, duration: 0.5, ease: "easeOut" }}

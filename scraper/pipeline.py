@@ -20,6 +20,13 @@ from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+# Load .env from scraper directory
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(__file__).parent / ".env")
+except ImportError:
+    pass
+
 import httpx
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
@@ -40,6 +47,108 @@ THEME_KEYWORDS = {
     "training": ["training", "learning", "certification", "upskilling", "course", "knowledge"],
     "onsite": ["onsite", "on-site", "abroad", "international", "travel", "client location"],
 }
+
+
+# ── Location normalization ──────────────────────────────────────────────────
+LOCATION_MAP: dict[str, str] = {
+    # Bengaluru variants
+    "bangalore": "Bengaluru", "bengalore": "Bengaluru", "bengaluru": "Bengaluru",
+    "bangalore, karnataka": "Bengaluru", "bengaluru, karnataka": "Bengaluru",
+    "bangaluru": "Bengaluru", "blr": "Bengaluru",
+    # Mumbai variants
+    "mumbai": "Mumbai", "bombay": "Mumbai", "mumbai, maharashtra": "Mumbai",
+    "navi mumbai": "Navi Mumbai", "thane": "Thane",
+    # Delhi / NCR variants
+    "delhi": "Delhi", "new delhi": "Delhi", "new delhi, delhi": "Delhi",
+    "delhi, delhi": "Delhi", "ncr": "Delhi NCR", "delhi ncr": "Delhi NCR",
+    "noida": "Noida", "gurgaon": "Gurugram", "gurugram": "Gurugram",
+    "gurugram, haryana": "Gurugram", "gurgaon, haryana": "Gurugram",
+    "faridabad": "Faridabad", "greater noida": "Greater Noida",
+    # Hyderabad variants
+    "hyderabad": "Hyderabad", "hyderabad, telangana": "Hyderabad",
+    "secunderabad": "Hyderabad", "hyd": "Hyderabad",
+    # Chennai variants
+    "chennai": "Chennai", "chennai, tamil nadu": "Chennai", "madras": "Chennai",
+    # Pune variants
+    "pune": "Pune", "pune, maharashtra": "Pune",
+    # Kolkata variants
+    "kolkata": "Kolkata", "calcutta": "Kolkata", "kolkata, west bengal": "Kolkata",
+    # Ahmedabad
+    "ahmedabad": "Ahmedabad", "ahmedabad, gujarat": "Ahmedabad",
+    # Other common cities
+    "jaipur": "Jaipur", "lucknow": "Lucknow", "chandigarh": "Chandigarh",
+    "coimbatore": "Coimbatore", "kochi": "Kochi", "cochin": "Kochi",
+    "trivandrum": "Thiruvananthapuram", "thiruvananthapuram": "Thiruvananthapuram",
+    "indore": "Indore", "bhopal": "Bhopal", "nagpur": "Nagpur",
+    "visakhapatnam": "Visakhapatnam", "vizag": "Visakhapatnam",
+    "mysuru": "Mysuru", "mysore": "Mysuru",
+}
+
+def normalize_location(location: str | None) -> str | None:
+    if not location:
+        return location
+    normalized = LOCATION_MAP.get(location.strip().lower())
+    return normalized if normalized else location.strip()
+
+
+# ── Spam / near-duplicate detection ─────────────────────────────────────────
+def _word_set(text: str) -> set[str]:
+    """Return a set of meaningful words from text."""
+    return set(w.lower() for w in text.split() if len(w) > 3)
+
+def deduplicate_reviews(reviews: list[dict], similarity_threshold: float = 0.75) -> list[dict]:
+    """Remove near-duplicate reviews using Jaccard similarity on pros+cons words."""
+    kept: list[dict] = []
+    kept_fingerprints: list[set[str]] = []
+
+    for review in reviews:
+        words = _word_set(f"{review.get('pros', '')} {review.get('cons', '')}")
+        if len(words) < 5:
+            # Too short to meaningfully compare — keep but don't use as reference
+            kept.append(review)
+            continue
+
+        is_duplicate = False
+        for existing_words in kept_fingerprints:
+            if not existing_words:
+                continue
+            intersection = len(words & existing_words)
+            union = len(words | existing_words)
+            if union > 0 and intersection / union >= similarity_threshold:
+                is_duplicate = True
+                break
+
+        if not is_duplicate:
+            kept.append(review)
+            kept_fingerprints.append(words)
+
+    return kept
+
+
+# ── Review quality score ─────────────────────────────────────────────────────
+def compute_quality_score(review: dict) -> float:
+    """Score a review 0–1 based on length and recency."""
+    pros_len = len((review.get("pros") or "").split())
+    cons_len = len((review.get("cons") or "").split())
+    total_words = pros_len + cons_len
+
+    # Length score: 0–0.6 (caps at 60 words)
+    length_score = min(total_words / 60.0, 1.0) * 0.6
+
+    # Recency score: 0–0.4 (reviews in last 2 years get full score)
+    recency_score = 0.2  # default if no date
+    review_date = review.get("review_date")
+    if review_date:
+        try:
+            from datetime import datetime, timezone
+            dt = datetime.fromisoformat(review_date.replace("Z", "+00:00"))
+            now = datetime.now(timezone.utc)
+            age_days = (now - dt).days
+            recency_score = max(0.0, 1.0 - age_days / 730.0) * 0.4
+        except Exception:
+            recency_score = 0.2
+
+    return round(length_score + recency_score, 4)
 
 
 def analyze_sentiment(text: str, analyzer: SentimentIntensityAnalyzer) -> dict:
@@ -135,6 +244,7 @@ def format_for_sync(data: dict) -> dict:
                 "cons": r.get("cons", ""),
                 "sentiment": r.get("sentiment"),
                 "sentimentScore": r.get("sentiment_score"),
+                "qualityScore": r.get("quality_score"),
                 "isCurrentEmployee": r.get("is_current_employee"),
                 "reviewDate": r.get("review_date"),
             }
@@ -165,14 +275,32 @@ def format_for_sync(data: dict) -> dict:
 
 
 def enrich_with_sentiment(data: dict, analyzer: SentimentIntensityAnalyzer) -> dict:
-    """Add sentiment scores to all reviews and compute company-level sentiment."""
-    for review in data.get("reviews", []):
-        # Analyze combined pros + cons text
+    """Add sentiment scores, quality scores, normalize locations, and deduplicate reviews."""
+    reviews = data.get("reviews", [])
+
+    # Normalize locations
+    for review in reviews:
+        review["location"] = normalize_location(review.get("location"))
+
+    # Remove near-duplicate reviews
+    before = len(reviews)
+    reviews = deduplicate_reviews(reviews)
+    removed = before - len(reviews)
+    if removed > 0:
+        print(f"    [deduplicate] Removed {removed} near-duplicate reviews", flush=True)
+    data["reviews"] = reviews
+
+    # Sentiment + quality score
+    for review in reviews:
         combined = f"{review.get('pros', '')} {review.get('cons', '')}"
         if combined.strip():
             result = analyze_sentiment(combined, analyzer)
             review["sentiment"] = result["sentiment"]
             review["sentiment_score"] = result["score"]
+        review["quality_score"] = compute_quality_score(review)
+
+    # Sort by quality score descending (best reviews first)
+    data["reviews"] = sorted(reviews, key=lambda r: r.get("quality_score", 0), reverse=True)
 
     # Compute company-level sentiment snapshot
     data["_sentiment"] = compute_company_sentiment(data.get("reviews", []))
@@ -189,7 +317,7 @@ def sync_to_db(payload: dict, dry_run: bool = False) -> dict | None:
             NEXTJS_SYNC_URL,
             json=payload,
             headers={"x-api-key": SYNC_API_KEY},
-            timeout=30.0,
+            timeout=600.0,
         )
         response.raise_for_status()
         return response.json()

@@ -25,7 +25,7 @@ interface ScrapedReview {
 interface UserReview {
   id: string; title: string; role: string; location: string | null;
   overallRating: number; pros: string; cons: string; isAnonymous: boolean;
-  isCurrentEmployee: boolean; upvotes: number; createdAt: string;
+  isCurrentEmployee: boolean; upvotes: number; createdAt: string; userId: string;
   user: { displayName: string | null };
 }
 interface CompanyData {
@@ -45,7 +45,14 @@ interface UnifiedReview {
   id: string; title: string | null; role: string | null; location: string | null;
   rating: number | null; pros: string; cons: string; sentiment: string | null;
   sentimentScore: number | null; isCurrentEmployee: boolean | null; reviewDate: string | null;
-  source: "scraped" | "community"; upvotes?: number; authorName?: string | null;
+  source: "scraped" | "community"; upvotes?: number; authorName?: string | null; userId?: string;
+}
+
+function reviewSortKey(r: UnifiedReview): [number, number, number] {
+  const words = ((r.pros || "") + " " + (r.cons || "")).split(/\s+/).filter(Boolean).length;
+  const isLong = words >= 20 ? 1 : 0;
+  const year = r.reviewDate ? new Date(r.reviewDate).getFullYear() : 0;
+  return [isLong, year, words];
 }
 
 /* ── Editorial primitives ── */
@@ -67,9 +74,12 @@ function ECard({ children, className = "", delay = 0 }: { children: React.ReactN
 
 function ECardHeader({ label, children }: { label: string; children?: React.ReactNode }) {
   return (
-    <div className="px-4 py-2.5 border-b border-ink/10 flex items-center justify-between bg-cream flex-shrink-0">
-      <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">{label}</span>
-      {children && <div className="flex items-center gap-1.5">{children}</div>}
+    <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex-shrink-0">
+      <div className="flex items-center justify-between">
+        <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">{label}</span>
+        {children && <div className="hidden sm:flex items-center gap-1.5">{children}</div>}
+      </div>
+      {children && <div className="sm:hidden flex flex-wrap items-center gap-1 mt-2">{children}</div>}
     </div>
   );
 }
@@ -208,6 +218,7 @@ export default function CompanyDetailPage() {
   const [showReviewForm, setShowReviewForm] = useState(false);
   const [showSalaryForm, setShowSalaryForm] = useState(false);
   const { addCompany, removeCompany, isSelected } = useCompare();
+  const { user } = useAuth();
   const inCompare = company ? isSelected(company.slug) : false;
 
   const fetchCompany = useCallback(async () => {
@@ -230,6 +241,7 @@ export default function CompanyDetailPage() {
       pros: r.pros, cons: r.cons, sentiment: null, sentimentScore: null,
       isCurrentEmployee: r.isCurrentEmployee, reviewDate: r.createdAt, source: "community",
       upvotes: r.upvotes, authorName: r.isAnonymous ? null : r.user.displayName,
+      userId: r.userId,
     });
   }
 
@@ -249,13 +261,21 @@ export default function CompanyDetailPage() {
       .filter(Boolean) as string[]
   )).sort();
 
-  const filteredReviews = unifiedReviews.filter((r) => {
-    if (sourceFilter !== "all" && r.source !== sourceFilter) return false;
-    if (reviewFilter !== "all" && r.sentiment !== reviewFilter) return false;
-    if (roleFilter !== "all" && r.role !== roleFilter) return false;
-    if (locationFilter !== "all" && r.location !== locationFilter) return false;
-    return true;
-  });
+  const filteredReviews = unifiedReviews
+    .filter((r) => {
+      if (sourceFilter !== "all" && r.source !== sourceFilter) return false;
+      if (reviewFilter !== "all" && r.sentiment !== reviewFilter) return false;
+      if (roleFilter !== "all" && r.role !== roleFilter) return false;
+      if (locationFilter !== "all" && r.location !== locationFilter) return false;
+      return true;
+    })
+    .sort((a, b) => {
+      const [longA, yearA, lenA] = reviewSortKey(a);
+      const [longB, yearB, lenB] = reviewSortKey(b);
+      if (longB !== longA) return longB - longA;  // long bucket first
+      if (yearB !== yearA) return yearB - yearA;  // newest year first
+      return lenB - lenA;                          // longer content first
+    });
   const displayedReviews = showAllReviews ? filteredReviews : filteredReviews.slice(0, 10);
   const communityCount = company?.userReviews.length ?? 0;
   const totalReviews = (company?.reviews.length ?? 0) + communityCount;
@@ -569,7 +589,21 @@ export default function CompanyDetailPage() {
                                 <span className="text-[10px] uppercase tracking-[0.1em] border border-purple-400/40 text-purple-500 px-1.5 py-0.5 font-sans">Community</span>
                                 {review.authorName && <span className="text-xs text-warmgray font-sans">by {review.authorName}</span>}
                               </div>
-                              <UpvoteButton reviewId={review.id} initialUpvotes={review.upvotes ?? 0} />
+                              <div className="flex items-center gap-2">
+                                <UpvoteButton reviewId={review.id} initialUpvotes={review.upvotes ?? 0} />
+                                {user && review.userId === user.id && (
+                                  <button
+                                    onClick={async () => {
+                                      if (!confirm("Delete this review?")) return;
+                                      await fetch(`/api/reviews/${review.id}`, { method: "DELETE" });
+                                      fetchCompany();
+                                    }}
+                                    className="text-[10px] uppercase tracking-[0.1em] text-[#B05252] hover:underline font-sans"
+                                  >
+                                    Delete
+                                  </button>
+                                )}
+                              </div>
                             </div>
                           )}
                           <ReviewCard review={review} />

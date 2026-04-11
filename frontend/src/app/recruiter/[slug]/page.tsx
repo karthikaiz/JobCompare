@@ -63,16 +63,19 @@ function ECard({ children, className = "", delay = 0 }: { children: React.ReactN
 
 function ECardHeader({ label, children }: { label: string; children?: React.ReactNode }) {
   return (
-    <div className="px-4 py-2.5 border-b border-ink/10 flex items-center justify-between bg-cream flex-shrink-0">
-      <div className="flex items-center gap-3">
-        <div className="flex gap-1.5">
-          <span className="w-2 h-2 rounded-full bg-terracotta/30" />
-          <span className="w-2 h-2 rounded-full bg-terracotta/20" />
-          <span className="w-2 h-2 rounded-full bg-terracotta/10" />
+    <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex-shrink-0">
+      <div className="flex items-center justify-between">
+        <div className="flex items-center gap-3">
+          <div className="flex gap-1.5">
+            <span className="w-2 h-2 rounded-full bg-terracotta/30" />
+            <span className="w-2 h-2 rounded-full bg-terracotta/20" />
+            <span className="w-2 h-2 rounded-full bg-terracotta/10" />
+          </div>
+          <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">{label}</span>
         </div>
-        <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">{label}</span>
+        {children && <div className="hidden sm:flex items-center gap-1.5">{children}</div>}
       </div>
-      {children && <div className="flex items-center gap-1.5">{children}</div>}
+      {children && <div className="sm:hidden flex flex-wrap items-center gap-1 mt-2">{children}</div>}
     </div>
   );
 }
@@ -160,14 +163,25 @@ export default function RecruiterCompanyPage() {
     reviews.filter((r) => !roleFilter || r.role === roleFilter).map((r) => r.location).filter(Boolean) as string[]
   )).sort();
 
-  const filteredReviews = reviews.filter((r) => {
-    if (sentimentFilter !== "all" && r.sentiment !== sentimentFilter) return false;
-    if (roleFilter && r.role !== roleFilter) return false;
-    if (locationFilter && r.location !== locationFilter) return false;
-    if (employeeFilter === "current" && r.isCurrentEmployee !== true) return false;
-    if (employeeFilter === "former" && r.isCurrentEmployee !== false) return false;
-    return true;
-  });
+  const filteredReviews = reviews
+    .filter((r) => {
+      if (sentimentFilter !== "all" && r.sentiment !== sentimentFilter) return false;
+      if (roleFilter && r.role !== roleFilter) return false;
+      if (locationFilter && r.location !== locationFilter) return false;
+      if (employeeFilter === "current" && r.isCurrentEmployee !== true) return false;
+      if (employeeFilter === "former" && r.isCurrentEmployee !== false) return false;
+      return true;
+    })
+    .sort((a, b) => {
+      const wordCount = (r: typeof a) => ((r.pros || "") + " " + (r.cons || "")).split(/\s+/).filter(Boolean).length;
+      const lenA = wordCount(a), lenB = wordCount(b);
+      const longA = lenA >= 20 ? 1 : 0, longB = lenB >= 20 ? 1 : 0;
+      if (longB !== longA) return longB - longA;  // long bucket first
+      const yearA = a.reviewDate ? new Date(a.reviewDate).getFullYear() : 0;
+      const yearB = b.reviewDate ? new Date(b.reviewDate).getFullYear() : 0;
+      if (yearB !== yearA) return yearB - yearA;  // newest year first
+      return lenB - lenA;                          // longer content first
+    });
 
   const displayedReviews = showAllReviews ? filteredReviews : filteredReviews.slice(0, 8);
 

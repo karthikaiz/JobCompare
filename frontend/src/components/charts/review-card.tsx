@@ -100,7 +100,7 @@ export function ReviewCard({ review }: ReviewCardProps) {
               <span className="w-3 h-px bg-[#4A7C59]" />
               <span className="text-[10px] uppercase tracking-[0.14em] text-[#4A7C59] font-sans font-semibold">Pros</span>
             </div>
-            <p className="text-[12px] text-ink/80 leading-relaxed font-sans line-clamp-4">
+            <p className="text-[12px] text-ink/80 leading-relaxed font-sans">
               {review.pros}
             </p>
           </div>
@@ -111,7 +111,7 @@ export function ReviewCard({ review }: ReviewCardProps) {
               <span className="w-3 h-px bg-[#B05252]" />
               <span className="text-[10px] uppercase tracking-[0.14em] text-[#B05252] font-sans font-semibold">Cons</span>
             </div>
-            <p className="text-[12px] text-ink/80 leading-relaxed font-sans line-clamp-4">
+            <p className="text-[12px] text-ink/80 leading-relaxed font-sans">
               {review.cons}
             </p>
           </div>

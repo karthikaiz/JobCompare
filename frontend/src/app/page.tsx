@@ -6,13 +6,15 @@ import { motion, type Variants } from "framer-motion";
 import { useAuth } from "@/context/auth-context";
 import { SearchBar } from "@/components/search-bar";
 
-const LIVE_COMPANIES = [
-  { name: "Infosys", slug: "infosys", rating: 3.5, industry: "IT Services" },
-  { name: "TCS", slug: "tcs", rating: 3.7, industry: "IT Services" },
-  { name: "Flipkart", slug: "flipkart", rating: 3.9, industry: "E-Commerce" },
-  { name: "Razorpay", slug: "razorpay", rating: 3.4, industry: "Fintech" },
-  { name: "Zomato", slug: "zomato", rating: 3.9, industry: "Food & Delivery" },
-  { name: "HDFC Bank", slug: "hdfc-bank", rating: 3.6, industry: "Banking" },
+interface LiveCompany { name: string; slug: string; overallRating: number | null; industry: string | null; }
+
+const FALLBACK_COMPANIES: LiveCompany[] = [
+  { name: "Infosys", slug: "infosys", overallRating: 3.5, industry: "IT Services" },
+  { name: "TCS", slug: "tata-consultancy-services", overallRating: 3.7, industry: "IT Services" },
+  { name: "Flipkart", slug: "flipkart", overallRating: 3.9, industry: "E-Commerce" },
+  { name: "Razorpay", slug: "razorpay", overallRating: 3.4, industry: "Fintech" },
+  { name: "Zomato", slug: "zomato", overallRating: 3.9, industry: "Food & Delivery" },
+  { name: "HDFC Bank", slug: "hdfc-bank", overallRating: 3.6, industry: "Banking" },
 ];
 
 const TICKER_ITEMS = [
@@ -51,7 +53,7 @@ function Counter({ target, suffix = "" }: { target: number; suffix?: string }) {
 }
 
 /* ── Live data panel ── */
-function LiveDataCard() {
+function LiveDataCard({ companies }: { companies: LiveCompany[] }) {
   const [typed, setTyped] = useState("");
   const target = "flipkart";
   useEffect(() => {
@@ -81,7 +83,7 @@ function LiveDataCard() {
 
       {/* Rows */}
       <div className="divide-y divide-ink/8">
-        {LIVE_COMPANIES.map((c, i) => (
+        {companies.map((c, i) => (
           <motion.div
             key={c.slug}
             initial={{ opacity: 0, x: -12 }}
@@ -102,7 +104,7 @@ function LiveDataCard() {
               </div>
               <div className="flex items-center gap-4 flex-shrink-0">
                 <span className="text-xs text-warmgray hidden sm:inline font-sans">{c.industry}</span>
-                <span className="text-sm font-bold text-terracotta font-mono">{c.rating.toFixed(1)}</span>
+                <span className="text-sm font-bold text-terracotta font-mono">{c.overallRating?.toFixed(1) ?? "—"}</span>
               </div>
             </Link>
           </motion.div>
@@ -136,6 +138,14 @@ const leftItem: Variants = {
 
 export default function Home() {
   const { user, loading: authLoading, logout } = useAuth();
+  const [liveCompanies, setLiveCompanies] = useState<LiveCompany[]>(FALLBACK_COMPANIES);
+
+  useEffect(() => {
+    fetch("/api/companies?limit=6&offset=0")
+      .then((r) => r.json())
+      .then((d) => { if (d.companies?.length) setLiveCompanies(d.companies); })
+      .catch(() => {});
+  }, []);
 
   return (
     <div className="min-h-screen flex flex-col bg-cream">
@@ -248,7 +258,7 @@ export default function Home() {
               <span className="text-[10px] uppercase tracking-[0.14em] text-warmgray font-sans">Featured Companies</span>
               <span className="flex-1 h-px bg-ink/15" />
             </motion.div>
-            <LiveDataCard />
+            <LiveDataCard companies={liveCompanies} />
           </div>
         </div>
       </div>

@@ -16,7 +16,7 @@ export async function GET(
     include: {
       reviews: {
         orderBy: { reviewDate: "desc" },
-        take: 100,
+        take: 600,
       },
       salaries: {
         orderBy: { avgSalary: "desc" },
