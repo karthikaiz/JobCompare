@@ -1,3 +1,5 @@
+.DS_Store
+ROADMAP.md
 node_modules/
 .next/
 *.db
@@ -14,4 +16,3 @@ ENV_SETUP_backup.txt
 PLAN_backup.md
 ENV_SETUP.txt
 PLAN.md
-ROADMAP.md
