@@ -374,7 +374,7 @@ export default function CompanyDetailPage() {
                     whileTap={{ scale: 0.96 }}
                     onClick={() => {
                       dismissCompareTip();
-                      inCompare ? removeCompany(company.slug) : addCompany({ slug: company.slug, name: company.name });
+                      if (inCompare) { removeCompany(company.slug); } else { addCompany({ slug: company.slug, name: company.name }); }
                     }}
                     className={`text-[10px] uppercase tracking-[0.1em] px-2.5 py-1 border font-sans transition-colors ${inCompare ? "bg-terracotta border-terracotta text-white" : "border-terracotta text-terracotta hover:bg-terracotta hover:text-white"}`}
                   >

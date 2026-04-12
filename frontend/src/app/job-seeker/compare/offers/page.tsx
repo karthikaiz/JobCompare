@@ -206,7 +206,8 @@ function ResultsView({
   const colA = colAdjustedBase(offerA);
   const colB = colAdjustedBase(offerB);
 
-  const { adjustedA, adjustedB } = compareColAdjusted(
+  // adjustedA/B used only for ratio calculation inside compareColAdjusted
+  compareColAdjusted(
     parseRupees(offerA.baseSalary), offerA.city,
     parseRupees(offerB.baseSalary), offerB.city,
   );
