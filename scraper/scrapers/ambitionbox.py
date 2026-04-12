@@ -69,11 +69,43 @@ class AmbitionBoxScraper(BaseScraper):
         meta = props.get("companyMetaInformation", {})
         header = props.get("companyHeaderData", {})
         ratings_data = props.get("aggregatedRatingsData", {})
+
+        # Primary path: ratingsTwoDecimal (most companies)
         rating_dist = (
             ratings_data.get("ratingDistribution", {})
             .get("data", {})
             .get("ratingsTwoDecimal", {})
         )
+
+        # Fallback 1: ratings (without TwoDecimal) — some company pages use this
+        if not rating_dist:
+            rating_dist = (
+                ratings_data.get("ratingDistribution", {})
+                .get("data", {})
+                .get("ratings", {})
+            )
+
+        # Fallback 2: data directly under ratingDistribution
+        if not rating_dist:
+            rating_dist = ratings_data.get("ratingDistribution", {}).get("data", {})
+
+        # Fallback 3: ratings directly in aggregatedRatingsData
+        if not rating_dist:
+            rating_dist = ratings_data.get("data", {}).get("ratingsTwoDecimal", {})
+
+        # Fallback 4: check companyHeaderData for embedded ratings
+        if not rating_dist:
+            rating_dist = header.get("ratingDistribution", {}).get("ratingsTwoDecimal", {})
+
+        # Debug: log available keys if sub-ratings still missing
+        if not rating_dist and ratings_data:
+            print(f"[DEBUG] {company_slug}: aggregatedRatingsData keys = {list(ratings_data.keys())}")
+            rd = ratings_data.get("ratingDistribution", {})
+            if rd:
+                print(f"[DEBUG] {company_slug}: ratingDistribution keys = {list(rd.keys())}")
+                d = rd.get("data", {})
+                if d:
+                    print(f"[DEBUG] {company_slug}: ratingDistribution.data keys = {list(d.keys())}")
 
         hq = meta.get("hq", {})
         headquarters = hq.get("cityState", "") if isinstance(hq, dict) else ""

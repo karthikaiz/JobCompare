@@ -1,0 +1,17 @@
+{
+  "started_at": "2026-04-12T05:32:47.402180",
+  "mode": "custom",
+  "slugs": [
+    "infrrd"
+  ],
+  "max_reviews": 20,
+  "max_salaries": 50,
+  "auto_sync": true,
+  "phase": "done",
+  "batch_cmd": "python3 /Users/macz/Documents/JobCompare/scraper/batch.py --slugs infrrd --max-reviews 20 --max-salaries 50",
+  "batch_pid": 5335,
+  "batch_exit": 0,
+  "pipeline_pid": 5409,
+  "pipeline_exit": 0,
+  "finished_at": "2026-04-12T05:49:27.647206"
+}

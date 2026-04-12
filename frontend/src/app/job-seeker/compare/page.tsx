@@ -116,6 +116,17 @@ export default function ComparePage() {
           <div className="flex justify-center mt-6">
             <SearchBar basePath="/job-seeker" placeholder="Search a company to add..." />
           </div>
+          <div className="mt-8 pt-6 border-t border-ink/10">
+            <p className="text-xs text-warmgray font-sans mb-3">Have two specific offers to compare?</p>
+            <Link
+              href="/job-seeker/compare/offers"
+              className="inline-flex items-center gap-2 px-5 py-2.5 border-2 border-terracotta text-terracotta text-xs uppercase tracking-[0.1em] font-sans hover:bg-terracotta hover:text-white transition-colors"
+            >
+              <span>₹</span>
+              Offer Comparison Calculator
+            </Link>
+            <p className="text-[10px] text-warmgray/60 font-sans mt-2">Enter salary, city, and bonus details to get a COL-adjusted comparison.</p>
+          </div>
         </div>
       </DashboardShell>
     );

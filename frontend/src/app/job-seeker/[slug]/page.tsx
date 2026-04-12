@@ -15,6 +15,7 @@ import { SalaryForm } from "@/components/salary-form";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useCompare } from "@/context/compare-context";
 import { useAuth } from "@/context/auth-context";
+import { getIndustryStandard, getBenchmarkLabel } from "@/lib/industry-standards-source";
 
 /* ── Types ── */
 interface ScrapedReview {
@@ -89,7 +90,7 @@ function ECardBody({ children, className = "" }: { children: React.ReactNode; cl
 }
 
 /* ── Animated rating bar ── */
-function RatingBar({ label, value, delay = 0 }: { label: string; value: number | null; delay?: number }) {
+function RatingBar({ label, value, delay = 0, industryStandard }: { label: string; value: number | null; delay?: number; industryStandard?: number }) {
   const [width, setWidth] = useState(0);
   const ref = useRef<HTMLDivElement>(null);
   const inView = useInView(ref, { once: true });
@@ -99,6 +100,25 @@ function RatingBar({ label, value, delay = 0 }: { label: string; value: number |
     const t = setTimeout(() => setWidth(value != null ? (value / 5) * 100 : 0), delay);
     return () => clearTimeout(t);
   }, [inView, value, delay]);
+
+  let benchmark: { text: string; icon: string; color: string } | null = null;
+  if (value != null && industryStandard != null) {
+    const result = getBenchmarkLabel(value, industryStandard);
+    if (result) {
+      const iconMap = { top: "↑↑", above: "↑", average: "≈", below: "↓", bottom: "↓↓" };
+      benchmark = {
+        text: result.label,
+        icon: iconMap[result.tier],
+        color: {
+          top: "text-[#4A7C59]",
+          above: "text-[#6B9B7F]",
+          average: "text-warmgray",
+          below: "text-[#C9876E]",
+          bottom: "text-[#B05252]",
+        }[result.tier],
+      };
+    }
+  }
 
   return (
     <div ref={ref} className="space-y-1">
@@ -112,6 +132,9 @@ function RatingBar({ label, value, delay = 0 }: { label: string; value: number |
           style={{ width: `${width}%` }}
         />
       </div>
+      {benchmark && (
+        <p className={`text-[10px] font-sans ${benchmark.color}`}>{benchmark.icon} {benchmark.text}</p>
+      )}
     </div>
   );
 }
@@ -217,9 +240,23 @@ export default function CompanyDetailPage() {
   const [showAllReviews, setShowAllReviews] = useState(false);
   const [showReviewForm, setShowReviewForm] = useState(false);
   const [showSalaryForm, setShowSalaryForm] = useState(false);
+  const [showCompareTip, setShowCompareTip] = useState(false);
   const { addCompany, removeCompany, isSelected } = useCompare();
   const { user } = useAuth();
   const inCompare = company ? isSelected(company.slug) : false;
+
+  // First-visit tooltip: show once, then persist dismissal in localStorage
+  useEffect(() => {
+    if (typeof window !== "undefined" && !localStorage.getItem("compare-tour-seen")) {
+      const t = setTimeout(() => setShowCompareTip(true), 1200);
+      return () => clearTimeout(t);
+    }
+  }, []);
+
+  function dismissCompareTip() {
+    setShowCompareTip(false);
+    localStorage.setItem("compare-tour-seen", "1");
+  }
 
   const fetchCompany = useCallback(async () => {
     try {
@@ -331,14 +368,37 @@ export default function CompanyDetailPage() {
                     {company.industry}
                   </motion.span>
                 )}
-                <motion.button
-                  initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4 }}
-                  whileTap={{ scale: 0.96 }}
-                  onClick={() => inCompare ? removeCompany(company.slug) : addCompany({ slug: company.slug, name: company.name })}
-                  className={`text-[10px] uppercase tracking-[0.1em] px-2.5 py-1 border font-sans transition-colors ${inCompare ? "bg-terracotta border-terracotta text-white" : "border-terracotta text-terracotta hover:bg-terracotta hover:text-white"}`}
-                >
-                  {inCompare ? "✓ In Compare" : "+ Compare"}
-                </motion.button>
+                <div className="relative">
+                  <motion.button
+                    initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4 }}
+                    whileTap={{ scale: 0.96 }}
+                    onClick={() => {
+                      dismissCompareTip();
+                      inCompare ? removeCompany(company.slug) : addCompany({ slug: company.slug, name: company.name });
+                    }}
+                    className={`text-[10px] uppercase tracking-[0.1em] px-2.5 py-1 border font-sans transition-colors ${inCompare ? "bg-terracotta border-terracotta text-white" : "border-terracotta text-terracotta hover:bg-terracotta hover:text-white"}`}
+                  >
+                    {inCompare ? "✓ In Compare" : "+ Compare"}
+                  </motion.button>
+                  {showCompareTip && !inCompare && (
+                    <motion.div
+                      initial={{ opacity: 0, y: 4 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0 }}
+                      className="absolute top-full left-0 mt-2 z-50 w-56 bg-ink text-cream text-[11px] font-sans px-3 py-2.5 shadow-lg"
+                    >
+                      <p className="leading-snug">Add up to 3 companies and compare them side by side.</p>
+                      <button
+                        onClick={dismissCompareTip}
+                        className="mt-1.5 text-[10px] uppercase tracking-wider text-cream/50 hover:text-cream transition-colors"
+                      >
+                        Got it ×
+                      </button>
+                      {/* Arrow */}
+                      <div className="absolute -top-1.5 left-3 w-3 h-3 bg-ink rotate-45" />
+                    </motion.div>
+                  )}
+                </div>
               </div>
               <motion.div
                 initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.35 }}
@@ -386,6 +446,25 @@ export default function CompanyDetailPage() {
                           {company.overallRating.toFixed(1)}
                         </motion.span>
                         <span className="text-warmgray text-sm font-sans">out of 5.0</span>
+                        {(() => {
+                          if (!company.industry) return null;
+                          const std = getIndustryStandard(company.industry);
+                          const result = getBenchmarkLabel(company.overallRating, std.standard);
+                          if (!result) return null;
+                          const iconMap = { top: "↑↑", above: "↑", average: "≈", below: "↓", bottom: "↓↓" };
+                          const colorMap = {
+                            top: "text-[#4A7C59]",
+                            above: "text-[#6B9B7F]",
+                            average: "text-warmgray",
+                            below: "text-[#C9876E]",
+                            bottom: "text-[#B05252]",
+                          };
+                          return (
+                            <p className={`text-[10px] font-sans mt-1 ${colorMap[result.tier]}`}>
+                              {iconMap[result.tier]} {result.label} ({company.industry} std: {std.standard})
+                            </p>
+                          );
+                        })()}
                       </div>
                       <RatingGauge rating={company.overallRating} size="sm" />
                     </>
@@ -394,17 +473,22 @@ export default function CompanyDetailPage() {
                   )}
 
                   {/* Animated sub-rating bars */}
-                  <div className="mt-4 pt-4 border-t border-ink/8 space-y-3">
-                    {[
-                      { label: "Work-Life Balance", value: company.workLifeBalance, delay: 0 },
-                      { label: "Salary & Benefits", value: company.salaryBenefits, delay: 100 },
-                      { label: "Job Security", value: company.jobSecurity, delay: 200 },
-                      { label: "Career Growth", value: company.careerGrowth, delay: 300 },
-                      { label: "Company Culture", value: company.companyCulture, delay: 400 },
-                    ].map((item) => (
-                      <RatingBar key={item.label} label={item.label} value={item.value} delay={item.delay} />
-                    ))}
-                  </div>
+                  {(() => {
+                    const std = getIndustryStandard(company.industry);
+                    return (
+                      <div className="mt-4 pt-4 border-t border-ink/8 space-y-3">
+                        {[
+                          { label: "Work-Life Balance", value: company.workLifeBalance, delay: 0 },
+                          { label: "Salary & Benefits", value: company.salaryBenefits, delay: 100 },
+                          { label: "Job Security", value: company.jobSecurity, delay: 200 },
+                          { label: "Career Growth", value: company.careerGrowth, delay: 300 },
+                          { label: "Company Culture", value: company.companyCulture, delay: 400 },
+                        ].map((item) => (
+                          <RatingBar key={item.label} label={item.label} value={item.value} delay={item.delay} industryStandard={std.standard} />
+                        ))}
+                      </div>
+                    );
+                  })()}
                 </div>
               </motion.div>
 

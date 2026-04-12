@@ -37,7 +37,7 @@
     { "name": "BigBasket", "slug": "bigbasket", "industry": "E-Commerce" },
     { "name": "Snapdeal", "slug": "snapdeal", "industry": "E-Commerce" },
     { "name": "Blinkit", "slug": "blinkit", "industry": "E-Commerce" },
-    { "name": "Purplle", "slug": "purplle-com", "industry": "E-Commerce" },
+    { "name": "Purplle", "slug": "purplle", "industry": "E-Commerce" },
     { "name": "Zomato", "slug": "zomato", "industry": "Food & Delivery" },
     { "name": "Swiggy", "slug": "swiggy", "industry": "Food & Delivery" },
     { "name": "HDFC Bank", "slug": "hdfc-bank", "industry": "Banking" },
@@ -150,6 +150,19 @@
     { "name": "Droom", "slug": "droom", "industry": "Automotive" },
     { "name": "Bajaj Allianz", "slug": "bajaj-allianz", "industry": "Insurance" },
     { "name": "ICICI Lombard", "slug": "icici-lombard", "industry": "Insurance" },
-    { "name": "New India Assurance", "slug": "the-new-india-assurance", "industry": "Insurance" }
+    { "name": "New India Assurance", "slug": "new-india-assurance", "industry": "Insurance" },
+    { "name": "Head Digital Works", "slug": "head-infotech-india", "industry": "Gaming" },
+    { "name": "Infrrd", "slug": "infrrd", "industry": "SaaS" },
+    { "name": "Altisource", "slug": "altisource", "industry": "IT Services" },
+    { "name": "PhysicsWallah", "slug": "physicswallah", "industry": "EdTech" },
+    { "name": "Zepto", "slug": "zepto", "industry": "E-Commerce" },
+    { "name": "Rapido", "slug": "rapido", "industry": "Mobility" },
+    { "name": "Ather Energy", "slug": "ather-energy", "industry": "Automotive" },
+    { "name": "Ola Electric", "slug": "ola-electric-mobility", "industry": "Automotive" },
+    { "name": "Walmart Global Tech", "slug": "walmart", "industry": "Tech MNC" },
+    { "name": "Thoughtworks", "slug": "thoughtworks", "industry": "IT Services" },
+    { "name": "McKinsey & Company", "slug": "mckinsey-and-company", "industry": "Consulting" },
+    { "name": "BCG India", "slug": "bcg", "industry": "Consulting" },
+    { "name": "boAt", "slug": "boat", "industry": "Manufacturing" }
   ]
 }

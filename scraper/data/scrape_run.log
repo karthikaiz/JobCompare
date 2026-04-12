@@ -1,0 +1,209 @@
+[05:32:47] === SCRAPE START — custom (1 companies) ===
+[05:32:47] Command: python3 /Users/macz/Documents/JobCompare/scraper/batch.py --slugs infrrd --max-reviews 20 --max-salaries 50
+[05:32:47] 
+[05:32:47] Custom selection: 1 companies
+[05:32:47] 
+[05:32:47] ============================================================
+[05:32:47] JobCompare Batch Scraper
+[05:32:47] Companies: 1
+[05:32:47] Started: 2026-04-12 11:02:47
+[05:32:47] ============================================================
+[05:32:47] 
+[05:34:57] [1/1]   Scraping Infrrd (infrrd)...   [warmup] Visiting AmbitionBox homepage to establish session...
+[05:34:57]   [warmup] Status: 200, Cookies: 1
+[05:34:57] Error scraping benefits for infrrd: 'NoneType' object has no attribute 'get'
+[05:34:57] OK (129.9s) — 72 reviews, 20 salaries, 0 benefits
+[05:34:57] 
+[05:34:57] ============================================================
+[05:34:57] BATCH COMPLETE
+[05:34:57]   Total:     1
+[05:34:57]   Succeeded: 1
+[05:34:57]   Failed:    0
+[05:34:57]   Time:      129.9s (2.2 min)
+[05:34:57]   Output:    /Users/macz/Documents/JobCompare/scraper/data/scraped
+[05:34:57] ============================================================
+[05:34:57] 
+[05:34:57] 
+[05:34:57] === PIPELINE SYNC START ===
+[05:34:57] Command: python3 pipeline.py
+[05:34:57] 
+[05:34:57] 
+[05:34:57] ============================================================
+[05:34:57] JobCompare Data Pipeline
+[05:34:57] Companies: 161
+[05:34:57] Sync URL: http://localhost:3000/api/sync
+[05:34:57] Dry run: False
+[05:34:57] ============================================================
+[05:34:57] 
+[05:35:04] [1/161]   Processing Accenture (accenture)... OK — 499 reviews (+236/-159/~104), 0 new, 499 skipped
+[05:35:10] [2/161]   Processing Adani Group (adani-group)... OK — 332 reviews (+194/-66/~72), 0 new, 332 skipped
+[05:35:16] [3/161]   Processing Adobe (adobe-systems)... OK — 381 reviews (+264/-66/~51), 0 new, 381 skipped
+[05:35:20] [4/161]   Processing Altisource (altisource)... OK — 334 reviews (+209/-85/~40), 0 new, 334 skipped
+[05:35:25] [5/161]   Processing Amazon (amazon)... OK — 500 reviews (+267/-145/~88), 0 new, 500 skipped
+[05:35:30] [6/161]   Processing Apollo Hospitals (apollo-hospitals)... OK — 335 reviews (+210/-59/~66), 0 new, 335 skipped
+[05:35:34] [7/161]   Processing Ashok Leyland (ashok-leyland)... OK — 331 reviews (+203/-65/~63), 0 new, 331 skipped
+[05:35:39] [8/161]   Processing Asian Paints (asian-paints)... OK — 452 reviews (+266/-97/~89), 0 new, 452 skipped
+[05:35:42] [9/161]   Processing Ather Energy (ather-energy)... OK — 338 reviews (+224/-59/~55), 0 new, 338 skipped
+[05:35:46] [10/161]   Processing Aurobindo Pharma (aurobindo-pharma)... OK — 358 reviews (+229/-62/~67), 0 new, 358 skipped
+[05:35:52] [11/161]   Processing Axis Bank (axis-bank)... OK — 500 reviews (+253/-164/~83), 0 new, 500 skipped
+[05:35:55] [12/161]   Processing Bajaj General Insurance Limited (bajaj-allianz)... OK — 336 reviews (+186/-96/~54), 0 new, 336 skipped
+[05:35:59] [13/161]   Processing Bajaj Auto (bajaj-auto)... OK — 370 reviews (+222/-76/~72), 0 new, 370 skipped
+[05:36:04] [14/161]   Processing  Bajaj Finance (bajaj-finance)... OK — 477 reviews (+284/-112/~81), 0 new, 477 skipped
+[05:36:08] [15/161]   Processing Bank of Baroda (bank-of-baroda)... OK — 412 reviews (+196/-146/~70), 0 new, 412 skipped
+[05:36:11] [16/161]   Processing BCG (bcg)... OK — 287 reviews (+180/-65/~42), 0 new, 287 skipped
+[05:36:14] [17/161]   Processing Bharat Electronics (bharat-electronics)... OK — 377 reviews (+262/-63/~52), 0 new, 377 skipped
+[05:36:18] [18/161]   Processing BharatPe (bharatpe)... OK — 372 reviews (+218/-94/~60), 0 new, 372 skipped
+[05:36:23] [19/161]   Processing Bharti Airtel (bharti-airtel)... OK — 500 reviews (+257/-146/~97), 0 new, 500 skipped
+[05:36:29] [20/161]   Processing BigBasket (bigbasket)... OK — 375 reviews (+216/-90/~69), 0 new, 375 skipped
+[05:36:34] [21/161]   Processing Biocon Limited (biocon)... OK — 399 reviews (+251/-84/~64), 0 new, 399 skipped
+[05:36:39] [22/161]   Processing Blinkit (blinkit)... OK — 394 reviews (+201/-113/~80), 0 new, 394 skipped
+[05:36:43] [23/161]   Processing Blue Dart Express Ltd (blue-dart)... OK — 393 reviews (+243/-112/~38), 0 new, 393 skipped
+[05:36:48] [24/161]   Processing BoAt (boat)... OK — 161 reviews (+121/-23/~17), 0 new, 161 skipped
+[05:36:54] [25/161]   Processing Britannia (britannia)... OK — 380 reviews (+232/-83/~65), 0 new, 380 skipped
+[05:36:58] [26/161]   Processing BrowserStack (browserstack)... OK — 111 reviews (+76/-21/~14), 0 new, 111 skipped
+[05:37:01] [27/161]   Processing Bharat Sanchar Nigam (bsnl)... OK — 459 reviews (+294/-96/~69), 0 new, 459 skipped
+[05:37:06] [28/161]   Processing BYJU'S (byjus)... OK — 438 reviews (+207/-175/~56), 0 new, 438 skipped
+[05:37:11] [29/161]   Processing Capgemini (capgemini-technology-services)... OK — 499 reviews (+229/-167/~103), 0 new, 499 skipped
+[05:37:14] [30/161]   Processing Cars24 (cars24)... OK — 437 reviews (+271/-108/~58), 0 new, 437 skipped
+[05:37:17] [31/161]   Processing Chargebee (chargebee)... OK — 105 reviews (+69/-18/~18), 0 new, 105 skipped
+[05:37:23] [32/161]   Processing Cipla (cipla)... OK — 414 reviews (+251/-81/~82), 0 new, 414 skipped
+[05:37:27] [33/161]   Processing Cisco (cisco-systems)... OK — 415 reviews (+281/-75/~59), 0 new, 415 skipped
+[05:37:31] [34/161]   Processing CleverTap (clevertap)... OK — 60 reviews (+41/-10/~9), 0 new, 60 skipped
+[05:37:38] [35/161]   Processing Coforge (coforge)... OK — 474 reviews (+254/-140/~80), 0 new, 474 skipped
+[05:37:49] [36/161]   Processing Cognizant (cognizant-technology-solutions)... OK — 500 reviews (+270/-130/~100), 0 new, 500 skipped
+[05:37:54] [37/161]   Processing CRED  (cred)... OK — 120 reviews (+77/-29/~14), 0 new, 120 skipped
+[05:37:58] [38/161]   Processing Cyient (cyient)... OK — 328 reviews (+169/-100/~59), 0 new, 328 skipped
+[05:38:05] [39/161]   Processing Dabur (dabur)... OK — 393 reviews (+258/-65/~70), 0 new, 393 skipped
+[05:38:12] [40/161]   Processing Delhivery (delhivery)... OK — 436 reviews (+245/-110/~81), 0 new, 436 skipped
+[05:38:18] [41/161]   Processing Dell (dell)... OK — 328 reviews (+188/-87/~53), 0 new, 328 skipped
+[05:38:24] [42/161]   Processing Deloitte (deloitte)... OK — 500 reviews (+244/-167/~89), 0 new, 500 skipped
+[05:38:30] [43/161]   Processing DLF (dlf)... OK — 385 reviews (+221/-89/~75), 0 new, 385 skipped
+[05:38:37] [44/161]   Processing Dr. Reddy's (dr-reddys-laboratories)... OK — 409 reviews (+231/-93/~85), 0 new, 409 skipped
+[05:38:42] [45/161]   Processing Dream11 (dream11)... OK — 91 reviews (+51/-17/~23), 0 new, 91 skipped
+[05:38:48] [46/161]   Processing Droom (droom)... OK — 179 reviews (+112/-47/~20), 0 new, 179 skipped
+[05:38:54] [47/161]   Processing DTDC Express (dtdc-courier-and-cargo)... OK — 401 reviews (+209/-113/~79), 0 new, 401 skipped
+[05:38:59] [48/161]   Processing Ecom Express (ecom-express)... OK — 346 reviews (+200/-82/~64), 0 new, 346 skipped
+[05:39:05] [49/161]   Processing Tractors and Farm Equipment (eicher-motors)... OK — 395 reviews (+259/-70/~66), 0 new, 395 skipped
+[05:39:12] [50/161]   Processing EXL Service (exl-service)... OK — 422 reviews (+237/-121/~64), 0 new, 422 skipped
+[05:39:20] [51/161]   Processing Ernst & Young (ey)... OK — 500 reviews (+242/-160/~98), 0 new, 500 skipped
+[05:39:27] [52/161]   Processing Flipkart (flipkart)... OK — 450 reviews (+243/-128/~79), 0 new, 450 skipped
+[05:39:32] [53/161]   Processing Fortis Healthcare (fortis-healthcare)... OK — 392 reviews (+252/-75/~65), 0 new, 392 skipped
+[05:39:38] [54/161]   Processing Freshworks (freshworks)... OK — 442 reviews (+265/-112/~65), 0 new, 442 skipped
+[05:39:43] [55/161]   Processing Genpact (genpact)... OK — 500 reviews (+257/-129/~114), 0 new, 500 skipped
+[05:39:48] [56/161]   Processing GirnarSoft (girnarsoft)... OK — 473 reviews (+284/-125/~64), 0 new, 473 skipped
+[05:39:54] [57/161]   Processing Glenmark Pharmaceuticals (glenmark-pharmaceuticals)... OK — 366 reviews (+205/-97/~64), 0 new, 366 skipped
+[05:40:00] [58/161]   Processing Godrej Industries (godrej-industries)... OK — 386 reviews (+271/-56/~59), 0 new, 386 skipped
+[05:40:05] [59/161]   Processing Godrej Properties (godrej-properties)... OK — 384 reviews (+210/-108/~66), 0 new, 384 skipped
+[05:40:12] [60/161]   Processing Google (google)... OK — 463 reviews (+351/-48/~64), 0 new, 463 skipped
+[05:40:16] [61/161]   Processing Great Learning (great-learning)... OK — 417 reviews (+264/-78/~75), 0 new, 417 skipped
+[05:40:21] [62/161]   Processing Groww (groww)... OK — 244 reviews (+163/-43/~38), 0 new, 244 skipped
+[05:40:25] [63/161]   Processing Havells (havells)... OK — 379 reviews (+234/-76/~69), 0 new, 379 skipped
+[05:40:31] [64/161]   Processing HCLTech (hcl-technologies)... OK — 499 reviews (+230/-174/~95), 0 new, 499 skipped
+[05:40:36] [65/161]   Processing HDFC Bank (hdfc-bank)... OK — 499 reviews (+302/-104/~93), 0 new, 499 skipped
+[05:40:42] [66/161]   Processing HDFC Life (hdfc-life-insurance)... OK — 499 reviews (+271/-142/~86), 0 new, 499 skipped
+[05:40:48] [67/161]   Processing Head Digital Works (head-infotech-india)... OK — 81 reviews (+51/-15/~15), 0 new, 81 skipped
+[05:40:52] [68/161]   Processing Hero MotoCorp (hero-motocorp)... OK — 327 reviews (+219/-57/~51), 0 new, 327 skipped
+[05:40:58] [69/161]   Processing Hexaware Technologies (hexaware-technologies)... OK — 442 reviews (+223/-157/~62), 0 new, 442 skipped
+[05:41:04] [70/161]   Processing Hindustan Unilever  (hindustan-unilever)... OK — 356 reviews (+208/-65/~83), 0 new, 356 skipped
+[05:41:09] [71/161]   Processing HP India (hp)... OK — 453 reviews (+305/-86/~62), 0 new, 453 skipped
+[05:41:14] [72/161]   Processing Hyundai Motor India Limited (hyundai-motor-india)... OK — 343 reviews (+222/-63/~58), 0 new, 343 skipped
+[05:41:20] [73/161]   Processing IBM (ibm-india)... OK — 500 reviews (+286/-118/~96), 0 new, 500 skipped
+[05:41:25] [74/161]   Processing ICICI Bank (icici-bank)... OK — 500 reviews (+281/-142/~77), 0 new, 500 skipped
+[05:41:32] [75/161]   Processing ICICI Lombard General Insurance Company (icici-lombard)... OK — 389 reviews (+180/-126/~83), 0 new, 389 skipped
+[05:41:39] [76/161]   Processing IndusInd Bank (indusind-bank)... OK — 500 reviews (+242/-157/~101), 0 new, 500 skipped
+[05:41:46] [77/161]   Processing Infosys (infosys)... OK — 500 reviews (+260/-142/~98), 0 new, 500 skipped
+[05:41:50] [78/161]   Processing Infrrd (infrrd)... OK — 72 reviews (+49/-15/~8), 0 new, 72 skipped
+[05:41:56] [79/161]   Processing InMobi (inmobi)... OK — 179 reviews (+109/-47/~23), 0 new, 179 skipped
+[05:42:03] [80/161]   Processing Intel (intel)... OK — 429 reviews (+303/-70/~56), 0 new, 429 skipped
+[05:42:07] [81/161]   Processing ITC (itc)... OK — 398 reviews (+256/-71/~71), 0 new, 398 skipped
+[05:42:15] [82/161]   Processing JSW Steel (jsw-steel)... OK — 456 reviews (+282/-98/~76), 0 new, 456 skipped
+[05:42:22] [83/161]   Processing Kotak Mahindra Bank (kotak-mahindra-bank)... OK — 500 reviews (+257/-143/~100), 0 new, 500 skipped
+[05:42:29] [84/161]   Processing KPIT Technologies (kpit-technologies)... OK — 372 reviews (+135/-176/~61), 0 new, 372 skipped
+[05:42:36] [85/161]   Processing KPMG India (kpmg)... OK — 368 reviews (+181/-108/~79), 0 new, 368 skipped
+[05:42:46] [86/161]   Processing Larsen & Toubro Limited (larsen-and-toubro)... OK — 499 reviews (+280/-106/~113), 0 new, 499 skipped
+[05:42:55] [87/161]   Processing Lenskart (lenskart)... OK — 442 reviews (+206/-166/~70), 0 new, 442 skipped
+[05:42:58] [88/161]   Processing Life Insurance Corporation of India (lic-of-india)... OK — 398 reviews (+292/-50/~56), 0 new, 398 skipped
+[05:43:04] [89/161]   Processing Lodha (lodha)... OK — 395 reviews (+267/-67/~61), 0 new, 395 skipped
+[05:43:10] [90/161]   Processing LTIMindtree (ltimindtree)... OK — 500 reviews (+285/-155/~60), 0 new, 500 skipped
+[05:43:15] [91/161]   Processing Lupin (lupin)... OK — 391 reviews (+229/-66/~96), 0 new, 391 skipped
+[05:43:19] [92/161]   Processing Maersk (maersk)... OK — 302 reviews (+176/-79/~47), 0 new, 302 skipped
+[05:43:23] [93/161]   Processing Mahindra & Mahindra (mahindra-and-mahindra)... OK — 463 reviews (+286/-100/~77), 0 new, 463 skipped
+[05:43:24] [94/161]   Processing Marico (marico)... OK — 400 reviews (+271/-82/~47), 0 new, 400 skipped
+[05:43:28] [95/161]   Processing Maruti Suzuki (maruti-suzuki)... OK — 401 reviews (+260/-73/~68), 0 new, 401 skipped
+[05:43:32] [96/161]   Processing Max Healthcare (max-healthcare)... OK — 376 reviews (+220/-89/~67), 0 new, 376 skipped
+[05:43:38] [97/161]   Processing McKinsey & Company (mckinsey-and-company)... OK — 331 reviews (+225/-52/~54), 0 new, 331 skipped
+[05:43:42] [98/161]   Processing Meesho (meesho)... OK — 409 reviews (+248/-99/~62), 0 new, 409 skipped
+[05:43:47] [99/161]   Processing Microsoft Corporation (microsoft-corporation)... OK — 427 reviews (+286/-80/~61), 0 new, 427 skipped
+[05:43:51] [100/161]   Processing Mobile Premier League (mobile-premier-league)... OK — 146 reviews (+89/-39/~18), 0 new, 146 skipped
+[05:43:57] [101/161]   Processing MoEngage (moengage)... OK — 102 reviews (+60/-23/~19), 0 new, 102 skipped
+[05:44:01] [102/161]   Processing Motorola Solutions (motorola-solutions)... OK — 129 reviews (+85/-18/~26), 0 new, 129 skipped
+[05:44:07] [103/161]   Processing Mphasis (mphasis)... OK — 432 reviews (+187/-172/~73), 0 new, 432 skipped
+[05:44:13] [104/161]   Processing Muthoot Finance (muthoot-finance)... OK — 425 reviews (+239/-105/~81), 0 new, 425 skipped
+[05:44:20] [105/161]   Processing Myntra (myntra)... OK — 401 reviews (+258/-80/~63), 0 new, 401 skipped
+[05:44:27] [106/161]   Processing Narayana Health (narayana-health)... OK — 388 reviews (+251/-83/~54), 0 new, 388 skipped
+[05:44:31] [107/161]   Processing Navi Technologies (navi-technologies)... OK — 255 reviews (+142/-82/~31), 0 new, 255 skipped
+[05:44:34] [108/161]   Processing Nazara Technologies (nazara-technologies)... OK — 14 reviews (+13/-0/~1), 0 new, 14 skipped
+[05:44:41] [109/161]   Processing Nestlé (nestle-india)... OK — 371 reviews (+226/-79/~66), 0 new, 371 skipped
+[05:44:45] [110/161]   Processing NTPC (ntpc)... OK — 399 reviews (+277/-65/~57), 0 new, 399 skipped
+[05:44:48] [111/161]   Processing Nykaa (nykaa)... OK — 412 reviews (+241/-116/~55), 0 new, 412 skipped
+[05:44:53] [112/161]   Processing Oil And Natural Gas Corporation (oil-and-natural-gas-corporation)... OK — 447 reviews (+344/-55/~48), 0 new, 447 skipped
+[05:44:58] [113/161]   Processing Ola Electric Mobility  (ola-electric-mobility)... OK — 344 reviews (+179/-110/~55), 0 new, 344 skipped
+[05:45:03] [114/161]   Processing Ola Cabs (ola)... OK — 443 reviews (+218/-170/~55), 0 new, 443 skipped
+[05:45:09] [115/161]   Processing Oracle (oracle)... OK — 372 reviews (+193/-118/~61), 0 new, 372 skipped
+[05:45:13] [116/161]   Processing Oyo Rooms (oyo)... OK — 428 reviews (+212/-165/~51), 0 new, 428 skipped
+[05:45:20] [117/161]   Processing Paytm (paytm)... OK — 457 reviews (+212/-164/~81), 0 new, 457 skipped
+[05:45:25] [118/161]   Processing Persistent Systems (persistent-systems)... OK — 400 reviews (+211/-131/~58), 0 new, 400 skipped
+[05:45:31] [119/161]   Processing PhonePe (phonepe)... OK — 377 reviews (+199/-100/~78), 0 new, 377 skipped
+[05:45:36] [120/161]   Processing Physicswallah (physicswallah)... OK — 304 reviews (+154/-104/~46), 0 new, 304 skipped
+[05:45:42] [121/161]   Processing PolicyBazaar (policybazaar)... OK — 499 reviews (+272/-149/~78), 0 new, 499 skipped
+[05:45:46] [122/161]   Processing Postman (postman)... OK — 30 reviews (+22/-4/~4), 0 new, 30 skipped
+[05:45:50] [123/161]   Processing Power Grid Corporation of India (power-grid-corporation-of-india)... OK — 459 reviews (+316/-68/~75), 0 new, 459 skipped
+[05:45:54] [124/161]   Processing Punjab National Bank (punjab-national-bank)... OK — 436 reviews (+270/-96/~70), 0 new, 436 skipped
+[05:46:02] [125/161]   Processing PwC (pwc)... OK — 497 reviews (+218/-171/~108), 0 new, 497 skipped
+[05:46:06] [126/161]   Processing Rapido (rapido)... OK — 313 reviews (+204/-72/~37), 0 new, 313 skipped
+[05:46:13] [127/161]   Processing Razorpay (razorpay)... OK — 447 reviews (+288/-101/~58), 0 new, 447 skipped
+[05:46:18] [128/161]   Processing Reliance Industries  (reliance-industries)... OK — 500 reviews (+299/-106/~95), 0 new, 500 skipped
+[05:46:23] [129/161]   Processing Jio (reliance-jio)... OK — 498 reviews (+380/-40/~78), 0 new, 498 skipped
+[05:46:28] [130/161]   Processing Samsung (samsung)... OK — 351 reviews (+189/-95/~67), 0 new, 351 skipped
+[05:46:34] [131/161]   Processing SAP (sap)... OK — 430 reviews (+292/-70/~68), 0 new, 430 skipped
+[05:46:38] [132/161]   Processing Shadowfax Technologies (shadowfax)... OK — 377 reviews (+214/-107/~56), 0 new, 377 skipped
+[05:46:41] [133/161]   Processing ShareChat (sharechat)... OK — 465 reviews (+291/-113/~61), 0 new, 465 skipped
+[05:46:46] [134/161]   Processing Snapdeal (snapdeal)... OK — 457 reviews (+296/-85/~76), 0 new, 457 skipped
+[05:46:50] [135/161]   Processing Spinny (spinny)... OK — 370 reviews (+199/-111/~60), 0 new, 370 skipped
+[05:46:54] [136/161]   Processing State Bank of India (state-bank-of-india)... OK — 363 reviews (+203/-97/~63), 0 new, 363 skipped
+[05:47:02] [137/161]   Processing Sun Pharmaceutical Industries (sun-pharmaceutical-industries)... OK — 465 reviews (+306/-81/~78), 0 new, 465 skipped
+[05:47:06] [138/161]   Processing Swiggy (swiggy)... OK — 371 reviews (+206/-105/~60), 0 new, 371 skipped
+[05:47:12] [139/161]   Processing TCS (tata-consultancy-services)... OK — 499 reviews (+234/-166/~99), 0 new, 499 skipped
+[05:47:16] [140/161]   Processing Tata Group (tata-group)... OK — 457 reviews (+332/-66/~59), 0 new, 457 skipped
+[05:47:22] [141/161]   Processing Tata Motors (tata-motors)... OK — 467 reviews (+284/-84/~99), 0 new, 467 skipped
+[05:47:28] [142/161]   Processing Tata Power (tata-power)... OK — 414 reviews (+281/-61/~72), 0 new, 414 skipped
+[05:47:34] [143/161]   Processing Tata Steel (tata-steel)... OK — 450 reviews (+270/-96/~84), 0 new, 450 skipped
+[05:47:40] [144/161]   Processing Tech Mahindra (tech-mahindra)... OK — 500 reviews (+219/-193/~88), 0 new, 500 skipped
+[05:47:49] [145/161]   Processing ThoughtWorks (thoughtworks)... OK — 351 reviews (+234/-63/~54), 0 new, 351 skipped
+[05:47:56] [146/161]   Processing Times Internet (times-internet)... OK — 422 reviews (+258/-100/~64), 0 new, 422 skipped
+[05:48:04] [147/161]   Processing TVS Motor (tvs-motor-company)... OK — 337 reviews (+185/-76/~76), 0 new, 337 skipped
+[05:48:11] [148/161]   Processing Uber (uber)... OK — 407 reviews (+274/-82/~51), 0 new, 407 skipped
+[05:48:17] [149/161]   Processing UltraTech Cement (ultratech-cement)... OK — 444 reviews (+285/-85/~74), 0 new, 444 skipped
+[05:48:26] [150/161]   Processing Unacademy (unacademy)... OK — 436 reviews (+190/-201/~45), 0 new, 436 skipped
+[05:48:34] [151/161]   Processing upGrad (upgrad)... OK — 443 reviews (+267/-123/~53), 0 new, 443 skipped
+[05:48:40] [152/161]   Processing Urban Company (urban-company)... OK — 415 reviews (+216/-133/~66), 0 new, 415 skipped
+[05:48:45] [153/161]   Processing Vedantu (vedantu)... OK — 438 reviews (+234/-153/~51), 0 new, 438 skipped
+[05:48:50] [154/161]   Processing Vodafone Idea (vodafone-idea)... OK — 472 reviews (+264/-118/~90), 0 new, 472 skipped
+[05:48:56] [155/161]   Processing Walmart (walmart)... OK — 251 reviews (+143/-86/~22), 0 new, 251 skipped
+[05:49:01] [156/161]   Processing Wipro (wipro)... OK — 500 reviews (+250/-139/~111), 0 new, 500 skipped
+[05:49:06] [157/161]   Processing Yes Bank (yes-bank)... OK — 474 reviews (+256/-127/~91), 0 new, 474 skipped
+[05:49:12] [158/161]   Processing Zepto (zepto)... OK — 358 reviews (+187/-108/~63), 0 new, 358 skipped
+[05:49:16] [159/161]   Processing Zerodha (zerodha)... OK — 127 reviews (+92/-17/~18), 0 new, 127 skipped
+[05:49:21] [160/161]   Processing Zoho (zoho)... OK — 435 reviews (+313/-69/~53), 0 new, 435 skipped
+[05:49:27] [161/161]   Processing Eternal Limited (zomato)... OK — 348 reviews (+183/-109/~56), 0 new, 348 skipped
+[05:49:27] 
+[05:49:27] ============================================================
+[05:49:27] PIPELINE COMPLETE
+[05:49:27]   Total:     161
+[05:49:27]   Succeeded: 161
+[05:49:27]   Failed:    0
+[05:49:27]   Time:      869.9s
+[05:49:27] ============================================================
+[05:49:27] 
+[05:49:27] 
+[05:49:27] === ALL DONE ===

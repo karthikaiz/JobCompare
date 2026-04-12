@@ -222,22 +222,31 @@ async def run_batch(
 
 def main():
     parser = argparse.ArgumentParser(description="JobCompare Batch Scraper")
-    group = parser.add_mutually_exclusive_group(required=True)
+    group = parser.add_mutually_exclusive_group(required=False)
     group.add_argument("--all", action="store_true", help="Scrape all companies in registry")
     group.add_argument("--company", type=str, help="Scrape a single company by slug")
     group.add_argument("--failed", action="store_true", help="Retry previously failed companies")
+    parser.add_argument("--slugs", type=str, default=None,
+                        help="Comma-separated list of slugs to scrape (overrides --all/--failed)")
     parser.add_argument("--max-reviews", type=int, default=2, help="Max review pages per company (default: 2)")
     parser.add_argument("--max-salaries", type=int, default=8, help="Max salary roles per company (default: 8)")
 
     args = parser.parse_args()
     registry = load_registry()
 
-    if args.all:
+    # --slugs takes priority over all other modes
+    if args.slugs:
+        slug_set = {s.strip() for s in args.slugs.split(",") if s.strip()}
+        companies = [c for c in registry if c["slug"] in slug_set]
+        if not companies:
+            print(f"None of the provided slugs found in registry: {args.slugs}")
+            sys.exit(1)
+        print(f"Custom selection: {len(companies)} companies")
+    elif args.all:
         companies = registry
     elif args.company:
         companies = [c for c in registry if c["slug"] == args.company]
         if not companies:
-            # Try partial match
             companies = [c for c in registry if args.company.lower() in c["slug"].lower()]
         if not companies:
             print(f"Company '{args.company}' not found in registry.")
@@ -249,6 +258,8 @@ def main():
         if not companies:
             print("No failed companies to retry.")
             sys.exit(0)
+    else:
+        parser.error("Provide one of: --all, --failed, --company, --slugs")
 
     asyncio.run(run_batch(companies, args.max_reviews, args.max_salaries))
 

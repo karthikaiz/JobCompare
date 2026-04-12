@@ -1033,7 +1033,7 @@
   },
   "purplle-com": {
     "status": "failed",
-    "scraped_at": "2026-04-10T17:46:06.050164+00:00",
+    "scraped_at": "2026-04-11T17:26:14.980157+00:00",
     "error": "Scrape returned no data"
   },
   "state-bank-of-india": {
@@ -1087,7 +1087,103 @@
   },
   "the-new-india-assurance": {
     "status": "failed",
-    "scraped_at": "2026-04-11T00:10:13.384388+00:00",
+    "scraped_at": "2026-04-11T17:26:18.134775+00:00",
     "error": "Scrape returned no data"
+  },
+  "head-digital-works": {
+    "status": "failed",
+    "scraped_at": "2026-04-11T17:26:23.692239+00:00",
+    "error": "Scrape returned no data"
+  },
+  "infrrd": {
+    "status": "success",
+    "scraped_at": "2026-04-12T05:34:57.534333+00:00",
+    "reviews": 72,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "head-infotech-india": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:20:45.212130+00:00",
+    "reviews": 81,
+    "salaries": 20,
+    "benefits": 15
+  },
+  "altisource": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:26:05.966696+00:00",
+    "reviews": 334,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "physicswallah": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:29:26.747258+00:00",
+    "reviews": 304,
+    "salaries": 20,
+    "benefits": 26
+  },
+  "zepto": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:32:42.260666+00:00",
+    "reviews": 359,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "rapido": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:35:56.940937+00:00",
+    "reviews": 313,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "ather-energy": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:39:10.485302+00:00",
+    "reviews": 338,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "ola-electric-mobility": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:42:27.506715+00:00",
+    "reviews": 344,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "walmart": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:45:48.592744+00:00",
+    "reviews": 251,
+    "salaries": 20,
+    "benefits": 24
+  },
+  "thoughtworks": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:49:04.977478+00:00",
+    "reviews": 352,
+    "salaries": 20,
+    "benefits": 26
+  },
+  "mckinsey-and-company": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:52:23.865094+00:00",
+    "reviews": 331,
+    "salaries": 20,
+    "benefits": 21
+  },
+  "bcg": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:55:36.489154+00:00",
+    "reviews": 287,
+    "salaries": 20,
+    "benefits": 0
+  },
+  "boat": {
+    "status": "success",
+    "scraped_at": "2026-04-12T03:58:13.936768+00:00",
+    "reviews": 161,
+    "salaries": 20,
+    "benefits": 0
   }
 }
