@@ -1,192 +1,219 @@
 {
   "infosys": {
     "status": "success",
-    "scraped_at": "2026-04-10T15:42:26.158915+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T13:00:03.310810+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "flipkart": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:22:30.561556+00:00",
-    "reviews": 450,
+    "scraped_at": "2026-04-12T15:45:13.158439+00:00",
+    "reviews": 391,
     "salaries": 20,
-    "benefits": 27
+    "benefits": 27,
+    "interviews": 500
   },
   "razorpay": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:48:50.213759+00:00",
-    "reviews": 447,
+    "scraped_at": "2026-04-12T14:59:43.456122+00:00",
+    "reviews": 348,
     "salaries": 20,
-    "benefits": 22
+    "benefits": 22,
+    "interviews": 150
   },
   "tata-consultancy-services": {
     "status": "success",
-    "scraped_at": "2026-04-10T15:46:16.210536+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T13:06:59.002347+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "wipro": {
     "status": "success",
-    "scraped_at": "2026-04-10T15:50:02.546251+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T13:13:52.041365+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 500
   },
   "hcl-technologies": {
     "status": "success",
-    "scraped_at": "2026-04-10T15:53:35.603663+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T13:20:53.011431+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "tech-mahindra": {
     "status": "success",
-    "scraped_at": "2026-04-10T15:57:11.548652+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T13:27:51.115029+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 27
+    "benefits": 27,
+    "interviews": 500
   },
   "cognizant-technology-solutions": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:00:50.914926+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T13:34:44.138470+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 500
   },
   "ltimindtree": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:04:30.463136+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T13:41:37.225430+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 25
+    "benefits": 25,
+    "interviews": 500
   },
   "mphasis": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:08:15.232213+00:00",
-    "reviews": 433,
+    "scraped_at": "2026-04-12T13:48:24.265601+00:00",
+    "reviews": 370,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "paytm": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:52:46.410668+00:00",
-    "reviews": 457,
+    "scraped_at": "2026-04-12T15:06:16.830987+00:00",
+    "reviews": 394,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "phonepe": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:56:29.867677+00:00",
-    "reviews": 377,
+    "scraped_at": "2026-04-12T15:11:22.896213+00:00",
+    "reviews": 320,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 270
   },
   "cred": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:59:00.578732+00:00",
+    "scraped_at": "2026-04-12T15:14:07.836679+00:00",
     "reviews": 120,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 7,
+    "interviews": 40
   },
   "bharatpe": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:02:31.270496+00:00",
-    "reviews": 372,
+    "scraped_at": "2026-04-12T15:17:30.823719+00:00",
+    "reviews": 287,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 9,
+    "interviews": 30
   },
   "policybazaar": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:06:16.375799+00:00",
-    "reviews": 499,
+    "scraped_at": "2026-04-12T15:23:58.532032+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 28
+    "benefits": 28,
+    "interviews": 440
   },
   "zerodha": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:08:40.805212+00:00",
+    "scraped_at": "2026-04-12T15:26:28.002172+00:00",
     "reviews": 127,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 6,
+    "interviews": 20
   },
   "groww": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:11:52.563322+00:00",
+    "scraped_at": "2026-04-12T15:30:00.372424+00:00",
     "reviews": 244,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 12,
+    "interviews": 60
   },
   "amazon": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:26:19.426628+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T15:52:25.750783+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "myntra": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:29:47.466394+00:00",
-    "reviews": 401,
+    "scraped_at": "2026-04-12T15:57:32.473996+00:00",
+    "reviews": 332,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 250
   },
   "meesho": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:33:19.627678+00:00",
-    "reviews": 410,
+    "scraped_at": "2026-04-12T16:03:08.517040+00:00",
+    "reviews": 336,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 310
   },
   "nykaa": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:35:19.555521+00:00",
-    "reviews": 412,
+    "scraped_at": "2026-04-12T16:04:50.110676+00:00",
+    "reviews": 317,
     "salaries": 0,
-    "benefits": 0
+    "benefits": 0,
+    "interviews": 0
   },
   "zomato": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:49:48.041590+00:00",
-    "reviews": 348,
+    "scraped_at": "2026-04-12T16:25:02.910345+00:00",
+    "reviews": 255,
     "salaries": 20,
-    "benefits": 29
+    "benefits": 29,
+    "interviews": 250
   },
   "swiggy": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:53:27.038545+00:00",
-    "reviews": 371,
+    "scraped_at": "2026-04-12T16:31:31.009044+00:00",
+    "reviews": 322,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 420
   },
   "hdfc-bank": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:57:05.341980+00:00",
-    "reviews": 499,
+    "scraped_at": "2026-04-12T16:38:24.336713+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "icici-bank": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:00:35.609153+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T16:45:40.477323+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "kotak-mahindra-bank": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:04:07.001866+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T16:52:47.261190+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "axis-bank": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:07:44.454495+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T16:59:25.982427+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 500
   },
   "state-bank-of-india-sbi": {
     "status": "failed",
@@ -195,80 +222,91 @@
   },
   "reliance-industries": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:15:06.757772+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T18:41:25.343892+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 500
   },
   "tata-group": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:18:43.653085+00:00",
-    "reviews": 457,
+    "scraped_at": "2026-04-12T18:46:29.683882+00:00",
+    "reviews": 357,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 13,
+    "interviews": 230
   },
   "adani-group": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:22:13.217002+00:00",
-    "reviews": 332,
+    "scraped_at": "2026-04-12T18:51:43.422918+00:00",
+    "reviews": 271,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 240
   },
   "mahindra-and-mahindra": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:25:54.314091+00:00",
-    "reviews": 463,
+    "scraped_at": "2026-04-12T18:58:50.748393+00:00",
+    "reviews": 399,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "zoho": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:29:33.333275+00:00",
-    "reviews": 437,
+    "scraped_at": "2026-04-12T19:04:26.949884+00:00",
+    "reviews": 342,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 300
   },
   "freshworks": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:33:10.694202+00:00",
-    "reviews": 442,
+    "scraped_at": "2026-04-12T19:08:50.221136+00:00",
+    "reviews": 346,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 130
   },
   "postman": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:35:05.679661+00:00",
+    "scraped_at": "2026-04-12T19:10:49.972886+00:00",
     "reviews": 30,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 7,
+    "interviews": 20
   },
   "browserstack": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:37:17.747402+00:00",
+    "scraped_at": "2026-04-12T19:13:22.808663+00:00",
     "reviews": 111,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 7,
+    "interviews": 40
   },
   "chargebee": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:39:34.991405+00:00",
+    "scraped_at": "2026-04-12T19:15:36.240386+00:00",
     "reviews": 105,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 14,
+    "interviews": 20
   },
   "ola": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:47:29.093460+00:00",
-    "reviews": 443,
+    "scraped_at": "2026-04-12T19:24:18.057503+00:00",
+    "reviews": 348,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 17,
+    "interviews": 110
   },
   "uber": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:50:59.843377+00:00",
-    "reviews": 407,
+    "scraped_at": "2026-04-12T19:28:13.346562+00:00",
+    "reviews": 336,
     "salaries": 20,
-    "benefits": 18
+    "benefits": 18,
+    "interviews": 90
   },
   "maruti-suzuki-india": {
     "status": "failed",
@@ -277,288 +315,328 @@
   },
   "tata-motors": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:57:54.449401+00:00",
-    "reviews": 467,
+    "scraped_at": "2026-04-12T19:42:15.343076+00:00",
+    "reviews": 398,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "sun-pharmaceutical-industries": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:32:18.814483+00:00",
-    "reviews": 465,
+    "scraped_at": "2026-04-12T20:27:15.146550+00:00",
+    "reviews": 396,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 300
   },
   "dr-reddys-laboratories": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:35:56.327598+00:00",
-    "reviews": 409,
+    "scraped_at": "2026-04-12T20:32:35.423179+00:00",
+    "reviews": 353,
     "salaries": 20,
-    "benefits": 34
+    "benefits": 34,
+    "interviews": 310
   },
   "cipla": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:39:31.638558+00:00",
-    "reviews": 414,
+    "scraped_at": "2026-04-12T20:37:45.746618+00:00",
+    "reviews": 365,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 270
   },
   "reliance-jio": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:11:30.782469+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T21:17:17.605521+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "bharti-airtel": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:15:03.624229+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T21:24:22.872647+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 27
+    "benefits": 27,
+    "interviews": 500
   },
   "dream11": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:24:28.499459+00:00",
+    "scraped_at": "2026-04-12T21:37:25.255355+00:00",
     "reviews": 91,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 7,
+    "interviews": 30
   },
   "google": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:32:15.556536+00:00",
-    "reviews": 463,
+    "scraped_at": "2026-04-12T21:49:03.292854+00:00",
+    "reviews": 365,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 500
   },
   "microsoft-corporation": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:35:46.451985+00:00",
-    "reviews": 429,
+    "scraped_at": "2026-04-12T21:56:04.912445+00:00",
+    "reviews": 334,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "deloitte": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:51:03.464008+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T18:07:22.307174+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 25
+    "benefits": 25,
+    "interviews": 500
   },
   "maersk": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:11:01.674313+00:00",
-    "reviews": 302,
+    "scraped_at": "2026-04-12T22:48:37.522582+00:00",
+    "reviews": 255,
     "salaries": 20,
-    "benefits": 29
+    "benefits": 29,
+    "interviews": 150
   },
   "motorola-solutions": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:38:11.037246+00:00",
+    "scraped_at": "2026-04-12T21:58:42.093186+00:00",
     "reviews": 130,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 30
   },
   "accenture": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:11:52.456879+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T13:55:09.144784+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "capgemini-technology-services": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:15:36.914942+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T14:02:18.941464+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 25
+    "benefits": 25,
+    "interviews": 500
   },
   "ibm-india": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:19:16.617256+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T14:09:20.083763+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 500
   },
   "genpact": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:22:47.058042+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T14:16:26.482121+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "exl-service": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:26:40.393851+00:00",
-    "reviews": 422,
+    "scraped_at": "2026-04-12T14:23:21.554875+00:00",
+    "reviews": 352,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 500
   },
   "hexaware-technologies": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:30:28.246164+00:00",
-    "reviews": 442,
+    "scraped_at": "2026-04-12T14:30:19.759891+00:00",
+    "reviews": 378,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "persistent-systems": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:34:18.155861+00:00",
-    "reviews": 400,
+    "scraped_at": "2026-04-12T14:37:31.660511+00:00",
+    "reviews": 346,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "kpit-technologies": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:38:02.515887+00:00",
-    "reviews": 372,
+    "scraped_at": "2026-04-12T14:43:14.088289+00:00",
+    "reviews": 327,
     "salaries": 20,
-    "benefits": 22
+    "benefits": 22,
+    "interviews": 31
   },
   "coforge": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:41:41.885417+00:00",
-    "reviews": 478,
+    "scraped_at": "2026-04-12T14:50:14.710273+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 18
+    "benefits": 18,
+    "interviews": 500
   },
   "cyient": {
     "status": "success",
-    "scraped_at": "2026-04-10T16:45:11.957888+00:00",
-    "reviews": 329,
+    "scraped_at": "2026-04-12T14:55:19.896941+00:00",
+    "reviews": 281,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 230
   },
   "bajaj-finance": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:15:32.559337+00:00",
-    "reviews": 477,
+    "scraped_at": "2026-04-12T15:34:54.592313+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 230
   },
   "navi-technologies": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:18:49.271872+00:00",
+    "scraped_at": "2026-04-12T15:38:17.769998+00:00",
     "reviews": 255,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 11,
+    "interviews": 40
   },
   "bigbasket": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:38:55.745838+00:00",
-    "reviews": 375,
+    "scraped_at": "2026-04-12T16:10:17.106942+00:00",
+    "reviews": 332,
     "salaries": 20,
-    "benefits": 22
+    "benefits": 22,
+    "interviews": 280
   },
   "snapdeal": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:42:30.322788+00:00",
-    "reviews": 457,
+    "scraped_at": "2026-04-12T16:14:29.859170+00:00",
+    "reviews": 360,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 17,
+    "interviews": 120
   },
   "blinkit": {
     "status": "success",
-    "scraped_at": "2026-04-10T17:46:00.759709+00:00",
-    "reviews": 394,
+    "scraped_at": "2026-04-12T16:19:53.505948+00:00",
+    "reviews": 352,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 18,
+    "interviews": 270
   },
   "purplle": {
     "status": "failed",
-    "scraped_at": "2026-04-07T18:03:50.602436+00:00",
+    "scraped_at": "2026-04-12T16:19:57.584968+00:00",
     "error": "Scrape returned no data"
   },
   "yes-bank": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:14:50.587794+00:00",
-    "reviews": 474,
+    "scraped_at": "2026-04-12T17:10:21.783290+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 17,
+    "interviews": 310
   },
   "indusind-bank": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:18:20.833611+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T17:16:39.759250+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 400
   },
   "bank-of-baroda": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:22:06.666214+00:00",
-    "reviews": 412,
+    "scraped_at": "2026-04-12T17:20:31.348857+00:00",
+    "reviews": 312,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 70
   },
   "punjab-national-bank": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:25:33.041900+00:00",
-    "reviews": 436,
+    "scraped_at": "2026-04-12T17:24:31.602020+00:00",
+    "reviews": 336,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 16,
+    "interviews": 70
   },
   "lic-of-india": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:29:11.381481+00:00",
-    "reviews": 398,
+    "scraped_at": "2026-04-12T17:28:25.804134+00:00",
+    "reviews": 303,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 90
   },
   "hdfc-life-insurance": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:32:39.029484+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T17:35:02.138731+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 360
   },
   "muthoot-finance": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:36:08.547969+00:00",
-    "reviews": 425,
+    "scraped_at": "2026-04-12T17:39:44.664844+00:00",
+    "reviews": 366,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 16,
+    "interviews": 200
   },
   "kpmg": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:39:52.016867+00:00",
-    "reviews": 368,
+    "scraped_at": "2026-04-12T17:46:30.365760+00:00",
+    "reviews": 329,
     "salaries": 20,
-    "benefits": 25
+    "benefits": 25,
+    "interviews": 500
   },
   "ey": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:43:39.730580+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T17:53:20.374529+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "pwc": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:47:17.669632+00:00",
-    "reviews": 498,
+    "scraped_at": "2026-04-12T18:00:27.329635+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 33
+    "benefits": 33,
+    "interviews": 500
   },
   "hindustan-unilever": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:54:46.397940+00:00",
-    "reviews": 356,
+    "scraped_at": "2026-04-12T18:13:04.983281+00:00",
+    "reviews": 308,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 330
   },
   "itc": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:58:28.263511+00:00",
-    "reviews": 398,
+    "scraped_at": "2026-04-12T18:19:05.230094+00:00",
+    "reviews": 337,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 360
   },
   "nestle-india": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:02:05.146782+00:00",
-    "reviews": 372,
+    "scraped_at": "2026-04-12T18:23:31.557811+00:00",
+    "reviews": 280,
     "salaries": 20,
-    "benefits": 25
+    "benefits": 25,
+    "interviews": 140
   },
   "britannia-industries": {
     "status": "failed",
@@ -567,10 +645,11 @@
   },
   "marico": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:07:46.379897+00:00",
-    "reviews": 400,
+    "scraped_at": "2026-04-12T18:29:54.802750+00:00",
+    "reviews": 316,
     "salaries": 0,
-    "benefits": 0
+    "benefits": 0,
+    "interviews": 0
   },
   "dabur-india": {
     "status": "failed",
@@ -579,66 +658,75 @@
   },
   "moengage": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:41:52.168893+00:00",
-    "reviews": 103,
+    "scraped_at": "2026-04-12T19:18:09.515271+00:00",
+    "reviews": 102,
     "salaries": 20,
-    "benefits": 21
+    "benefits": 21,
+    "interviews": 30
   },
   "clevertap": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:43:49.851834+00:00",
+    "scraped_at": "2026-04-12T19:20:17.064107+00:00",
     "reviews": 60,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 7,
+    "interviews": 10
   },
   "hero-motocorp": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:01:26.755362+00:00",
-    "reviews": 327,
+    "scraped_at": "2026-04-12T19:47:32.232230+00:00",
+    "reviews": 283,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 290
   },
   "bajaj-auto": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:05:00.671723+00:00",
-    "reviews": 370,
+    "scraped_at": "2026-04-12T19:52:29.008488+00:00",
+    "reviews": 276,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 13,
+    "interviews": 250
   },
   "tvs-motor-company": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:08:38.173954+00:00",
-    "reviews": 338,
+    "scraped_at": "2026-04-12T19:57:26.887996+00:00",
+    "reviews": 291,
     "salaries": 20,
-    "benefits": 18
+    "benefits": 18,
+    "interviews": 240
   },
   "hyundai-motor-india": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:12:09.933325+00:00",
-    "reviews": 343,
+    "scraped_at": "2026-04-12T20:02:49.765748+00:00",
+    "reviews": 257,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 260
   },
   "ashok-leyland": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:15:45.310691+00:00",
-    "reviews": 331,
+    "scraped_at": "2026-04-12T20:08:22.861781+00:00",
+    "reviews": 282,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 300
   },
   "eicher-motors": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:19:23.921431+00:00",
-    "reviews": 395,
+    "scraped_at": "2026-04-12T20:12:22.013641+00:00",
+    "reviews": 300,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 110
   },
   "cars24": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:21:31.551847+00:00",
-    "reviews": 444,
+    "scraped_at": "2026-04-12T20:14:10.340622+00:00",
+    "reviews": 376,
     "salaries": 0,
-    "benefits": 0
+    "benefits": 0,
+    "interviews": 0
   },
   "cardekho": {
     "status": "failed",
@@ -647,269 +735,307 @@
   },
   "spinny": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:28:47.264880+00:00",
-    "reviews": 370,
+    "scraped_at": "2026-04-12T20:21:44.481082+00:00",
+    "reviews": 281,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 130
   },
   "lupin": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:43:07.693363+00:00",
-    "reviews": 391,
+    "scraped_at": "2026-04-12T20:42:50.192957+00:00",
+    "reviews": 351,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 260
   },
   "aurobindo-pharma": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:46:36.895993+00:00",
-    "reviews": 358,
+    "scraped_at": "2026-04-12T20:47:34.696534+00:00",
+    "reviews": 312,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 17,
+    "interviews": 220
   },
   "biocon": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:50:22.793645+00:00",
-    "reviews": 399,
+    "scraped_at": "2026-04-12T20:51:38.347433+00:00",
+    "reviews": 306,
     "salaries": 20,
-    "benefits": 22
+    "benefits": 22,
+    "interviews": 130
   },
   "glenmark-pharmaceuticals": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:53:49.486047+00:00",
-    "reviews": 366,
+    "scraped_at": "2026-04-12T20:55:45.396950+00:00",
+    "reviews": 301,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 16,
+    "interviews": 110
   },
   "apollo-hospitals": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:57:24.170378+00:00",
-    "reviews": 335,
+    "scraped_at": "2026-04-12T20:59:56.213765+00:00",
+    "reviews": 290,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 90
   },
   "fortis-healthcare": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:01:00.770758+00:00",
-    "reviews": 392,
+    "scraped_at": "2026-04-12T21:03:24.220630+00:00",
+    "reviews": 296,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 15,
+    "interviews": 40
   },
   "max-healthcare": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:04:28.858683+00:00",
-    "reviews": 376,
+    "scraped_at": "2026-04-12T21:07:00.877703+00:00",
+    "reviews": 284,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 40
   },
   "narayana-health": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:07:52.261315+00:00",
-    "reviews": 388,
+    "scraped_at": "2026-04-12T21:10:18.922989+00:00",
+    "reviews": 292,
     "salaries": 20,
-    "benefits": 11
+    "benefits": 11,
+    "interviews": 20
   },
   "vodafone-idea": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:18:46.848737+00:00",
-    "reviews": 473,
+    "scraped_at": "2026-04-12T21:31:22.252317+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 25
+    "benefits": 25,
+    "interviews": 480
   },
   "bsnl": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:22:23.321669+00:00",
-    "reviews": 459,
+    "scraped_at": "2026-04-12T21:34:55.933031+00:00",
+    "reviews": 362,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 50
   },
   "mobile-premier-league": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:26:54.404408+00:00",
+    "scraped_at": "2026-04-12T21:40:04.115396+00:00",
     "reviews": 146,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 30
   },
   "nazara-technologies": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:28:38.406641+00:00",
+    "scraped_at": "2026-04-12T21:41:56.220476+00:00",
     "reviews": 14,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 5,
+    "interviews": 2
   },
   "samsung": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:41:50.755149+00:00",
-    "reviews": 351,
+    "scraped_at": "2026-04-12T22:05:22.894618+00:00",
+    "reviews": 312,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 470
   },
   "dell": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:45:23.991612+00:00",
-    "reviews": 329,
+    "scraped_at": "2026-04-12T22:10:34.859765+00:00",
+    "reviews": 239,
     "salaries": 20,
-    "benefits": 22
+    "benefits": 22,
+    "interviews": 280
   },
   "hp": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:49:04.758550+00:00",
-    "reviews": 453,
+    "scraped_at": "2026-04-12T22:14:27.299905+00:00",
+    "reviews": 354,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 11,
+    "interviews": 100
   },
   "oracle": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:52:43.555733+00:00",
-    "reviews": 373,
+    "scraped_at": "2026-04-12T22:21:29.191052+00:00",
+    "reviews": 320,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "sap": {
     "status": "success",
-    "scraped_at": "2026-04-10T21:56:19.518658+00:00",
-    "reviews": 430,
+    "scraped_at": "2026-04-12T22:27:35.253031+00:00",
+    "reviews": 333,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 360
   },
   "adobe-systems": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:00:01.530726+00:00",
-    "reviews": 381,
+    "scraped_at": "2026-04-12T22:33:24.054574+00:00",
+    "reviews": 312,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 320
   },
   "intel": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:03:36.239033+00:00",
-    "reviews": 429,
+    "scraped_at": "2026-04-12T22:38:20.153725+00:00",
+    "reviews": 332,
     "salaries": 20,
-    "benefits": 25
+    "benefits": 25,
+    "interviews": 230
   },
   "cisco-systems": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:07:22.714952+00:00",
-    "reviews": 417,
+    "scraped_at": "2026-04-12T22:44:14.434913+00:00",
+    "reviews": 318,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 380
   },
   "blue-dart": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:14:41.957996+00:00",
-    "reviews": 393,
+    "scraped_at": "2026-04-12T22:52:25.864165+00:00",
+    "reviews": 297,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 14,
+    "interviews": 80
   },
   "delhivery": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:18:12.034315+00:00",
-    "reviews": 436,
+    "scraped_at": "2026-04-12T22:58:47.922760+00:00",
+    "reviews": 377,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 40
   },
   "ecom-express": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:21:47.073572+00:00",
-    "reviews": 346,
+    "scraped_at": "2026-04-12T23:03:29.316726+00:00",
+    "reviews": 303,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 200
   },
   "dtdc-courier-and-cargo": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:25:22.857564+00:00",
-    "reviews": 401,
+    "scraped_at": "2026-04-12T23:07:45.519446+00:00",
+    "reviews": 310,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 12,
+    "interviews": 150
   },
   "shadowfax": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:29:00.744394+00:00",
-    "reviews": 378,
+    "scraped_at": "2026-04-12T23:11:39.903135+00:00",
+    "reviews": 287,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 10,
+    "interviews": 100
   },
   "byjus": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:32:33.944792+00:00",
-    "reviews": 438,
+    "scraped_at": "2026-04-12T23:18:45.928184+00:00",
+    "reviews": 340,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "unacademy": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:36:07.470905+00:00",
-    "reviews": 436,
+    "scraped_at": "2026-04-12T23:22:56.298182+00:00",
+    "reviews": 340,
     "salaries": 20,
-    "benefits": 15
+    "benefits": 15,
+    "interviews": 150
   },
   "vedantu": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:39:50.066374+00:00",
-    "reviews": 438,
+    "scraped_at": "2026-04-12T23:27:04.721615+00:00",
+    "reviews": 340,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 14
   },
   "upgrad": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:43:33.919614+00:00",
-    "reviews": 443,
+    "scraped_at": "2026-04-12T23:31:19.609518+00:00",
+    "reviews": 345,
     "salaries": 20,
-    "benefits": 25
+    "benefits": 25,
+    "interviews": 130
   },
   "great-learning": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:47:09.410325+00:00",
-    "reviews": 418,
+    "scraped_at": "2026-04-12T23:35:10.342034+00:00",
+    "reviews": 358,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 7,
+    "interviews": 70
   },
   "tata-steel": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:50:39.494964+00:00",
-    "reviews": 451,
+    "scraped_at": "2026-04-12T23:42:09.714905+00:00",
+    "reviews": 388,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "jsw-steel": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:54:13.306640+00:00",
-    "reviews": 456,
+    "scraped_at": "2026-04-12T23:49:04.727510+00:00",
+    "reviews": 397,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "larsen-and-toubro": {
     "status": "success",
-    "scraped_at": "2026-04-10T22:57:43.846510+00:00",
-    "reviews": 500,
+    "scraped_at": "2026-04-12T23:56:09.235743+00:00",
+    "reviews": 400,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 500
   },
   "bharat-electronics": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:01:17.147870+00:00",
-    "reviews": 377,
+    "scraped_at": "2026-04-13T00:00:51.911685+00:00",
+    "reviews": 277,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 190
   },
   "godrej-industries": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:04:51.592196+00:00",
-    "reviews": 387,
+    "scraped_at": "2026-04-13T00:04:30.573678+00:00",
+    "reviews": 290,
     "salaries": 20,
-    "benefits": 15
+    "benefits": 15,
+    "interviews": 4
   },
   "asian-paints": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:08:21.342621+00:00",
-    "reviews": 453,
+    "scraped_at": "2026-04-13T00:11:19.012351+00:00",
+    "reviews": 398,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 500
   },
   "ultratech-cement": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:12:00.059532+00:00",
-    "reviews": 444,
+    "scraped_at": "2026-04-13T00:18:15.932373+00:00",
+    "reviews": 388,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "havells-india": {
     "status": "failed",
@@ -918,101 +1044,115 @@
   },
   "ntpc": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:19:39.933819+00:00",
-    "reviews": 399,
+    "scraped_at": "2026-04-13T00:28:11.250946+00:00",
+    "reviews": 306,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 250
   },
   "tata-power": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:23:15.394816+00:00",
-    "reviews": 414,
+    "scraped_at": "2026-04-13T00:32:48.175459+00:00",
+    "reviews": 321,
     "salaries": 20,
-    "benefits": 18
+    "benefits": 18,
+    "interviews": 180
   },
   "power-grid-corporation-of-india": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:26:54.669276+00:00",
-    "reviews": 459,
+    "scraped_at": "2026-04-13T00:36:40.259003+00:00",
+    "reviews": 360,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 10,
+    "interviews": 80
   },
   "oil-and-natural-gas-corporation": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:30:35.123413+00:00",
-    "reviews": 448,
+    "scraped_at": "2026-04-13T00:40:23.408884+00:00",
+    "reviews": 360,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 70
   },
   "dlf": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:34:14.810234+00:00",
-    "reviews": 386,
+    "scraped_at": "2026-04-13T00:44:10.441388+00:00",
+    "reviews": 290,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 70
   },
   "godrej-properties": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:37:45.590749+00:00",
-    "reviews": 385,
+    "scraped_at": "2026-04-13T00:48:16.078795+00:00",
+    "reviews": 294,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 10,
+    "interviews": 100
   },
   "lodha": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:41:27.447814+00:00",
-    "reviews": 398,
+    "scraped_at": "2026-04-13T00:52:28.254542+00:00",
+    "reviews": 304,
     "salaries": 20,
-    "benefits": 18
+    "benefits": 18,
+    "interviews": 140
   },
   "oyo": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:45:06.426684+00:00",
-    "reviews": 428,
+    "scraped_at": "2026-04-13T00:56:35.020638+00:00",
+    "reviews": 329,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 16,
+    "interviews": 140
   },
   "sharechat": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:47:08.961914+00:00",
-    "reviews": 465,
+    "scraped_at": "2026-04-13T00:58:25.926499+00:00",
+    "reviews": 382,
     "salaries": 0,
-    "benefits": 0
+    "benefits": 0,
+    "interviews": 0
   },
   "inmobi": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:49:47.198714+00:00",
+    "scraped_at": "2026-04-13T01:01:31.641660+00:00",
     "reviews": 179,
     "salaries": 20,
-    "benefits": 12
+    "benefits": 12,
+    "interviews": 70
   },
   "times-internet": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:53:16.987426+00:00",
-    "reviews": 422,
+    "scraped_at": "2026-04-13T01:05:26.183367+00:00",
+    "reviews": 366,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 10,
+    "interviews": 80
   },
   "lenskart": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:56:54.013876+00:00",
-    "reviews": 442,
+    "scraped_at": "2026-04-13T01:10:56.094904+00:00",
+    "reviews": 385,
     "salaries": 20,
-    "benefits": 27
+    "benefits": 27,
+    "interviews": 310
   },
   "urban-company": {
     "status": "success",
-    "scraped_at": "2026-04-11T00:00:32.531028+00:00",
-    "reviews": 415,
+    "scraped_at": "2026-04-13T01:15:12.519894+00:00",
+    "reviews": 332,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 140
   },
   "droom": {
     "status": "success",
-    "scraped_at": "2026-04-11T00:02:58.413426+00:00",
+    "scraped_at": "2026-04-13T01:17:58.439928+00:00",
     "reviews": 179,
     "salaries": 20,
-    "benefits": 16
+    "benefits": 16,
+    "interviews": 20
   },
   "bajaj-allianz-general-insurance": {
     "status": "failed",
@@ -1021,14 +1161,15 @@
   },
   "icici-lombard": {
     "status": "success",
-    "scraped_at": "2026-04-11T00:10:08.197706+00:00",
-    "reviews": 389,
+    "scraped_at": "2026-04-13T01:26:17.408517+00:00",
+    "reviews": 347,
     "salaries": 20,
-    "benefits": 23
+    "benefits": 23,
+    "interviews": 200
   },
   "new-india-assurance": {
     "status": "failed",
-    "scraped_at": "2026-04-08T00:03:10.965109+00:00",
+    "scraped_at": "2026-04-13T01:26:21.698506+00:00",
     "error": "Scrape returned no data"
   },
   "purplle-com": {
@@ -1038,52 +1179,59 @@
   },
   "state-bank-of-india": {
     "status": "success",
-    "scraped_at": "2026-04-10T18:11:18.615940+00:00",
-    "reviews": 363,
+    "scraped_at": "2026-04-12T17:04:58.138624+00:00",
+    "reviews": 296,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 290
   },
   "britannia": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:05:37.119604+00:00",
-    "reviews": 380,
+    "scraped_at": "2026-04-12T18:28:08.673657+00:00",
+    "reviews": 284,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 200
   },
   "dabur": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:11:23.697445+00:00",
-    "reviews": 395,
+    "scraped_at": "2026-04-12T18:34:44.544003+00:00",
+    "reviews": 328,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 220
   },
   "maruti-suzuki": {
     "status": "success",
-    "scraped_at": "2026-04-10T19:54:28.076979+00:00",
-    "reviews": 401,
+    "scraped_at": "2026-04-12T19:35:13.737323+00:00",
+    "reviews": 344,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 20,
+    "interviews": 500
   },
   "girnarsoft": {
     "status": "success",
-    "scraped_at": "2026-04-10T20:25:10.868931+00:00",
-    "reviews": 473,
+    "scraped_at": "2026-04-12T20:17:40.173343+00:00",
+    "reviews": 373,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 30
   },
   "havells": {
     "status": "success",
-    "scraped_at": "2026-04-10T23:15:32.545801+00:00",
-    "reviews": 380,
+    "scraped_at": "2026-04-13T00:23:00.910644+00:00",
+    "reviews": 343,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 200
   },
   "bajaj-allianz": {
     "status": "success",
-    "scraped_at": "2026-04-11T00:06:33.252805+00:00",
-    "reviews": 336,
+    "scraped_at": "2026-04-13T01:21:35.291190+00:00",
+    "reviews": 260,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 15,
+    "interviews": 7
   },
   "the-new-india-assurance": {
     "status": "failed",
@@ -1097,93 +1245,106 @@
   },
   "infrrd": {
     "status": "success",
-    "scraped_at": "2026-04-12T05:34:57.534333+00:00",
+    "scraped_at": "2026-04-13T01:30:53.111554+00:00",
     "reviews": 72,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 6,
+    "interviews": 20
   },
   "head-infotech-india": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:20:45.212130+00:00",
+    "scraped_at": "2026-04-13T01:28:43.379606+00:00",
     "reviews": 81,
     "salaries": 20,
-    "benefits": 15
+    "benefits": 15,
+    "interviews": 20
   },
   "altisource": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:26:05.966696+00:00",
+    "scraped_at": "2026-04-13T01:34:22.491546+00:00",
     "reviews": 334,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 30
   },
   "physicswallah": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:29:26.747258+00:00",
+    "scraped_at": "2026-04-13T01:38:45.510260+00:00",
     "reviews": 304,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 170
   },
   "zepto": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:32:42.260666+00:00",
+    "scraped_at": "2026-04-13T01:44:46.655843+00:00",
     "reviews": 359,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 19,
+    "interviews": 390
   },
   "rapido": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:35:56.940937+00:00",
+    "scraped_at": "2026-04-13T01:48:11.823528+00:00",
     "reviews": 313,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 9,
+    "interviews": 30
   },
   "ather-energy": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:39:10.485302+00:00",
+    "scraped_at": "2026-04-13T01:51:50.284604+00:00",
     "reviews": 338,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 8,
+    "interviews": 60
   },
   "ola-electric-mobility": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:42:27.506715+00:00",
-    "reviews": 344,
+    "scraped_at": "2026-04-13T01:57:01.082874+00:00",
+    "reviews": 345,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 11,
+    "interviews": 250
   },
   "walmart": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:45:48.592744+00:00",
+    "scraped_at": "2026-04-13T02:03:08.315370+00:00",
     "reviews": 251,
     "salaries": 20,
-    "benefits": 24
+    "benefits": 24,
+    "interviews": 400
   },
   "thoughtworks": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:49:04.977478+00:00",
-    "reviews": 352,
+    "scraped_at": "2026-04-13T02:07:13.519633+00:00",
+    "reviews": 353,
     "salaries": 20,
-    "benefits": 26
+    "benefits": 26,
+    "interviews": 120
   },
   "mckinsey-and-company": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:52:23.865094+00:00",
+    "scraped_at": "2026-04-13T02:12:16.217867+00:00",
     "reviews": 331,
     "salaries": 20,
-    "benefits": 21
+    "benefits": 21,
+    "interviews": 200
   },
   "bcg": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:55:36.489154+00:00",
+    "scraped_at": "2026-04-13T02:16:34.630888+00:00",
     "reviews": 287,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 16,
+    "interviews": 150
   },
   "boat": {
     "status": "success",
-    "scraped_at": "2026-04-12T03:58:13.936768+00:00",
+    "scraped_at": "2026-04-13T02:19:16.974369+00:00",
     "reviews": 161,
     "salaries": 20,
-    "benefits": 0
+    "benefits": 3,
+    "interviews": 10
   }
 }

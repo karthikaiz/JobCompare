@@ -9,7 +9,7 @@
   "website": "https://www.dream11.com",
   "overall_rating": 3.9000000953674316,
   "work_life_balance": 3.82,
-  "salary_benefits": 4.17,
+  "salary_benefits": 4.18,
   "job_security": 3.4,
   "career_growth": 3.52,
   "company_culture": 3.96,
@@ -1204,7 +1204,7 @@
       "location": null,
       "min_salary": 3600000,
       "max_salary": 5500000,
-      "avg_salary": 4602921,
+      "avg_salary": 4547620,
       "currency": "INR",
       "experience": "2-8 years",
       "sample_count": null
@@ -1224,7 +1224,7 @@
       "location": null,
       "min_salary": 1230002,
       "max_salary": 2170000,
-      "avg_salary": 1547841,
+      "avg_salary": 1594110,
       "currency": "INR",
       "experience": "3-4 years",
       "sample_count": null
@@ -1243,7 +1243,7 @@
       "role": "Product Manager",
       "location": null,
       "min_salary": 2800000,
-      "max_salary": 4420000,
+      "max_salary": 4360000,
       "avg_salary": 3316460,
       "currency": "INR",
       "experience": "3-8 years",
@@ -1292,9 +1292,9 @@
     {
       "role": "SDE-2",
       "location": null,
-      "min_salary": 2600000,
-      "max_salary": 4380000,
-      "avg_salary": 4277211,
+      "min_salary": 2640000,
+      "max_salary": 4488000,
+      "avg_salary": 4178669,
       "currency": "INR",
       "experience": "2-6 years",
       "sample_count": null
@@ -1314,7 +1314,7 @@
       "location": null,
       "min_salary": 4280000,
       "max_salary": 5200000,
-      "avg_salary": 4783679,
+      "avg_salary": 4790088,
       "currency": "INR",
       "experience": "4-14 years",
       "sample_count": null
@@ -1332,8 +1332,8 @@
     {
       "role": "Data Scientist",
       "location": null,
-      "min_salary": 2075000,
-      "max_salary": 2950000,
+      "min_salary": 2135000,
+      "max_salary": 2910000,
       "avg_salary": 2535635,
       "currency": "INR",
       "experience": "0-5 years",
@@ -1400,8 +1400,340 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T21:24:28.496038+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Free meal",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Office gym",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 2 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": "Software Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-16 18:05:35"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical, Coding Test",
+      "questions": [],
+      "review_date": "2024-10-27 11:06:30"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "You’re the PM of Facebook in 2011, will you introduce reacts feature and why?",
+          "answer": "As PM of Facebook in 2011, introducing the reacts feature would enhance user engagement and emotional expression.Enhances user engagement by allowing users to express a range of emotions beyond 'like'.Encourages more interaction on posts, leading to increased time spent on the platform.Provides valuable data on user sentiment, which can inform content and advertising strategies.Similar features in other platforms (e.g., Twitter's hearts) show positive user reception.Can be tested with a small user group to gauge interest before a full rollout."
+        },
+        {
+          "question": "Will you introduce the same for Instagram.",
+          "answer": "Introducing a new feature for Instagram to enhance user engagement and content discovery.Implement a 'Content Discovery' tab that curates posts based on user interests and interactions.Introduce 'Collaborative Posts' where users can co-create content in real-time, similar to TikTok's duet feature.Add 'Story Highlights' for live events, allowing users to share and save moments from events like concerts or festivals.Launch a 'Mood Filter' that allows users to tag their posts with emotions, helping others find relatable content."
+        }
+      ],
+      "review_date": "2025-04-01 10:18:58"
+    },
+    {
+      "role": "Software Development Engineer 1",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, HR",
+      "questions": [],
+      "review_date": "2024-12-09 17:54:21"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-03-12 02:30:11"
+    },
+    {
+      "role": "Senior Software Developer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain your project with minute details. I opened draw.io and created complete hld and lld and schema of my project",
+          "answer": "Developed a web-based project management tool to streamline team collaboration and task tracking.Utilized React for the front-end to create a responsive user interface.Implemented Node.js and Express for the back-end API to handle requests.Designed a PostgreSQL database schema to manage user data and project details.Incorporated authentication using JWT for secure user sessions.Created detailed HLD and LLD diagrams using draw.io to visualize architecture."
+        },
+        {
+          "question": "A lot of db based questions were asked. Isolation, Idempotency, Transaction etc",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-16 02:52:28"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-09-25 20:16:31"
+    },
+    {
+      "role": "Software Development Engineer 3",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2025-01-05 22:06:23"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-25 20:09:04"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Case Study, Culture fit",
+      "questions": [],
+      "review_date": "2024-10-24 17:35:48"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-16 18:05:35"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical, Coding Test",
+      "questions": [],
+      "review_date": "2024-10-27 11:06:30"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "You’re the PM of Facebook in 2011, will you introduce reacts feature and why?",
+          "answer": "As PM of Facebook in 2011, introducing the reacts feature would enhance user engagement and emotional expression.Enhances user engagement by allowing users to express a range of emotions beyond 'like'.Encourages more interaction on posts, leading to increased time spent on the platform.Provides valuable data on user sentiment, which can inform content and advertising strategies.Similar features in other platforms (e.g., Twitter's hearts) show positive user reception.Can be tested with a small user group to gauge interest before a full rollout."
+        },
+        {
+          "question": "Will you introduce the same for Instagram.",
+          "answer": "Introducing a new feature for Instagram to enhance user engagement and content discovery.Implement a 'Content Discovery' tab that curates posts based on user interests and interactions.Introduce 'Collaborative Posts' where users can co-create content in real-time, similar to TikTok's duet feature.Add 'Story Highlights' for live events, allowing users to share and save moments from events like concerts or festivals.Launch a 'Mood Filter' that allows users to tag their posts with emotions, helping others find relatable content."
+        }
+      ],
+      "review_date": "2025-04-01 10:18:58"
+    },
+    {
+      "role": "Software Development Engineer 1",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, HR",
+      "questions": [],
+      "review_date": "2024-12-09 17:54:21"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-03-12 02:30:11"
+    },
+    {
+      "role": "Senior Software Developer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain your project with minute details. I opened draw.io and created complete hld and lld and schema of my project",
+          "answer": "Developed a web-based project management tool to streamline team collaboration and task tracking.Utilized React for the front-end to create a responsive user interface.Implemented Node.js and Express for the back-end API to handle requests.Designed a PostgreSQL database schema to manage user data and project details.Incorporated authentication using JWT for secure user sessions.Created detailed HLD and LLD diagrams using draw.io to visualize architecture."
+        },
+        {
+          "question": "A lot of db based questions were asked. Isolation, Idempotency, Transaction etc",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-16 02:52:28"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-09-25 20:16:31"
+    },
+    {
+      "role": "Software Development Engineer 3",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2025-01-05 22:06:23"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-25 20:09:04"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Case Study, Culture fit",
+      "questions": [],
+      "review_date": "2024-10-24 17:35:48"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-16 18:05:35"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical, Coding Test",
+      "questions": [],
+      "review_date": "2024-10-27 11:06:30"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "You’re the PM of Facebook in 2011, will you introduce reacts feature and why?",
+          "answer": "As PM of Facebook in 2011, introducing the reacts feature would enhance user engagement and emotional expression.Enhances user engagement by allowing users to express a range of emotions beyond 'like'.Encourages more interaction on posts, leading to increased time spent on the platform.Provides valuable data on user sentiment, which can inform content and advertising strategies.Similar features in other platforms (e.g., Twitter's hearts) show positive user reception.Can be tested with a small user group to gauge interest before a full rollout."
+        },
+        {
+          "question": "Will you introduce the same for Instagram.",
+          "answer": "Introducing a new feature for Instagram to enhance user engagement and content discovery.Implement a 'Content Discovery' tab that curates posts based on user interests and interactions.Introduce 'Collaborative Posts' where users can co-create content in real-time, similar to TikTok's duet feature.Add 'Story Highlights' for live events, allowing users to share and save moments from events like concerts or festivals.Launch a 'Mood Filter' that allows users to tag their posts with emotions, helping others find relatable content."
+        }
+      ],
+      "review_date": "2025-04-01 10:18:58"
+    },
+    {
+      "role": "Software Development Engineer 1",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, HR",
+      "questions": [],
+      "review_date": "2024-12-09 17:54:21"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-03-12 02:30:11"
+    },
+    {
+      "role": "Senior Software Developer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain your project with minute details. I opened draw.io and created complete hld and lld and schema of my project",
+          "answer": "Developed a web-based project management tool to streamline team collaboration and task tracking.Utilized React for the front-end to create a responsive user interface.Implemented Node.js and Express for the back-end API to handle requests.Designed a PostgreSQL database schema to manage user data and project details.Incorporated authentication using JWT for secure user sessions.Created detailed HLD and LLD diagrams using draw.io to visualize architecture."
+        },
+        {
+          "question": "A lot of db based questions were asked. Isolation, Idempotency, Transaction etc",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-16 02:52:28"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-09-25 20:16:31"
+    },
+    {
+      "role": "Software Development Engineer 3",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2025-01-05 22:06:23"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-25 20:09:04"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Case Study, Culture fit",
+      "questions": [],
+      "review_date": "2024-10-24 17:35:48"
+    }
+  ],
+  "_scraped_at": "2026-04-12T21:37:25.253500+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Dream11",
   "_registry_industry": "Gaming",

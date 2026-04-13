@@ -9,7 +9,7 @@
   "website": "www.tatapower.com",
   "overall_rating": 3.9000000953674316,
   "work_life_balance": 3.91,
-  "salary_benefits": 3.35,
+  "salary_benefits": 3.34,
   "job_security": 4.23,
   "career_growth": 3.09,
   "company_culture": 3.81,
@@ -224,19 +224,6 @@
     },
     {
       "title": null,
-      "role": "Manager",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Job Security to a certain extent in comparison with its peers. Theoretically company policies are good. Work culture is department specific and some departments have it good. Management is ok.",
-      "cons": "No flexibility at all. Not all policies are applicable to everyone (exceptions are made at execution level). Extraordinary levels of micromanagement leading to frustration at all levels. Hard workers are overloaded with unmanageable amounts of work.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5809,
-      "is_current_employee": false,
-      "review_date": "2022-05-25",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Lead Engineer",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -289,19 +276,6 @@
     },
     {
       "title": null,
-      "role": "Lead Project Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "One thing good about Tata is job security",
-      "cons": "Opportunities provided is less for payroll employees. After taking new projects HR are asking to take less salary and if asked to give hike on present salary requesting to join and committing to provide less pressure work.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8173,
-      "is_current_employee": false,
-      "review_date": "2023-03-31",
-      "quality_score": 0.65
-    },
-    {
-      "title": null,
       "role": "EDP Incharge",
       "location": "Delhi",
       "rating": 4.0,
@@ -338,19 +312,6 @@
       "is_current_employee": true,
       "review_date": "2025-09-11",
       "quality_score": 0.63
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Brahmapur",
-      "rating": 4.0,
-      "pros": "Work culture is absolutely good.\nThere is no any pressure from higher level management",
-      "cons": "Tata power at odisha is something different than that of actual Tata power as I expected.\nNeed to level up management and clarity should be there for employee.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6789,
-      "is_current_employee": false,
-      "review_date": "2022-10-06",
-      "quality_score": 0.62
     },
     {
       "title": null,
@@ -415,19 +376,6 @@
       "sentiment_score": 0.2537,
       "is_current_employee": false,
       "review_date": "2023-10-08",
-      "quality_score": 0.58
-    },
-    {
-      "title": null,
-      "role": "Executive",
-      "location": "Bhubaneswar",
-      "rating": 3.0,
-      "pros": "Promotion policy is baised and increment is based on rating from reporting manager, so it is totally baised based on reporting managers not based on the work you have done for.",
-      "cons": "PMS and promotion policy and salary structure.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-10-25",
       "quality_score": 0.58
     },
     {
@@ -575,19 +523,6 @@
     },
     {
       "title": null,
-      "role": "Associate Finance Lead",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Working culture is very good like government office.",
-      "cons": "If simple life  And want to live peace and family time in very low salary then this place is better. Salary will never increase.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8525,
-      "is_current_employee": false,
-      "review_date": "2023-01-04",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
       "role": "Lead Engineer",
       "location": "Jamshedpur",
       "rating": 4.0,
@@ -719,19 +654,6 @@
     {
       "title": null,
       "role": "Lead Engineer",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Working Hours, Perk Benifits, Company gives family accomodation, Work culture.",
-      "cons": "Promotion & Appraisals a slow process. \nWorking on Holidays for some dept since it is a power company.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2022-12-08",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
       "location": "Mundra",
       "rating": 2.0,
       "pros": "Salary on time",
@@ -848,19 +770,6 @@
     },
     {
       "title": null,
-      "role": "Deputy Manager",
-      "location": "Bhubaneswar",
-      "rating": 5.0,
-      "pros": "Holiday list, alternative Saturday holiday. Very nice Annual holiday list. The best thing is HoD is very nice leader",
-      "cons": "Promotion criteria and other performance pay",
-      "sentiment": "positive",
-      "sentiment_score": 0.9542,
-      "is_current_employee": false,
-      "review_date": "2023-01-28",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
       "role": "Lead Engineer",
       "location": "Mumbai",
       "rating": 3.0,
@@ -926,32 +835,6 @@
     },
     {
       "title": null,
-      "role": "O&M Engineer",
-      "location": "Remote location",
-      "rating": 3.0,
-      "pros": "Company give you lot of knowledge gaining opportunity.",
-      "cons": "Work load and work culture not more good for female staff specially in solar O&M department.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4547,
-      "is_current_employee": true,
-      "review_date": "2025-07-19",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Group Head Strategy",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Health policy \nJob security \nBest place to work.",
-      "cons": "Existing people getting less salary..\nNo revision done.\nNew ppl getting hired at very high salary.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6887,
-      "is_current_employee": true,
-      "review_date": "2025-06-08",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
       "role": "Team Lead",
       "location": "Bhubaneswar",
       "rating": 3.0,
@@ -987,58 +870,6 @@
       "sentiment_score": -0.6994,
       "is_current_employee": false,
       "review_date": "2023-09-07",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Bhubaneswar",
-      "rating": 4.0,
-      "pros": "Salary and Perks\nEmployee first culture",
-      "cons": "Unnecessary virtual meetings \nPerformance evaluation on basis of mails send in a day instead of work done",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-05-10",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Senior Officer",
-      "location": "Puri",
-      "rating": 4.0,
-      "pros": "Salary credited on month ending date which feels very good.",
-      "cons": "There is no over time benefits and any other benifits against over time",
-      "sentiment": "positive",
-      "sentiment_score": 0.7264,
-      "is_current_employee": false,
-      "review_date": "2023-09-13",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Work culture and job security",
-      "cons": "There is not any home accommodation provided by company for outstation candidates they provide only 15 day accommodation.",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-01-31",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Associate KPO",
-      "location": "R.Udaygiri",
-      "rating": 3.0,
-      "pros": "Well good for working on this its a good experience for know to about new work",
-      "cons": "There's no any to say about dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": false,
-      "review_date": "2023-02-22",
       "quality_score": 0.43
     },
     {
@@ -1121,19 +952,6 @@
     },
     {
       "title": null,
-      "role": "Team Lead E&MR",
-      "location": "Dhenkanal",
-      "rating": 3.0,
-      "pros": "Only we say ourself that we are working in big company,tata power.But from inside it is not so.",
-      "cons": "Promotion and salary .",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-11-13",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
       "role": "Team Lead",
       "location": "Berhampur",
       "rating": 4.0,
@@ -1156,19 +974,6 @@
       "sentiment_score": -0.0202,
       "is_current_employee": false,
       "review_date": "2024-05-31",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Associate Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Work culture and employee engagement is outstanding,  job satisfaction and job security are secure at tata power.",
-      "cons": "Paisa thoda kam hai",
-      "sentiment": "positive",
-      "sentiment_score": 0.9287,
-      "is_current_employee": false,
-      "review_date": "2023-02-21",
       "quality_score": 0.41
     },
     {
@@ -1251,19 +1056,6 @@
     },
     {
       "title": null,
-      "role": "Team Lead",
-      "location": "Ajmer",
-      "rating": 3.0,
-      "pros": "Supportive seniors and colleague. \nJob stability.",
-      "cons": "Mismanagement,\nNo opportunity for promotion and no salary increment\nNo other allowances benefits. \nPartiality",
-      "sentiment": "negative",
-      "sentiment_score": -0.234,
-      "is_current_employee": false,
-      "review_date": "2023-01-01",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
       "role": "Financial Business Analyst",
       "location": "Mumbai",
       "rating": 4.0,
@@ -1299,19 +1091,6 @@
       "sentiment_score": 0.3378,
       "is_current_employee": false,
       "review_date": "2023-08-10",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Jalna",
-      "rating": 4.0,
-      "pros": "Here we have 100% job security with more facilities.",
-      "cons": "Working at remote location is a little bit hectic work.",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-06-07",
       "quality_score": 0.39
     },
     {
@@ -1416,19 +1195,6 @@
       "sentiment_score": 0.5267,
       "is_current_employee": false,
       "review_date": "2023-10-18",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Oprating Engineer",
-      "location": "",
-      "rating": 4.0,
-      "pros": "In any work discipline, giving first priority to raine and safety. Senior sir provides good knowledge and guidance.",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.7964,
-      "is_current_employee": true,
-      "review_date": "2025-09-07",
       "quality_score": 0.38
     },
     {
@@ -1576,32 +1342,6 @@
     },
     {
       "title": null,
-      "role": "Lead Engineer",
-      "location": "Bhavnagar",
-      "rating": 5.0,
-      "pros": "Lot's of skill development and knowledge enhancement is very high.",
-      "cons": "Time not limited in my sector",
-      "sentiment": "positive",
-      "sentiment_score": 0.1695,
-      "is_current_employee": false,
-      "review_date": "2023-06-14",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "The overall treatment to employees the additional benefits such as medical benefits, retiral.",
-      "cons": "Work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2023-01-18",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
       "role": "Financial Associate",
       "location": "Mumbai",
       "rating": 5.0,
@@ -1663,32 +1403,6 @@
       "sentiment_score": 0.7402,
       "is_current_employee": false,
       "review_date": "2024-09-16",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "HR Leader",
-      "location": "Bhubaneswar",
-      "rating": 3.0,
-      "pros": "Brand values",
-      "cons": "Toxic work culture, micro management, zero work life balance, no rewards, work pressure,",
-      "sentiment": "negative",
-      "sentiment_score": -0.2626,
-      "is_current_employee": false,
-      "review_date": "2023-08-02",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Channel Sales Executive",
-      "location": "Mumbai Suburban",
-      "rating": 4.0,
-      "pros": "Good work Life balance.",
-      "cons": "Work culture is not too good.\nSome internal politics is there.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2023-02-28",
       "quality_score": 0.35
     },
     {
@@ -1862,16 +1576,16 @@
     },
     {
       "title": null,
-      "role": "Lead Civil Engineer",
+      "role": "Lead Engineer",
       "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Work life balance is good👍",
-      "cons": "Department review system is not good, fovorisim wise PMS.",
-      "sentiment": "negative",
-      "sentiment_score": -0.264,
+      "rating": 3.0,
+      "pros": "Work life balance, fixed time job, seniors are helpful",
+      "cons": "No more learning place",
+      "sentiment": "positive",
+      "sentiment_score": 0.1531,
       "is_current_employee": true,
-      "review_date": "2025-05-23",
-      "quality_score": 0.34
+      "review_date": "2026-02-18",
+      "quality_score": 0.33
     },
     {
       "title": null,
@@ -2018,32 +1732,6 @@
     },
     {
       "title": null,
-      "role": "Production Engineer",
-      "location": "Jamshedpur",
-      "rating": 5.0,
-      "pros": "Safety rules which is followed by tata industries is on next levels",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4215,
-      "is_current_employee": false,
-      "review_date": "2023-07-08",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": " Lead Electrical Engineer",
-      "location": "Jamshedpur",
-      "rating": 4.0,
-      "pros": "Work life balance is good.",
-      "cons": "Salary is very low compare to other companies.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1298,
-      "is_current_employee": true,
-      "review_date": "2025-09-15",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
       "role": "Company Trainee",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -2170,32 +1858,6 @@
       "sentiment_score": 0.8759,
       "is_current_employee": false,
       "review_date": "2023-09-18",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Electrical Supervisor",
-      "location": "Jamshedpur",
-      "rating": 3.0,
-      "pros": "Safety Frist all time",
-      "cons": "Dusty area all plants side and contactor job",
-      "sentiment": "positive",
-      "sentiment_score": 0.4215,
-      "is_current_employee": false,
-      "review_date": "2023-09-16",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Cognitive Environment and good knowledge gaining platform",
-      "cons": "Hierarchy and too much hassle",
-      "sentiment": "positive",
-      "sentiment_score": 0.6908,
-      "is_current_employee": false,
-      "review_date": "2023-03-05",
       "quality_score": 0.32
     },
     {
@@ -2339,71 +2001,6 @@
       "sentiment_score": -0.0258,
       "is_current_employee": false,
       "review_date": "2023-10-18",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Mundra",
-      "rating": 4.0,
-      "pros": "Job security is good",
-      "cons": "There are less increment compare to inflation",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2023-05-20",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "HR Payroll Executive",
-      "location": "Burla",
-      "rating": 5.0,
-      "pros": "Everything is good here",
-      "cons": "Till now nothing, as per my perspective",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-09-16",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Taxation Lead",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Work culture Is pretty good",
-      "cons": "Pay is pretty small in comparison",
-      "sentiment": "positive",
-      "sentiment_score": 0.836,
-      "is_current_employee": false,
-      "review_date": "2023-03-31",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Assistant Officer",
-      "location": "Berhampur",
-      "rating": 5.0,
-      "pros": "All r good",
-      "cons": "The seniors are very Ruddy on there work",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-04-14",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Officer",
-      "location": "keonjhar",
-      "rating": 5.0,
-      "pros": "Ethics is the top most priority",
-      "cons": "Not working as per qualifications",
-      "sentiment": "positive",
-      "sentiment_score": 0.2023,
-      "is_current_employee": false,
-      "review_date": "2025-05-29",
       "quality_score": 0.31
     },
     {
@@ -2625,58 +2222,6 @@
       "sentiment_score": 0.5106,
       "is_current_employee": false,
       "review_date": "2023-08-17",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Benifits and work security",
-      "cons": "Salary not paid as per qualification",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-07-28",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Berhampur",
-      "rating": 5.0,
-      "pros": "All are good here 👍👍",
-      "cons": "There are no such things",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2023-09-28",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Good work life balance",
-      "cons": "Salary not as per industry standards",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-08-12",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Channel Sales Executive",
-      "location": "Ahmedabad",
-      "rating": 3.0,
-      "pros": "You get everything except good salary.",
-      "cons": "Promotion policy is pathetic",
-      "sentiment": "negative",
-      "sentiment_score": -0.2023,
-      "is_current_employee": false,
-      "review_date": "2023-06-26",
       "quality_score": 0.3
     },
     {
@@ -2928,110 +2473,6 @@
     },
     {
       "title": null,
-      "role": "Lead Engineer",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Company pioneering and work culture",
-      "cons": "Growth was very lag",
-      "sentiment": "neutral",
-      "sentiment_score": -0.024,
-      "is_current_employee": false,
-      "review_date": "2023-07-12",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Energy Auditor",
-      "location": "Jajpur",
-      "rating": 1.0,
-      "pros": "Good social security",
-      "cons": "BA & vendor management is poor.",
-      "sentiment": "positive",
-      "sentiment_score": 0.296,
-      "is_current_employee": false,
-      "review_date": "2023-10-29",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Bhubaneswar",
-      "rating": 2.0,
-      "pros": "You can have job safety",
-      "cons": "No Growth Financially, Professionaly",
-      "sentiment": "positive",
-      "sentiment_score": 0.1571,
-      "is_current_employee": false,
-      "review_date": "2023-06-26",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Tata power is a very good company",
-      "cons": "No dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.6849,
-      "is_current_employee": false,
-      "review_date": "2023-06-24",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Powder Coating Operator",
-      "location": "Coimbatore",
-      "rating": 5.0,
-      "pros": "Work parameters",
-      "cons": "Help us know a little more about",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2023-08-12",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Work life balance is good",
-      "cons": "Average growth is slow",
-      "sentiment": "positive",
-      "sentiment_score": 0.6705,
-      "is_current_employee": false,
-      "review_date": "2023-05-20",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Keonjhar",
-      "rating": 4.0,
-      "pros": "Frred to Perform",
-      "cons": "Appraisal not done in transperent manner.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2025-06-19",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Bhubaneswar",
-      "rating": 2.0,
-      "pros": "Only job security.",
-      "cons": "Very bad salary and no growth.",
-      "sentiment": "negative",
-      "sentiment_score": -0.554,
-      "is_current_employee": false,
-      "review_date": "2023-01-20",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
       "role": "Distribution Sales Officer",
       "location": "Delhi",
       "rating": 5.0,
@@ -3262,110 +2703,6 @@
       "sentiment_score": 0.34,
       "is_current_employee": false,
       "review_date": "2023-09-29",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Associate Lead",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "Job Security",
-      "cons": "Work life balance with no appreciation",
-      "sentiment": "negative",
-      "sentiment_score": -0.0777,
-      "is_current_employee": false,
-      "review_date": "2023-11-01",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Head Security",
-      "location": "Dhanbad",
-      "rating": 5.0,
-      "pros": "Safety measures \nWork Culture \nCare for employee",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.7184,
-      "is_current_employee": true,
-      "review_date": "2025-10-04",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Maintenance Engineer",
-      "location": "Baudh",
-      "rating": 4.0,
-      "pros": "Everything is good on average...",
-      "cons": "Not bad ...",
-      "sentiment": "positive",
-      "sentiment_score": 0.6956,
-      "is_current_employee": false,
-      "review_date": "2023-08-12",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Noida",
-      "rating": 2.0,
-      "pros": "Nothing except job security",
-      "cons": "Everything except Job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.0936,
-      "is_current_employee": false,
-      "review_date": "2023-05-15",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Associate",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Good to work here",
-      "cons": "No nothing to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.4374,
-      "is_current_employee": false,
-      "review_date": "2023-09-17",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Terminal Operator",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Good skill \nGood safety work",
-      "cons": "Contract base work",
-      "sentiment": "positive",
-      "sentiment_score": 0.8225,
-      "is_current_employee": false,
-      "review_date": "2023-06-21",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Solar Technician",
-      "location": "Salem",
-      "rating": 5.0,
-      "pros": "This is big company ,future is well,",
-      "cons": "No",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0258,
-      "is_current_employee": false,
-      "review_date": "2023-09-23",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Work culture, work life balance",
-      "cons": "Promotion and appraisal",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-04-14",
       "quality_score": 0.28
     },
     {
@@ -3734,97 +3071,6 @@
     },
     {
       "title": null,
-      "role": "Mechanical Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Benefits and salary",
-      "cons": "Work culture and environment",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2023-09-18",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work culture",
-      "cons": "Not applicable at the moment",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-10-16",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Assistant Engineer",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "Some changes need to be done",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-11-03",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Good company culture",
-      "cons": "Promotion is the problem",
-      "sentiment": "positive",
-      "sentiment_score": 0.0516,
-      "is_current_employee": false,
-      "review_date": "2023-08-13",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Operations Manager",
-      "location": "Prayagraj",
-      "rating": 5.0,
-      "pros": "Work life balance",
-      "cons": "Career growth very slow",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2023-05-23",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Overall good company for freshers",
-      "cons": "No promotion",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2023-05-11",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Bhubaneswar",
-      "rating": 4.0,
-      "pros": "Work life balance",
-      "cons": "Work satisfaction not good.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2023-08-02",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
       "role": "Transmission Engineer",
       "location": "Bhubaneswar",
       "rating": 5.0,
@@ -4120,123 +3366,6 @@
       "sentiment_score": 0.4215,
       "is_current_employee": false,
       "review_date": "2023-10-09",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Safety Trainer",
-      "location": "Mundra",
-      "rating": 4.0,
-      "pros": "Yes",
-      "cons": "No dislike in this company",
-      "sentiment": "positive",
-      "sentiment_score": 0.5972,
-      "is_current_employee": true,
-      "review_date": "2025-01-20",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Mumbai",
-      "rating": 2.0,
-      "pros": "Brand",
-      "cons": "Politics and culture less sallary",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-09-18",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer 2",
-      "location": "Bhubaneswar",
-      "rating": 5.0,
-      "pros": "Office environment.",
-      "cons": "Too much unnecessary deduction.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-09-21",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Sambalpur",
-      "rating": 5.0,
-      "pros": "One of the best company",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": true,
-      "review_date": "2023-09-22",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Plant Head",
-      "location": "Bikaner",
-      "rating": 5.0,
-      "pros": "Work Culture and Ethics",
-      "cons": "Nothing much",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-08-05",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Bhopal",
-      "rating": 4.0,
-      "pros": "Traning and skill development",
-      "cons": "Salary increment",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-08-11",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Electrical Engineer",
-      "location": "Dhenkanal",
-      "rating": 4.0,
-      "pros": "Bimal Kumar Behera",
-      "cons": "Deficiency of cooperation",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-05-31",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Bhopal",
-      "rating": 5.0,
-      "pros": "Excellent",
-      "cons": "Politics are more some people",
-      "sentiment": "positive",
-      "sentiment_score": 0.5719,
-      "is_current_employee": false,
-      "review_date": "2024-01-29",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "DET",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Job security is very good",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.4792,
-      "is_current_employee": false,
-      "review_date": "2023-09-22",
       "quality_score": 0.26
     },
     {
@@ -4579,240 +3708,6 @@
     },
     {
       "title": null,
-      "role": "Lead Engineer",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Nothing except Job Security",
-      "cons": "Everything",
-      "sentiment": "negative",
-      "sentiment_score": -0.2584,
-      "is_current_employee": false,
-      "review_date": "2023-10-05",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Computer Operator",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Nice",
-      "cons": "BA employees not successful",
-      "sentiment": "negative",
-      "sentiment_score": -0.0701,
-      "is_current_employee": false,
-      "review_date": "2023-10-26",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Jamshedpur",
-      "rating": 4.0,
-      "pros": "Safety",
-      "cons": "Salery and pramotion culture",
-      "sentiment": "positive",
-      "sentiment_score": 0.4215,
-      "is_current_employee": false,
-      "review_date": "2023-10-17",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Mechanical Technician",
-      "location": "Vadodara",
-      "rating": 5.0,
-      "pros": "New experience",
-      "cons": "I don't know",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-11-08",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Graduate Engineer Trainee (Get)",
-      "location": "Sambalpur",
-      "rating": 5.0,
-      "pros": "WORL LIFE",
-      "cons": "LEARNING AND ORGANISATION",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2023-12-23",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Control Room Operator",
-      "location": "Mundra",
-      "rating": 3.0,
-      "pros": "Jib security",
-      "cons": "Partiality by HOD",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-08-10",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": "Mundra",
-      "rating": 3.0,
-      "pros": "Benefits",
-      "cons": "Salary is very less",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2023-12-05",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Associate Lead",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Job security",
-      "cons": "Work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-09-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Lead Application Expert",
-      "location": "Raipur",
-      "rating": 5.0,
-      "pros": "Leaders are exceptional and helpful",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4728,
-      "is_current_employee": true,
-      "review_date": "2025-09-10",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Trainer",
-      "location": "Mundra",
-      "rating": 4.0,
-      "pros": "good work culture",
-      "cons": "far locations",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-08-26",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Computer Operator",
-      "location": "Ludhiana",
-      "rating": 4.0,
-      "pros": "Yes",
-      "cons": "I have a like",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": true,
-      "review_date": "2023-12-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Junior Manager",
-      "location": "Berhampur",
-      "rating": 5.0,
-      "pros": "Every good.",
-      "cons": "Good for me",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2023-07-04",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Medical Officer",
-      "location": "Mundra",
-      "rating": 5.0,
-      "pros": "Payment on time",
-      "cons": "Senior Harrasment",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-11-10",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Electrician",
-      "location": "Baddi",
-      "rating": 4.0,
-      "pros": "I like this company",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.0772,
-      "is_current_employee": false,
-      "review_date": "2023-06-21",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Bhubaneswar",
-      "rating": 3.0,
-      "pros": "Work life balance.",
-      "cons": "Work culture",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-05-26",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Berhampur",
-      "rating": 5.0,
-      "pros": "Good environment, job security",
-      "cons": "Salary",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2023-05-10",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Gunupur",
-      "rating": 1.0,
-      "pros": "Nothing. \nSafety.\nJob security.",
-      "cons": "Everything.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5216,
-      "is_current_employee": false,
-      "review_date": "2023-05-28",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Sambalpur",
-      "rating": 1.0,
-      "pros": "Salary structure is very poor.",
-      "cons": "",
-      "sentiment": "negative",
-      "sentiment_score": -0.5256,
-      "is_current_employee": true,
-      "review_date": "2025-02-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "Lead Business Human Resource Associate",
       "location": "Mumbai",
       "rating": 5.0,
@@ -4874,32 +3769,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": true,
       "review_date": "2026-01-04",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Guardening",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Positivity and discipline",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.5106,
-      "is_current_employee": true,
-      "review_date": "2025-10-22",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Recovery Associate",
-      "location": "Rayagada",
-      "rating": 2.0,
-      "pros": "NA",
-      "cons": "Salary not increase",
-      "sentiment": "negative",
-      "sentiment_score": -0.2411,
-      "is_current_employee": true,
-      "review_date": "2025-10-15",
       "quality_score": 0.24
     },
     {
@@ -5177,45 +4046,6 @@
     },
     {
       "title": null,
-      "role": "Health Safety Environment ",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Everything",
-      "cons": "No",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2025-10-13",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Lead Engineer",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Work culture",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-09-29",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Associate Engineer",
-      "location": "Bhubaneswar",
-      "rating": 5.0,
-      "pros": "Good Company",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-09-29",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
       "role": "Supervisor",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -5356,45 +4186,6 @@
       "is_current_employee": true,
       "review_date": "2025-11-29",
       "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Information Technology Support Engineer",
-      "location": "Gujarat",
-      "rating": 5.0,
-      "pros": "Great",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": true,
-      "review_date": "2025-10-15",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Division Head",
-      "location": "Bhubaneswar",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-10-12",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Executive dimand officer",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-10-11",
-      "quality_score": 0.21
     }
   ],
   "salaries": [
@@ -5403,7 +4194,7 @@
       "location": null,
       "min_salary": 400000,
       "max_salary": 1000000,
-      "avg_salary": 725792,
+      "avg_salary": 726123,
       "currency": "INR",
       "experience": "1-11 years",
       "sample_count": null
@@ -5413,7 +4204,7 @@
       "location": null,
       "min_salary": 600000,
       "max_salary": 697000,
-      "avg_salary": 669987,
+      "avg_salary": 692213,
       "currency": "INR",
       "experience": "0-1 years",
       "sample_count": null
@@ -5421,9 +4212,9 @@
     {
       "role": "Associate Lead",
       "location": null,
-      "min_salary": 657500,
-      "max_salary": 1645000,
-      "avg_salary": 1059618,
+      "min_salary": 658000,
+      "max_salary": 1650000,
+      "avg_salary": 1072533,
       "currency": "INR",
       "experience": "1-12 years",
       "sample_count": null
@@ -5431,11 +4222,11 @@
     {
       "role": "Electrical Engineer",
       "location": null,
-      "min_salary": 296000,
-      "max_salary": 651000,
-      "avg_salary": 443924,
+      "min_salary": 288000,
+      "max_salary": 660000,
+      "avg_salary": 455322,
       "currency": "INR",
-      "experience": "1-9 years",
+      "experience": "1-10 years",
       "sample_count": null
     },
     {
@@ -5443,7 +4234,7 @@
       "location": null,
       "min_salary": 200000,
       "max_salary": 567000,
-      "avg_salary": 330098,
+      "avg_salary": 340609,
       "currency": "INR",
       "experience": "0-9 years",
       "sample_count": null
@@ -5453,7 +4244,7 @@
       "location": null,
       "min_salary": 300000,
       "max_salary": 600000,
-      "avg_salary": 465691,
+      "avg_salary": 465083,
       "currency": "INR",
       "experience": "2-7 years",
       "sample_count": null
@@ -5479,6 +4270,16 @@
       "sample_count": null
     },
     {
+      "role": "Finance Trainee",
+      "location": null,
+      "min_salary": 942000,
+      "max_salary": 1300000,
+      "avg_salary": 1171375,
+      "currency": "INR",
+      "experience": "0-1 years",
+      "sample_count": null
+    },
+    {
       "role": "Site Engineer",
       "location": null,
       "min_salary": 268800,
@@ -5499,20 +4300,10 @@
       "sample_count": null
     },
     {
-      "role": "Finance Trainee",
-      "location": null,
-      "min_salary": 928000,
-      "max_salary": 1300000,
-      "avg_salary": 1165432,
-      "currency": "INR",
-      "experience": "0-1 years",
-      "sample_count": null
-    },
-    {
       "role": "Assistant Officer",
       "location": null,
-      "min_salary": 271000,
-      "max_salary": 423000,
+      "min_salary": 280000,
+      "max_salary": 419000,
       "avg_salary": 335100,
       "currency": "INR",
       "experience": "0-5 years",
@@ -5691,14 +4482,3310 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-10T23:23:15.386224+00:00",
+  "interviews": [
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    },
+    {
+      "role": "Diploma Trainee Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic electrical",
+          "answer": null
+        },
+        {
+          "question": "Fundamental of electrical",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-09 11:16:34"
+    },
+    {
+      "role": "Lead Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Skill related questions .",
+          "answer": null
+        },
+        {
+          "question": "Basics about your own subject",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 20:01:29"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Machanical drawig",
+          "answer": null
+        },
+        {
+          "question": "Machanical equipment",
+          "answer": null
+        },
+        {
+          "question": "Electrical test",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 08:25:08"
+    },
+    {
+      "role": "Diploma Electrical Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "power system knowledge",
+          "answer": null
+        },
+        {
+          "question": "Transformer related",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-03 22:51:24"
+    },
+    {
+      "role": "Boiler Attendant 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Bolier ki safty ke liye kya jaruri paramitter hai",
+          "answer": "Boiler safety requires strict adherence to parameters like pressure, temperature, and regular maintenance to prevent accidents.Regular pressure checks to ensure it stays within safe limits.Temperature monitoring to avoid overheating; for example, using safety valves.Routine maintenance and inspections to identify potential issues early.Proper training for operators to handle emergencies effectively.Installation of safety devices like pressure relief valves and alarms."
+        },
+        {
+          "question": "Company ko achha se age badhaye",
+          "answer": null
+        },
+        {
+          "question": "Boiler me flue ko kaise bachaya jae",
+          "answer": "Flue protection in boilers is essential to prevent corrosion and ensure efficient operation.Regular maintenance: Schedule routine inspections to check for wear and tear.Use corrosion-resistant materials: Install flue components made from stainless steel.Proper insulation: Ensure flue pipes are well insulated to prevent condensation.Install flue gas analyzers: Monitor emissions to detect issues early.Ensure proper ventilation: Maintain adequate airflow to prevent overheating."
+        },
+        {
+          "question": "Aap boiler par jate hai to kya karte hai",
+          "answer": "As a Boiler Attendant 2, I ensure the safe operation and maintenance of boilers, monitoring performance and addressing issues promptly.Conduct regular inspections of the boiler system to check for leaks and wear.Monitor pressure and temperature gauges to ensure they are within safe limits.Perform routine maintenance tasks, such as cleaning and lubricating components.Respond to alarms and troubleshoot any operational issues that arise.Maintain accurate logs of boiler operations and maintenance activities."
+        },
+        {
+          "question": "एक अच्छा ऑपरेटरों की क्या खासियत है और oh क्या karega",
+          "answer": "एक अच्छा ऑपरेटर तकनीकी ज्ञान, सुरक्षा मानकों का पालन और समस्या समाधान कौशल रखता है।तकनीकी ज्ञान: ऑपरेटर को उपकरणों और प्रक्रियाओं की गहरी समझ होनी चाहिए।सुरक्षा मानक: हमेशा सुरक्षा नियमों का पालन करना चाहिए, जैसे कि व्यक्तिगत सुरक्षा उपकरण पहनना।समस्या समाधान: किसी भी तकनीकी समस्या का त्वरित समाधान निकालने की क्षमता होनी चाहिए।संचार कौशल: टीम के अन्य सदस्यों के साथ प्रभावी संवाद करना आवश्यक है।समय प्रबंधन: कार्यों को समय पर पूरा करने की क्षमता होनी चाहिए।"
+        },
+        {
+          "question": "Boiler me economiser kyu lagate hai",
+          "answer": "Economisers are used in boilers to enhance efficiency by recovering waste heat from flue gases.Increases thermal efficiency by utilizing waste heat.Reduces fuel consumption, leading to cost savings.Example: An economiser can preheat feedwater, improving boiler performance.Helps in reducing emissions by optimizing combustion.Commonly used in industrial boilers and power plants."
+        },
+        {
+          "question": "Boiler ka enterlock kya kya hota hai",
+          "answer": "Boiler interlocks are safety mechanisms that prevent unsafe operations in boiler systems, ensuring safe and efficient functioning.Low Water Level Cutoff: Shuts down the boiler if water level drops below a safe point.High Pressure Cutoff: Prevents operation if pressure exceeds safe limits.Flame Failure Detection: Stops fuel supply if the flame goes out unexpectedly.Safety Valve Interlock: Ensures safety valves are operational before allowing boiler operation.Emergency Stop: A manual override to immediately shut down the boiler in case of emergencies."
+        }
+      ],
+      "review_date": "2025-02-28 22:54:13"
+    },
+    {
+      "role": "Shift Incharge Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What can you share about your experience?",
+          "answer": null
+        },
+        {
+          "question": "Working profile",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-13 12:28:50"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "current measurement",
+          "answer": null
+        },
+        {
+          "question": "Operation maintenance",
+          "answer": null
+        },
+        {
+          "question": "Safety protocol proper",
+          "answer": null
+        },
+        {
+          "question": "DPR work in the progress",
+          "answer": null
+        },
+        {
+          "question": "All the equipment work is completed",
+          "answer": null
+        },
+        {
+          "question": "Inverter idt maintenance proper safety protocol the Lotto system group lot",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 19:52:08"
+    },
+    {
+      "role": "Site Execution Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2024-12-16 10:37:28"
+    },
+    {
+      "role": "Senior Electrical Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-31 13:20:32"
+    },
+    {
+      "role": "Legal Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Aptitude Test, Psychometric Test, HR, Technical, HR",
+      "questions": [],
+      "review_date": "2024-12-01 18:48:48"
+    }
+  ],
+  "_scraped_at": "2026-04-13T00:32:48.170774+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Tata Power",
   "_registry_industry": "Energy",
   "_sentiment": {
-    "positiveCount": 281,
-    "negativeCount": 61,
-    "neutralCount": 72,
+    "positiveCount": 218,
+    "negativeCount": 49,
+    "neutralCount": 54,
     "topPositiveThemes": [
       "company culture",
       "job security",

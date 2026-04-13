@@ -1,11 +1,12 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useCallback } from "react";
 import Link from "next/link";
-import { Reorder, motion, useInView } from "framer-motion";
+import { Reorder, motion, AnimatePresence, useInView } from "framer-motion";
 import { DashboardShell } from "@/components/layout/dashboard-shell";
 import { SearchBar } from "@/components/search-bar";
 import { useCompare } from "@/context/compare-context";
+import { EmptyState } from "@/components/empty-state";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer,
   RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar,
@@ -49,7 +50,7 @@ function ECard({ children, className = "", delay = 0 }: { children: React.ReactN
       initial={{ opacity: 0, y: 20 }}
       animate={inView ? { opacity: 1, y: 0 } : {}}
       transition={{ duration: 0.5, delay, ease: "easeOut" }}
-      className={`bg-white border border-ink/15 overflow-hidden ${className}`}
+      className={`bg-card border border-ink/15 overflow-hidden ${className}`}
     >
       {children}
     </motion.div>
@@ -68,6 +69,112 @@ function ECardHeader({ label, children }: { label: string; children?: React.Reac
         <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">{label}</span>
       </div>
       {children && <div className="flex items-center gap-2">{children}</div>}
+    </div>
+  );
+}
+
+function ShareButton({ selected }: { selected: Array<{ slug: string; name: string }> }) {
+  const [shareUrl, setShareUrl] = useState<string | null>(null);
+  const [sharing, setSharing] = useState(false);
+  const [copied, setCopied] = useState(false);
+  const [showPanel, setShowPanel] = useState(false);
+
+  const handleShare = useCallback(async () => {
+    if (shareUrl) { setShowPanel(true); return; }
+    setSharing(true);
+    try {
+      const res = await fetch("/api/comparison", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ slugs: selected.map((c) => c.slug), names: selected.map((c) => c.name) }),
+      });
+      const data = await res.json();
+      const url = `${window.location.origin}/job-seeker/compare/${data.id}`;
+      setShareUrl(url);
+      setShowPanel(true);
+    } finally {
+      setSharing(false);
+    }
+  }, [shareUrl, selected]);
+
+  const copyLink = useCallback(() => {
+    if (!shareUrl) return;
+    navigator.clipboard.writeText(shareUrl);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  }, [shareUrl]);
+
+  const whatsappUrl = shareUrl
+    ? `https://wa.me/?text=${encodeURIComponent(`Compare ${selected.map((c) => c.name).join(" vs ")} on JobCompare: ${shareUrl}`)}`
+    : "";
+  const linkedinUrl = shareUrl
+    ? `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`
+    : "";
+
+  return (
+    <div className="relative">
+      <button
+        onClick={handleShare}
+        disabled={sharing}
+        className="flex items-center gap-1.5 text-[10px] uppercase tracking-[0.1em] px-3 py-1.5 border border-ink/25 text-warmgray hover:border-terracotta hover:text-terracotta transition-colors font-sans disabled:opacity-50"
+      >
+        {sharing ? (
+          <span className="w-3 h-3 border border-current border-t-transparent rounded-full animate-spin" />
+        ) : (
+          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
+          </svg>
+        )}
+        Share
+      </button>
+
+      <AnimatePresence>
+        {showPanel && shareUrl && (
+          <motion.div
+            initial={{ opacity: 0, y: 6 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 6 }}
+            className="absolute right-0 top-full mt-2 w-72 bg-card border border-ink/15 shadow-lg z-50 p-4"
+          >
+            <div className="flex items-center justify-between mb-3">
+              <span className="text-[10px] uppercase tracking-[0.12em] text-terracotta font-sans font-medium">Share Comparison</span>
+              <button onClick={() => setShowPanel(false)} className="text-warmgray/50 hover:text-warmgray text-base leading-none">×</button>
+            </div>
+            <div className="flex items-center gap-1 mb-3">
+              <input
+                readOnly
+                value={shareUrl}
+                className="flex-1 text-[11px] font-mono text-ink/70 bg-cream border border-ink/15 px-2 py-1.5 truncate outline-none"
+              />
+              <button
+                onClick={copyLink}
+                className={`text-[10px] uppercase tracking-[0.08em] px-2.5 py-1.5 border font-sans whitespace-nowrap transition-colors ${copied ? "bg-terracotta border-terracotta text-white" : "border-ink/25 text-warmgray hover:border-terracotta hover:text-terracotta"}`}
+              >
+                {copied ? "Copied!" : "Copy"}
+              </button>
+            </div>
+            <p className="text-[10px] text-warmgray/60 font-sans mb-3">Link expires in 30 days</p>
+            <div className="flex gap-2">
+              <a
+                href={whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex-1 text-center text-[10px] uppercase tracking-[0.08em] px-3 py-2 border border-[#25D366]/40 text-[#25D366] hover:bg-[#25D366] hover:text-white transition-colors font-sans"
+              >
+                WhatsApp
+              </a>
+              <a
+                href={linkedinUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex-1 text-center text-[10px] uppercase tracking-[0.08em] px-3 py-2 border border-[#0077B5]/40 text-[#0077B5] hover:bg-[#0077B5] hover:text-white transition-colors font-sans"
+              >
+                LinkedIn
+              </a>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }
@@ -100,23 +207,17 @@ export default function ComparePage() {
   if (selected.length < 2 && !loading) {
     return (
       <DashboardShell role="job-seeker">
-        <div className="bg-cream min-h-screen p-6 text-center py-20 space-y-4">
-          <div className="flex items-center justify-center gap-2 mb-2">
-            <span className="w-4 h-px bg-terracotta" />
-            <span className="text-[10px] uppercase tracking-[0.18em] text-terracotta font-sans font-medium">Compare Companies</span>
-            <span className="w-4 h-px bg-terracotta" />
-          </div>
-          <h1 className="font-serif text-2xl font-bold text-ink">Select companies to compare</h1>
-          <p className="text-warmgray text-sm font-sans">Browse companies and click &ldquo;+ Compare&rdquo; to add them.</p>
+        <div className="bg-cream min-h-screen p-6">
+          <EmptyState variant="compare" />
           {selected.length === 1 && (
-            <p className="text-sm text-warmgray font-sans">
+            <p className="text-sm text-warmgray font-sans text-center -mt-4 mb-6">
               <strong className="text-ink">{selected[0].name}</strong> selected — add one more.
             </p>
           )}
-          <div className="flex justify-center mt-6">
+          <div className="flex justify-center mt-2">
             <SearchBar basePath="/job-seeker" placeholder="Search a company to add..." />
           </div>
-          <div className="mt-8 pt-6 border-t border-ink/10">
+          <div className="mt-8 pt-6 border-t border-ink/10 text-center">
             <p className="text-xs text-warmgray font-sans mb-3">Have two specific offers to compare?</p>
             <Link
               href="/job-seeker/compare/offers"
@@ -187,11 +288,14 @@ export default function ComparePage() {
           transition={{ duration: 0.4, ease: "easeOut" }}
           className="border-b-2 border-ink/15 pb-4"
         >
-          <div className="flex items-center gap-2 mb-3">
-            <span className="w-4 h-px bg-terracotta" />
-            <span className="text-[10px] uppercase tracking-[0.18em] text-terracotta font-sans font-medium">
-              Company Comparison — drag to reorder
-            </span>
+          <div className="flex items-center justify-between mb-3">
+            <div className="flex items-center gap-2">
+              <span className="w-4 h-px bg-terracotta" />
+              <span className="text-[10px] uppercase tracking-[0.18em] text-terracotta font-sans font-medium">
+                Company Comparison — drag to reorder
+              </span>
+            </div>
+            <ShareButton selected={selected} />
           </div>
           <Reorder.Group axis="x" values={selected} onReorder={() => {}} className="flex flex-wrap gap-2">
             {selected.map((c, i) => (
@@ -232,7 +336,7 @@ export default function ComparePage() {
                     initial={{ opacity: 0, y: 12 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: i * 0.08, duration: 0.45, ease: "easeOut" }}
-                    className="bg-white border border-ink/15 overflow-hidden"
+                    className="bg-card border border-ink/15 overflow-hidden"
                   >
                     <div className="h-1 w-full" style={{ backgroundColor: color }} />
                     <div className="p-4">

@@ -8,7 +8,7 @@
   "founded": 2015,
   "website": "https://unacademy.com/",
   "overall_rating": 2.9000000953674316,
-  "work_life_balance": 2.6,
+  "work_life_balance": 2.61,
   "salary_benefits": 3.2,
   "job_security": 2.21,
   "career_growth": 2.41,
@@ -484,97 +484,6 @@
     },
     {
       "title": null,
-      "role": "Academic Counsellor",
-      "location": "Ahmedabad",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "For Ahmedabad, Ayush Rathi spoil employee's creer. Treat like he purchase the employee. Management issue. Timing issue. Give huge targets which is not possible n at the time of incentive they give excuses. After 5 to 6 month of joining he do the pressure to employee for resign. If u join here than u don't have your personal life.",
-      "sentiment": "positive",
-      "sentiment_score": 0.765,
-      "is_current_employee": false,
-      "review_date": "2023-08-22",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Team Lead Operations",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Its a great organisation to work with. Faced paced startup with brilliant and multi talented folks. Not all departments I can say but few are like which I worked in Operations was an awesome expereince and they value for the work you do and there are no limits to expressing your thoughts, ideas, changes as they are always welcome for the betterment of the process.",
-      "cons": "Few internal politics which I believe almost all companies have.. You will be dragged back a few times compared to the favorite folks",
-      "sentiment": "positive",
-      "sentiment_score": 0.9705,
-      "is_current_employee": false,
-      "review_date": "2023-05-03",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Senior Motion Graphic Designer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "They did hire good people, I had great colleagues to work with mostly. Perks and benefits are very good. But they have reduced the them as their budgets got tighter, obviously. You do get good health insurance and they sponsored many medical bills during covid.",
-      "cons": "Work culture is a little messed up as Ed tech has become a competitive environment. And that affects work life balance of many of my friends. Giving promotion does not mean you are buying someone's personal time.\nThere are people who expect you to work beyond office hours quite often.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9508,
-      "is_current_employee": false,
-      "review_date": "2023-06-13",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Salesman",
-      "location": null,
-      "rating": 1.0,
-      "pros": "Hire fire culture, the CEO says don't give warning give directly exit but if you resign by yourself they ask notice period. \nNot only unacademy but also graphy next level all are worst at management level. \nI was the part of graphy. No growth no opportunity only for the favorite people.",
-      "cons": "Everything, work culture is worst work on National holiday work on every Sunday almost. It's not a job it's like a Play cards 😂 management is worst byjus part 2.\nManagers say badwords even hr don't take any action all are lier no one is trust worthy.\nEven all the start-up which they run management is worst",
-      "sentiment": "negative",
-      "sentiment_score": -0.8432,
-      "is_current_employee": false,
-      "review_date": "2024-10-02",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Associate Director Sales",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Very aggressive startup and better than many Edtech startups out there. Has few employee benefits which are not offered by others",
-      "cons": "No or very less learning. Only thing matters is whether you have won or lost for the month; no rational whatsoever. \nYou would be lucky if get a good leader. Most of the senior positions are swarmed by OYO people and they have screwed up the organisation culture.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6378,
-      "is_current_employee": false,
-      "review_date": "2022-11-04",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "I loved my job a lot. But these people don't care about hard working people who are behind the success and fame of their company. They don't appreciate them instead they just lay them off on a friday night without any prior notice. I would never let my near and dear ones work there and go through what I went through.",
-      "cons": "They are inhuman, they don't value people who do so much for them.",
-      "sentiment": "positive",
-      "sentiment_score": 0.808,
-      "is_current_employee": false,
-      "review_date": "2022-11-03",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Associate Director",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Perks were good",
-      "cons": "There's no culture & no work life balance, leadership team will keep on waiting u for hours for the already assigned meetings, delaying it till the time they become free. It was just announced that appraisal won't happen but there was no discussion on the same and if someone tries to ask, then they wr humiliated",
-      "sentiment": "negative",
-      "sentiment_score": -0.6124,
-      "is_current_employee": false,
-      "review_date": "2023-10-28",
-      "quality_score": 0.79
-    },
-    {
-      "title": null,
       "role": "Video Editor",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -624,19 +533,6 @@
       "is_current_employee": true,
       "review_date": "2025-08-23",
       "quality_score": 0.77
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "As of now best thing is you will get a tag of unicorn company.",
-      "cons": "No fix timming\nNo half day leave \nNo job security\nEven not providing incentive\nNo appraisal\nSunday also they force us to work \nNo help from management\nRude managers \nSalary also reduced and trying to give less salary in 10 X works",
-      "sentiment": "negative",
-      "sentiment_score": -0.7973,
-      "is_current_employee": false,
-      "review_date": "2023-05-04",
-      "quality_score": 0.76
     },
     {
       "title": null,
@@ -701,19 +597,6 @@
       "sentiment_score": -0.4767,
       "is_current_employee": false,
       "review_date": "2024-06-04",
-      "quality_score": 0.72
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": null,
-      "rating": 1.0,
-      "pros": "Quality if products of Unacademy is good .",
-      "cons": "Work ethics have been severely impacted in last 1 year. Week offs are not regular. Incentive policies change in everyday basis now. No policy is sacrosanct. Only sales is prioritised. All because of the fact that whole higher management is replaced by Byjus employees.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5283,
-      "is_current_employee": true,
-      "review_date": "2025-01-22",
       "quality_score": 0.72
     },
     {
@@ -848,19 +731,6 @@
     },
     {
       "title": null,
-      "role": "Lead Engineer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Great engg teams. Depending on the team, learning differs. If the dev manager is good and knowledgeable, then things are smooth.",
-      "cons": "Horrible product management team. People simply take CxO's names to get things done rather than inspiring people to work. This spoils the engg team's work culture.",
-      "sentiment": "positive",
-      "sentiment_score": 0.743,
-      "is_current_employee": false,
-      "review_date": "2023-04-28",
-      "quality_score": 0.67
-    },
-    {
-      "title": null,
       "role": "Business Development Manager",
       "location": "Noida",
       "rating": 1.0,
@@ -965,19 +835,6 @@
     },
     {
       "title": null,
-      "role": "Business Development Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "The salary, the work culture and learnings were great. Also, great leaders like Roman Saini, Jagnoor Singh, Vivek Sinha, Gaurav Munjal.",
-      "cons": "Recruitment of the upper management hasn't been good. Need to hire more capable hands who can be the leader and drive their teams.",
-      "sentiment": "positive",
-      "sentiment_score": 0.904,
-      "is_current_employee": false,
-      "review_date": "2023-05-31",
-      "quality_score": 0.64
-    },
-    {
-      "title": null,
       "role": "Sales Manager",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -1017,19 +874,6 @@
     },
     {
       "title": null,
-      "role": "Marketing Head",
-      "location": "Prayagraj / Allahabad, Uttar Pradesh",
-      "rating": 4.0,
-      "pros": "I had a very good experience working in this company. All senior and junior employees were very nice. Got a lot to learn.",
-      "cons": "Nothing is dislike but  there are some sycophants in every corporate office, here too, you should stay away from them.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5768,
-      "is_current_employee": false,
-      "review_date": "2024-11-08",
-      "quality_score": 0.63
-    },
-    {
-      "title": null,
       "role": "Senior Manager",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -1056,32 +900,6 @@
     },
     {
       "title": null,
-      "role": "Senior Associate",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Infrastructure was good and also leave policy",
-      "cons": "People are useless they are manipulative and very unprofessional also hr are shit  . If complained about the culture they will put you in pip and give unrealistic targets , and layoff anytime can happen",
-      "sentiment": "negative",
-      "sentiment_score": -0.8748,
-      "is_current_employee": false,
-      "review_date": "2023-08-05",
-      "quality_score": 0.62
-    },
-    {
-      "title": null,
-      "role": "HR Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Fast paced execution, it is easy to see your impact immediately",
-      "cons": "Work culture is absent, the leadership is not invested in creating a good work culture and does not come across as organized or invested in the people that work for them",
-      "sentiment": "positive",
-      "sentiment_score": 0.601,
-      "is_current_employee": false,
-      "review_date": "2023-02-21",
-      "quality_score": 0.62
-    },
-    {
-      "title": null,
       "role": "Senior Manager",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -1104,19 +922,6 @@
       "sentiment_score": -0.4745,
       "is_current_employee": false,
       "review_date": "2024-08-02",
-      "quality_score": 0.61
-    },
-    {
-      "title": null,
-      "role": "Associate Director",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Good pay",
-      "cons": "Poor work life balance, culture has gone to worse..\nNo clear path which the company wants to take, lack of clear thought process.\nJob security is a myth here - even the founder's word doesn't matter in this case.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5037,
-      "is_current_employee": false,
-      "review_date": "2023-05-04",
       "quality_score": 0.61
     },
     {
@@ -1264,45 +1069,6 @@
     },
     {
       "title": null,
-      "role": "BD Executive",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "Good salary and incentives",
-      "cons": "No work life balance. No proper planning in centres. Nothing new to learn. Force to work for 11 hrs per day. No job security. Will issues PIP without reasons. No coordination between seniors.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1401,
-      "is_current_employee": false,
-      "review_date": "2023-07-13",
-      "quality_score": 0.57
-    },
-    {
-      "title": null,
-      "role": "Category Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Salary and benefits.. trying to do nee things out side of your comfort zone.",
-      "cons": "No job security. Terrible work culture and work-life balance. Constant role changes and need to prove to reporting manager every time. Imbalanced recognition.",
-      "sentiment": "negative",
-      "sentiment_score": -0.304,
-      "is_current_employee": false,
-      "review_date": "2023-04-27",
-      "quality_score": 0.57
-    },
-    {
-      "title": null,
-      "role": "Academic Operations Manager",
-      "location": "Ahmedabad",
-      "rating": 3.0,
-      "pros": "NA",
-      "cons": "1. Work culture is bad\n2. Work life balance is bad \n3. Deligation of work is poor \n4. Lack of long term planning at upper level \n5. Systems are not upgraded and user friendly",
-      "sentiment": "negative",
-      "sentiment_score": -0.8481,
-      "is_current_employee": false,
-      "review_date": "2023-05-18",
-      "quality_score": 0.55
-    },
-    {
-      "title": null,
       "role": "Academic Head",
       "location": "Raipur",
       "rating": 1.0,
@@ -1433,19 +1199,6 @@
     },
     {
       "title": null,
-      "role": "Design Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Fast paced environment. Good if you like to hustle, opportunity to learn and grow.",
-      "cons": "If you are looking for work life balance and stress free work, this is not the place.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8271,
-      "is_current_employee": false,
-      "review_date": "2023-06-18",
-      "quality_score": 0.51
-    },
-    {
-      "title": null,
       "role": "Senior Business Executive",
       "location": "Jabalpur",
       "rating": 2.0,
@@ -1550,19 +1303,6 @@
     },
     {
       "title": null,
-      "role": "Sr Chemistry Faculty",
-      "location": "Unacademy, Haldwani",
-      "rating": 1.0,
-      "pros": "Nothing, I specially request that Unacademy head office should take proper action on its Haldwani frenchise centre.",
-      "cons": "They are actually running a labour factory not coaching classes.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-09-14",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
       "role": "Business Development Executive",
       "location": "Noida",
       "rating": 3.0,
@@ -1585,19 +1325,6 @@
       "sentiment_score": 0.6124,
       "is_current_employee": false,
       "review_date": "2024-06-09",
-      "quality_score": 0.46
-    },
-    {
-      "title": null,
-      "role": "Category Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Work culture is flexible.",
-      "cons": "There is no work life balance in the company. Most of the time is wasted in meetings and not in actual work.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5423,
-      "is_current_employee": false,
-      "review_date": "2023-05-05",
       "quality_score": 0.46
     },
     {
@@ -1650,19 +1377,6 @@
       "sentiment_score": 0.9097,
       "is_current_employee": true,
       "review_date": "2023-12-23",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
-      "role": "SST Teacher",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Culture is good. Management is supportive. Akhil is good. Work timings are good",
-      "cons": "Job security is not there.  Everything depends on your bonding with manager",
-      "sentiment": "positive",
-      "sentiment_score": 0.9062,
-      "is_current_employee": true,
-      "review_date": "2025-12-15",
       "quality_score": 0.45
     },
     {
@@ -1759,32 +1473,6 @@
     {
       "title": null,
       "role": "Business Development Executive",
-      "location": "Dehradun",
-      "rating": 4.0,
-      "pros": "It's been only 1month so i can't say anything",
-      "cons": "working here through 3rd party payroll salary date is very late 10th of the month",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2023-07-13",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Operations Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Worst company - asks every employee to work for 12-15hrs a day\nOne can do it for one or two days but daily",
-      "sentiment": "positive",
-      "sentiment_score": 0.284,
-      "is_current_employee": false,
-      "review_date": "2023-07-20",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
       "location": "Noida",
       "rating": 3.0,
       "pros": "Salary on time.",
@@ -1832,32 +1520,6 @@
       "sentiment_score": 0.5267,
       "is_current_employee": false,
       "review_date": "2023-11-01",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Educator",
-      "location": "Dharmasala",
-      "rating": 1.0,
-      "pros": "These days they are highering you for  2 months just for marketing nothing else. Even they are not giving you properly salary",
-      "cons": "Nothing",
-      "sentiment": "negative",
-      "sentiment_score": -0.2584,
-      "is_current_employee": false,
-      "review_date": "2023-11-26",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Associate Director",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Opportunity to execute your skills at work. Strong bias for action",
-      "cons": "Looking at lowering costs hence laying off employees to move towards profitability",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2023-05-26",
       "quality_score": 0.43
     },
     {
@@ -1927,19 +1589,6 @@
     },
     {
       "title": null,
-      "role": "Senior Quality Analyst",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Salary",
-      "cons": "Rest of all . Not good no carrier no job security  \nPip initiate without any proper reason and other I have",
-      "sentiment": "negative",
-      "sentiment_score": -0.1695,
-      "is_current_employee": false,
-      "review_date": "2023-09-19",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
       "role": "Academic Counsellor",
       "location": "Kota",
       "rating": 4.0,
@@ -1988,19 +1637,6 @@
       "sentiment_score": 0.296,
       "is_current_employee": false,
       "review_date": "2024-09-28",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work culture, freedom to speak & sharing idea's, on job trainings",
-      "cons": "Appraisals are not mandate, less oppertunity in internal job promotion.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7906,
-      "is_current_employee": false,
-      "review_date": "2024-06-20",
       "quality_score": 0.41
     },
     {
@@ -2122,32 +1758,6 @@
     },
     {
       "title": null,
-      "role": "Associate Product Manager",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "There are things to learn here.",
-      "cons": "No job security.\nConstant job team change.\nNo static work.\nPoor work life balance.",
-      "sentiment": "negative",
-      "sentiment_score": -0.8194,
-      "is_current_employee": false,
-      "review_date": "2023-08-23",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Business Development Manager",
-      "location": "Patna",
-      "rating": 1.0,
-      "pros": "Nothing as such, no job security",
-      "cons": "No job security, anytime they will get fired you in the name of layoff",
-      "sentiment": "negative",
-      "sentiment_score": -0.7896,
-      "is_current_employee": false,
-      "review_date": "2023-07-29",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
       "role": "Sales Manager",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -2239,32 +1849,6 @@
     },
     {
       "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "- Smart colleagues.\n- Challenging work.",
-      "cons": "- Unclear buisness strategies.\n- No clear vision.\n- Mixed messages from leadership.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1591,
-      "is_current_employee": false,
-      "review_date": "2023-09-05",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Production Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Decent peers",
-      "cons": "Leadership is arrogant, culture is top down, autocratic. CEO is arrogant and doesn't have a solid vision",
-      "sentiment": "negative",
-      "sentiment_score": -0.6179,
-      "is_current_employee": false,
-      "review_date": "2023-08-23",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
       "role": "Business Development Team Lead",
       "location": "Kota",
       "rating": 5.0,
@@ -2300,58 +1884,6 @@
       "sentiment_score": -0.2273,
       "is_current_employee": false,
       "review_date": "2024-09-25",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Nothing currently, everything around looks gloomy",
-      "cons": "Everything, culture is a joke now. No perks, no work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.0742,
-      "is_current_employee": false,
-      "review_date": "2023-09-22",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "City Head",
-      "location": "Ahmedabad",
-      "rating": 1.0,
-      "pros": "There isn’t much to like about the organisation",
-      "cons": "Toxic culture , late night meetings ,no respect for individuals",
-      "sentiment": "positive",
-      "sentiment_score": 0.6808,
-      "is_current_employee": false,
-      "review_date": "2023-08-12",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Educator",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Office Interior",
-      "cons": "Worst office politics, unrealistic expectations, groupism, No work life balance, No encouragement, No Empathy, Biased treatment",
-      "sentiment": "negative",
-      "sentiment_score": -0.7123,
-      "is_current_employee": true,
-      "review_date": "2025-12-05",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Fast pacing work, good Investments on big ideas, best culture among edtechs",
-      "cons": "resource crunch going on right now.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7964,
-      "is_current_employee": false,
-      "review_date": "2023-10-06",
       "quality_score": 0.38
     },
     {
@@ -2447,19 +1979,6 @@
     },
     {
       "title": null,
-      "role": "growth manager",
-      "location": "Bhubaneswar",
-      "rating": 1.0,
-      "pros": "None",
-      "cons": "There's no job security. They hire and fire in bulk for projects, after making fake promises.",
-      "sentiment": "negative",
-      "sentiment_score": -0.4675,
-      "is_current_employee": true,
-      "review_date": "2025-02-06",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
       "role": "BD Executive",
       "location": "Noida",
       "rating": 2.0,
@@ -2534,45 +2053,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2024-06-15",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Business Development Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Office atmosphere",
-      "cons": "No value no security they can sack u out anytime they don’t have courtesy",
-      "sentiment": "positive",
-      "sentiment_score": 0.0813,
-      "is_current_employee": true,
-      "review_date": "2024-02-25",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Tele Sales Executive",
-      "location": null,
-      "rating": 3.0,
-      "pros": "Managers are good",
-      "cons": "Incentive is less , salary not increased, extra work like 10 11 hrs",
-      "sentiment": "positive",
-      "sentiment_score": 0.7258,
-      "is_current_employee": true,
-      "review_date": "2025-11-18",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "growth manager",
-      "location": "Kota",
-      "rating": 1.0,
-      "pros": "They are very good paymaster but only at the time of Hiring",
-      "cons": "They are heartless people",
-      "sentiment": "negative",
-      "sentiment_score": -0.4945,
-      "is_current_employee": false,
-      "review_date": "2023-05-06",
       "quality_score": 0.36
     },
     {
@@ -2837,45 +2317,6 @@
     },
     {
       "title": null,
-      "role": "Senior Category Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Peers, and Old colleagues",
-      "cons": "Management, they hardly knows whats going on at ground level.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-10-11",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Associate",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Work life balance",
-      "cons": "No job security \nNo skill development program or No learning program",
-      "sentiment": "negative",
-      "sentiment_score": -0.7674,
-      "is_current_employee": false,
-      "review_date": "2023-11-17",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "SDE",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Good work culture because of good people",
-      "cons": "Mindless leadership and ill treatment of employees",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "is_current_employee": false,
-      "review_date": "2023-11-01",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Senior Sales Executive and Team Leader",
       "location": "Noida",
       "rating": 2.0,
@@ -3110,19 +2551,6 @@
     },
     {
       "title": null,
-      "role": "Senior Business Development Executive",
-      "location": "Noida",
-      "rating": 4.0,
-      "pros": "Good work culture, great leadership",
-      "cons": "There is no any type of permanent thing",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2023-10-18",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
       "role": "Business Development Executive",
       "location": "Noida",
       "rating": 1.0,
@@ -3318,32 +2746,6 @@
     },
     {
       "title": null,
-      "role": "Associate Operations Analyst",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Nothing no good thing",
-      "cons": "Everything career spoiler it is not a company",
-      "sentiment": "positive",
-      "sentiment_score": 0.2594,
-      "is_current_employee": true,
-      "review_date": "2024-02-02",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Operations Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "There is no ethics followed here only bucket system works good",
-      "cons": "Salary...",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2023-09-04",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
       "role": "Business Development Executive",
       "location": "Noida",
       "rating": 4.0,
@@ -3431,84 +2833,6 @@
       "sentiment_score": -0.7458,
       "is_current_employee": false,
       "review_date": "2024-06-14",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Indore",
-      "rating": 2.0,
-      "pros": "Nothing is good",
-      "cons": "Everything is bad u will be like labour",
-      "sentiment": "negative",
-      "sentiment_score": -0.5277,
-      "is_current_employee": false,
-      "review_date": "2023-11-09",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Supprotive work environment",
-      "cons": "No work life balance management is very harsh",
-      "sentiment": "negative",
-      "sentiment_score": -0.659,
-      "is_current_employee": false,
-      "review_date": "2021-01-08",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Counsellor",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Company culture and work life balance.",
-      "cons": "Nothing as such.good to go",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-07-05",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Category Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Learning was there in initial phase",
-      "cons": "Work culture is not great",
-      "sentiment": "negative",
-      "sentiment_score": -0.5096,
-      "is_current_employee": false,
-      "review_date": "2023-07-10",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "For Admin it is a good.",
-      "cons": "No pros for my department.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2024-07-16",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Business Executive",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "it good  you should pe working hard",
-      "cons": "nothing a sof now",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2023-08-13",
       "quality_score": 0.31
     },
     {
@@ -3773,71 +3097,6 @@
     },
     {
       "title": null,
-      "role": "BD Executive",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "Gets salary on time",
-      "cons": "No job security. Pathetic work culture",
-      "sentiment": "negative",
-      "sentiment_score": -0.7867,
-      "is_current_employee": true,
-      "review_date": "2023-12-03",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Sales Team Leader",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Support, motivation, life balance, give chance to proof yourself",
-      "cons": "nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.7269,
-      "is_current_employee": false,
-      "review_date": "2023-12-07",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "The individual business unit working model makes sense",
-      "cons": "Job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-08-25",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Product Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "The office infrastructure is nice.",
-      "cons": "Everything seems bad and poor.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5859,
-      "is_current_employee": false,
-      "review_date": "2023-09-17",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Business Development Manager",
-      "location": "Meerut",
-      "rating": 5.0,
-      "pros": "Support by senior sir in each time,Healthy environment",
-      "cons": "It's Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2023-07-04",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
       "role": "Maths Teacher",
       "location": "Noida",
       "rating": 1.0,
@@ -3951,110 +3210,6 @@
       "sentiment_score": 0.2177,
       "is_current_employee": false,
       "review_date": "2024-08-30",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Director",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Nothing as of now",
-      "cons": "Everything .. right from management",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2023-12-12",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Student Counsellor",
-      "location": "Ludhiana",
-      "rating": 1.0,
-      "pros": "nothing",
-      "cons": "working life balance \npressure \nnot Holiday on festivals",
-      "sentiment": "negative",
-      "sentiment_score": -0.6776,
-      "is_current_employee": true,
-      "review_date": "2025-09-06",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Bangalore Rural",
-      "rating": 5.0,
-      "pros": "Work culture, transparency by the management.",
-      "cons": "No free food..",
-      "sentiment": "negative",
-      "sentiment_score": -0.4023,
-      "is_current_employee": false,
-      "review_date": "2023-10-18",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Academic Coordinator",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Team work and coordination and encouragement in work",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.4215,
-      "is_current_employee": true,
-      "review_date": "2024-03-16",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Project Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "I like unacademy culture",
-      "cons": "There is no job security",
-      "sentiment": "negative",
-      "sentiment_score": -0.1867,
-      "is_current_employee": false,
-      "review_date": "2023-11-28",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Patna",
-      "rating": 5.0,
-      "pros": "Better",
-      "cons": "Because I have studied Journalism and Mass Communication",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-09-12",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Finance Executive",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "I am very happy to work here 😀",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.7574,
-      "is_current_employee": false,
-      "review_date": "2023-08-16",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Chief Business Officer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Challenging environment but opportunities to succeed",
-      "cons": "Tough on time",
-      "sentiment": "positive",
-      "sentiment_score": 0.8047,
-      "is_current_employee": false,
-      "review_date": "2024-05-12",
       "quality_score": 0.29
     },
     {
@@ -4267,97 +3422,6 @@
     },
     {
       "title": null,
-      "role": "Talent Acquisition Intern",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "The people",
-      "cons": "Nothing only the lack of promotions",
-      "sentiment": "positive",
-      "sentiment_score": 0.2411,
-      "is_current_employee": true,
-      "review_date": "2026-01-21",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Everything. Worst company I have ever seen",
-      "sentiment": "positive",
-      "sentiment_score": 0.5096,
-      "is_current_employee": false,
-      "review_date": "2024-06-19",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Overall Great place to work for.",
-      "cons": "Sudden layoffs",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2023-10-07",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Kanpur Nagar",
-      "rating": 4.0,
-      "pros": "Culture and environment to good 👍",
-      "cons": "Nothing else",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-11-04",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Seles Executive",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "All good, environment , colleagues",
-      "cons": "Timing, Leave policy",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2023-09-13",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Brand Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Anyone but ceo",
-      "cons": "Worst company ever. Stay away.",
-      "sentiment": "negative",
-      "sentiment_score": -0.7684,
-      "is_current_employee": true,
-      "review_date": "2025-02-22",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Executive",
-      "location": "Kota",
-      "rating": 2.0,
-      "pros": "Educators",
-      "cons": "Senior behaviour, way of working, communication etc",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-08-17",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
       "role": "City Head",
       "location": "Hyderabad",
       "rating": 3.0,
@@ -4536,45 +3600,6 @@
       "sentiment_score": -0.5849,
       "is_current_employee": true,
       "review_date": "2024-03-31",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Financial Analyst",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work Life Balance, Culture, Good.",
-      "cons": "Recent Layoff.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-10-11",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Tele Sales Executive",
-      "location": "Noida",
-      "rating": 4.0,
-      "pros": "healthy environment",
-      "cons": "timing & pressure from seniors",
-      "sentiment": "positive",
-      "sentiment_score": 0.128,
-      "is_current_employee": true,
-      "review_date": "2024-01-29",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Executive - Finance",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "Carrier Growth slow \nLess learning opportunities",
-      "sentiment": "positive",
-      "sentiment_score": 0.7796,
-      "is_current_employee": false,
-      "review_date": "2023-12-11",
       "quality_score": 0.27
     },
     {
@@ -4865,58 +3890,6 @@
     },
     {
       "title": null,
-      "role": "Operations Associate",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Nothing not recommed",
-      "cons": "Very bad company",
-      "sentiment": "positive",
-      "sentiment_score": 0.4708,
-      "is_current_employee": false,
-      "review_date": "2024-05-29",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Administrator Department",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Good, working",
-      "cons": "Good , working culture,",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2023-11-02",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Information Technology Support Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "I had a amazing experience",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.5859,
-      "is_current_employee": false,
-      "review_date": "2023-10-16",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Very poor experience",
-      "cons": "No job security",
-      "sentiment": "negative",
-      "sentiment_score": -0.7841,
-      "is_current_employee": false,
-      "review_date": "2022-04-28",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "Team Leader Quality",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -5177,162 +4150,6 @@
     },
     {
       "title": null,
-      "role": "Senior Associate",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Hierarchy was so supportive",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4341,
-      "is_current_employee": true,
-      "review_date": "2024-04-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Executive",
-      "location": "Muzaffarpur",
-      "rating": 4.0,
-      "pros": "Academic",
-      "cons": "Salary and employee benefits",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": true,
-      "review_date": "2023-12-18",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Business Development Associate",
-      "location": "Raipur",
-      "rating": 3.0,
-      "pros": "Good Work place",
-      "cons": "Totally sales",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2024-02-12",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Executive",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "on time salary",
-      "cons": "Job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": true,
-      "review_date": "2024-04-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Program Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good work.",
-      "cons": "Low job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2024-06-04",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Associate",
-      "location": "Patna",
-      "rating": 4.0,
-      "pros": "Overall Good.",
-      "cons": "Promotions not happening",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-10-28",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Academic Counsellor",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "I like Environment",
-      "cons": "Timings issues",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": true,
-      "review_date": "2023-12-13",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Executive",
-      "location": "Indore",
-      "rating": 5.0,
-      "pros": "Work culture",
-      "cons": "Promotions/ Appraisal system",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2023-12-21",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Educator",
-      "location": "Lucknow",
-      "rating": 4.0,
-      "pros": "Everything except future secure",
-      "cons": "Instability",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2025-03-31",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Content Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "None",
-      "cons": "Worst place to work.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5096,
-      "is_current_employee": false,
-      "review_date": "2023-10-12",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager Information Technology",
-      "location": "Jaipur",
-      "rating": 1.0,
-      "pros": "Bad experience chooching staff",
-      "cons": "Poor",
-      "sentiment": "negative",
-      "sentiment_score": -0.765,
-      "is_current_employee": true,
-      "review_date": "2023-12-27",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "BD Executive",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Communication skills",
-      "cons": "Everything is good",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-09-12",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "Academic Counsellor",
       "location": "Muzaffarpur",
       "rating": 5.0,
@@ -5394,19 +4211,6 @@
       "sentiment_score": -0.2732,
       "is_current_employee": true,
       "review_date": "2026-04-06",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Department Head",
-      "location": null,
-      "rating": 1.0,
-      "pros": "Salary",
-      "cons": "No job security",
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "is_current_employee": true,
-      "review_date": "2025-12-10",
       "quality_score": 0.24
     },
     {
@@ -5502,19 +4306,6 @@
     },
     {
       "title": null,
-      "role": "Tele Sales Executive",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Very nice company",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4754,
-      "is_current_employee": true,
-      "review_date": "2025-09-16",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
       "role": "Center Head",
       "location": "Gwalior",
       "rating": 5.0,
@@ -5606,32 +4397,6 @@
     },
     {
       "title": null,
-      "role": "Sr. BDE",
-      "location": "Gurugram",
-      "rating": 2.0,
-      "pros": "Nothing",
-      "cons": "Everything",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2023-12-28",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Business Development Associate",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Environment",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-01-01",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
       "role": "Business Development Executive",
       "location": "Faridabad",
       "rating": 1.0,
@@ -5667,19 +4432,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": true,
       "review_date": "2025-09-11",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "senior tele counceller ",
-      "location": "Bhopal",
-      "rating": 5.0,
-      "pros": "wonderfull",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2026-01-18",
       "quality_score": 0.21
     }
   ],
@@ -5725,6 +4477,16 @@
       "sample_count": null
     },
     {
+      "role": "Educator",
+      "location": null,
+      "min_salary": 300000,
+      "max_salary": 1200000,
+      "avg_salary": 715266,
+      "currency": "INR",
+      "experience": "0-10 years",
+      "sample_count": null
+    },
+    {
       "role": "Business Development Associate",
       "location": null,
       "min_salary": 300000,
@@ -5755,16 +4517,6 @@
       "sample_count": null
     },
     {
-      "role": "Educator",
-      "location": null,
-      "min_salary": 300000,
-      "max_salary": 1200000,
-      "avg_salary": 715266,
-      "currency": "INR",
-      "experience": "0-10 years",
-      "sample_count": null
-    },
-    {
       "role": "Business Development Manager",
       "location": null,
       "min_salary": 500000,
@@ -5772,16 +4524,6 @@
       "avg_salary": 644440,
       "currency": "INR",
       "experience": "3-8 years",
-      "sample_count": null
-    },
-    {
-      "role": "Associate Director",
-      "location": null,
-      "min_salary": 2400000,
-      "max_salary": 4200000,
-      "avg_salary": 3104239,
-      "currency": "INR",
-      "experience": "6-12 years",
       "sample_count": null
     },
     {
@@ -5883,6 +4625,16 @@
       "currency": "INR",
       "experience": "2-6 years",
       "sample_count": null
+    },
+    {
+      "role": "Teacher",
+      "location": null,
+      "min_salary": 200500,
+      "max_salary": 800000,
+      "avg_salary": 435595,
+      "currency": "INR",
+      "experience": "0-8 years",
+      "sample_count": null
     }
   ],
   "benefits": [
@@ -5962,14 +4714,2161 @@
       "details": "Competitive compensation | Best-in-class Mentors and Leaders | Accelerated growth | Timely reviews and feedbacks"
     }
   ],
-  "_scraped_at": "2026-04-10T22:36:07.461109+00:00",
+  "interviews": [
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    },
+    {
+      "role": "Center Head",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How efficiently are we controlling operational costs reflected in EBITDA?",
+          "answer": "Efficient control of operational costs is crucial for maximizing EBITDA and ensuring sustainable business growth.Regularly review and analyze operational expenses to identify areas for cost reduction.Implement lean management techniques to streamline processes, reducing waste and improving efficiency.Utilize technology and automation to lower labor costs and enhance productivity, such as using software for inventory management.Negotiate better terms with suppliers to reduce procurement costs, which directly impacts EBITDA.Conduct training programs for staff to improve skills and efficiency, leading to better resource utilization."
+        },
+        {
+          "question": "What team size did you manage, how long did you work there, what type of revenue did you generate, what was your contribution, and why do you believe you are a good fit for this profile?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 11:28:55"
+    },
+    {
+      "role": "Mentor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many projects have you handled in your previous roles where you worked on product platforms and interacted with learners?",
+          "answer": null
+        },
+        {
+          "question": "What is your long-term goal and what is the reasoning behind it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2020-11-09 09:32:27"
+    },
+    {
+      "role": "Teacher Educator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is difference between Teacher and Educator",
+          "answer": "Teachers focus on delivering content, while educators encompass a broader role in shaping learning experiences and environments.Teachers primarily deliver subject-specific content in classrooms.Educators design curricula and learning experiences beyond just teaching.Teachers often work with students directly, while educators may also train teachers.Example: A teacher teaches math, while an educator develops a math curriculum.Educators may engage in research and policy-making to improve education systems."
+        },
+        {
+          "question": "Difference between coach and teacher",
+          "answer": "Coaches focus on performance and skill development, while teachers emphasize knowledge and understanding in a structured environment.Coaches often work on specific skills, like a sports coach training athletes in techniques.Teachers provide broader knowledge, such as a math teacher explaining concepts and theories.Coaching is often more personalized, focusing on individual strengths and weaknesses, like a music coach tailoring lessons to a student's abilities.Teachers typically follow a curriculum and assess students through standardized tests, while coaches may use performance metrics to evaluate progress."
+        }
+      ],
+      "review_date": "2025-10-10 13:55:38"
+    },
+    {
+      "role": "Business Finance Executive",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "drawback of excel",
+          "answer": "Excel has limitations in data handling, collaboration, and error management, impacting its effectiveness for complex business finance tasks.Limited data capacity: Excel struggles with large datasets, slowing down performance and increasing the risk of errors.Collaboration challenges: Multiple users editing a file can lead to version control issues and data inconsistencies.Error-prone: Manual data entry and formula errors can lead to significant financial miscalculations.Lack of advanced analytics: Excel lacks built-in tools for complex data analysis compared to specialized software like Tableau or Power BI.Security risks: Sensitive financial data can be vulnerable if proper security measures are not implemented."
+        },
+        {
+          "question": "business advices for various proposals",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-05 10:38:05"
+    },
+    {
+      "role": "Fullstack Java Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-03-01 15:42:47"
+    },
+    {
+      "role": "Business Development Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-27 19:22:44"
+    },
+    {
+      "role": "Business Development and Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction of yourself",
+          "answer": "Dynamic Business Development Executive with a proven track record in driving sales growth and building strategic partnerships.Over 5 years of experience in business development and sales in the tech industry.Successfully increased sales by 30% in my previous role through targeted marketing strategies.Skilled in building and maintaining relationships with key clients, resulting in long-term partnerships.Proficient in market analysis and identifying new business opportunities, leading to the launch of two successful products."
+        },
+        {
+          "question": "Why do you want to join sells",
+          "answer": "I am passionate about building relationships and driving growth, making sales a perfect fit for my skills and ambitions.I thrive on the challenge of meeting targets and exceeding expectations, as seen in my previous role where I increased sales by 30%.Sales allows me to leverage my communication skills to connect with clients and understand their needs, ensuring tailored solutions.I enjoy the dynamic nature of sales, where every day presents new opportunities and challenges, keeping my work engaging and fulfilling.Being in sales means I can directly contribute to a company's growth, which is rewarding and motivates me to perform at my best."
+        },
+        {
+          "question": "What do you know about Unacademy",
+          "answer": "Unacademy is an Indian online learning platform offering courses across various subjects and competitive exams.Founded in 2015, Unacademy started as a YouTube channel and has grown into a comprehensive learning platform.It offers courses for various competitive exams like UPSC, IIT-JEE, NEET, and more, catering to millions of students.Unacademy features live classes, recorded sessions, and interactive quizzes, enhancing the learning experience.The platform collaborates with top educators and industry experts, ensuring high-quality content and mentorship.Unacademy has expanded its reach internationally, providing courses in multiple languages and targeting global learners."
+        }
+      ],
+      "review_date": "2025-09-17 03:45:53"
+    },
+    {
+      "role": "Inside Sales Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-22 11:08:15"
+    },
+    {
+      "role": "Social Media Marketing Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you provide details about your work experience that relates to the job role?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of the Digital Marketing field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 02:09:17"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "hard",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Salary negotiations after giving offer letter",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-07 12:40:35"
+    }
+  ],
+  "_scraped_at": "2026-04-12T23:22:56.294140+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Unacademy",
   "_registry_industry": "EdTech",
   "_sentiment": {
-    "positiveCount": 190,
-    "negativeCount": 201,
-    "neutralCount": 45,
+    "positiveCount": 136,
+    "negativeCount": 169,
+    "neutralCount": 35,
     "topPositiveThemes": [
       "salary & compensation",
       "company culture",

@@ -169,7 +169,7 @@ function RegisterContent() {
                 placeholder="How you want to appear"
                 value={displayName}
                 onChange={(e) => setDisplayName(e.target.value)}
-                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
+                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
               />
             </div>
             <div className="space-y-1.5">
@@ -180,7 +180,7 @@ function RegisterContent() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required
-                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
+                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
               />
             </div>
             <div className="space-y-1.5">
@@ -192,7 +192,7 @@ function RegisterContent() {
                 onChange={(e) => setPassword(e.target.value)}
                 required
                 minLength={8}
-                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
+                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
               />
             </div>
             <button

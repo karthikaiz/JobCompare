@@ -6,6 +6,9 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { DashboardShell } from "@/components/layout/dashboard-shell";
 import { SearchBar } from "@/components/search-bar";
+import { OnboardingTour } from "@/components/onboarding-tour";
+import { useWatchlist } from "@/hooks/use-watchlist";
+import { useAuth } from "@/context/auth-context";
 
 const EXPLORE_ITEMS = [
   { label: "Ratings & Reviews", desc: "Overall score + sub-ratings from employees" },
@@ -25,6 +28,8 @@ function JobSeekerContent() {
   const searchParams = useSearchParams();
   const initialQuery = searchParams.get("q") || "";
   const [companies, setCompanies] = useState<Company[]>([]);
+  const { user } = useAuth();
+  const { items: watchlistItems, toggle: toggleWatchlist } = useWatchlist();
 
   useEffect(() => {
     fetch("/api/companies?limit=8&offset=0")
@@ -38,6 +43,7 @@ function JobSeekerContent() {
 
   return (
     <DashboardShell role="job-seeker">
+      <OnboardingTour />
       <div className="bg-cream min-h-screen p-4 sm:p-6 pb-20 sm:pb-6 space-y-5">
         {/* Search row */}
         <motion.div
@@ -67,7 +73,7 @@ function JobSeekerContent() {
           >
             {featured ? (
               <Link href={`/job-seeker/${featured.slug}`} className="block h-full group">
-                <div className="bg-white border-2 border-ink/15 h-full overflow-hidden flex flex-col hover:border-terracotta/40 transition-colors">
+                <div className="bg-card border-2 border-ink/15 h-full overflow-hidden flex flex-col hover:border-terracotta/40 transition-colors">
                   <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex items-center justify-between">
                     <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Spotlight</span>
                     <span className="w-1.5 h-1.5 rounded-full bg-terracotta animate-pulse" />
@@ -92,7 +98,7 @@ function JobSeekerContent() {
                 </div>
               </Link>
             ) : (
-              <div className="bg-white border-2 border-ink/10 h-full min-h-[200px] animate-pulse" />
+              <div className="bg-card border-2 border-ink/10 h-full min-h-[200px] animate-pulse" />
             )}
           </motion.div>
 
@@ -103,7 +109,7 @@ function JobSeekerContent() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.15, duration: 0.5, ease: "easeOut" }}
           >
-            <div className="bg-white border border-ink/15 h-full overflow-hidden flex flex-col">
+            <div className="bg-card border border-ink/15 h-full overflow-hidden flex flex-col">
               <div className="px-4 py-2.5 border-b border-ink/10 bg-cream">
                 <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Browse Companies</span>
               </div>
@@ -145,7 +151,7 @@ function JobSeekerContent() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3, duration: 0.5, ease: "easeOut" }}
           >
-            <div className="bg-white border border-ink/15 overflow-hidden">
+            <div className="bg-card border border-ink/15 overflow-hidden">
               <div className="px-4 py-2.5 border-b border-ink/10 bg-cream">
                 <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">What You Can Explore</span>
               </div>
@@ -159,6 +165,62 @@ function JobSeekerContent() {
               </div>
             </div>
           </motion.div>
+
+          {/* Watchlist — only when logged in and has items */}
+          {user && watchlistItems.length > 0 && (
+            <motion.div
+              className="sm:col-span-4 min-w-0"
+              initial={{ opacity: 0, y: 16 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.35, duration: 0.5, ease: "easeOut" }}
+            >
+              <div className="bg-card border border-ink/15 overflow-hidden">
+                <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex items-center justify-between">
+                  <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">
+                    Your Watchlist ({watchlistItems.length}/20)
+                  </span>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" className="text-terracotta/40">
+                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+                  </svg>
+                </div>
+                <div className="p-3">
+                  <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
+                    {watchlistItems.map((item, i) => (
+                      <motion.div
+                        key={item.slug}
+                        initial={{ opacity: 0, y: 8 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: 0.4 + i * 0.05, duration: 0.3, ease: "easeOut" }}
+                      >
+                        <div className="border border-ink/15 p-3 group relative hover:border-terracotta/40 transition-colors">
+                          <Link href={`/job-seeker/${item.slug}`} className="block">
+                            <div className="w-6 h-6 bg-terracotta/10 flex items-center justify-center text-terracotta font-bold text-xs mb-2 font-serif group-hover:bg-terracotta/15 transition-colors">
+                              {item.name.charAt(0)}
+                            </div>
+                            <div className="text-ink text-xs font-medium font-sans truncate">{item.name}</div>
+                            <div className="text-warmgray text-[10px] font-sans truncate mt-0.5">{item.industry}</div>
+                            <div className="flex items-center gap-1 mt-2">
+                              <span className="text-terracotta text-xs">★</span>
+                              <span className="text-ink text-xs font-mono">{item.overallRating?.toFixed(1) ?? "—"}</span>
+                            </div>
+                          </Link>
+                          <button
+                            onClick={() => toggleWatchlist(item.slug)}
+                            className="absolute top-2 right-2 text-warmgray/40 hover:text-terracotta transition-colors"
+                            title="Remove from watchlist"
+                          >
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                              <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
+                            </svg>
+                          </button>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </motion.div>
+          )}
         </div>
       </div>
     </DashboardShell>

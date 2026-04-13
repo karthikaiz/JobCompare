@@ -60,6 +60,20 @@ interface SentimentInput {
   topNegativeThemes: string[];
 }
 
+interface InterviewQuestionInput {
+  question: string;
+  answer?: string | null;
+}
+
+interface InterviewInput {
+  role?: string;
+  difficulty?: string;
+  experience?: string;
+  process?: string;
+  questions?: InterviewQuestionInput[];
+  reviewDate?: string;
+}
+
 interface SyncPayload {
   slug: string;
   name: string;
@@ -78,6 +92,7 @@ interface SyncPayload {
   reviews: ReviewInput[];
   salaries: SalaryInput[];
   benefits: BenefitInput[];
+  interviews?: InterviewInput[];
   sentiment?: SentimentInput;
   source?: string;
 }
@@ -232,6 +247,28 @@ export async function POST(request: NextRequest) {
     }
     const benefitCount = benefitData.length;
 
+    // Replace interviews in one batch (if provided)
+    let interviewCount = 0;
+    if (body.interviews && body.interviews.length > 0) {
+      await prisma.interview.deleteMany({ where: { companyId: company.id } });
+      const interviewData = body.interviews.slice(0, 500).map((iv) => ({
+        companyId: company.id,
+        role: truncate(iv.role, 300),
+        difficulty: truncate(iv.difficulty, 20),
+        experience: truncate(iv.experience, 20),
+        process: truncate(iv.process, 2000),
+        questions: iv.questions && iv.questions.length > 0
+          ? iv.questions.map((q) => ({
+              question: truncate(q.question, 1000),
+              answer: q.answer ? truncate(q.answer, 5000) : null,
+            }))
+          : undefined,
+        reviewDate: iv.reviewDate ? new Date(iv.reviewDate) : null,
+      }));
+      await prisma.interview.createMany({ data: interviewData });
+      interviewCount = interviewData.length;
+    }
+
     // Create sentiment snapshot if provided
     if (body.sentiment) {
       await prisma.sentimentSnapshot.create({
@@ -253,12 +290,14 @@ export async function POST(request: NextRequest) {
       skippedReviews: body.reviews.length - newReviews,
       salaries: salaryCount,
       benefits: benefitCount,
+      interviews: interviewCount,
       hasSentiment: !!body.sentiment,
     });
   } catch (error) {
-    console.error("Sync error:", error);
+    const msg = error instanceof Error ? error.message : String(error);
+    console.error("Sync error:", msg.slice(0, 500));
     return NextResponse.json(
-      { error: "Sync failed" },
+      { error: "Sync failed", detail: msg.slice(0, 500) },
       { status: 500 }
     );
   }

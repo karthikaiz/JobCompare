@@ -8,11 +8,11 @@
   "founded": 2013,
   "website": "https://clevertap.com/",
   "overall_rating": 3.5999999046325684,
-  "work_life_balance": 3.69,
+  "work_life_balance": 3.7,
   "salary_benefits": 3.9,
-  "job_security": 3.01,
-  "career_growth": 3.04,
-  "company_culture": 3.62,
+  "job_security": 3.0,
+  "career_growth": 3.0,
+  "company_culture": 3.6,
   "reviews": [
     {
       "title": null,
@@ -997,8 +997,161 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T19:43:49.849235+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Free meal",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Office gym",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "International/On-site exposure",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 3 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": "Customer Success Engineer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do you approach solving user problems, and what troubleshooting methods do you use to meet user requirements?",
+          "answer": null
+        },
+        {
+          "question": "What are the steps to build a mobile app that integrates the CleverTap SDK with specific events within a timeframe of 2 to 5 days?",
+          "answer": null
+        },
+        {
+          "question": "What is your understanding of Java programming and its applications in Data Structures and Algorithms (DSA)?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-29 19:14:01"
+    },
+    {
+      "role": "Customer Success Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Technical questions on the Saas product",
+          "answer": null
+        },
+        {
+          "question": "Integration with app and websites",
+          "answer": "Integration with apps and websites enhances user experience and streamlines processes through seamless data exchange.APIs (Application Programming Interfaces) allow different software systems to communicate, e.g., integrating payment gateways like Stripe.Webhooks enable real-time notifications, such as sending alerts when a user signs up on a website.SDKs (Software Development Kits) provide tools for developers to integrate features easily, like embedding maps using Google Maps SDK.Single Sign-On (SSO) simplifies user access across multiple platforms, improving user experience and security."
+        }
+      ],
+      "review_date": "2023-11-28 17:38:07"
+    },
+    {
+      "role": "Backend Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Aptitude Test, Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2024-11-14 21:37:15"
+    },
+    {
+      "role": "Java Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2024-09-23 21:21:12"
+    },
+    {
+      "role": "Sales Enablement Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What sales enablement initiatives have you delivered?",
+          "answer": "I have implemented various sales enablement initiatives to enhance team performance and drive revenue growth.Developed a comprehensive onboarding program for new sales hires, reducing ramp-up time by 30%.Created a centralized resource hub with sales playbooks, case studies, and objection-handling guides.Launched a monthly training series focusing on product knowledge and competitive analysis, resulting in a 20% increase in win rates.Implemented a feedback loop with sales teams to continuously improve training materials based on real-world challenges."
+        },
+        {
+          "question": "What are the key performance indicators (KPIs) associated with this role?",
+          "answer": "KPIs for a Sales Enablement Manager focus on sales performance, training effectiveness, and content utilization.Sales Performance Metrics: Track revenue growth and sales targets achieved by the team post-training.Training Effectiveness: Measure the increase in sales skills and knowledge through assessments before and after training sessions.Content Utilization: Analyze how often sales teams use provided resources, such as playbooks and training materials, in their sales processes.Time to Productivity: Evaluate the time it takes for new sales hires to reach full productivity after onboarding and training.Sales Cycle Length: Monitor changes in the average sales cycle duration to assess the impact of enablement initiatives."
+        },
+        {
+          "question": "tool and skillset",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-13 09:50:54"
+    },
+    {
+      "role": "Senior Software Engineer 1",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2024-12-18 21:36:07"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2024-11-14 19:54:01"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2024-07-02 01:52:24"
+    },
+    {
+      "role": "Technical Account Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-06-28 23:01:19"
+    },
+    {
+      "role": "Onboarding Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "Assignment, Technical",
+      "questions": [],
+      "review_date": "2024-05-03 11:55:34"
+    }
+  ],
+  "_scraped_at": "2026-04-12T19:20:17.063394+00:00",
   "_source": "ambitionbox",
   "_registry_name": "CleverTap",
   "_registry_industry": "SaaS",

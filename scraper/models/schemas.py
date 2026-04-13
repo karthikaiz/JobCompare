@@ -1,5 +1,4 @@
 from pydantic import BaseModel
-from datetime import datetime
 
 
 class ReviewData(BaseModel):
@@ -66,6 +65,20 @@ class CompanyData(BaseModel):
     reviews: list[ReviewData] = []
     salaries: list[SalaryData] = []
     benefits: list[BenefitData] = []
+
+
+class InterviewQuestion(BaseModel):
+    question: str
+    answer: str | None = None
+
+
+class InterviewData(BaseModel):
+    role: str | None = None
+    difficulty: str | None = None  # "easy", "medium", "hard"
+    experience: str | None = None  # "positive", "negative", "neutral"
+    process: str | None = None     # comma-separated steps
+    questions: list[InterviewQuestion] = []
+    review_date: str | None = None
 
 
 class SentimentRequest(BaseModel):

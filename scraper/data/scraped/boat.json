@@ -2310,8 +2310,145 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-12T03:58:13.933225+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 3 employees (75% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 5 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 2 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": "Team Manager",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself: A classic opener to understand their background and communication style.",
+          "answer": null
+        },
+        {
+          "question": "Conflict Resolution: \"Describe a time you had a conflict with a team member. How did you resolve it and what was the outcome?\"",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 09:50:06"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-01-03 12:32:41"
+    },
+    {
+      "role": "Quality Assurance Quality Control Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Resume Shortlist, Group Discussion, Group Discussion, HR",
+      "questions": [],
+      "review_date": "2023-10-12 07:36:35"
+    },
+    {
+      "role": "Supplier Quality Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Technical, Technical, HR",
+      "questions": [],
+      "review_date": "2024-02-19 22:00:23"
+    },
+    {
+      "role": "IT Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Screening, Technical",
+      "questions": [],
+      "review_date": "2024-09-17 11:50:11"
+    },
+    {
+      "role": "Process Quality Assurance Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "About Quality responsibility",
+          "answer": null
+        },
+        {
+          "question": "What is Quality, Why should Quality be a part of a company??",
+          "answer": null
+        },
+        {
+          "question": "Why you leave previous company",
+          "answer": "I left my previous company to seek new challenges and opportunities for professional growth in a dynamic environment.Desire for career advancement: I wanted to take on more responsibilities and lead projects.Seeking a better cultural fit: The company culture didn't align with my values and work style.Pursuing new skills: I aimed to expand my expertise in process quality assurance and explore innovative methodologies.Relocation: I moved to a new city, which made continuing with my previous employer impractical."
+        },
+        {
+          "question": "Why you leave the previous company???",
+          "answer": "I left my previous company to seek new challenges and opportunities for professional growth in a dynamic environment.I was looking for a role that offered more opportunities for career advancement.The company culture was not aligned with my values, and I wanted to work in a more collaborative environment.I wanted to gain experience in a different industry, which I believe will enhance my skill set.I felt that my contributions were not being fully utilized, and I wanted to be in a position where I could make a greater impact."
+        }
+      ],
+      "review_date": "2025-04-16 10:07:01"
+    },
+    {
+      "role": "Strategy and Operations Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Resume Shortlist, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2023-05-19 23:48:09"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-01-28 20:59:18"
+    },
+    {
+      "role": "Quality Controller",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "what is quality control?",
+          "answer": null
+        },
+        {
+          "question": "what is Sampling plan?",
+          "answer": null
+        },
+        {
+          "question": "What is AQL?",
+          "answer": "AQL stands for Acceptable Quality Level, a statistical measure used in quality control to determine acceptable defect rates.AQL defines the maximum number of defective items allowed in a sample size.For example, an AQL of 1.5% means that in a sample of 1000 items, up to 15 defects are acceptable.It is commonly used in manufacturing and inspection processes to ensure product quality.Different industries may have varying AQL standards based on product type and risk factors."
+        }
+      ],
+      "review_date": "2025-05-26 08:59:26"
+    },
+    {
+      "role": "Graphic Designer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Resume Shortlist, Has to be confident  to hustle",
+      "questions": [],
+      "review_date": "2022-02-26 11:09:25"
+    }
+  ],
+  "_scraped_at": "2026-04-13T02:19:16.972943+00:00",
   "_source": "ambitionbox",
   "_registry_name": "boAt",
   "_registry_industry": "Manufacturing",

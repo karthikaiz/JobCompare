@@ -101,12 +101,12 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
     }
   };
 
-  const inputClass = "w-full h-10 px-3 text-sm text-ink placeholder:text-warmgray/40 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans";
+  const inputClass = "w-full h-10 px-3 text-sm text-ink placeholder:text-warmgray/40 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans";
 
   return (
     <div className="bg-cream border border-ink/15 overflow-hidden">
       {/* Header */}
-      <div className="px-4 py-3 border-b border-ink/10 bg-white">
+      <div className="px-4 py-3 border-b border-ink/10 bg-card">
         <div className="flex items-center gap-2 mb-2">
           <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Review {companyName}</span>
         </div>
@@ -201,7 +201,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
                 onChange={(e) => setPros(e.target.value)}
                 maxLength={2000}
                 rows={4}
-                className="w-full px-3 py-2 text-sm text-ink placeholder:text-warmgray/40 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans resize-none"
+                className="w-full px-3 py-2 text-sm text-ink placeholder:text-warmgray/40 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans resize-none"
               />
               <span className="text-[10px] text-warmgray font-sans">{pros.length}/2000</span>
             </div>
@@ -213,7 +213,7 @@ export function ReviewForm({ slug, companyName, onSuccess, onCancel }: ReviewFor
                 onChange={(e) => setCons(e.target.value)}
                 maxLength={2000}
                 rows={4}
-                className="w-full px-3 py-2 text-sm text-ink placeholder:text-warmgray/40 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans resize-none"
+                className="w-full px-3 py-2 text-sm text-ink placeholder:text-warmgray/40 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans resize-none"
               />
               <span className="text-[10px] text-warmgray font-sans">{cons.length}/2000</span>
             </div>

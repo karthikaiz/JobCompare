@@ -9,11 +9,24 @@
   "website": "https://life.myntra.com/",
   "overall_rating": 3.799999952316284,
   "work_life_balance": 3.72,
-  "salary_benefits": 3.53,
+  "salary_benefits": 3.54,
   "job_security": 3.54,
   "career_growth": 3.09,
   "company_culture": 3.83,
   "reviews": [
+    {
+      "title": null,
+      "role": "Merchandiser Coordinator",
+      "location": "Bengaluru",
+      "rating": 1.0,
+      "pros": "1. Food\n2.Insurance",
+      "cons": "1.promotion- which is only for seniors.\n2. Compensation-new joiners in third party get more than permanent with 15 years in Myntra.\n3. Work life balance- depends on directors managers are puppet here.\n4.surprise at the time of annual cycle it will be given.\n5.currently as they are planning ipo targeting permanent employees.\n6.HR is in the pocket of directors.",
+      "sentiment": "positive",
+      "sentiment_score": 0.4019,
+      "is_current_employee": true,
+      "review_date": "2026-03-16",
+      "quality_score": 0.8
+    },
     {
       "title": null,
       "role": "Strategic Account Manager",
@@ -185,19 +198,6 @@
     },
     {
       "title": null,
-      "role": "Associate Category Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "The company thinks and provide best possible facilities for the employees.",
-      "cons": "1-There is huge difference in terms of Pay parity at same designation with same experience people will see a difference of 3-5L difference in CTC\n2-Work life balance is bad. Company doesn’t hire as per requirements certain teams will have additional manpower of 2-3 people and certain team will have only 2-3 people to handle whole brand. That leads to a lot of work pressures.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5423,
-      "is_current_employee": false,
-      "review_date": "2023-02-18",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Production Manager",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -315,45 +315,6 @@
     },
     {
       "title": null,
-      "role": "Software Development Engineer 1",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Flexibility in working, managers are supportive and approachable",
-      "cons": "No learning opportunities, the office is very crowded, no perks and benefits to enjoy, top management keeps changing frequently, no planning or organisation a big company should have. Compensation is less for the work we do. Appraisals are very minimal.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4832,
-      "is_current_employee": false,
-      "review_date": "2022-07-11",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Digital Marketer",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "It is hectic and comes with very high expectations. So the learning and rewards are also high.",
-      "cons": "There is general insecurity over performance thus making the environment very political and stressful. Not recommended to spend more than 1 year in this company. Long term vision is lost.",
-      "sentiment": "negative",
-      "sentiment_score": -0.6317,
-      "is_current_employee": false,
-      "review_date": "2021-12-16",
-      "quality_score": 0.67
-    },
-    {
-      "title": null,
-      "role": "Data Analyst Intern",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Supportive and encouraging team members, hands on working, good learning curve, ability to see impact of work in real-time, everyday had a new set of challenges and the work wasn't boring",
-      "cons": "No job security, bad work life balance, people take advantage of you and don't appreciate you",
-      "sentiment": "positive",
-      "sentiment_score": 0.7996,
-      "is_current_employee": false,
-      "review_date": "2022-07-10",
-      "quality_score": 0.67
-    },
-    {
-      "title": null,
       "role": "Senior Manager",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -364,32 +325,6 @@
       "is_current_employee": true,
       "review_date": "2025-01-05",
       "quality_score": 0.66
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Office space is good and you get to work on lot of things.",
-      "cons": "Not a good culture as compared to the big brand name.\nDegrading employees morale by making illogical performance issue and push them to put down their papers to justify cost cutting.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5867,
-      "is_current_employee": false,
-      "review_date": "2022-08-13",
-      "quality_score": 0.64
-    },
-    {
-      "title": null,
-      "role": "Supervisor 2",
-      "location": "Yamunanagar",
-      "rating": 5.0,
-      "pros": "Good work environment and culture.company salery timing is company oder is United.",
-      "cons": "There is no option of Lunch.There is a duty 10 hour but 12hour are waisted.Any work to place no location fix.There is no bonus of diwali and the salery is also less.",
-      "sentiment": "negative",
-      "sentiment_score": -0.6514,
-      "is_current_employee": false,
-      "review_date": "2022-06-30",
-      "quality_score": 0.64
     },
     {
       "title": null,
@@ -523,19 +458,6 @@
     },
     {
       "title": null,
-      "role": "Internal Quality Auditor",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "One who wants growth should held bucket to company.\nI was worked with Bangalore warehouse, maximum people are from Tamilnadu & Andhra & Odisha... They set preference for ladies reservation but no preference for Kannadigas Reservation",
-      "sentiment": "negative",
-      "sentiment_score": -0.25,
-      "is_current_employee": true,
-      "review_date": "2023-12-23",
-      "quality_score": 0.57
-    },
-    {
-      "title": null,
       "role": "Customer Care Executive",
       "location": null,
       "rating": 3.0,
@@ -627,19 +549,6 @@
     },
     {
       "title": null,
-      "role": "QC Operator",
-      "location": "Dankuni",
-      "rating": 1.0,
-      "pros": "Quality Checking of products was my favourite.",
-      "cons": "They doesn't matter about the illness of the employees. After Durga Puja, when the work pressure was less, they want to reduce their manpower.",
-      "sentiment": "negative",
-      "sentiment_score": -0.6062,
-      "is_current_employee": false,
-      "review_date": "2022-10-19",
-      "quality_score": 0.51
-    },
-    {
-      "title": null,
       "role": "Supervisor",
       "location": "Gurugram",
       "rating": 5.0,
@@ -662,19 +571,6 @@
       "sentiment_score": -0.6437,
       "is_current_employee": true,
       "review_date": "2024-01-25",
-      "quality_score": 0.49
-    },
-    {
-      "title": null,
-      "role": "Warehouse Assistant",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "I was full like to company ambition",
-      "cons": "There are only appreciate to close friends and family employee \nNo one other employees are promoted in any department to high knowledge",
-      "sentiment": "positive",
-      "sentiment_score": 0.836,
-      "is_current_employee": false,
-      "review_date": "2022-08-23",
       "quality_score": 0.49
     },
     {
@@ -835,19 +731,6 @@
     },
     {
       "title": null,
-      "role": "Senior Escalation Specialist",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Everything about the organisation is just as dreamy as it may sound.",
-      "cons": "Like every other workplace it has its own issues too but that is evitable.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1901,
-      "is_current_employee": false,
-      "review_date": "2024-08-30",
-      "quality_score": 0.46
-    },
-    {
-      "title": null,
       "role": "Web Designer and Graphics Designer",
       "location": "Tirunelveli",
       "rating": 4.0,
@@ -870,19 +753,6 @@
       "sentiment_score": 0.7893,
       "is_current_employee": true,
       "review_date": "2025-05-24",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
-      "role": "Customer Support Executive",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "The staff and team leaders are so rude and they managers will terminate the employees with out any reasnss",
-      "cons": "Waste of time really bad organization",
-      "sentiment": "negative",
-      "sentiment_score": -0.8875,
-      "is_current_employee": false,
-      "review_date": "2022-11-10",
       "quality_score": 0.45
     },
     {
@@ -952,19 +822,6 @@
     },
     {
       "title": null,
-      "role": "Senior Executive",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "You'll have your job security....that's it",
-      "cons": "Work culture is too bad... they'll support only local guys. You can see high level of favouritism there.",
-      "sentiment": "negative",
-      "sentiment_score": -0.2023,
-      "is_current_employee": false,
-      "review_date": "2022-10-29",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
       "role": "Escalation Specialist",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -974,19 +831,6 @@
       "sentiment_score": 0.5267,
       "is_current_employee": false,
       "review_date": "2024-05-19",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Operations Associate",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "One of the best company culture and facilities. The company is really beautifully and smartly made. Amazing work life balance",
-      "cons": "Nothing as such",
-      "sentiment": "positive",
-      "sentiment_score": 0.9409,
-      "is_current_employee": false,
-      "review_date": "2023-06-27",
       "quality_score": 0.43
     },
     {
@@ -1108,19 +952,6 @@
     },
     {
       "title": null,
-      "role": "Technical Lead",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "The team and the people are good. You get to work on some challenging tasks",
-      "cons": "None that I can think of",
-      "sentiment": "positive",
-      "sentiment_score": 0.5423,
-      "is_current_employee": false,
-      "review_date": "2022-12-10",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
       "role": "Associate Manager",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -1221,19 +1052,6 @@
       "sentiment_score": 0.4337,
       "is_current_employee": false,
       "review_date": "2023-04-14",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Data Science Intern",
-      "location": "Dehradun",
-      "rating": 5.0,
-      "pros": "The work life balance and the company culture are the best things to experience here.",
-      "cons": "No such thing to dislike.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1027,
-      "is_current_employee": true,
-      "review_date": "2025-02-12",
       "quality_score": 0.4
     },
     {
@@ -1420,19 +1238,6 @@
     },
     {
       "title": null,
-      "role": "Scanning Operator",
-      "location": "Bhiwandi",
-      "rating": 1.0,
-      "pros": "Yess karan lms aani ppmp bagging khup sopa aahe",
-      "cons": "Yenyacha janyacha bhada dila pahije kiva bus seva pahije",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-12-05",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
       "role": "Team Manager",
       "location": "Dehradun",
       "rating": 5.0,
@@ -1481,19 +1286,6 @@
       "sentiment_score": 0.6369,
       "is_current_employee": true,
       "review_date": "2023-12-13",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Data Analyst",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Work culture is fabulous......",
-      "cons": "I haven't got any negative experience during my internship, so can't tell nothing.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7505,
-      "is_current_employee": true,
-      "review_date": "2025-05-22",
       "quality_score": 0.37
     },
     {
@@ -1810,32 +1602,6 @@
     },
     {
       "title": null,
-      "role": "Fashion Designer",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Too much work pressure, no worklife balance, internal politics, mean and inhuman people.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5267,
-      "is_current_employee": false,
-      "review_date": "2023-06-26",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Executive Officer",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Office support  got to learned other things\nExcellent communication supportive staff",
-      "cons": "Nothing to disike",
-      "sentiment": "positive",
-      "sentiment_score": 0.8225,
-      "is_current_employee": false,
-      "review_date": "2023-11-16",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Associate Designer",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -2001,32 +1767,6 @@
       "sentiment_score": 0.2944,
       "is_current_employee": false,
       "review_date": "2023-05-16",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Delivery Manager",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Work benifit and good team all seniors support",
-      "cons": "No leave all days work",
-      "sentiment": "positive",
-      "sentiment_score": 0.6954,
-      "is_current_employee": true,
-      "review_date": "2024-12-19",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Delivery Lead",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Myntra one of the best company \nI working 6 month in myntra",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": false,
-      "review_date": "2023-10-26",
       "quality_score": 0.33
     },
     {
@@ -2235,71 +1975,6 @@
       "sentiment_score": -0.1935,
       "is_current_employee": false,
       "review_date": "2024-05-03",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Work Culture, Employee Benefits",
-      "cons": "Salary is not at par with the competition.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2023-02-04",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Senior Officer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good working environment and perks",
-      "cons": "Work life balance is not that good",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2023-08-01",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Senior Assistant",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Every one is coprative and we can learn more things",
-      "cons": "Myntra management",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-03-30",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Catalog Quality Associate",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Policies",
-      "cons": "They can through you out any time giving some Silly reasons",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2022-11-26",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Manager Revenue Planning ",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Cool work environment",
-      "cons": "No work life balance. They make work on weekends",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "is_current_employee": true,
-      "review_date": "2025-01-21",
       "quality_score": 0.32
     },
     {
@@ -2590,19 +2265,6 @@
     },
     {
       "title": null,
-      "role": "Business Consultant",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Office Amenities and Extra Activities Sessions",
-      "cons": "Salary paid is very low",
-      "sentiment": "negative",
-      "sentiment_score": -0.3384,
-      "is_current_employee": false,
-      "review_date": "2022-10-22",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
       "role": "Senior Operations Assistant",
       "location": "Mumbai",
       "rating": 4.0,
@@ -2781,71 +2443,6 @@
       "sentiment_score": 0.6771,
       "is_current_employee": false,
       "review_date": "2023-03-09",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Real time management specialist",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Infra and atmosphere",
-      "cons": "Promotion not done salary increment is unsatisfactory",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-05-15",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Quality Analyst",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "The culture and people here are great.",
-      "cons": "Nothing as such",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2023-01-18",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Catalog Associate",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "great company to work with",
-      "cons": "nothing to say bad about",
-      "sentiment": "positive",
-      "sentiment_score": 0.7876,
-      "is_current_employee": true,
-      "review_date": "2024-01-18",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Free culture",
-      "cons": "Too much process for everything, very unstable staging.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1298,
-      "is_current_employee": false,
-      "review_date": "2023-03-13",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Hub Operations Executive",
-      "location": "Patna",
-      "rating": 4.0,
-      "pros": "Working place is better",
-      "cons": "Employee behaviour is to not good",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2023-03-18",
       "quality_score": 0.3
     },
     {
@@ -3058,58 +2655,6 @@
     },
     {
       "title": null,
-      "role": "Data Entry Operator",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Myntra is like working",
-      "cons": "Myntra is beautiful working place",
-      "sentiment": "positive",
-      "sentiment_score": 0.7506,
-      "is_current_employee": false,
-      "review_date": "2023-02-05",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Escalation Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work life balance & leave policy",
-      "cons": "Everything seems fine",
-      "sentiment": "positive",
-      "sentiment_score": 0.1531,
-      "is_current_employee": false,
-      "review_date": "2022-10-10",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Data Entry Executive",
-      "location": "Bhiwandi",
-      "rating": 4.0,
-      "pros": "Flexible timing",
-      "cons": "They are not hiring for payroll position.",
-      "sentiment": "positive",
-      "sentiment_score": 0.2263,
-      "is_current_employee": false,
-      "review_date": "2022-11-27",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Chat Support Executive",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Work Environment,",
-      "cons": "Temporary roles and no on paper experience",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-03-14",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
       "role": "Associate Quality Assurance Lead",
       "location": "Tiruppur",
       "rating": 5.0,
@@ -3314,97 +2859,6 @@
       "sentiment_score": 0.3612,
       "is_current_employee": false,
       "review_date": "2025-05-26",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Workman",
-      "location": null,
-      "rating": 5.0,
-      "pros": "I love to like work on mutra",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.6705,
-      "is_current_employee": true,
-      "review_date": "2025-05-19",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Officer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Food and travel benefits",
-      "cons": "No recognition and appraisals",
-      "sentiment": "positive",
-      "sentiment_score": 0.1027,
-      "is_current_employee": false,
-      "review_date": "2023-04-17",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Assistant",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Good working",
-      "cons": "Good work and good Cut of",
-      "sentiment": "positive",
-      "sentiment_score": 0.765,
-      "is_current_employee": false,
-      "review_date": "2023-01-12",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Data Analyst",
-      "location": "Bhiwandi",
-      "rating": 4.0,
-      "pros": "Have work life balance",
-      "cons": "Professionalism lacks a lot",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-01-23",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Manager- HUB and Line Haul",
-      "location": "Guwahati",
-      "rating": 5.0,
-      "pros": "Salary",
-      "cons": "Some particular people working with the company",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-03-18",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Team Manager",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "work life balance",
-      "cons": "none as per short stint",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-05-16",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Transport Manager",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "There is no reason to stay there.",
-      "cons": "Management.",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-04-09",
       "quality_score": 0.28
     },
     {
@@ -3691,110 +3145,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2023-05-29",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Great place to work and learn.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2023-06-21",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "HUB Head",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Really a great place to work",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6573,
-      "is_current_employee": false,
-      "review_date": "2023-04-21",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Executive Assistant",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Dicipline",
-      "cons": "Nothing is imposible is my company",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-03-31",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Associate",
-      "location": "Bhiwandi",
-      "rating": 5.0,
-      "pros": "Management",
-      "cons": "Seniors behavior like rudely and selfishness",
-      "sentiment": "negative",
-      "sentiment_score": -0.5267,
-      "is_current_employee": false,
-      "review_date": "2023-01-07",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Warehouse Supervisor",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Work very well",
-      "cons": "All good going on",
-      "sentiment": "positive",
-      "sentiment_score": 0.6764,
-      "is_current_employee": false,
-      "review_date": "2023-02-22",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Design Officer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "lot of perks and benifits",
-      "cons": "less compensation",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-02-06",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good engineering culture",
-      "cons": "Not so great wlb",
-      "sentiment": "negative",
-      "sentiment_score": -0.3046,
-      "is_current_employee": false,
-      "review_date": "2022-12-28",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Category Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "It's culture and environment",
-      "cons": "Nothing to discribe",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-11-06",
       "quality_score": 0.27
     },
     {
@@ -4185,110 +3535,6 @@
       "sentiment_score": 0.3818,
       "is_current_employee": false,
       "review_date": "2023-03-20",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Work culture,politics and senior behaviour",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-01-24",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "I love working for Myntra",
-      "cons": "Excellent",
-      "sentiment": "positive",
-      "sentiment_score": 0.836,
-      "is_current_employee": false,
-      "review_date": "2023-01-23",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Officer",
-      "location": "Bhiwandi",
-      "rating": 4.0,
-      "pros": "Company Culture",
-      "cons": "Nothing like to mention",
-      "sentiment": "negative",
-      "sentiment_score": -0.2755,
-      "is_current_employee": false,
-      "review_date": "2023-04-05",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Agra",
-      "rating": 4.0,
-      "pros": "A good place for working",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2023-02-25",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "It's team effort.",
-      "cons": "Salary and promotion",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-09-20",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Office Assistant",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "Nothing",
-      "cons": "Dislik about there canteen foods",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-02-10",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Manager Planning",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Best culture",
-      "cons": "Hectic to reach people",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2023-06-03",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Executive Quality Assurance & Quality Control ",
-      "location": "Surat",
-      "rating": 4.0,
-      "pros": "Overall Experience is nice 👍🏻",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4215,
-      "is_current_employee": true,
-      "review_date": "2025-01-23",
       "quality_score": 0.26
     },
     {
@@ -4735,110 +3981,6 @@
     },
     {
       "title": null,
-      "role": "Executive",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Culture\nFriendly behaviour",
-      "cons": "Location\nPromotions",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2023-09-14",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Administration Executive",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Good luck",
-      "cons": "Always good job",
-      "sentiment": "positive",
-      "sentiment_score": 0.8316,
-      "is_current_employee": false,
-      "review_date": "2023-05-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Transport Executive",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Something different",
-      "cons": "No job security",
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "is_current_employee": false,
-      "review_date": "2023-03-21",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Deputy Director",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Culture overall",
-      "cons": "Work life balance",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-06-09",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Fire Officer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good company",
-      "cons": "Need job safety",
-      "sentiment": "positive",
-      "sentiment_score": 0.6908,
-      "is_current_employee": false,
-      "review_date": "2023-01-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Junior Executive",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Good 😊",
-      "cons": "Good working  😊",
-      "sentiment": "positive",
-      "sentiment_score": 0.9501,
-      "is_current_employee": false,
-      "review_date": "2024-05-14",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Deo Operator",
-      "location": null,
-      "rating": 1.0,
-      "pros": "it felt so good",
-      "cons": "Behavar",
-      "sentiment": "positive",
-      "sentiment_score": 0.5777,
-      "is_current_employee": true,
-      "review_date": "2024-12-24",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Outbound Executive",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Work Culture",
-      "cons": "Relationship in office",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-02-24",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "senior assistant offroll Supervisor (N3)",
       "location": "Srirampur",
       "rating": 1.0,
@@ -4874,45 +4016,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": true,
       "review_date": "2025-11-08",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Associate",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Everything is Great",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2023-03-04",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Bangalore Rural",
-      "rating": 4.0,
-      "pros": "No turture",
-      "cons": "Salary\nSatisfaction",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2023-03-12",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Team Lead Operations",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Everything",
-      "cons": "Nothing so far",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-03-11",
       "quality_score": 0.24
     },
     {
@@ -5234,7 +4337,7 @@
       "location": null,
       "min_salary": 500000,
       "max_salary": 1500000,
-      "avg_salary": 971423,
+      "avg_salary": 970161,
       "currency": "INR",
       "experience": "0-6 years",
       "sample_count": null
@@ -5252,9 +4355,9 @@
     {
       "role": "Senior Software Engineer",
       "location": null,
-      "min_salary": 2200000,
-      "max_salary": 4500000,
-      "avg_salary": 3664893,
+      "min_salary": 2205000,
+      "max_salary": 4492500,
+      "avg_salary": 3592908,
       "currency": "INR",
       "experience": "2-7 years",
       "sample_count": null
@@ -5262,11 +4365,11 @@
     {
       "role": "Category Manager",
       "location": null,
-      "min_salary": 1100000,
-      "max_salary": 2003000,
-      "avg_salary": 1647189,
+      "min_salary": 1076000,
+      "max_salary": 2018000,
+      "avg_salary": 1684418,
       "currency": "INR",
-      "experience": "2-10 years",
+      "experience": "2-9 years",
       "sample_count": null
     },
     {
@@ -5302,9 +4405,9 @@
     {
       "role": "Key Account Manager",
       "location": null,
-      "min_salary": 350000,
-      "max_salary": 900000,
-      "avg_salary": 583979,
+      "min_salary": 314400,
+      "max_salary": 762000,
+      "avg_salary": 597815,
       "currency": "INR",
       "experience": "0-7 years",
       "sample_count": null
@@ -5324,7 +4427,7 @@
       "location": null,
       "min_salary": 150000,
       "max_salary": 301000,
-      "avg_salary": 265550,
+      "avg_salary": 265303,
       "currency": "INR",
       "experience": "0-4 years",
       "sample_count": null
@@ -5394,7 +4497,7 @@
       "location": null,
       "min_salary": 730000,
       "max_salary": 1470000,
-      "avg_salary": 994799,
+      "avg_salary": 1039629,
       "currency": "INR",
       "experience": "1-3 years",
       "sample_count": null
@@ -5424,7 +4527,7 @@
       "location": null,
       "min_salary": 300000,
       "max_salary": 512000,
-      "avg_salary": 426391,
+      "avg_salary": 428684,
       "currency": "INR",
       "experience": "0-4 years",
       "sample_count": null
@@ -5562,14 +4665,4466 @@
       "details": "To support our parent employees, we provide crèche reimbursement in Gurgaon and Bangalore corporate locations. This is supplemented by 5 dedicated days of childcare leave annually for all Myntraites."
     }
   ],
-  "_scraped_at": "2026-04-10T17:29:47.457253+00:00",
+  "interviews": [
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "500 installs and 400 uninstalls in hours, what are the top 3 hypotheses?",
+          "answer": null
+        },
+        {
+          "question": "4.2 rating with 50 reviews and 3.9 rating with 1000+ reviews … which one do you prefer and why?",
+          "answer": "I prefer the 3.9 rating with 1000+ reviews for its reliability and broader user feedback.A higher number of reviews (1000+) indicates a larger user base, suggesting more reliable data.The 3.9 rating, while lower, reflects a consensus from many users, which can highlight consistent strengths and weaknesses.For example, a product with 50 reviews might be skewed by a few enthusiastic users, while 1000+ reviews provide a more balanced view.In product management, understanding user sentiment from a larger sample is crucial for making informed decisions."
+        },
+        {
+          "question": "Define success for a gaming app in numbers",
+          "answer": null
+        },
+        {
+          "question": "How would you estimate Myntra deliveries in a city like Vellore per day?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:10:38"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions around business",
+          "answer": null
+        },
+        {
+          "question": "SOV, market share, situational questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:33:11"
+    },
+    {
+      "role": "Product Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What factors would you consider when choosing a location to open an ice cream shop, and what strategies would you implement to increase its revenue by 50%?",
+          "answer": null
+        },
+        {
+          "question": "What reasons might users find user ratings on Myntra misleading, and what steps could be taken to rectify this issue?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:05"
+    },
+    {
+      "role": "Senior Data Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Advanced SQL & Python",
+          "answer": null
+        },
+        {
+          "question": "Majorly focused on Streaming and Cloud.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:35:42"
+    },
+    {
+      "role": "Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Design a feature store",
+          "answer": null
+        },
+        {
+          "question": "Design a cache",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:30:32"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "SQL 3 rounds",
+          "answer": null
+        },
+        {
+          "question": "3 case study rounds",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 15:31:24"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "It's about testing my pratical knowledge of the subjects like costing and financial reporting.",
+          "answer": null
+        },
+        {
+          "question": "It's majorly around my work experience related to first year of articleship, like how you magae to find the observations in audits.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-09 15:30:16"
+    },
+    {
+      "role": "Product Management Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Estimate number of orders placed at myntra in one day",
+          "answer": null
+        },
+        {
+          "question": "What's your favorite product abd how will u improve it?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:06:32"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What no of products are getting returns from a 100 products?",
+          "answer": null
+        },
+        {
+          "question": "Explain about your projects?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-23 16:07:01"
+    },
+    {
+      "role": "Associate Category Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on your previous role",
+          "answer": null
+        },
+        {
+          "question": "Explanation as to how can you fit here",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-02 15:31:34"
+    }
+  ],
+  "_scraped_at": "2026-04-12T15:57:32.469702+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Myntra",
   "_registry_industry": "E-Commerce",
   "_sentiment": {
-    "positiveCount": 258,
-    "negativeCount": 80,
-    "neutralCount": 63,
+    "positiveCount": 220,
+    "negativeCount": 65,
+    "neutralCount": 47,
     "topPositiveThemes": [
       "company culture",
       "work-life balance",

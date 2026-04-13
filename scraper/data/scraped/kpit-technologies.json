@@ -10,7 +10,7 @@
   "overall_rating": 2.9000000953674316,
   "work_life_balance": 2.81,
   "salary_benefits": 2.84,
-  "job_security": 2.46,
+  "job_security": 2.47,
   "career_growth": 2.39,
   "company_culture": 2.7,
   "reviews": [
@@ -493,32 +493,6 @@
       "sentiment_score": 0.9827,
       "is_current_employee": true,
       "review_date": "2024-04-04",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Office place and security services",
-      "cons": "No work life balance \nNo professionalism shown by management team \nAlways demotivating good performers \nNo work culture at all \nLot of blame game and politics - everyday \nThey can do 1000s of pages documentation just to create evidences for showing adherence to the process but no focus towards actual goal or value addition to customer. \n90% time wasted in lengthy and irrelevant discussions",
-      "sentiment": "negative",
-      "sentiment_score": -0.6486,
-      "is_current_employee": false,
-      "review_date": "2024-08-18",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Software Engineer",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "KPIT has a open culture where you will explore more than any other automotive domain.",
-      "cons": "Useless genesis program why? \nBecause \nFirst you will have to clear all modules including technical and soft skills and your life will be not less than hell\nSecond thing \nThe things for which were been trained in genesis program were of no use as you step out for a new project\nNow coming to the project timelines and senior’s support , They don't provide the required resources and software licence/support/trainings in time and expect us to complete the work in stipulated time , whenever anyone raises these issues to the seniors they simply scold and try to prove that you are inefficient and you doesn't work anything there taking salary of doing nothing.After training, you have 5% chance of getting development profile in a project, most of time (about 95%) you will get software testing , code correction and Documentation. In kpit you have to work for 12–14 hours a day with the technology of very less scope so after completing 2 years in kpit you would not be able to switch easily in other companies, and finally there is no stability here as firings are common no one can predict when one would be fired. \nSo now it's upon your choice whether you want yourself to be scolded by everyone around you after working 12–14 hrs per day and learning new technologies in every project with no technical trainings and material , or you want to live a decent life in any good mass recruiter IT company where you would get enough time to prepare for govt exams. choice is yours , choose wisely.kpit didn't understand corporate policies, they do work only for profit and not more than that.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3936,
-      "is_current_employee": true,
-      "review_date": "2024-01-07",
       "quality_score": 0.8
     },
     {
@@ -1316,32 +1290,6 @@
     },
     {
       "title": null,
-      "role": "Scrum Master and Project Lead",
-      "location": "Pune",
-      "rating": 2.0,
-      "pros": "Salary",
-      "cons": "Company is behind in terms of project management industry trends, half backed management tools, you can’t even get ms office for your work. Lacking in skilled work forces in agile and scrum.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "is_current_employee": false,
-      "review_date": "2024-07-23",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
-      "role": "Software Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "On time salary, can talk directly to HR.",
-      "cons": "Does who remains close to management,  they gets hike or promotion. \nAppraisal cycle do not follow. \nAfter joining upto 2 to 3 years no hike.",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2024-07-20",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
       "role": "Test Engineer",
       "location": "Pune",
       "rating": 1.0,
@@ -1511,19 +1459,6 @@
     },
     {
       "title": null,
-      "role": "Senior Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Indeed it is the best place to grow. A constant drive provided by the management in all levels to learn more and develop further more.",
-      "cons": "Pay could be better",
-      "sentiment": "positive",
-      "sentiment_score": 0.7512,
-      "is_current_employee": false,
-      "review_date": "2024-07-18",
-      "quality_score": 0.49
-    },
-    {
-      "title": null,
       "role": "Diagnostic Engineer",
       "location": "Visakhapatnam",
       "rating": 3.0,
@@ -1533,32 +1468,6 @@
       "sentiment_score": -0.1541,
       "is_current_employee": false,
       "review_date": "2025-01-22",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Senior Technical Lead",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "I have been 10 +yrs with kpit. Kpit recognise talent and give chance for there development in kpit careers",
-      "cons": "WFH depends on your manager.\nSalary compensation are less.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5859,
-      "is_current_employee": false,
-      "review_date": "2024-11-15",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Senior Technical Lead",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Excellent work culture, recognition given for everyone to motivate and also for giving value to everyone who performs good.",
-      "cons": "From this year appraisal not as per Company standard.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9186,
-      "is_current_employee": false,
-      "review_date": "2024-09-17",
       "quality_score": 0.48
     },
     {
@@ -1940,19 +1849,6 @@
     },
     {
       "title": null,
-      "role": "Technical Lead",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "I liked that culture and Work life Balance",
-      "cons": "Not recognised the skill and mismatch the work and skill and knowledge of employees l.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4215,
-      "is_current_employee": false,
-      "review_date": "2024-07-24",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
       "role": "Senior Technical Lead",
       "location": "Pune",
       "rating": 1.0,
@@ -2092,19 +1988,6 @@
       "sentiment_score": -0.7303,
       "is_current_employee": true,
       "review_date": "2025-01-25",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Software Developer",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "I did lot of work not able to manage personal life also I did too much work got worst appraisal",
-      "sentiment": "negative",
-      "sentiment_score": -0.6249,
-      "is_current_employee": true,
-      "review_date": "2024-12-24",
       "quality_score": 0.41
     },
     {
@@ -2304,19 +2187,6 @@
     },
     {
       "title": null,
-      "role": "Senior Technical Lead",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Campus is good",
-      "cons": "-Working culture is not good \n-Zero work life balance\n-No recognition for hardwork and dedication",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": true,
-      "review_date": "2025-01-23",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
       "role": "Senior Engineer",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -2421,32 +2291,6 @@
     },
     {
       "title": null,
-      "role": "Background Verification Specialist",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Overall the company has so much things to be grateful about the campus the environment etc..",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": true,
-      "review_date": "2025-01-07",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Softwaretest Engineer",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "Work life balance",
-      "cons": "Deficulty in getting the project ,there is no pramotion on time, no job security",
-      "sentiment": "negative",
-      "sentiment_score": -0.6636,
-      "is_current_employee": true,
-      "review_date": "2025-10-26",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
       "role": "Senior Software Engineer",
       "location": "Pune",
       "rating": 2.0,
@@ -2482,32 +2326,6 @@
       "sentiment_score": -0.128,
       "is_current_employee": true,
       "review_date": "2025-01-20",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Senior Systems Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Friendly Environment and good colleagues",
-      "cons": "I selected as developer but worked in documentation for 2 years",
-      "sentiment": "positive",
-      "sentiment_score": 0.4678,
-      "is_current_employee": false,
-      "review_date": "2024-10-14",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Work from home, Work culture and appraisal.",
-      "cons": "no extra benefits, no diwali gift or No recognition",
-      "sentiment": "negative",
-      "sentiment_score": -0.8477,
-      "is_current_employee": false,
-      "review_date": "2024-11-23",
       "quality_score": 0.36
     },
     {
@@ -2586,45 +2404,6 @@
       "sentiment_score": 0.5696,
       "is_current_employee": false,
       "review_date": "2024-12-08",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Automotive Software Engineer",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Good company for automotive sector",
-      "cons": "Salary and promotion criteria is not goot\nAs much expected",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-01-12",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Test Lead",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Overall good company to learn..",
-      "cons": "Work life balance is based on your project work load.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2025-01-09",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Senior Technical Lead",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Good Environment and great place location",
-      "cons": "Learning seems less has to work parellal by yourself",
-      "sentiment": "positive",
-      "sentiment_score": 0.7906,
-      "is_current_employee": true,
-      "review_date": "2024-12-23",
       "quality_score": 0.35
     },
     {
@@ -2902,19 +2681,6 @@
     },
     {
       "title": null,
-      "role": "Senior Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Work life balance is good (depends on the project).",
-      "cons": "No much employee benefits.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5106,
-      "is_current_employee": false,
-      "review_date": "2024-10-04",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
       "role": "Softwaretest Engineer",
       "location": "Pune",
       "rating": 3.0,
@@ -2989,45 +2755,6 @@
       "sentiment_score": -0.2249,
       "is_current_employee": false,
       "review_date": "2024-09-28",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Softwaretest Engineer",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Learnt new technology",
-      "cons": "They will not provide project automatically terminate from company",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-01-26",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Associate Software Engineer",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Overall good place to work",
-      "cons": "Then don't have good project for freshers",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2024-10-14",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Senior Test Engineer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good in terms of flexible work options",
-      "cons": "Projects are very limited period",
-      "sentiment": "positive",
-      "sentiment_score": 0.3832,
-      "is_current_employee": false,
-      "review_date": "2025-01-21",
       "quality_score": 0.32
     },
     {
@@ -3132,71 +2859,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2024-11-11",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Associate Project Manager",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Worst experience.",
-      "cons": "Not recommended, worst mentality of supervisors.\nManufacturing Like culture",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0263,
-      "is_current_employee": true,
-      "review_date": "2025-01-07",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Presales Consultant",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Work life balance",
-      "cons": "Cafeteria is not great and would be improved",
-      "sentiment": "negative",
-      "sentiment_score": -0.05,
-      "is_current_employee": true,
-      "review_date": "2025-02-05",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Project Manager",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "Phase 3 campus",
-      "cons": "Work Culture\nMicro management \nNo Work life balance",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2025-01-08",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Worst company",
-      "cons": "Every things I don't like any culture of Kpit",
-      "sentiment": "negative",
-      "sentiment_score": -0.7359,
-      "is_current_employee": true,
-      "review_date": "2025-01-16",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Software Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "I love the office and colleagues",
-      "cons": "Bad policies in the Kpit.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2024-11-20",
       "quality_score": 0.31
     },
     {
@@ -3435,32 +3097,6 @@
     },
     {
       "title": null,
-      "role": "Software Engineer",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Average company",
-      "cons": "Very poor management \nVery poor promotion policy",
-      "sentiment": "negative",
-      "sentiment_score": -0.7774,
-      "is_current_employee": false,
-      "review_date": "2024-10-25",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Technical Lead",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Great Place to Work on cutting edge technologies",
-      "cons": "N/A",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": false,
-      "review_date": "2024-11-01",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
       "role": "Associate Software Engineer",
       "location": "Pune",
       "rating": 1.0,
@@ -3669,84 +3305,6 @@
     },
     {
       "title": null,
-      "role": "Senior Software Test Engineer",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Outer nature is good",
-      "cons": "not good work environment",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2024-11-13",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Kochi",
-      "rating": 2.0,
-      "pros": "Na",
-      "cons": "Worst work experience , no skill development",
-      "sentiment": "negative",
-      "sentiment_score": -0.743,
-      "is_current_employee": true,
-      "review_date": "2025-02-22",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Software Engineer",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "They are giving high importance for learning",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.5994,
-      "is_current_employee": false,
-      "review_date": "2025-04-12",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Design Engineer",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Team is amazing and supportive",
-      "cons": "Salary and hikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.7184,
-      "is_current_employee": true,
-      "review_date": "2025-02-09",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "NA",
-      "cons": "No rewards are given for great work",
-      "sentiment": "positive",
-      "sentiment_score": 0.3707,
-      "is_current_employee": false,
-      "review_date": "2024-11-26",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "C Developer",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Nothing to like",
-      "cons": "Worst experience of my career",
-      "sentiment": "positive",
-      "sentiment_score": 0.2924,
-      "is_current_employee": true,
-      "review_date": "2025-02-14",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
       "role": "Software Engineer",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -3886,19 +3444,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2024-11-27",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Associate Solution Architect",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Learning",
-      "cons": "Poor appraisal, poor work life balance",
-      "sentiment": "negative",
-      "sentiment_score": -0.7351,
-      "is_current_employee": false,
-      "review_date": "2024-10-16",
       "quality_score": 0.27
     },
     {
@@ -4085,58 +3630,6 @@
     },
     {
       "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Learning",
-      "cons": "Demand based value is given",
-      "sentiment": "positive",
-      "sentiment_score": 0.2263,
-      "is_current_employee": false,
-      "review_date": "2025-03-11",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Software Developer",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "Learning and projects",
-      "cons": "Appraisals and promotions",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-02-01",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Technical Lead",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Great place to learn",
-      "cons": "Strict deadline.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2024-12-06",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Lead Design Engineer",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Work-life balance",
-      "cons": "Job security, Market correction.",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": true,
-      "review_date": "2025-01-26",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "Technical Lead",
       "location": "Pune",
       "rating": 1.0,
@@ -4250,58 +3743,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2024-11-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Software Engineer",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "On time salary deliver",
-      "cons": "Micromanagement",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-12-03",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Test Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work Environment and salary",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-11-27",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "System Engineer",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "WFH availability.",
-      "cons": "Appraisal is shit",
-      "sentiment": "negative",
-      "sentiment_score": -0.5574,
-      "is_current_employee": false,
-      "review_date": "2024-11-27",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Project Manager",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Salary and Learning",
-      "cons": "Rest all",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-11-12",
       "quality_score": 0.25
     },
     {
@@ -4761,32 +4202,6 @@
     },
     {
       "title": null,
-      "role": "Senior Automation Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-09-06",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Software Developer",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Layoff",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-09-17",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
       "role": "Senior Software Engineer",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -4853,11 +4268,21 @@
   ],
   "salaries": [
     {
+      "role": "Consultant",
+      "location": null,
+      "min_salary": 417000,
+      "max_salary": 1433145,
+      "avg_salary": 791118,
+      "currency": "INR",
+      "experience": "2-6 years",
+      "sample_count": null
+    },
+    {
       "role": "Senior Software Engineer",
       "location": null,
-      "min_salary": 806051,
-      "max_salary": 1519380,
-      "avg_salary": 1186003,
+      "min_salary": 806279,
+      "max_salary": 1517585,
+      "avg_salary": 1186366,
       "currency": "INR",
       "experience": "1-6 years",
       "sample_count": null
@@ -4865,9 +4290,9 @@
     {
       "role": "Software Engineer",
       "location": null,
-      "min_salary": 441941,
-      "max_salary": 942789,
-      "avg_salary": 591367,
+      "min_salary": 440427,
+      "max_salary": 943428,
+      "avg_salary": 590911,
       "currency": "INR",
       "experience": "0-4 years",
       "sample_count": null
@@ -4875,11 +4300,141 @@
     {
       "role": "Technical Lead",
       "location": null,
-      "min_salary": 1089249,
-      "max_salary": 2258412,
-      "avg_salary": 1789722,
+      "min_salary": 1087708,
+      "max_salary": 2257329,
+      "avg_salary": 1789504,
       "currency": "INR",
       "experience": "4-10 years",
+      "sample_count": null
+    },
+    {
+      "role": "Software Developer",
+      "location": null,
+      "min_salary": 425000,
+      "max_salary": 1140000,
+      "avg_salary": 782877,
+      "currency": "INR",
+      "experience": "0-5 years",
+      "sample_count": null
+    },
+    {
+      "role": "System Engineer",
+      "location": null,
+      "min_salary": 450000,
+      "max_salary": 1250000,
+      "avg_salary": 726750,
+      "currency": "INR",
+      "experience": "1-5 years",
+      "sample_count": null
+    },
+    {
+      "role": "Lead Engineer",
+      "location": null,
+      "min_salary": 1200000,
+      "max_salary": 5000000,
+      "avg_salary": 2924704,
+      "currency": "INR",
+      "experience": "6-11 years",
+      "sample_count": null
+    },
+    {
+      "role": "Developer",
+      "location": null,
+      "min_salary": 400000,
+      "max_salary": 1039228,
+      "avg_salary": 554652,
+      "currency": "INR",
+      "experience": "0-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Java Developer",
+      "location": null,
+      "min_salary": 447480,
+      "max_salary": 938500,
+      "avg_salary": 717052,
+      "currency": "INR",
+      "experience": "2-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Senior Developer",
+      "location": null,
+      "min_salary": 888000,
+      "max_salary": 3000000,
+      "avg_salary": 1719348,
+      "currency": "INR",
+      "experience": "3-10 years",
+      "sample_count": null
+    },
+    {
+      "role": "Salesforce Developer",
+      "location": null,
+      "min_salary": 403500,
+      "max_salary": 501000,
+      "avg_salary": 454253,
+      "currency": "INR",
+      "experience": "2-3 years",
+      "sample_count": null
+    },
+    {
+      "role": "Plsql Developer",
+      "location": null,
+      "min_salary": 320000,
+      "max_salary": 600000,
+      "avg_salary": 468185,
+      "currency": "INR",
+      "experience": "2-5 years",
+      "sample_count": null
+    },
+    {
+      "role": "Project Engineer",
+      "location": null,
+      "min_salary": 816000,
+      "max_salary": 1640000,
+      "avg_salary": 1193333,
+      "currency": "INR",
+      "experience": "4-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Lead Software Engineer",
+      "location": null,
+      "min_salary": 2250000,
+      "max_salary": 2500000,
+      "avg_salary": 2256098,
+      "currency": "INR",
+      "experience": "7-12 years",
+      "sample_count": null
+    },
+    {
+      "role": "Software Engineer 2",
+      "location": null,
+      "min_salary": 700000,
+      "max_salary": 1480000,
+      "avg_salary": 1100000,
+      "currency": "INR",
+      "experience": "1-6 years",
+      "sample_count": null
+    },
+    {
+      "role": "Web Developer",
+      "location": null,
+      "min_salary": 476000,
+      "max_salary": 1220000,
+      "avg_salary": 560000,
+      "currency": "INR",
+      "experience": "0-3 years",
+      "sample_count": null
+    },
+    {
+      "role": "Application Developer",
+      "location": null,
+      "min_salary": 550000,
+      "max_salary": 1310000,
+      "avg_salary": 933333,
+      "currency": "INR",
+      "experience": "1-6 years",
       "sample_count": null
     },
     {
@@ -4887,7 +4442,7 @@
       "location": null,
       "min_salary": 1500000,
       "max_salary": 2900000,
-      "avg_salary": 2466890,
+      "avg_salary": 2469984,
       "currency": "INR",
       "experience": "5-12 years",
       "sample_count": null
@@ -4896,20 +4451,10 @@
       "role": "Senior Test Engineer",
       "location": null,
       "min_salary": 800000,
-      "max_salary": 1340000,
-      "avg_salary": 1056530,
+      "max_salary": 1337999,
+      "avg_salary": 1059512,
       "currency": "INR",
       "experience": "2-6 years",
-      "sample_count": null
-    },
-    {
-      "role": "Software Developer",
-      "location": null,
-      "min_salary": 425500,
-      "max_salary": 1138499,
-      "avg_salary": 737576,
-      "currency": "INR",
-      "experience": "0-5 years",
       "sample_count": null
     },
     {
@@ -4920,136 +4465,6 @@
       "avg_salary": 605724,
       "currency": "INR",
       "experience": "1-4 years",
-      "sample_count": null
-    },
-    {
-      "role": "Test Engineer",
-      "location": null,
-      "min_salary": 450000,
-      "max_salary": 901688,
-      "avg_salary": 609049,
-      "currency": "INR",
-      "experience": "1-4 years",
-      "sample_count": null
-    },
-    {
-      "role": "Project Manager",
-      "location": null,
-      "min_salary": 1652000,
-      "max_salary": 3170000,
-      "avg_salary": 2611639,
-      "currency": "INR",
-      "experience": "8-17 years",
-      "sample_count": null
-    },
-    {
-      "role": "Design Engineer",
-      "location": null,
-      "min_salary": 414500,
-      "max_salary": 724150,
-      "avg_salary": 593024,
-      "currency": "INR",
-      "experience": "0-6 years",
-      "sample_count": null
-    },
-    {
-      "role": "Test Lead",
-      "location": null,
-      "min_salary": 1200000,
-      "max_salary": 2096300,
-      "avg_salary": 1784825,
-      "currency": "INR",
-      "experience": "4-9 years",
-      "sample_count": null
-    },
-    {
-      "role": "Senior Design Engineer",
-      "location": null,
-      "min_salary": 600000,
-      "max_salary": 1100000,
-      "avg_salary": 977980,
-      "currency": "INR",
-      "experience": "3-9 years",
-      "sample_count": null
-    },
-    {
-      "role": "Associate Software Engineer",
-      "location": null,
-      "min_salary": 450000,
-      "max_salary": 500000,
-      "avg_salary": 459851,
-      "currency": "INR",
-      "experience": "0-2 years",
-      "sample_count": null
-    },
-    {
-      "role": "Senior Software Developer",
-      "location": null,
-      "min_salary": 820000,
-      "max_salary": 1575000,
-      "avg_salary": 1226883,
-      "currency": "INR",
-      "experience": "3-7 years",
-      "sample_count": null
-    },
-    {
-      "role": "Solution Architect",
-      "location": null,
-      "min_salary": 2400000,
-      "max_salary": 4403161,
-      "avg_salary": 3661892,
-      "currency": "INR",
-      "experience": "10-19 years",
-      "sample_count": null
-    },
-    {
-      "role": "Embedded Software Engineer",
-      "location": null,
-      "min_salary": 410000,
-      "max_salary": 1000000,
-      "avg_salary": 622321,
-      "currency": "INR",
-      "experience": "0-5 years",
-      "sample_count": null
-    },
-    {
-      "role": "Devops Engineer",
-      "location": null,
-      "min_salary": 467900,
-      "max_salary": 2400000,
-      "avg_salary": 1495648,
-      "currency": "INR",
-      "experience": "1-6 years",
-      "sample_count": null
-    },
-    {
-      "role": "Senior Test Lead",
-      "location": null,
-      "min_salary": 1430000,
-      "max_salary": 2620897,
-      "avg_salary": 2542264,
-      "currency": "INR",
-      "experience": "5-12 years",
-      "sample_count": null
-    },
-    {
-      "role": "System Test Engineer",
-      "location": null,
-      "min_salary": 470000,
-      "max_salary": 700000,
-      "avg_salary": 561882,
-      "currency": "INR",
-      "experience": "2-4 years",
-      "sample_count": null
-    },
-    {
-      "role": "Technical Project Manager",
-      "location": null,
-      "min_salary": 2200000,
-      "max_salary": 3650000,
-      "avg_salary": 3463931,
-      "currency": "INR",
-      "experience": "10-18 years",
       "sample_count": null
     }
   ],
@@ -5165,19 +4580,548 @@
       "details": "21 days (by location) | Flexi holiday for a range of festivals |Annual Shutdown in December (compensatory workdays) |Maternity Leave - per govt guidelines & 1 week of paternity leave"
     }
   ],
-  "_scraped_at": "2026-04-10T16:38:02.506463+00:00",
+  "interviews": [
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    },
+    {
+      "role": "Associate Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is pwm ?",
+          "answer": null
+        },
+        {
+          "question": "explain the memory layouot",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 17:15:38"
+    }
+  ],
+  "_scraped_at": "2026-04-12T14:43:14.085940+00:00",
   "_source": "ambitionbox",
   "_registry_name": "KPIT Technologies",
   "_registry_industry": "IT Services",
   "_sentiment": {
-    "positiveCount": 135,
-    "negativeCount": 176,
-    "neutralCount": 61,
+    "positiveCount": 110,
+    "negativeCount": 164,
+    "neutralCount": 53,
     "topPositiveThemes": [
       "career growth",
       "training",
-      "company culture",
       "salary & compensation",
+      "company culture",
       "work-life balance"
     ],
     "topNegativeThemes": [

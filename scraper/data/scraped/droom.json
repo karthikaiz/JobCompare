@@ -2626,7 +2626,205 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-11T00:02:58.408585+00:00",
+  "interviews": [
+    {
+      "role": "Software Engineer Intern Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, Technical, Technical, HR",
+      "questions": [],
+      "review_date": "2024-08-16 21:22:27"
+    },
+    {
+      "role": "Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-08 17:00:55"
+    },
+    {
+      "role": "Catalogue Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobile knowledge",
+          "answer": null
+        },
+        {
+          "question": "How much enthusia for car and bike",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 12:17:09"
+    },
+    {
+      "role": "Associate Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Prepare Basic Coding Questions",
+          "answer": null
+        },
+        {
+          "question": "MERN Tech and Next.js, PHP Laravel",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-26 12:20:46"
+    },
+    {
+      "role": "Sales Training Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "Resume Shortlist, One-on-one",
+      "questions": [],
+      "review_date": "2023-12-17 11:50:48"
+    },
+    {
+      "role": "Software Developer Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Aptitude Test, Coding Test, HR",
+      "questions": [],
+      "review_date": "2024-05-16 18:54:00"
+    },
+    {
+      "role": "Tele Caller and Receptionist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-08-12 17:12:47"
+    },
+    {
+      "role": "Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Resume Shortlist, HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2023-05-11 12:18:32"
+    },
+    {
+      "role": "Associate Director",
+      "difficulty": null,
+      "experience": null,
+      "process": "Resume Shortlist, Technical, One-on-one, HR",
+      "questions": [],
+      "review_date": "2023-03-30 22:09:33"
+    },
+    {
+      "role": "Senior Android Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2024-01-18 20:09:57"
+    },
+    {
+      "role": "Software Engineer Intern Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, Technical, Technical, HR",
+      "questions": [],
+      "review_date": "2024-08-16 21:22:27"
+    },
+    {
+      "role": "Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-08 17:00:55"
+    },
+    {
+      "role": "Catalogue Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobile knowledge",
+          "answer": null
+        },
+        {
+          "question": "How much enthusia for car and bike",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-16 12:17:09"
+    },
+    {
+      "role": "Associate Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Prepare Basic Coding Questions",
+          "answer": null
+        },
+        {
+          "question": "MERN Tech and Next.js, PHP Laravel",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-26 12:20:46"
+    },
+    {
+      "role": "Sales Training Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "Resume Shortlist, One-on-one",
+      "questions": [],
+      "review_date": "2023-12-17 11:50:48"
+    },
+    {
+      "role": "Software Developer Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Aptitude Test, Coding Test, HR",
+      "questions": [],
+      "review_date": "2024-05-16 18:54:00"
+    },
+    {
+      "role": "Tele Caller and Receptionist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-08-12 17:12:47"
+    },
+    {
+      "role": "Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Resume Shortlist, HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2023-05-11 12:18:32"
+    },
+    {
+      "role": "Associate Director",
+      "difficulty": null,
+      "experience": null,
+      "process": "Resume Shortlist, Technical, One-on-one, HR",
+      "questions": [],
+      "review_date": "2023-03-30 22:09:33"
+    },
+    {
+      "role": "Senior Android Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2024-01-18 20:09:57"
+    }
+  ],
+  "_scraped_at": "2026-04-13T01:17:58.437826+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Droom",
   "_registry_industry": "Automotive",

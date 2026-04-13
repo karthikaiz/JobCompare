@@ -16,6 +16,19 @@
   "reviews": [
     {
       "title": null,
+      "role": "Application Developer",
+      "location": "Pune",
+      "rating": 3.0,
+      "pros": "The work culture was good for few few years back. And pay was good good as a service based company. Also you can learn alot as they are following good ammount of coding practices.",
+      "cons": "The current culture not that good. Leads are not giving hikes, promotions as giving excuses of budget. Then rolling of anyone from project without any reason. Not giving good feedback in yearly performance assessment. Inside culture also getting more toxic.",
+      "sentiment": "positive",
+      "sentiment_score": 0.6923,
+      "is_current_employee": true,
+      "review_date": "2026-02-08",
+      "quality_score": 0.8
+    },
+    {
+      "title": null,
       "role": "Lead Consultant",
       "location": "Delhi",
       "rating": 2.0,
@@ -351,6 +364,19 @@
       "is_current_employee": false,
       "review_date": "2022-10-07",
       "quality_score": 0.75
+    },
+    {
+      "title": null,
+      "role": "Lead Consultant",
+      "location": "Bangalore Rural",
+      "rating": 1.0,
+      "pros": "Nothing",
+      "cons": "Recently a former teammate was called at 12 noon and asked to resign by 4 om that day when he was on leave attending a hospital matter.\nThe HR and leadership is doing god knows what.\nNo normal hike in 2025 just like 2024,2023,2022 and 2021.\nStarve to death is what they want.",
+      "sentiment": "negative",
+      "sentiment_score": -0.765,
+      "is_current_employee": true,
+      "review_date": "2026-03-05",
+      "quality_score": 0.74
     },
     {
       "title": null,
@@ -4912,13 +4938,1623 @@
       "details": "We aid our employees and their dependents with hospitalization benefits including COVID-19 home care support. We offer coverage for members belonging to the LGBTQ+ community, domestic partners-no questions asked and for differently-abled and financially-dependent siblings. We also offer flexibility to port the policy even after you leave Thoughtworks."
     }
   ],
-  "_scraped_at": "2026-04-12T03:49:04.971592+00:00",
+  "interviews": [
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    },
+    {
+      "role": "Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Explain Encapsulation",
+          "answer": null
+        },
+        {
+          "question": "Explain Inheritance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 18:36:20"
+    },
+    {
+      "role": "Graduate Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "OOPs based coding challenges",
+          "answer": null
+        },
+        {
+          "question": "Extensions/modifications based on implemented code",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-09 12:32:45"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "They give a repo joyofenergy. Will ask you to create an api",
+          "answer": null
+        },
+        {
+          "question": "Will ask you to refactor the code and add test",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-29 10:09:54"
+    },
+    {
+      "role": "Consultant Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "They gave a golang API repository before the interview and was asked to understand it in depth, on the day of interview, I was asked to add a new API to that repo and write the business logic.",
+          "answer": "Adding a new API endpoint in a Golang repository with business logic implementation.Understand the existing API structure and routing in the repository.Define the new API endpoint, e.g., POST /api/v1/resource.Implement the business logic in a separate service layer for maintainability.Use appropriate HTTP status codes for responses, e.g., 201 for resource creation.Write unit tests to ensure the new API behaves as expected."
+        },
+        {
+          "question": "REST API principles, HTTP Methods, Why golang over java?, Golang memory model, Garbage collection in golang",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-31 16:34:06"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Shared a repository with Charts. Reactjs Project. Modify existing Code. Little bit tougher. Mostly on Arrays.",
+          "answer": null
+        },
+        {
+          "question": "Existing Work, Day to Day Activities",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 17:41:27"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience about TDD",
+          "answer": "Test-Driven Development (TDD) emphasizes writing tests before code to ensure functionality and improve code quality.TDD follows a cycle of Red-Green-Refactor: write a failing test (Red), make it pass (Green), then refactor the code.It encourages better design and modular code, as tests guide the development process.Example: In a project, I wrote unit tests for a new feature before implementing it, which helped identify edge cases early.TDD can lead to fewer bugs in production, as tests are created for every piece of functionality.It fosters collaboration among team members, as tests serve as documentation for expected behavior."
+        },
+        {
+          "question": "Situations based questions mainly judging your decisions.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-22 14:24:56"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Coding Test, Technical, HR",
+      "questions": [],
+      "review_date": "2025-02-20 19:17:38"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Coding Test, Case Study, Group Discussion, Group Discussion",
+      "questions": [],
+      "review_date": "2024-12-25 20:35:56"
+    },
+    {
+      "role": "Senior Consultant",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-01 20:31:09"
+    },
+    {
+      "role": "Graduate Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Code Pairing, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-12-02 14:22:42"
+    }
+  ],
+  "_scraped_at": "2026-04-13T02:07:13.515670+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Thoughtworks",
   "_registry_industry": "IT Services",
   "_sentiment": {
-    "positiveCount": 234,
-    "negativeCount": 63,
+    "positiveCount": 235,
+    "negativeCount": 64,
     "neutralCount": 54,
     "topPositiveThemes": [
       "company culture",

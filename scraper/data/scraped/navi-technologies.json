@@ -3305,19 +3305,6 @@
     },
     {
       "title": null,
-      "role": "Collections Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2026-01-29",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
       "role": "Recovery Executive",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -3327,6 +3314,19 @@
       "sentiment_score": 0.0,
       "is_current_employee": true,
       "review_date": "2026-04-10",
+      "quality_score": 0.21
+    },
+    {
+      "title": null,
+      "role": "Collections Executive",
+      "location": "Bengaluru",
+      "rating": 5.0,
+      "pros": "",
+      "cons": "Nothing",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-01-29",
       "quality_score": 0.21
     }
   ],
@@ -3532,8 +3532,654 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T17:18:49.264073+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Free meal",
+      "details": "Reported by 14 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 10 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Office gym",
+      "details": "Reported by 9 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 6 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 6 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "International/On-site exposure",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Joining bonus",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Relocation bonus",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Performance bonus",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 5 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your reason for changing jobs?",
+          "answer": null
+        },
+        {
+          "question": "What do you know about Navi?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-27 14:58:33"
+    },
+    {
+      "role": "IT Manager",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "The interviewer, Pushpakar, primarily focused on my educational background, including whether my education was online or offline, the university I attended, and posed various unrelated questions.",
+          "answer": null
+        },
+        {
+          "question": "What is containerization, and should an IT Helpdesk Manager be knowledgeable about it?",
+          "answer": "Containerization is a technology that packages applications and their dependencies into isolated units called containers.Containers allow applications to run consistently across different environments, such as development, testing, and production.Examples of containerization technologies include Docker and Kubernetes, which help in managing and orchestrating containers.Containerization improves resource utilization by allowing multiple containers to run on a single host without conflicts.An IT Helpdesk Manager should understand containerization to support teams using these technologies and troubleshoot related issues."
+        }
+      ],
+      "review_date": "2025-12-09 10:12:48"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "favorite app on mobile and how would you change that",
+          "answer": null
+        },
+        {
+          "question": "prd for mess changing",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-27 23:46:59"
+    },
+    {
+      "role": "Field Executive Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Door to Door Retailers Consultant, Product To Explain, And Finally Placement",
+          "answer": null
+        },
+        {
+          "question": "Retailers Converted Special Offer Explain",
+          "answer": null
+        },
+        {
+          "question": "Any New Featured Explain",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-23 08:04:39"
+    },
+    {
+      "role": "Associate Manager 2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Exploratory, Technical, Technical, One-on-one, Behavioral, Culture Fit Round, Overall fitment round",
+      "questions": [],
+      "review_date": "2025-01-20 13:36:07"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Aptitude Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-07 18:40:02"
+    },
+    {
+      "role": "Rewards Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do you manage a data set if 1 lakh merchants are given",
+          "answer": "Managing a dataset of 100,000 merchants requires organization, analysis, and effective data management strategies.Implement a robust database management system (DBMS) to store and retrieve merchant data efficiently.Utilize data segmentation to categorize merchants based on criteria like location, sales volume, or industry.Regularly update and clean the dataset to remove duplicates and outdated information, ensuring data accuracy.Employ data analytics tools to derive insights from the dataset, such as identifying trends in merchant performance.Ensure compliance with data protection regulations (e.g., GDPR) when handling merchant information."
+        },
+        {
+          "question": "What do you know about navi",
+          "answer": "Navi is a term that can refer to navigation systems, technology, or even characters in various media.Navi can refer to navigation systems used in vehicles, such as GPS technology.In gaming, Navi is a character from 'The Legend of Zelda: Ocarina of Time' known for providing guidance.Navi can also refer to software applications that assist in navigation, like Google Maps."
+        }
+      ],
+      "review_date": "2025-07-24 07:20:44"
+    },
+    {
+      "role": "Documentation",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "document verification",
+          "answer": null
+        },
+        {
+          "question": "document verification process",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-06 19:53:33"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-16 23:34:25"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the process for calculating the percentage of the first transaction in relation to subsequent transactions?",
+          "answer": "Calculate the percentage of the first transaction compared to subsequent transactions using a simple formula.Identify the first transaction amount (e.g., $100).Sum the amounts of all subsequent transactions (e.g., $200 + $150 = $350).Use the formula: (First Transaction / Total Subsequent Transactions) * 100.Example: ($100 / $350) * 100 = 28.57%.This percentage indicates the first transaction's contribution to the total."
+        },
+        {
+          "question": "What is the method for determining the due date of a loan amount for each month?",
+          "answer": "To determine the due date of a loan, consider the loan terms, payment frequency, and interest calculation method.Loan Terms: Identify the loan amount, interest rate, and duration. For example, a $10,000 loan at 5% for 2 years.Payment Frequency: Determine how often payments are made (monthly, bi-weekly). For instance, monthly payments mean due dates are at the end of each month.Interest Calculation: Understand if interest is calculated monthly or annually. For example, if monthly, divide the annual rate by 12.Amortization Schedule: Create a schedule that outlines each payment, principal, and interest breakdown. This helps in tracking due dates.Due Date Calculation: For a monthly payment, the due date is typically the same day each month, e.g., if the loan starts on January 15, subsequent payments are due on February 15, March 15, etc."
+        }
+      ],
+      "review_date": "2025-04-02 20:23:52"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your reason for changing jobs?",
+          "answer": null
+        },
+        {
+          "question": "What do you know about Navi?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-27 14:58:33"
+    },
+    {
+      "role": "IT Manager",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "The interviewer, Pushpakar, primarily focused on my educational background, including whether my education was online or offline, the university I attended, and posed various unrelated questions.",
+          "answer": null
+        },
+        {
+          "question": "What is containerization, and should an IT Helpdesk Manager be knowledgeable about it?",
+          "answer": "Containerization is a technology that packages applications and their dependencies into isolated units called containers.Containers allow applications to run consistently across different environments, such as development, testing, and production.Examples of containerization technologies include Docker and Kubernetes, which help in managing and orchestrating containers.Containerization improves resource utilization by allowing multiple containers to run on a single host without conflicts.An IT Helpdesk Manager should understand containerization to support teams using these technologies and troubleshoot related issues."
+        }
+      ],
+      "review_date": "2025-12-09 10:12:48"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "favorite app on mobile and how would you change that",
+          "answer": null
+        },
+        {
+          "question": "prd for mess changing",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-27 23:46:59"
+    },
+    {
+      "role": "Field Executive Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Door to Door Retailers Consultant, Product To Explain, And Finally Placement",
+          "answer": null
+        },
+        {
+          "question": "Retailers Converted Special Offer Explain",
+          "answer": null
+        },
+        {
+          "question": "Any New Featured Explain",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-23 08:04:39"
+    },
+    {
+      "role": "Associate Manager 2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Exploratory, Technical, Technical, One-on-one, Behavioral, Culture Fit Round, Overall fitment round",
+      "questions": [],
+      "review_date": "2025-01-20 13:36:07"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Aptitude Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-07 18:40:02"
+    },
+    {
+      "role": "Rewards Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do you manage a data set if 1 lakh merchants are given",
+          "answer": "Managing a dataset of 100,000 merchants requires organization, analysis, and effective data management strategies.Implement a robust database management system (DBMS) to store and retrieve merchant data efficiently.Utilize data segmentation to categorize merchants based on criteria like location, sales volume, or industry.Regularly update and clean the dataset to remove duplicates and outdated information, ensuring data accuracy.Employ data analytics tools to derive insights from the dataset, such as identifying trends in merchant performance.Ensure compliance with data protection regulations (e.g., GDPR) when handling merchant information."
+        },
+        {
+          "question": "What do you know about navi",
+          "answer": "Navi is a term that can refer to navigation systems, technology, or even characters in various media.Navi can refer to navigation systems used in vehicles, such as GPS technology.In gaming, Navi is a character from 'The Legend of Zelda: Ocarina of Time' known for providing guidance.Navi can also refer to software applications that assist in navigation, like Google Maps."
+        }
+      ],
+      "review_date": "2025-07-24 07:20:44"
+    },
+    {
+      "role": "Documentation",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "document verification",
+          "answer": null
+        },
+        {
+          "question": "document verification process",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-06 19:53:33"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-16 23:34:25"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the process for calculating the percentage of the first transaction in relation to subsequent transactions?",
+          "answer": "Calculate the percentage of the first transaction compared to subsequent transactions using a simple formula.Identify the first transaction amount (e.g., $100).Sum the amounts of all subsequent transactions (e.g., $200 + $150 = $350).Use the formula: (First Transaction / Total Subsequent Transactions) * 100.Example: ($100 / $350) * 100 = 28.57%.This percentage indicates the first transaction's contribution to the total."
+        },
+        {
+          "question": "What is the method for determining the due date of a loan amount for each month?",
+          "answer": "To determine the due date of a loan, consider the loan terms, payment frequency, and interest calculation method.Loan Terms: Identify the loan amount, interest rate, and duration. For example, a $10,000 loan at 5% for 2 years.Payment Frequency: Determine how often payments are made (monthly, bi-weekly). For instance, monthly payments mean due dates are at the end of each month.Interest Calculation: Understand if interest is calculated monthly or annually. For example, if monthly, divide the annual rate by 12.Amortization Schedule: Create a schedule that outlines each payment, principal, and interest breakdown. This helps in tracking due dates.Due Date Calculation: For a monthly payment, the due date is typically the same day each month, e.g., if the loan starts on January 15, subsequent payments are due on February 15, March 15, etc."
+        }
+      ],
+      "review_date": "2025-04-02 20:23:52"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your reason for changing jobs?",
+          "answer": null
+        },
+        {
+          "question": "What do you know about Navi?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-27 14:58:33"
+    },
+    {
+      "role": "IT Manager",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "The interviewer, Pushpakar, primarily focused on my educational background, including whether my education was online or offline, the university I attended, and posed various unrelated questions.",
+          "answer": null
+        },
+        {
+          "question": "What is containerization, and should an IT Helpdesk Manager be knowledgeable about it?",
+          "answer": "Containerization is a technology that packages applications and their dependencies into isolated units called containers.Containers allow applications to run consistently across different environments, such as development, testing, and production.Examples of containerization technologies include Docker and Kubernetes, which help in managing and orchestrating containers.Containerization improves resource utilization by allowing multiple containers to run on a single host without conflicts.An IT Helpdesk Manager should understand containerization to support teams using these technologies and troubleshoot related issues."
+        }
+      ],
+      "review_date": "2025-12-09 10:12:48"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "favorite app on mobile and how would you change that",
+          "answer": null
+        },
+        {
+          "question": "prd for mess changing",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-27 23:46:59"
+    },
+    {
+      "role": "Field Executive Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Door to Door Retailers Consultant, Product To Explain, And Finally Placement",
+          "answer": null
+        },
+        {
+          "question": "Retailers Converted Special Offer Explain",
+          "answer": null
+        },
+        {
+          "question": "Any New Featured Explain",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-23 08:04:39"
+    },
+    {
+      "role": "Associate Manager 2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Exploratory, Technical, Technical, One-on-one, Behavioral, Culture Fit Round, Overall fitment round",
+      "questions": [],
+      "review_date": "2025-01-20 13:36:07"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Aptitude Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-07 18:40:02"
+    },
+    {
+      "role": "Rewards Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do you manage a data set if 1 lakh merchants are given",
+          "answer": "Managing a dataset of 100,000 merchants requires organization, analysis, and effective data management strategies.Implement a robust database management system (DBMS) to store and retrieve merchant data efficiently.Utilize data segmentation to categorize merchants based on criteria like location, sales volume, or industry.Regularly update and clean the dataset to remove duplicates and outdated information, ensuring data accuracy.Employ data analytics tools to derive insights from the dataset, such as identifying trends in merchant performance.Ensure compliance with data protection regulations (e.g., GDPR) when handling merchant information."
+        },
+        {
+          "question": "What do you know about navi",
+          "answer": "Navi is a term that can refer to navigation systems, technology, or even characters in various media.Navi can refer to navigation systems used in vehicles, such as GPS technology.In gaming, Navi is a character from 'The Legend of Zelda: Ocarina of Time' known for providing guidance.Navi can also refer to software applications that assist in navigation, like Google Maps."
+        }
+      ],
+      "review_date": "2025-07-24 07:20:44"
+    },
+    {
+      "role": "Documentation",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "document verification",
+          "answer": null
+        },
+        {
+          "question": "document verification process",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-06 19:53:33"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-16 23:34:25"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the process for calculating the percentage of the first transaction in relation to subsequent transactions?",
+          "answer": "Calculate the percentage of the first transaction compared to subsequent transactions using a simple formula.Identify the first transaction amount (e.g., $100).Sum the amounts of all subsequent transactions (e.g., $200 + $150 = $350).Use the formula: (First Transaction / Total Subsequent Transactions) * 100.Example: ($100 / $350) * 100 = 28.57%.This percentage indicates the first transaction's contribution to the total."
+        },
+        {
+          "question": "What is the method for determining the due date of a loan amount for each month?",
+          "answer": "To determine the due date of a loan, consider the loan terms, payment frequency, and interest calculation method.Loan Terms: Identify the loan amount, interest rate, and duration. For example, a $10,000 loan at 5% for 2 years.Payment Frequency: Determine how often payments are made (monthly, bi-weekly). For instance, monthly payments mean due dates are at the end of each month.Interest Calculation: Understand if interest is calculated monthly or annually. For example, if monthly, divide the annual rate by 12.Amortization Schedule: Create a schedule that outlines each payment, principal, and interest breakdown. This helps in tracking due dates.Due Date Calculation: For a monthly payment, the due date is typically the same day each month, e.g., if the loan starts on January 15, subsequent payments are due on February 15, March 15, etc."
+        }
+      ],
+      "review_date": "2025-04-02 20:23:52"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your reason for changing jobs?",
+          "answer": null
+        },
+        {
+          "question": "What do you know about Navi?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-27 14:58:33"
+    },
+    {
+      "role": "IT Manager",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "The interviewer, Pushpakar, primarily focused on my educational background, including whether my education was online or offline, the university I attended, and posed various unrelated questions.",
+          "answer": null
+        },
+        {
+          "question": "What is containerization, and should an IT Helpdesk Manager be knowledgeable about it?",
+          "answer": "Containerization is a technology that packages applications and their dependencies into isolated units called containers.Containers allow applications to run consistently across different environments, such as development, testing, and production.Examples of containerization technologies include Docker and Kubernetes, which help in managing and orchestrating containers.Containerization improves resource utilization by allowing multiple containers to run on a single host without conflicts.An IT Helpdesk Manager should understand containerization to support teams using these technologies and troubleshoot related issues."
+        }
+      ],
+      "review_date": "2025-12-09 10:12:48"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "favorite app on mobile and how would you change that",
+          "answer": null
+        },
+        {
+          "question": "prd for mess changing",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-27 23:46:59"
+    },
+    {
+      "role": "Field Executive Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Door to Door Retailers Consultant, Product To Explain, And Finally Placement",
+          "answer": null
+        },
+        {
+          "question": "Retailers Converted Special Offer Explain",
+          "answer": null
+        },
+        {
+          "question": "Any New Featured Explain",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-23 08:04:39"
+    },
+    {
+      "role": "Associate Manager 2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Exploratory, Technical, Technical, One-on-one, Behavioral, Culture Fit Round, Overall fitment round",
+      "questions": [],
+      "review_date": "2025-01-20 13:36:07"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Aptitude Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-07 18:40:02"
+    },
+    {
+      "role": "Rewards Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do you manage a data set if 1 lakh merchants are given",
+          "answer": "Managing a dataset of 100,000 merchants requires organization, analysis, and effective data management strategies.Implement a robust database management system (DBMS) to store and retrieve merchant data efficiently.Utilize data segmentation to categorize merchants based on criteria like location, sales volume, or industry.Regularly update and clean the dataset to remove duplicates and outdated information, ensuring data accuracy.Employ data analytics tools to derive insights from the dataset, such as identifying trends in merchant performance.Ensure compliance with data protection regulations (e.g., GDPR) when handling merchant information."
+        },
+        {
+          "question": "What do you know about navi",
+          "answer": "Navi is a term that can refer to navigation systems, technology, or even characters in various media.Navi can refer to navigation systems used in vehicles, such as GPS technology.In gaming, Navi is a character from 'The Legend of Zelda: Ocarina of Time' known for providing guidance.Navi can also refer to software applications that assist in navigation, like Google Maps."
+        }
+      ],
+      "review_date": "2025-07-24 07:20:44"
+    },
+    {
+      "role": "Documentation",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "document verification",
+          "answer": null
+        },
+        {
+          "question": "document verification process",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-06 19:53:33"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-16 23:34:25"
+    },
+    {
+      "role": "Data Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the process for calculating the percentage of the first transaction in relation to subsequent transactions?",
+          "answer": "Calculate the percentage of the first transaction compared to subsequent transactions using a simple formula.Identify the first transaction amount (e.g., $100).Sum the amounts of all subsequent transactions (e.g., $200 + $150 = $350).Use the formula: (First Transaction / Total Subsequent Transactions) * 100.Example: ($100 / $350) * 100 = 28.57%.This percentage indicates the first transaction's contribution to the total."
+        },
+        {
+          "question": "What is the method for determining the due date of a loan amount for each month?",
+          "answer": "To determine the due date of a loan, consider the loan terms, payment frequency, and interest calculation method.Loan Terms: Identify the loan amount, interest rate, and duration. For example, a $10,000 loan at 5% for 2 years.Payment Frequency: Determine how often payments are made (monthly, bi-weekly). For instance, monthly payments mean due dates are at the end of each month.Interest Calculation: Understand if interest is calculated monthly or annually. For example, if monthly, divide the annual rate by 12.Amortization Schedule: Create a schedule that outlines each payment, principal, and interest breakdown. This helps in tracking due dates.Due Date Calculation: For a monthly payment, the due date is typically the same day each month, e.g., if the loan starts on January 15, subsequent payments are due on February 15, March 15, etc."
+        }
+      ],
+      "review_date": "2025-04-02 20:23:52"
+    }
+  ],
+  "_scraped_at": "2026-04-12T15:38:17.767955+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Navi Technologies",
   "_registry_industry": "Fintech",

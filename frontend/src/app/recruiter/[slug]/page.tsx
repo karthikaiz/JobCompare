@@ -54,7 +54,7 @@ function ECard({ children, className = "", delay = 0 }: { children: React.ReactN
       initial={{ opacity: 0, y: 20 }}
       animate={inView ? { opacity: 1, y: 0 } : {}}
       transition={{ duration: 0.5, delay, ease: "easeOut" }}
-      className={`bg-white border border-ink/15 overflow-hidden ${className}`}
+      className={`bg-card border border-ink/15 overflow-hidden ${className}`}
     >
       {children}
     </motion.div>

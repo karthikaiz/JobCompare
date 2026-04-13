@@ -15,7 +15,7 @@ export function Panel({ children, className }: PanelProps) {
   return (
     <div
       className={cn(
-        "bg-white border border-ink/15 overflow-hidden flex flex-col",
+        "bg-card border border-ink/15 overflow-hidden flex flex-col",
         className
       )}
     >

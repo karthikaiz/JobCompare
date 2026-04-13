@@ -9,7 +9,7 @@
   "website": "https://www.cipla.com/",
   "overall_rating": 4.099999904632568,
   "work_life_balance": 3.9,
-  "salary_benefits": 3.97,
+  "salary_benefits": 3.96,
   "job_security": 3.69,
   "career_growth": 3.51,
   "company_culture": 3.8,
@@ -276,19 +276,6 @@
     },
     {
       "title": null,
-      "role": "Marketing Executive",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "People also ask\nWhat do you like most about working in Cipla?\n76% of Cipla employees would recommend working there to a friend based on Glassdoor reviews. Employees also rated Cipla 3.5 out of 5 for work life balance, 3.8 for culture and values and 3.8 for career opportunities.",
-      "cons": "Big Shortage of manpower in almost every department.So extra working hours required.In maintenance department no technicians.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8519,
-      "is_current_employee": false,
-      "review_date": "2024-05-22",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Regional Business Manager",
       "location": "Mumbai",
       "rating": 5.0,
@@ -341,19 +328,6 @@
     },
     {
       "title": null,
-      "role": "Assistant Manager",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Cipla is a corrupt company ...manager took the sallary of employ to do sales and no response come from Hr if file complain against this",
-      "cons": "Meri basic sallary 41k hi 10k manager cash me mujhse  le leta tha ..Varna pareshna karne lagta tha ...jo jyada sallary manager ko deta tha vo Acha employee tha vaha",
-      "sentiment": "negative",
-      "sentiment_score": -0.5719,
-      "is_current_employee": false,
-      "review_date": "2024-09-07",
-      "quality_score": 0.75
-    },
-    {
-      "title": null,
       "role": "Therapy Manager",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -376,19 +350,6 @@
       "sentiment_score": 0.8166,
       "is_current_employee": true,
       "review_date": "2025-01-19",
-      "quality_score": 0.72
-    },
-    {
-      "title": null,
-      "role": "Therapy Manager",
-      "location": "Ambala",
-      "rating": 1.0,
-      "pros": "Good increament structure but adjust ment very high management rude use foul language if u don't do target they terminate you",
-      "cons": "Undercutting as high as 60% of salary salary hike based on achievement which is based on adjustment to distributors very corrupt system zsm rbm bully abm mr don't join cipla ltd",
-      "sentiment": "negative",
-      "sentiment_score": -0.8772,
-      "is_current_employee": true,
-      "review_date": "2025-03-13",
       "quality_score": 0.72
     },
     {
@@ -467,19 +428,6 @@
       "sentiment_score": 0.5994,
       "is_current_employee": true,
       "review_date": "2025-08-13",
-      "quality_score": 0.66
-    },
-    {
-      "title": null,
-      "role": "Business Manager",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "I worked in Cipla for six years almost as Business Manager. It's a decent company. Salary and benefits are good. Promotion and growth structures are very complicated.",
-      "cons": "Local Management. They don't have proper strategy to gain the market share. Incapable peoples are there in upper management.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8779,
-      "is_current_employee": true,
-      "review_date": "2025-05-05",
       "quality_score": 0.66
     },
     {
@@ -572,32 +520,6 @@
       "is_current_employee": true,
       "review_date": "2025-09-30",
       "quality_score": 0.6
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Goa",
-      "rating": 4.0,
-      "pros": "Hr policy is very good \nCanteen facility is ok\nTransportation all over locations\nSkill development and new learning assignment for freshers is best",
-      "cons": "Working culture not ok\nAll time extra time work \nSome manager partiality or politics \nJob security zero.",
-      "sentiment": "positive",
-      "sentiment_score": 0.878,
-      "is_current_employee": false,
-      "review_date": "2024-07-19",
-      "quality_score": 0.6
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Delhi",
-      "rating": 2.0,
-      "pros": "I like work in Cipla fir Family care Frist this is good sine express your self  like",
-      "cons": "Sometimes unethical professional work taking Sales pressured or team how to Achieve targt not Hygin sales  road map  so want to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.5828,
-      "is_current_employee": false,
-      "review_date": "2024-10-08",
-      "quality_score": 0.59
     },
     {
       "title": null,
@@ -1030,32 +952,6 @@
     },
     {
       "title": null,
-      "role": "Brand Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Lots of learning opportunity as it is one of the fastest growing organization.",
-      "cons": "Work life balance, you have to push yourself after work hours and even on weekends.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5423,
-      "is_current_employee": false,
-      "review_date": "2024-11-13",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Medical Representative",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Ita great place to work especially for females. I am very happy to work here. Very much caring about us.",
-      "cons": "Heavy work pressure.  Heavy monthends for sales closings.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8852,
-      "is_current_employee": false,
-      "review_date": "2024-09-30",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
       "role": "Team Manager",
       "location": "Indore",
       "rating": 4.0,
@@ -1105,6 +1001,19 @@
       "is_current_employee": false,
       "review_date": "2024-12-11",
       "quality_score": 0.46
+    },
+    {
+      "title": null,
+      "role": "Assistant Manager",
+      "location": "Baddi",
+      "rating": 5.0,
+      "pros": "Yes cipla has excellent working culture and in future I want to join cipla Ltd again.very impressive salary packages and transportation accomodation food etc",
+      "cons": "NA",
+      "sentiment": "positive",
+      "sentiment_score": 0.9042,
+      "is_current_employee": true,
+      "review_date": "2026-04-02",
+      "quality_score": 0.45
     },
     {
       "title": null,
@@ -1260,19 +1169,6 @@
       "sentiment_score": -0.5574,
       "is_current_employee": true,
       "review_date": "2025-10-04",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
-      "role": "Regional Business Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Company strategies are excellent \nExcellent hr policy",
-      "cons": "Quality of higher manager is not good now days \nFace value is chosen over talent",
-      "sentiment": "positive",
-      "sentiment_score": 0.8805,
-      "is_current_employee": false,
-      "review_date": "2024-09-30",
       "quality_score": 0.42
     },
     {
@@ -1433,19 +1329,6 @@
     },
     {
       "title": null,
-      "role": "Deputy Manager",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "No likes except my team.",
-      "cons": "Lot to improve as a work culture organisation. Philosophy should not be limited to papers.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3036,
-      "is_current_employee": false,
-      "review_date": "2025-03-08",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
       "role": "Medical Representative",
       "location": "Agra",
       "rating": 3.0,
@@ -1563,45 +1446,6 @@
     },
     {
       "title": null,
-      "role": "Strategy Manager",
-      "location": "Mumbai",
-      "rating": 2.0,
-      "pros": "Compensation, monthly recognition to marketing team",
-      "cons": "Culture and mangers are too dependent on higher mangers \nCompulsory field work",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-11-13",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Therapy Manager",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "You can greatly improve your skills here that can help you to do great things .",
-      "cons": "Salary structure",
-      "sentiment": "positive",
-      "sentiment_score": 0.8748,
-      "is_current_employee": false,
-      "review_date": "2024-12-02",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Therapy Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Skill development is good but opportunity is less",
-      "cons": "Culture is worst here. Management only care about there target.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5713,
-      "is_current_employee": false,
-      "review_date": "2024-10-07",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
       "role": "Therapy Manager",
       "location": "Kalaburagi",
       "rating": 3.0,
@@ -1637,32 +1481,6 @@
       "sentiment_score": 0.276,
       "is_current_employee": true,
       "review_date": "2025-07-24",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Operator and Technician",
-      "location": "Indore",
-      "rating": 5.0,
-      "pros": "I like cipla all employees and cipla family supporting",
-      "cons": "There is nothing in cipla company for dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.4215,
-      "is_current_employee": true,
-      "review_date": "2024-12-20",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Area Business Manager ",
-      "location": "Guntur",
-      "rating": 2.0,
-      "pros": "Good Programs for Skill Development",
-      "cons": "Full of Pressure when targets are not Done they treaten about Resignation",
-      "sentiment": "negative",
-      "sentiment_score": -0.128,
-      "is_current_employee": true,
-      "review_date": "2025-02-15",
       "quality_score": 0.37
     },
     {
@@ -1797,19 +1615,6 @@
     },
     {
       "title": null,
-      "role": "Head",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Leave and Medical policy",
-      "cons": "No learning and development. No work-life balance. No five days a week.",
-      "sentiment": "negative",
-      "sentiment_score": -0.7003,
-      "is_current_employee": true,
-      "review_date": "2025-01-12",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
       "role": "Senior Brand Manager",
       "location": "Mumbai",
       "rating": 5.0,
@@ -1884,19 +1689,6 @@
       "sentiment_score": 0.2023,
       "is_current_employee": true,
       "review_date": "2025-02-05",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Therapy Manager",
-      "location": "Bhopal",
-      "rating": 4.0,
-      "pros": "All over good",
-      "cons": "Some people are going through and it will not have the right",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-11-28",
       "quality_score": 0.35
     },
     {
@@ -2018,19 +1810,6 @@
     },
     {
       "title": null,
-      "role": "Deputy Manager Production",
-      "location": "Indore",
-      "rating": 4.0,
-      "pros": "Satisfied with Cipla Culture and work..",
-      "cons": "Nothing to dislike about working at Cipla limited..",
-      "sentiment": "positive",
-      "sentiment_score": 0.4738,
-      "is_current_employee": false,
-      "review_date": "2025-03-20",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Manager",
       "location": "Mumbai",
       "rating": 5.0,
@@ -2118,45 +1897,6 @@
       "sentiment_score": -0.2144,
       "is_current_employee": true,
       "review_date": "2025-03-12",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Associate",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Best work culture and work life balance",
-      "cons": "Yet to experience if there any.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": true,
-      "review_date": "2024-12-26",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Gangtok",
-      "rating": 4.0,
-      "pros": "Cipla gives opportunity to people with less experience also.",
-      "cons": "There's nothing to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.6103,
-      "is_current_employee": false,
-      "review_date": "2024-12-12",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Indore",
-      "rating": 5.0,
-      "pros": "Working culture",
-      "cons": "Rehring policy i.e., can't not rehring if not completed 2 yr",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-11-18",
       "quality_score": 0.33
     },
     {
@@ -2383,32 +2123,6 @@
     {
       "title": null,
       "role": "Senior Executive",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Culture and above rated all factors.",
-      "cons": "Nothing to dislike in cipla",
-      "sentiment": "positive",
-      "sentiment_score": 0.2924,
-      "is_current_employee": true,
-      "review_date": "2025-01-12",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Head Asset Management",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Free ood and leave policy",
-      "cons": "Leadership issue and work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.4767,
-      "is_current_employee": true,
-      "review_date": "2025-11-24",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
       "location": "Indore",
       "rating": 3.0,
       "pros": "Manpower and work load.",
@@ -2564,19 +2278,6 @@
     },
     {
       "title": null,
-      "role": "Therapy Manager",
-      "location": "Belagavi",
-      "rating": 4.0,
-      "pros": "Overall Good benefits for Employees",
-      "cons": "Some activities are not useful",
-      "sentiment": "positive",
-      "sentiment_score": 0.4756,
-      "is_current_employee": false,
-      "review_date": "2024-12-15",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
       "role": "MIS Analyst",
       "location": "Mumbai",
       "rating": 3.0,
@@ -2703,19 +2404,6 @@
       "sentiment_score": 0.34,
       "is_current_employee": true,
       "review_date": "2025-02-07",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Engineering Officer",
-      "location": "East District",
-      "rating": 5.0,
-      "pros": "Good management and Cipla Pharma Group",
-      "cons": "Because Remote Area",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-02-04",
       "quality_score": 0.29
     },
     {
@@ -2885,58 +2573,6 @@
       "sentiment_score": 0.34,
       "is_current_employee": true,
       "review_date": "2025-02-22",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Management Staff",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Work balance",
-      "cons": "New employee not got good apportunity",
-      "sentiment": "negative",
-      "sentiment_score": -0.3412,
-      "is_current_employee": false,
-      "review_date": "2025-05-22",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Area Business Manager ",
-      "location": "Kollam",
-      "rating": 4.0,
-      "pros": "",
-      "cons": "Superior harasment with the hands of super superior",
-      "sentiment": "positive",
-      "sentiment_score": 0.8979,
-      "is_current_employee": true,
-      "review_date": "2025-10-15",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Work life balance and safe environment",
-      "cons": "Promotion policy",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2024-12-20",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Salesman",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Over all' like this cipla Ltd",
-      "cons": "No dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.5696,
-      "is_current_employee": true,
-      "review_date": "2025-02-21",
       "quality_score": 0.28
     },
     {
@@ -3162,19 +2798,6 @@
     },
     {
       "title": null,
-      "role": "Medical Representative",
-      "location": "Ludhiana",
-      "rating": 1.0,
-      "pros": "Company policy for employees",
-      "cons": "Poor management ,",
-      "sentiment": "negative",
-      "sentiment_score": -0.4767,
-      "is_current_employee": true,
-      "review_date": "2025-12-11",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
       "role": "Therapy Manager",
       "location": "Hyderabad",
       "rating": 5.0,
@@ -3184,6 +2807,19 @@
       "sentiment_score": 0.0,
       "is_current_employee": true,
       "review_date": "2026-04-05",
+      "quality_score": 0.26
+    },
+    {
+      "title": null,
+      "role": "Territory Manager",
+      "location": "Dibrugarh",
+      "rating": 5.0,
+      "pros": "About the culture",
+      "cons": "Nothing to dislike",
+      "sentiment": "positive",
+      "sentiment_score": 0.2924,
+      "is_current_employee": true,
+      "review_date": "2026-03-30",
       "quality_score": 0.26
     },
     {
@@ -3366,45 +3002,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": true,
       "review_date": "2025-02-15",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Gangtok",
-      "rating": 5.0,
-      "pros": "Work life balance .",
-      "cons": "Location .",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-01-29",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Indore",
-      "rating": 3.0,
-      "pros": "No Overtime",
-      "cons": "Team work and Skill",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2025-02-01",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Supply Chain Executive",
-      "location": "Haridwar",
-      "rating": 5.0,
-      "pros": "Career opportunities many more opportunities",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.4615,
-      "is_current_employee": false,
-      "review_date": "2024-12-09",
       "quality_score": 0.26
     },
     {
@@ -3639,97 +3236,6 @@
       "sentiment_score": -0.4588,
       "is_current_employee": true,
       "review_date": "2025-10-14",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Executive Assistant",
-      "location": "Gangtok",
-      "rating": 5.0,
-      "pros": "👍friendly environment",
-      "cons": "Numbers of deviation👍",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-07-16",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Marketing Executive",
-      "location": "Jaipur",
-      "rating": 5.0,
-      "pros": "Market value\nRespect",
-      "cons": "Incentive policy",
-      "sentiment": "positive",
-      "sentiment_score": 0.7906,
-      "is_current_employee": true,
-      "review_date": "2025-02-09",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Very employee friendly company",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.539,
-      "is_current_employee": true,
-      "review_date": "2025-01-14",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Off is good",
-      "cons": "no increment",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2025-06-19",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "",
-      "cons": "Job security and extended hours..",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": true,
-      "review_date": "2025-09-13",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Regulatory Affairs Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Work culture",
-      "cons": "No hybrid work",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2025-10-10",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "",
-      "cons": "No support from higher ups",
-      "sentiment": "negative",
-      "sentiment_score": -0.3089,
-      "is_current_employee": true,
-      "review_date": "2025-10-10",
       "quality_score": 0.25
     },
     {
@@ -3990,58 +3496,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": true,
       "review_date": "2025-05-25",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Core Team Member",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Very good",
-      "cons": "18 years",
-      "sentiment": "positive",
-      "sentiment_score": 0.4927,
-      "is_current_employee": true,
-      "review_date": "2025-09-17",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Indore",
-      "rating": 2.0,
-      "pros": "Infrastructure, HR Policy",
-      "cons": "Culture",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-05-04",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager - QA",
-      "location": "Baddi",
-      "rating": 4.0,
-      "pros": "Cipla policies",
-      "cons": "Working culture",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-03-03",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Regulatory Affairs Specialist",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "Location only",
-      "cons": "Work culture",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-04-16",
       "quality_score": 0.24
     },
     {
@@ -4462,58 +3916,6 @@
     },
     {
       "title": null,
-      "role": "Business Development Executive",
-      "location": "Vadodara",
-      "rating": 1.0,
-      "pros": "",
-      "cons": "Job security zero",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": true,
-      "review_date": "2025-09-02",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Culture",
-      "cons": "All good",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-02-21",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Indore",
-      "rating": 4.0,
-      "pros": "good",
-      "cons": "good cultur",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": true,
-      "review_date": "2025-11-10",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "",
-      "cons": "Promotions not possible",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-03-06",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
       "role": "Territory Manager",
       "location": "Delhi",
       "rating": 5.0,
@@ -4913,45 +4315,6 @@
       "sentiment_score": 0.34,
       "is_current_employee": true,
       "review_date": "2025-03-19",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Senior Director Finance",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Management",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-04-30",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Depot Incharge",
-      "location": "Siliguri",
-      "rating": 5.0,
-      "pros": "Very good",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4927,
-      "is_current_employee": true,
-      "review_date": "2025-03-07",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Area Sales Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Employee carying",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-06-11",
       "quality_score": 0.22
     },
     {
@@ -5716,14 +5079,4822 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-10T20:39:31.625193+00:00",
+  "interviews": [
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    },
+    {
+      "role": "Territory Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and your previous work experience.",
+          "answer": null
+        },
+        {
+          "question": "What is your strategy to achieve monthly targets?",
+          "answer": null
+        },
+        {
+          "question": "What is your knowledge about competitor products?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 11:09:58"
+    },
+    {
+      "role": "Clinical Trial Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Asking about previous experience",
+          "answer": null
+        },
+        {
+          "question": "Case issues and problem solving skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 14:38:16"
+    },
+    {
+      "role": "Executive Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What is your passion",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 14:41:14"
+    },
+    {
+      "role": "Internship Trainee",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Pharmaceuticals",
+          "answer": null
+        },
+        {
+          "question": "Method analysis",
+          "answer": null
+        },
+        {
+          "question": "Pharmacy practice",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-15 23:15:47"
+    },
+    {
+      "role": "Technician",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How to handle AUDIT compliance",
+          "answer": null
+        },
+        {
+          "question": "What is GMP and GDP",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 17:52:33"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your role in previous company",
+          "answer": null
+        },
+        {
+          "question": "What is your skill",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-24 16:56:47"
+    },
+    {
+      "role": "Officer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Analytical development laboratory",
+          "answer": null
+        },
+        {
+          "question": "Analysis all types of adl departments",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-13 12:44:45"
+    },
+    {
+      "role": "HR Payroll Executive",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell y we should hire you",
+          "answer": null
+        },
+        {
+          "question": "Can u handle human resources with proper cycle without any conflict",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 20:29:36"
+    },
+    {
+      "role": "Sinear Exucative",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Where do you prefer to work from?",
+          "answer": null
+        },
+        {
+          "question": "What is your preferred job?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-20 18:51:04"
+    },
+    {
+      "role": "Apprentice",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "Family background",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 08:46:25"
+    }
+  ],
+  "_scraped_at": "2026-04-12T20:37:45.741247+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Cipla",
   "_registry_industry": "Pharma",
   "_sentiment": {
-    "positiveCount": 251,
-    "negativeCount": 81,
-    "neutralCount": 82,
+    "positiveCount": 221,
+    "negativeCount": 72,
+    "neutralCount": 72,
     "topPositiveThemes": [
       "company culture",
       "career growth",

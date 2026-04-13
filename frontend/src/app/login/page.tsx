@@ -76,7 +76,7 @@ function LoginContent() {
             Make smarter career<br />decisions with data.
           </h2>
           {/* Live data mini panel */}
-          <div className="border border-ink/15 bg-white overflow-hidden">
+          <div className="border border-ink/15 bg-card overflow-hidden">
             <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex items-center justify-between">
               <div className="flex items-center gap-3">
                 <div className="flex gap-1.5">
@@ -169,7 +169,7 @@ function LoginContent() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required
-                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
+                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
               />
             </div>
             <div className="space-y-1.5">
@@ -180,7 +180,7 @@ function LoginContent() {
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 required
-                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
+                className="w-full h-11 px-3 text-sm text-ink placeholder:text-warmgray/50 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans"
               />
             </div>
             <button

@@ -8,10 +8,10 @@
   "founded": 1983,
   "website": "https://www.bluedart.com/",
   "overall_rating": 3.9000000953674316,
-  "work_life_balance": 3.76,
+  "work_life_balance": 3.75,
   "salary_benefits": 3.56,
   "job_security": 4.06,
-  "career_growth": 3.03,
+  "career_growth": 3.02,
   "company_culture": 3.76,
   "reviews": [
     {
@@ -224,45 +224,6 @@
     },
     {
       "title": null,
-      "role": "Tele Sales Executive",
-      "location": "Guwahati",
-      "rating": 4.0,
-      "pros": "Overall it's a very good company. Every policy and norms are all very good.",
-      "cons": "There are lots of things that i don't like is that every thing here is very complicated and inappropriate not very systematic. Here from the region where I m working is not very supportive in learning or skill and development processes, here you will have to learn all by yourself by asking here and there nobodys is going to teach. And when the head visits he will ask question by twisting and turning like, then when you speak the truth they will blame on you. Oil and buttering process is here and for that some people are getting good hike and those who doesn't they get zero. HR is good for nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.8852,
-      "is_current_employee": false,
-      "review_date": "2023-05-04",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "They don't let young talent in their company Better to work in a BPO call centre where at least you improve your soft skills and will have a work-life balance in this company you will learn only one thing how to play the blame game and politics forget about Sunday will have to work 7 days a week no work-life balance shift timing 12 hours of to the donkey work the people that are working in this org don't even have basic qualification don't even have 12th or 10th passing certificate and they are sitting there as managers & Senior executives ,Young people stay away from this company if you don't want to ruin your career and health",
-      "sentiment": "positive",
-      "sentiment_score": 0.497,
-      "is_current_employee": false,
-      "review_date": "2023-09-20",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Executive",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "I would like to work in blue dart only thing is vendors employees work with team work with me and customer excellent support for delivery and pickups",
-      "cons": "Dislikes worst management because hyderabad blue dart working with out dated management and in recurring new people management and service center in charge as executive those all are out dated people",
-      "sentiment": "positive",
-      "sentiment_score": 0.2732,
-      "is_current_employee": false,
-      "review_date": "2023-09-12",
-      "quality_score": 0.78
-    },
-    {
-      "title": null,
       "role": "Assistant Manager",
       "location": "Mumbai",
       "rating": 2.0,
@@ -341,32 +302,6 @@
     },
     {
       "title": null,
-      "role": "Team Lead",
-      "location": "Nizamabad",
-      "rating": 5.0,
-      "pros": "Bluedart express south aisa's premier express air integrated transportation & distribution company offers secure and reliable delivery of consignments Office atmosphere is good and working process is good and pay scale is also good and ontime instead of other companies blue dart express is really good company",
-      "cons": "Nil",
-      "sentiment": "positive",
-      "sentiment_score": 0.9168,
-      "is_current_employee": false,
-      "review_date": "2023-05-08",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Visakhapatnam",
-      "rating": 5.0,
-      "pros": "As a employee of the blue dart express limited I feel very comfortable.. here daily challenging work it's need to satisfy the customers... And it's one of the best service industries, even its not stopped working even in COVID and gave best service to customers..",
-      "cons": "Everything is good",
-      "sentiment": "positive",
-      "sentiment_score": 0.9599,
-      "is_current_employee": false,
-      "review_date": "2023-05-05",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
       "role": "Operations Executive",
       "location": "Jamshedpur",
       "rating": 1.0,
@@ -389,19 +324,6 @@
       "sentiment_score": -0.6258,
       "is_current_employee": false,
       "review_date": "2023-10-18",
-      "quality_score": 0.67
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Sonipat",
-      "rating": 2.0,
-      "pros": "Best in class for those who are working on higher positions,",
-      "cons": "But base level employees gets nothing but work in every kind of situation weather it's a national holiday or Diwali nothing matter you have to done your daily work regularly no matter what happens to you.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7121,
-      "is_current_employee": false,
-      "review_date": "2023-11-19",
       "quality_score": 0.67
     },
     {
@@ -484,19 +406,6 @@
     },
     {
       "title": null,
-      "role": "Courier Supervisor",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "Professionally I don't like it some work continuesly so that",
-      "cons": "Becouse office staff behaviour is so very very bad, not a promotion, not a increase salary, presaring job work every day, percel risk every moment it's a liability him etc etc...",
-      "sentiment": "negative",
-      "sentiment_score": -0.8836,
-      "is_current_employee": false,
-      "review_date": "2023-06-26",
-      "quality_score": 0.61
-    },
-    {
-      "title": null,
       "role": "Operation Staff",
       "location": "Bhopal",
       "rating": 4.0,
@@ -536,19 +445,6 @@
     },
     {
       "title": null,
-      "role": "Operations Executive",
-      "location": "Vijayawada",
-      "rating": 1.0,
-      "pros": "Not satisfaction worst experience..",
-      "cons": "Company killing employees life & Useing 15 years employes afterthat holding benifits like gratuty and experience leter....most of the employees are dispointing with work bluedart.😡😡😡😡😡\nI have very worst experience in blue dart....",
-      "sentiment": "negative",
-      "sentiment_score": -0.751,
-      "is_current_employee": false,
-      "review_date": "2023-04-21",
-      "quality_score": 0.57
-    },
-    {
-      "title": null,
       "role": "Assistant Manager",
       "location": "Delhi",
       "rating": 2.0,
@@ -558,19 +454,6 @@
       "sentiment_score": 0.1655,
       "is_current_employee": true,
       "review_date": "2025-01-22",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
-      "role": "Operations Manager",
-      "location": "Working time supervisor mental harsh . employees",
-      "rating": 1.0,
-      "pros": "I used to work in every field and after that I used to do office work,came and after that also the operation head Ajay kumar located paa area office Patna ,where he mentally harasses the dead,",
-      "cons": "",
-      "sentiment": "negative",
-      "sentiment_score": -0.8316,
-      "is_current_employee": true,
-      "review_date": "2025-05-06",
       "quality_score": 0.56
     },
     {
@@ -614,19 +497,6 @@
     },
     {
       "title": null,
-      "role": "Shift Incharge",
-      "location": "Thane",
-      "rating": 5.0,
-      "pros": "I love my Blue Dart a lot. I learned many new things here and still learning. In this organisation always new opportunities are there through which we can gain more knowledge and experience.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.8807,
-      "is_current_employee": false,
-      "review_date": "2023-10-16",
-      "quality_score": 0.54
-    },
-    {
-      "title": null,
       "role": "Front Office Executive",
       "location": "Panchkula",
       "rating": 1.0,
@@ -636,19 +506,6 @@
       "sentiment_score": -0.6177,
       "is_current_employee": true,
       "review_date": "2025-08-03",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
-      "role": "Team Lead Operations",
-      "location": "Mathura",
-      "rating": 5.0,
-      "pros": "Everything is fine in Blue Dart, now we want to grow so that we can move ahead in bigger Blue Dart.",
-      "cons": "The bonus available in Blue Dart has stopped, everything else is fine.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6705,
-      "is_current_employee": false,
-      "review_date": "2023-10-11",
       "quality_score": 0.53
     },
     {
@@ -692,19 +549,6 @@
     },
     {
       "title": null,
-      "role": "Sales Manager",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "All good. We get many things to learn. They have best and fast service.",
-      "cons": "Rules and processes are for low level employees. Senior level always have jugaad to stay in the company.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7184,
-      "is_current_employee": false,
-      "review_date": "2023-10-20",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
       "role": "Field Executive",
       "location": "Delhi",
       "rating": 1.0,
@@ -727,19 +571,6 @@
       "sentiment_score": 0.6808,
       "is_current_employee": true,
       "review_date": "2024-12-20",
-      "quality_score": 0.49
-    },
-    {
-      "title": null,
-      "role": "Logistics Supervisor",
-      "location": "Haora",
-      "rating": 4.0,
-      "pros": "Good place for lerning and skill devlopement compare to any other logistic/curior comlany & job security.",
-      "cons": "Ground level staff salary is very low compare to any other logistic/curior company.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4417,
-      "is_current_employee": false,
-      "review_date": "2023-07-19",
       "quality_score": 0.49
     },
     {
@@ -809,45 +640,6 @@
     },
     {
       "title": null,
-      "role": "Team Lead Operations",
-      "location": "Mehsi",
-      "rating": 3.0,
-      "pros": "Work is almost permanent, No more unnecessary pressure",
-      "cons": "Not too satisfied as from working too many times not yet promoted not yet salary increased as per expected.",
-      "sentiment": "negative",
-      "sentiment_score": -0.835,
-      "is_current_employee": false,
-      "review_date": "2023-10-03",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
-      "role": "Operations Associate",
-      "location": "Siliguri",
-      "rating": 5.0,
-      "pros": "Company is gd, Thinking for ground level staff and support always in hard time",
-      "cons": "There is no promotion growth,also apprissal are not gd as per work pressure.",
-      "sentiment": "negative",
-      "sentiment_score": -0.2732,
-      "is_current_employee": false,
-      "review_date": "2023-07-30",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
-      "role": "Courier Executive",
-      "location": "Gaziabad",
-      "rating": 5.0,
-      "pros": "Positive experience at Blue dart express limited often stem from a strong supportive work culture consistent salary and good learning opportunity in a fast paced environment",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.9169,
-      "is_current_employee": true,
-      "review_date": "2026-03-08",
-      "quality_score": 0.46
-    },
-    {
-      "title": null,
       "role": "Supply Chain Sr.Executive",
       "location": "Ahmedabad",
       "rating": 1.0,
@@ -900,32 +692,6 @@
     },
     {
       "title": null,
-      "role": "Senior Sales Executive",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Salary and Benefits as well as it is a known brand which carry itself which creates a  good relationship with customers",
-      "cons": "6 days working",
-      "sentiment": "positive",
-      "sentiment_score": 0.8271,
-      "is_current_employee": false,
-      "review_date": "2023-09-18",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Operations Team Member",
-      "location": "Kashipur",
-      "rating": 1.0,
-      "pros": "Only salary time good",
-      "cons": "The senior management of Rudrapur is the dirtiest management. Because of the management in Rudrapur, everyone leaves the job here.",
-      "sentiment": "negative",
-      "sentiment_score": -0.128,
-      "is_current_employee": false,
-      "review_date": "2023-09-26",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
       "role": "Territory Service Representative",
       "location": "Bhopal",
       "rating": 4.0,
@@ -948,19 +714,6 @@
       "sentiment_score": 0.2691,
       "is_current_employee": false,
       "review_date": "2024-09-27",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Senior Executive Operations",
-      "location": "Ambala",
-      "rating": 5.0,
-      "pros": "Everythink is prefect ,Work culture and extra and extra",
-      "cons": "Promation is not given byond 24 months , Of coures of you desrive it.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2023-12-10",
       "quality_score": 0.43
     },
     {
@@ -1030,19 +783,6 @@
     },
     {
       "title": null,
-      "role": "Billing Executive",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "We can learn new things and who ever works here can sustain easily outside",
-      "cons": "No up to the outside society culture",
-      "sentiment": "positive",
-      "sentiment_score": 0.0516,
-      "is_current_employee": true,
-      "review_date": "2023-09-26",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
       "role": "Accounts Receivable Executive",
       "location": "Pune",
       "rating": 3.0,
@@ -1091,32 +831,6 @@
       "sentiment_score": 0.4588,
       "is_current_employee": false,
       "review_date": "2024-11-19",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Data Entry Operator",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Famillier environment working side, no work pressure work do on your way , supported staff in work",
-      "cons": "Very poor salary",
-      "sentiment": "negative",
-      "sentiment_score": -0.341,
-      "is_current_employee": true,
-      "review_date": "2023-12-09",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Senior Executive - Finance",
-      "location": "Panaji",
-      "rating": 4.0,
-      "pros": "Good. To work with bluedart team like family work as team",
-      "cons": "Software need to update more   to move fast .",
-      "sentiment": "positive",
-      "sentiment_score": 0.6597,
-      "is_current_employee": false,
-      "review_date": "2023-10-26",
       "quality_score": 0.4
     },
     {
@@ -1173,32 +887,6 @@
     },
     {
       "title": null,
-      "role": "Senior Staff",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Timely provide salary 31fst",
-      "cons": "Over load and over work time 15 to 16 hours daily duty time pressured work",
-      "sentiment": "negative",
-      "sentiment_score": -0.2263,
-      "is_current_employee": true,
-      "review_date": "2024-01-26",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Delivery Associate",
-      "location": "Kanpur",
-      "rating": 4.0,
-      "pros": "It's called good  company culture and best employee for this company  and working area is good and safli",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.8316,
-      "is_current_employee": false,
-      "review_date": "2023-10-16",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
       "role": "Courier Boy",
       "location": "Sulya",
       "rating": 4.0,
@@ -1221,45 +909,6 @@
       "sentiment_score": 0.1426,
       "is_current_employee": false,
       "review_date": "2024-08-28",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Senior Counter Staff",
-      "location": "Varanasi",
-      "rating": 4.0,
-      "pros": "Salary structure is good but maximum staff not satisfied with work",
-      "cons": "I am not satisfied with company rules",
-      "sentiment": "negative",
-      "sentiment_score": -0.6182,
-      "is_current_employee": true,
-      "review_date": "2025-02-25",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Area Manager",
-      "location": "Ranchi",
-      "rating": 5.0,
-      "pros": "Flexible and Adaptable and open to take Ideas",
-      "cons": "Appraisal and Salary Increment is Good but could be best",
-      "sentiment": "positive",
-      "sentiment_score": 0.8481,
-      "is_current_employee": false,
-      "review_date": "2023-10-26",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Operations Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Work Life Balance. Opportunity to learn about Global Freight Forwarding.",
-      "cons": "Nothing in particular. Great working experience so far.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1265,
-      "is_current_employee": false,
-      "review_date": "2023-10-03",
       "quality_score": 0.38
     },
     {
@@ -1364,84 +1013,6 @@
       "sentiment_score": -0.2263,
       "is_current_employee": true,
       "review_date": "2024-01-23",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Maintenance Staff",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "It's a good company and i really happy to work",
-      "cons": "There is less increment and less Holidays",
-      "sentiment": "positive",
-      "sentiment_score": 0.8481,
-      "is_current_employee": false,
-      "review_date": "2023-11-17",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Operation Staff",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "It's good company but promotion not be update",
-      "cons": "Payment not a increase and prement job a possible",
-      "sentiment": "negative",
-      "sentiment_score": -0.1263,
-      "is_current_employee": false,
-      "review_date": "2023-12-01",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Area Head Sales and Marketing",
-      "location": "Kanpur Nagar",
-      "rating": 4.0,
-      "pros": "Job Security \nSalary on Time\nSocial Security\nBrand Image",
-      "cons": "Office Politics\nMacro Management\nSlow Promotion\nAutocratic Leadership",
-      "sentiment": "positive",
-      "sentiment_score": 0.5859,
-      "is_current_employee": false,
-      "review_date": "2023-10-11",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Delivery Boy",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "I like the rule of blue dart and the place to work from everyone",
-      "cons": "Nothing to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.5696,
-      "is_current_employee": false,
-      "review_date": "2023-10-13",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "There is work pressure is huge sometimes no time for family",
-      "cons": "For promotions take too much time",
-      "sentiment": "negative",
-      "sentiment_score": -0.2732,
-      "is_current_employee": false,
-      "review_date": "2023-09-12",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Fleet Executive",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Blue dart is a big platform from skill development and learning",
-      "cons": "Promotion and appraisal and team environment",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-09-02",
       "quality_score": 0.37
     },
     {
@@ -1576,84 +1147,6 @@
     },
     {
       "title": null,
-      "role": "HR Executive Recruiter",
-      "location": "Hyderabad",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Everything is bad what to say more. Dont you dare to work on blue dart.",
-      "sentiment": "positive",
-      "sentiment_score": 0.431,
-      "is_current_employee": true,
-      "review_date": "2024-01-18",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Assistant Payables Manager",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "The industry and work exposure",
-      "cons": "Lack of work life balance and toxic attitude\nLate working hours.",
-      "sentiment": "negative",
-      "sentiment_score": -0.3182,
-      "is_current_employee": false,
-      "review_date": "2023-11-26",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Customer Service Executive",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Good work culture, work life balance good management",
-      "cons": "Salary increment is not up to the mark",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2023-11-17",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Bilaspur",
-      "rating": 4.0,
-      "pros": "You can easily Balance personal & professional Life",
-      "cons": "Some times Working style can be more professional",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-10-17",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Revenue Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Everything that we do for customers satisfaction",
-      "cons": "Nothing is there for which I dislike my company",
-      "sentiment": "positive",
-      "sentiment_score": 0.0772,
-      "is_current_employee": false,
-      "review_date": "2023-10-18",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Field Executive",
-      "location": "Raghunathpur",
-      "rating": 4.0,
-      "pros": "Very good , I like the job and I enjoy myself",
-      "cons": "Salery not getting in time",
-      "sentiment": "positive",
-      "sentiment_score": 0.8357,
-      "is_current_employee": false,
-      "review_date": "2023-09-15",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
       "role": "Customer Success Manager",
       "location": "Delhi",
       "rating": 5.0,
@@ -1715,32 +1208,6 @@
       "sentiment_score": 0.6229,
       "is_current_employee": false,
       "review_date": "2024-06-17",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Senior Sales Executive",
-      "location": "Jalandhar",
-      "rating": 5.0,
-      "pros": "Overall it's GOOD and the company is a very process oriented.",
-      "cons": "Promotions are very slow.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5622,
-      "is_current_employee": false,
-      "review_date": "2024-06-21",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Hisar",
-      "rating": 5.0,
-      "pros": "Good company policy dbf and year yearly salary growth",
-      "cons": "Company good\nSome staff not support",
-      "sentiment": "positive",
-      "sentiment_score": 0.7304,
-      "is_current_employee": false,
-      "review_date": "2023-09-15",
       "quality_score": 0.35
     },
     {
@@ -1819,32 +1286,6 @@
       "sentiment_score": 0.9201,
       "is_current_employee": true,
       "review_date": "2024-02-23",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "1st mile & outbound incharge ",
-      "location": "Bhubaneswar",
-      "rating": 3.0,
-      "pros": "Good infrastructure",
-      "cons": "No promotion after several achievements show to management.\nMore politics and febresim",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": true,
-      "review_date": "2026-03-17",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Delivery Boy",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Our bd staff is good",
-      "cons": "Loadi is not coming in our office heavy load",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-10-12",
       "quality_score": 0.34
     },
     {
@@ -1949,45 +1390,6 @@
       "sentiment_score": 0.6124,
       "is_current_employee": false,
       "review_date": "2024-06-19",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Guwahati",
-      "rating": 5.0,
-      "pros": "👍 Job stability",
-      "cons": "Less important is given to junior employees by senior employees",
-      "sentiment": "positive",
-      "sentiment_score": 0.1298,
-      "is_current_employee": true,
-      "review_date": "2024-01-03",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Assistant Sales Manager",
-      "location": "Hyderabad",
-      "rating": 1.0,
-      "pros": "Not as expected",
-      "cons": "KRA not defined & you can not achieve your target/performance",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-03-05",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "IT Supporter",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Company is always thinks about the growth by introducing new technologies timely",
-      "cons": ",........",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": true,
-      "review_date": "2023-12-23",
       "quality_score": 0.33
     },
     {
@@ -2144,84 +1546,6 @@
       "sentiment_score": -0.5445,
       "is_current_employee": false,
       "review_date": "2024-10-01",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Terertaory Support Representative",
-      "location": "Mumbai",
-      "rating": 2.0,
-      "pros": "Only salary on time",
-      "cons": "Not helping support & promtions & lowest increment",
-      "sentiment": "negative",
-      "sentiment_score": -0.6952,
-      "is_current_employee": true,
-      "review_date": "2026-04-04",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Bangalore Rural",
-      "rating": 2.0,
-      "pros": "Bucket people always good for management",
-      "cons": "Hard workers always bad for management",
-      "sentiment": "negative",
-      "sentiment_score": -0.25,
-      "is_current_employee": true,
-      "review_date": "2023-12-22",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Customer Service Executive",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Reputed company so i love to be a part of bluedarter",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6682,
-      "is_current_employee": true,
-      "review_date": "2024-03-17",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Territory Service Representative",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "I have placed to work and increase knowledge and skills",
-      "cons": "No comments",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "is_current_employee": false,
-      "review_date": "2023-10-18",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Territory Service Representative",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Salary on time",
-      "cons": "No growth from 10 years i am field staff",
-      "sentiment": "negative",
-      "sentiment_score": -0.2924,
-      "is_current_employee": false,
-      "review_date": "2023-11-30",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Executive Accountant",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "The team staff everyone here is very supportive.",
-      "cons": "The system and favoritesim.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3597,
-      "is_current_employee": true,
-      "review_date": "2023-12-21",
       "quality_score": 0.32
     },
     {
@@ -2421,84 +1745,6 @@
     },
     {
       "title": null,
-      "role": "Branch Operation Incharge",
-      "location": "Chandigarh",
-      "rating": 5.0,
-      "pros": "awesome place to work",
-      "cons": "nothing to dislike overall everything is superb",
-      "sentiment": "positive",
-      "sentiment_score": 0.8856,
-      "is_current_employee": false,
-      "review_date": "2023-11-24",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Operation Staff",
-      "location": "Kaimur (Bhabua)",
-      "rating": 5.0,
-      "pros": "Excellent work space  and friendly attachment",
-      "cons": "Nothing no anything false here",
-      "sentiment": "positive",
-      "sentiment_score": 0.8746,
-      "is_current_employee": false,
-      "review_date": "2024-07-27",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Operation Staff",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "I love working with the team at Blue Dart Company..",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": true,
-      "review_date": "2024-01-29",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Company is good but management is very careless & selfish",
-      "sentiment": "negative",
-      "sentiment_score": -0.8732,
-      "is_current_employee": false,
-      "review_date": "2024-08-07",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Area Head Operations",
-      "location": "Udaipur",
-      "rating": 1.0,
-      "pros": "Now there is fully political environment.",
-      "cons": "Work culture is not good.",
-      "sentiment": "negative",
-      "sentiment_score": -0.3412,
-      "is_current_employee": false,
-      "review_date": "2024-10-03",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Visakhapatnam",
-      "rating": 4.0,
-      "pros": "It friendly nature",
-      "cons": "Com0any is food but management is not fair",
-      "sentiment": "negative",
-      "sentiment_score": -0.0882,
-      "is_current_employee": true,
-      "review_date": "2024-03-29",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
       "role": "Supervisor Incharge",
       "location": "Delhi",
       "rating": 5.0,
@@ -2690,32 +1936,6 @@
       "sentiment_score": 0.6369,
       "is_current_employee": false,
       "review_date": "2024-08-10",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Hubballi",
-      "rating": 5.0,
-      "pros": "Firstly I like work  culture ,the way it operates..",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2023-10-30",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Telecaller",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Blue Dart is good company",
-      "cons": "Blue Dart is not Duplicated",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-10-21",
       "quality_score": 0.3
     },
     {
@@ -2941,71 +2161,6 @@
     },
     {
       "title": null,
-      "role": "Assistant Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Staff caring,Job Security,",
-      "cons": "Work pressure and work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.0516,
-      "is_current_employee": false,
-      "review_date": "2023-11-04",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Sales Development Executive",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "The way employee opinion are considered and discussed",
-      "cons": "Politics",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-11-17",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Business Development",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Process Orient company with people first philosophy.",
-      "cons": "Slow growth",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2023-10-27",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Operations Team Member",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "Dont like this type of jobs no growth",
-      "cons": "Do",
-      "sentiment": "negative",
-      "sentiment_score": -0.5096,
-      "is_current_employee": false,
-      "review_date": "2024-12-01",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Ranchi",
-      "rating": 5.0,
-      "pros": "Very Happy.",
-      "cons": "Nothing\nNA\nAll are good \nNot \nNA",
-      "sentiment": "positive",
-      "sentiment_score": 0.7841,
-      "is_current_employee": false,
-      "review_date": "2023-11-13",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
       "role": "Executive",
       "location": "Kolkata",
       "rating": 5.0,
@@ -3227,68 +2382,16 @@
     },
     {
       "title": null,
-      "role": "Executive Accountant",
+      "role": "Inside Sales Executive",
       "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Nice",
-      "cons": "Nice environment working with blue dart DHL",
-      "sentiment": "positive",
-      "sentiment_score": 0.6808,
-      "is_current_employee": true,
-      "review_date": "2024-03-11",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Hubballi",
-      "rating": 1.0,
-      "pros": "Worst management no promotion no nothing",
-      "cons": "Management worst",
-      "sentiment": "negative",
-      "sentiment_score": -0.2773,
-      "is_current_employee": true,
-      "review_date": "2024-04-15",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Executive Operations",
-      "location": "Silchar",
-      "rating": 5.0,
-      "pros": "People centric",
-      "cons": "Management Policy for selecting senior Manager",
+      "rating": 4.0,
+      "pros": "",
+      "cons": "Very less leaves in a calendar year",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "is_current_employee": true,
-      "review_date": "2023-12-09",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Office Assistant Computer Operator",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Very good service Blue dart express limited",
-      "cons": "No",
-      "sentiment": "neutral",
-      "sentiment_score": 0.024,
-      "is_current_employee": false,
-      "review_date": "2023-11-09",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Area Sales Manager",
-      "location": "Noida",
-      "rating": 4.0,
-      "pros": "Free Hand Hold",
-      "cons": "Less salary Manager and below",
-      "sentiment": "positive",
-      "sentiment_score": 0.7579,
-      "is_current_employee": false,
-      "review_date": "2023-09-30",
-      "quality_score": 0.28
+      "review_date": "2026-04-11",
+      "quality_score": 0.27
     },
     {
       "title": null,
@@ -3470,97 +2573,6 @@
       "sentiment_score": 0.34,
       "is_current_employee": false,
       "review_date": "2024-09-27",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Good company",
-      "cons": "Nothing as such to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.0772,
-      "is_current_employee": true,
-      "review_date": "2024-04-15",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior HR Executive",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Work culture",
-      "cons": "Nothing  is here to dislike",
-      "sentiment": "negative",
-      "sentiment_score": -0.3818,
-      "is_current_employee": true,
-      "review_date": "2024-01-11",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Guwahati",
-      "rating": 4.0,
-      "pros": "Job Stability",
-      "cons": "Poor payscale, Very minimal growth",
-      "sentiment": "negative",
-      "sentiment_score": -0.0571,
-      "is_current_employee": false,
-      "review_date": "2024-11-07",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Data Entry Operator",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "Employee facilities",
-      "cons": "Salary Increment , timing problem",
-      "sentiment": "negative",
-      "sentiment_score": -0.4019,
-      "is_current_employee": true,
-      "review_date": "2023-12-04",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Network Manager",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "Nothing any",
-      "cons": "Growth is very very slow",
-      "sentiment": "negative",
-      "sentiment_score": -0.2924,
-      "is_current_employee": false,
-      "review_date": "2023-11-16",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Management Executive",
-      "location": "Sirsa",
-      "rating": 5.0,
-      "pros": "Managnment working timming",
-      "cons": "Kam krna ka tarika",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-10-11",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Counter Staff",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "I like blue dart express limited.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.1531,
-      "is_current_employee": false,
-      "review_date": "2024-10-03",
       "quality_score": 0.27
     },
     {
@@ -3808,84 +2820,6 @@
       "sentiment_score": 0.6369,
       "is_current_employee": false,
       "review_date": "2024-09-02",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "Bad bad bad bad bad",
-      "sentiment": "negative",
-      "sentiment_score": -0.9393,
-      "is_current_employee": true,
-      "review_date": "2024-04-29",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "CSR Executive",
-      "location": "Chandigarh",
-      "rating": 1.0,
-      "pros": "Poor service",
-      "cons": "Poor service and quality",
-      "sentiment": "negative",
-      "sentiment_score": -0.7351,
-      "is_current_employee": false,
-      "review_date": "2024-11-05",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "HR Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Best company culture in company",
-      "cons": "None",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2024-11-25",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Supervisor Incharge",
-      "location": "Rohtak",
-      "rating": 1.0,
-      "pros": "Bad",
-      "cons": "Gadhe ki tarah Kam karvana",
-      "sentiment": "negative",
-      "sentiment_score": -0.5423,
-      "is_current_employee": false,
-      "review_date": "2024-01-08",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "International Business Development Manager",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Best Place To Work",
-      "cons": "No Dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.7549,
-      "is_current_employee": true,
-      "review_date": "2023-12-19",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Territory Executive",
-      "location": "Ahmedabad",
-      "rating": 4.0,
-      "pros": "Good place to work",
-      "cons": "Work management",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2023-12-10",
       "quality_score": 0.26
     },
     {
@@ -4237,97 +3171,6 @@
       "sentiment_score": 0.3975,
       "is_current_employee": true,
       "review_date": "2024-04-04",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Good working environment",
-      "cons": "Nothing ...",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2024-03-05",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Territory Service Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Selery sup good jobs",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2023-12-26",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Customer Service Executive",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Good environment",
-      "cons": "9 working hours",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2023-12-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Courier Incharge",
-      "location": "Dibrugarh",
-      "rating": 4.0,
-      "pros": "It's amazing..",
-      "cons": "Yes, It's management.,.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7579,
-      "is_current_employee": true,
-      "review_date": "2025-08-13",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Area Sales Head",
-      "location": "Bhopal",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "6 days working culture...",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2024-01-17",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Works as a team",
-      "cons": "No",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-11-27",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Operation Incharge",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "Good experience",
-      "cons": "No ets good",
-      "sentiment": "negative",
-      "sentiment_score": -0.1793,
-      "is_current_employee": false,
-      "review_date": "2023-12-07",
       "quality_score": 0.25
     },
     {
@@ -4852,45 +3695,6 @@
     },
     {
       "title": null,
-      "role": "Delivery Boy",
-      "location": "Jamshedpur",
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "Yes",
-      "sentiment": "positive",
-      "sentiment_score": 0.6597,
-      "is_current_employee": true,
-      "review_date": "2024-04-23",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Field Executive",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Great Work",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": true,
-      "review_date": "2026-02-03",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Operation Staff",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "👍",
-      "cons": "👍",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-03-18",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
       "role": "Logistics Executive",
       "location": "Mumbai",
       "rating": 1.0,
@@ -5070,58 +3874,6 @@
       "is_current_employee": true,
       "review_date": "2025-10-02",
       "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Customer Service Executive",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Awesome",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": true,
-      "review_date": "2025-10-15",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Nh19 near kabiguru hospital Burdwan",
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": true,
-      "review_date": "2026-02-17",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "EXC",
-      "location": "Puducherry",
-      "rating": 1.0,
-      "pros": "no",
-      "cons": "",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2026-01-08",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Security Operations Specialist",
-      "location": "Patna",
-      "rating": 4.0,
-      "pros": "Like",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": true,
-      "review_date": "2025-12-22",
-      "quality_score": 0.21
     }
   ],
   "salaries": [
@@ -5139,8 +3891,8 @@
       "role": "Senior Business Development Executive",
       "location": null,
       "min_salary": 500000,
-      "max_salary": 828000,
-      "avg_salary": 732989,
+      "max_salary": 825500,
+      "avg_salary": 737105,
       "currency": "INR",
       "experience": "1-12 years",
       "sample_count": null
@@ -5156,11 +3908,21 @@
       "sample_count": null
     },
     {
+      "role": "Delivery Boy",
+      "location": null,
+      "min_salary": 120000,
+      "max_salary": 300000,
+      "avg_salary": 243177,
+      "currency": "INR",
+      "experience": "0-6 years",
+      "sample_count": null
+    },
+    {
       "role": "Executive Accountant",
       "location": null,
       "min_salary": 300000,
       "max_salary": 550000,
-      "avg_salary": 454272,
+      "avg_salary": 451927,
       "currency": "INR",
       "experience": "1-13 years",
       "sample_count": null
@@ -5199,8 +3961,8 @@
       "role": "Territory Service Representative",
       "location": null,
       "min_salary": 180000,
-      "max_salary": 282000,
-      "avg_salary": 239349,
+      "max_salary": 280000,
+      "avg_salary": 238731,
       "currency": "INR",
       "experience": "0-8 years",
       "sample_count": null
@@ -5216,6 +3978,16 @@
       "sample_count": null
     },
     {
+      "role": "Operations Manager",
+      "location": null,
+      "min_salary": 250000,
+      "max_salary": 1400000,
+      "avg_salary": 939654,
+      "currency": "INR",
+      "experience": "2-23 years",
+      "sample_count": null
+    },
+    {
       "role": "Customer Support Executive",
       "location": null,
       "min_salary": 272500,
@@ -5223,16 +3995,6 @@
       "avg_salary": 358231,
       "currency": "INR",
       "experience": "0-11 years",
-      "sample_count": null
-    },
-    {
-      "role": "Operations Manager",
-      "location": null,
-      "min_salary": 631000,
-      "max_salary": 1400000,
-      "avg_salary": 1062567,
-      "currency": "INR",
-      "experience": "6-25 years",
       "sample_count": null
     },
     {
@@ -5256,89 +4018,1664 @@
       "sample_count": null
     },
     {
-      "role": "Computer Operator",
+      "role": "Senior Executive",
       "location": null,
-      "min_salary": 107000,
-      "max_salary": 269500,
-      "avg_salary": 181791,
-      "currency": "INR",
-      "experience": "0-6 years",
-      "sample_count": null
-    },
-    {
-      "role": "Senior Sales Executive",
-      "location": null,
-      "min_salary": 460000,
-      "max_salary": 700000,
-      "avg_salary": 599085,
-      "currency": "INR",
-      "experience": "3-12 years",
-      "sample_count": null
-    },
-    {
-      "role": "TSR",
-      "location": null,
-      "min_salary": 151000,
-      "max_salary": 240000,
-      "avg_salary": 196152,
-      "currency": "INR",
-      "experience": "0-6 years",
-      "sample_count": null
-    },
-    {
-      "role": "Logistics Executive",
-      "location": null,
-      "min_salary": 200000,
-      "max_salary": 396000,
-      "avg_salary": 275179,
-      "currency": "INR",
-      "experience": "1-15 years",
-      "sample_count": null
-    },
-    {
-      "role": "Senior Customer Service Executive",
-      "location": null,
-      "min_salary": 420000,
+      "min_salary": 450000,
       "max_salary": 720000,
-      "avg_salary": 636668,
+      "avg_salary": 650613,
       "currency": "INR",
-      "experience": "5-17 years",
+      "experience": "2-17 years",
       "sample_count": null
     },
     {
-      "role": "Senior Accounts Executive",
+      "role": "Assistant Manager",
       "location": null,
-      "min_salary": 448000,
-      "max_salary": 800000,
-      "avg_salary": 672053,
+      "min_salary": 650000,
+      "max_salary": 1000000,
+      "avg_salary": 905303,
       "currency": "INR",
-      "experience": "9-15 years",
+      "experience": "1-20 years",
       "sample_count": null
     },
     {
-      "role": "Sr. BDE",
+      "role": "Operation Staff",
       "location": null,
-      "min_salary": 500000,
-      "max_salary": 730000,
-      "avg_salary": 655160,
+      "min_salary": 163000,
+      "max_salary": 300000,
+      "avg_salary": 248832,
       "currency": "INR",
-      "experience": "2-12 years",
+      "experience": "0-10 years",
+      "sample_count": null
+    },
+    {
+      "role": "Supervisor",
+      "location": null,
+      "min_salary": 170400,
+      "max_salary": 350000,
+      "avg_salary": 253943,
+      "currency": "INR",
+      "experience": "0-9 years",
+      "sample_count": null
+    },
+    {
+      "role": "Executive",
+      "location": null,
+      "min_salary": 216000,
+      "max_salary": 517000,
+      "avg_salary": 390909,
+      "currency": "INR",
+      "experience": "2-15 years",
+      "sample_count": null
+    },
+    {
+      "role": "Team Lead",
+      "location": null,
+      "min_salary": 243000,
+      "max_salary": 819300,
+      "avg_salary": 507877,
+      "currency": "INR",
+      "experience": "1-13 years",
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T22:14:41.950834+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 124 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 56 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "International/On-site exposure",
+      "details": "Reported by 13 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Course reimbursements",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 145 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Mental health wellbeing",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Office cab/shuttle",
+      "details": "Reported by 37 employees (97% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 32 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 26 employees (96% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Free meal",
+      "details": "Reported by 9 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Stock options",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Joining bonus",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Car lease",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Career break/Sabbatical",
+      "details": "Reported by 1 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is input data",
+          "answer": null
+        },
+        {
+          "question": "What is logistics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-19 14:37:33"
+    },
+    {
+      "role": "Customer Service and Operations Executive",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many customer call will attend",
+          "answer": "The number of customer calls attended depends on various factors like team size, call volume, and operational hours.Team size: A larger team can handle more calls. For example, a team of 10 can manage 100 calls in a shift.Call volume: Peak times may see higher call volumes, requiring more staff.Operational hours: Extended hours can increase the number of calls attended.Technology: Using call management software can streamline call handling."
+        },
+        {
+          "question": "How many call you",
+          "answer": "I handle numerous calls daily, focusing on customer satisfaction and efficient problem resolution.On average, I manage 50-70 calls per day, depending on the volume of inquiries.I prioritize calls based on urgency, ensuring critical issues are addressed first.For example, during peak hours, I may receive up to 100 calls, requiring quick thinking and multitasking.I utilize call management software to track and analyze call patterns for continuous improvement."
+        }
+      ],
+      "review_date": "2025-11-22 14:21:48"
+    },
+    {
+      "role": "Tally Accountant",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Give me self introduction about you?",
+          "answer": "I am a detail-oriented Tally Accountant with a strong background in financial management and a passion for accuracy in accounting.Educational Background: I hold a degree in Commerce, which provided me with a solid foundation in accounting principles.Professional Experience: I have over 3 years of experience working with Tally ERP 9, managing accounts for small to medium-sized businesses.Skills: Proficient in preparing financial statements, managing ledgers, and conducting audits to ensure compliance.Achievements: Successfully reduced discrepancies in financial reports by implementing a new reconciliation process.Team Collaboration: Worked closely with finance teams to streamline accounting processes and improve efficiency."
+        },
+        {
+          "question": "Explain abut transport chain ?",
+          "answer": "The transport chain is a series of protein complexes that transfer electrons, generating ATP in cellular respiration.Occurs in the inner mitochondrial membrane in eukaryotes.Involves four main protein complexes (I-IV) that facilitate electron transfer.Electrons are derived from NADH and FADH2 produced in earlier metabolic processes.As electrons move through the chain, protons are pumped into the intermembrane space, creating a proton gradient.ATP synthase uses this gradient to produce ATP from ADP and inorganic phosphate.Example: The final electron acceptor is oxygen, forming water."
+        }
+      ],
+      "review_date": "2024-03-25 17:54:50"
+    },
+    {
+      "role": "Senior Warehouse Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "On what date will it happen?",
+          "answer": null
+        },
+        {
+          "question": "Will the interview be conducted online or offline?",
+          "answer": null
+        },
+        {
+          "question": "One date confirm",
+          "answer": null
+        },
+        {
+          "question": "Blue dart express Bharatpur Rajasthan",
+          "answer": null
+        },
+        {
+          "question": "What is your experience with Blue Dart Express over the past four years?",
+          "answer": "I'm good work blue dart express"
+        },
+        {
+          "question": "Blue dart express Bharatpur I'm good work",
+          "answer": null
+        },
+        {
+          "question": "I like blue dart express",
+          "answer": null
+        },
+        {
+          "question": "What is your interest in working at Blue Dart Express?",
+          "answer": "I'm happy \nBlue dart express work"
+        },
+        {
+          "question": "What is your level of interest in working for Blue Dart Express?",
+          "answer": "I'm interested and I'm happy"
+        },
+        {
+          "question": "Blue dart express work I happy",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-19 20:09:24"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Last mile supervisor for Ecom Express Ltd. Gumia(GUM)",
+          "answer": null
+        },
+        {
+          "question": "Experience 7 years for Ecom Express Ltd.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-31 08:31:49"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Operations management",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 18:41:37"
+    },
+    {
+      "role": "Front Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What strategies can be implemented to attract customers to book shipments through Blue Dart?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to enhance the sales growth of the company?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to ensure timely delivery for customers?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-03 16:35:59"
+    },
+    {
+      "role": "Customer Service Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Asked for relevant experience",
+          "answer": null
+        },
+        {
+          "question": "Asked is am good in hindi",
+          "answer": "Yes, I am proficient in Hindi and can effectively communicate with customers to provide excellent service.I am fluent in Hindi, which helps me understand and address customer queries clearly.In my previous role, I handled Hindi-speaking customers daily, ensuring their issues were resolved promptly.I can read, write, and speak Hindi confidently, which enhances customer satisfaction.For example, I once assisted a Hindi-speaking customer with a complex issue, explaining the solution step-by-step in Hindi."
+        }
+      ],
+      "review_date": "2026-04-06 11:09:30"
+    },
+    {
+      "role": "Accounts Executive and Audit Assistant",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience in logistics?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-14 09:03:40"
+    },
+    {
+      "role": "Delivery Boy",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-15 10:57:03"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is input data",
+          "answer": null
+        },
+        {
+          "question": "What is logistics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-19 14:37:33"
+    },
+    {
+      "role": "Customer Service and Operations Executive",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many customer call will attend",
+          "answer": "The number of customer calls attended depends on various factors like team size, call volume, and operational hours.Team size: A larger team can handle more calls. For example, a team of 10 can manage 100 calls in a shift.Call volume: Peak times may see higher call volumes, requiring more staff.Operational hours: Extended hours can increase the number of calls attended.Technology: Using call management software can streamline call handling."
+        },
+        {
+          "question": "How many call you",
+          "answer": "I handle numerous calls daily, focusing on customer satisfaction and efficient problem resolution.On average, I manage 50-70 calls per day, depending on the volume of inquiries.I prioritize calls based on urgency, ensuring critical issues are addressed first.For example, during peak hours, I may receive up to 100 calls, requiring quick thinking and multitasking.I utilize call management software to track and analyze call patterns for continuous improvement."
+        }
+      ],
+      "review_date": "2025-11-22 14:21:48"
+    },
+    {
+      "role": "Tally Accountant",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Give me self introduction about you?",
+          "answer": "I am a detail-oriented Tally Accountant with a strong background in financial management and a passion for accuracy in accounting.Educational Background: I hold a degree in Commerce, which provided me with a solid foundation in accounting principles.Professional Experience: I have over 3 years of experience working with Tally ERP 9, managing accounts for small to medium-sized businesses.Skills: Proficient in preparing financial statements, managing ledgers, and conducting audits to ensure compliance.Achievements: Successfully reduced discrepancies in financial reports by implementing a new reconciliation process.Team Collaboration: Worked closely with finance teams to streamline accounting processes and improve efficiency."
+        },
+        {
+          "question": "Explain abut transport chain ?",
+          "answer": "The transport chain is a series of protein complexes that transfer electrons, generating ATP in cellular respiration.Occurs in the inner mitochondrial membrane in eukaryotes.Involves four main protein complexes (I-IV) that facilitate electron transfer.Electrons are derived from NADH and FADH2 produced in earlier metabolic processes.As electrons move through the chain, protons are pumped into the intermembrane space, creating a proton gradient.ATP synthase uses this gradient to produce ATP from ADP and inorganic phosphate.Example: The final electron acceptor is oxygen, forming water."
+        }
+      ],
+      "review_date": "2024-03-25 17:54:50"
+    },
+    {
+      "role": "Senior Warehouse Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "On what date will it happen?",
+          "answer": null
+        },
+        {
+          "question": "Will the interview be conducted online or offline?",
+          "answer": null
+        },
+        {
+          "question": "One date confirm",
+          "answer": null
+        },
+        {
+          "question": "Blue dart express Bharatpur Rajasthan",
+          "answer": null
+        },
+        {
+          "question": "What is your experience with Blue Dart Express over the past four years?",
+          "answer": "I'm good work blue dart express"
+        },
+        {
+          "question": "Blue dart express Bharatpur I'm good work",
+          "answer": null
+        },
+        {
+          "question": "I like blue dart express",
+          "answer": null
+        },
+        {
+          "question": "What is your interest in working at Blue Dart Express?",
+          "answer": "I'm happy \nBlue dart express work"
+        },
+        {
+          "question": "What is your level of interest in working for Blue Dart Express?",
+          "answer": "I'm interested and I'm happy"
+        },
+        {
+          "question": "Blue dart express work I happy",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-19 20:09:24"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Last mile supervisor for Ecom Express Ltd. Gumia(GUM)",
+          "answer": null
+        },
+        {
+          "question": "Experience 7 years for Ecom Express Ltd.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-31 08:31:49"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Operations management",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 18:41:37"
+    },
+    {
+      "role": "Front Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What strategies can be implemented to attract customers to book shipments through Blue Dart?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to enhance the sales growth of the company?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to ensure timely delivery for customers?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-03 16:35:59"
+    },
+    {
+      "role": "Customer Service Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Asked for relevant experience",
+          "answer": null
+        },
+        {
+          "question": "Asked is am good in hindi",
+          "answer": "Yes, I am proficient in Hindi and can effectively communicate with customers to provide excellent service.I am fluent in Hindi, which helps me understand and address customer queries clearly.In my previous role, I handled Hindi-speaking customers daily, ensuring their issues were resolved promptly.I can read, write, and speak Hindi confidently, which enhances customer satisfaction.For example, I once assisted a Hindi-speaking customer with a complex issue, explaining the solution step-by-step in Hindi."
+        }
+      ],
+      "review_date": "2026-04-06 11:09:30"
+    },
+    {
+      "role": "Accounts Executive and Audit Assistant",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience in logistics?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-14 09:03:40"
+    },
+    {
+      "role": "Delivery Boy",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-15 10:57:03"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is input data",
+          "answer": null
+        },
+        {
+          "question": "What is logistics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-19 14:37:33"
+    },
+    {
+      "role": "Customer Service and Operations Executive",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many customer call will attend",
+          "answer": "The number of customer calls attended depends on various factors like team size, call volume, and operational hours.Team size: A larger team can handle more calls. For example, a team of 10 can manage 100 calls in a shift.Call volume: Peak times may see higher call volumes, requiring more staff.Operational hours: Extended hours can increase the number of calls attended.Technology: Using call management software can streamline call handling."
+        },
+        {
+          "question": "How many call you",
+          "answer": "I handle numerous calls daily, focusing on customer satisfaction and efficient problem resolution.On average, I manage 50-70 calls per day, depending on the volume of inquiries.I prioritize calls based on urgency, ensuring critical issues are addressed first.For example, during peak hours, I may receive up to 100 calls, requiring quick thinking and multitasking.I utilize call management software to track and analyze call patterns for continuous improvement."
+        }
+      ],
+      "review_date": "2025-11-22 14:21:48"
+    },
+    {
+      "role": "Tally Accountant",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Give me self introduction about you?",
+          "answer": "I am a detail-oriented Tally Accountant with a strong background in financial management and a passion for accuracy in accounting.Educational Background: I hold a degree in Commerce, which provided me with a solid foundation in accounting principles.Professional Experience: I have over 3 years of experience working with Tally ERP 9, managing accounts for small to medium-sized businesses.Skills: Proficient in preparing financial statements, managing ledgers, and conducting audits to ensure compliance.Achievements: Successfully reduced discrepancies in financial reports by implementing a new reconciliation process.Team Collaboration: Worked closely with finance teams to streamline accounting processes and improve efficiency."
+        },
+        {
+          "question": "Explain abut transport chain ?",
+          "answer": "The transport chain is a series of protein complexes that transfer electrons, generating ATP in cellular respiration.Occurs in the inner mitochondrial membrane in eukaryotes.Involves four main protein complexes (I-IV) that facilitate electron transfer.Electrons are derived from NADH and FADH2 produced in earlier metabolic processes.As electrons move through the chain, protons are pumped into the intermembrane space, creating a proton gradient.ATP synthase uses this gradient to produce ATP from ADP and inorganic phosphate.Example: The final electron acceptor is oxygen, forming water."
+        }
+      ],
+      "review_date": "2024-03-25 17:54:50"
+    },
+    {
+      "role": "Senior Warehouse Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "On what date will it happen?",
+          "answer": null
+        },
+        {
+          "question": "Will the interview be conducted online or offline?",
+          "answer": null
+        },
+        {
+          "question": "One date confirm",
+          "answer": null
+        },
+        {
+          "question": "Blue dart express Bharatpur Rajasthan",
+          "answer": null
+        },
+        {
+          "question": "What is your experience with Blue Dart Express over the past four years?",
+          "answer": "I'm good work blue dart express"
+        },
+        {
+          "question": "Blue dart express Bharatpur I'm good work",
+          "answer": null
+        },
+        {
+          "question": "I like blue dart express",
+          "answer": null
+        },
+        {
+          "question": "What is your interest in working at Blue Dart Express?",
+          "answer": "I'm happy \nBlue dart express work"
+        },
+        {
+          "question": "What is your level of interest in working for Blue Dart Express?",
+          "answer": "I'm interested and I'm happy"
+        },
+        {
+          "question": "Blue dart express work I happy",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-19 20:09:24"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Last mile supervisor for Ecom Express Ltd. Gumia(GUM)",
+          "answer": null
+        },
+        {
+          "question": "Experience 7 years for Ecom Express Ltd.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-31 08:31:49"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Operations management",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 18:41:37"
+    },
+    {
+      "role": "Front Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What strategies can be implemented to attract customers to book shipments through Blue Dart?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to enhance the sales growth of the company?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to ensure timely delivery for customers?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-03 16:35:59"
+    },
+    {
+      "role": "Customer Service Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Asked for relevant experience",
+          "answer": null
+        },
+        {
+          "question": "Asked is am good in hindi",
+          "answer": "Yes, I am proficient in Hindi and can effectively communicate with customers to provide excellent service.I am fluent in Hindi, which helps me understand and address customer queries clearly.In my previous role, I handled Hindi-speaking customers daily, ensuring their issues were resolved promptly.I can read, write, and speak Hindi confidently, which enhances customer satisfaction.For example, I once assisted a Hindi-speaking customer with a complex issue, explaining the solution step-by-step in Hindi."
+        }
+      ],
+      "review_date": "2026-04-06 11:09:30"
+    },
+    {
+      "role": "Accounts Executive and Audit Assistant",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience in logistics?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-14 09:03:40"
+    },
+    {
+      "role": "Delivery Boy",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-15 10:57:03"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is input data",
+          "answer": null
+        },
+        {
+          "question": "What is logistics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-19 14:37:33"
+    },
+    {
+      "role": "Customer Service and Operations Executive",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many customer call will attend",
+          "answer": "The number of customer calls attended depends on various factors like team size, call volume, and operational hours.Team size: A larger team can handle more calls. For example, a team of 10 can manage 100 calls in a shift.Call volume: Peak times may see higher call volumes, requiring more staff.Operational hours: Extended hours can increase the number of calls attended.Technology: Using call management software can streamline call handling."
+        },
+        {
+          "question": "How many call you",
+          "answer": "I handle numerous calls daily, focusing on customer satisfaction and efficient problem resolution.On average, I manage 50-70 calls per day, depending on the volume of inquiries.I prioritize calls based on urgency, ensuring critical issues are addressed first.For example, during peak hours, I may receive up to 100 calls, requiring quick thinking and multitasking.I utilize call management software to track and analyze call patterns for continuous improvement."
+        }
+      ],
+      "review_date": "2025-11-22 14:21:48"
+    },
+    {
+      "role": "Tally Accountant",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Give me self introduction about you?",
+          "answer": "I am a detail-oriented Tally Accountant with a strong background in financial management and a passion for accuracy in accounting.Educational Background: I hold a degree in Commerce, which provided me with a solid foundation in accounting principles.Professional Experience: I have over 3 years of experience working with Tally ERP 9, managing accounts for small to medium-sized businesses.Skills: Proficient in preparing financial statements, managing ledgers, and conducting audits to ensure compliance.Achievements: Successfully reduced discrepancies in financial reports by implementing a new reconciliation process.Team Collaboration: Worked closely with finance teams to streamline accounting processes and improve efficiency."
+        },
+        {
+          "question": "Explain abut transport chain ?",
+          "answer": "The transport chain is a series of protein complexes that transfer electrons, generating ATP in cellular respiration.Occurs in the inner mitochondrial membrane in eukaryotes.Involves four main protein complexes (I-IV) that facilitate electron transfer.Electrons are derived from NADH and FADH2 produced in earlier metabolic processes.As electrons move through the chain, protons are pumped into the intermembrane space, creating a proton gradient.ATP synthase uses this gradient to produce ATP from ADP and inorganic phosphate.Example: The final electron acceptor is oxygen, forming water."
+        }
+      ],
+      "review_date": "2024-03-25 17:54:50"
+    },
+    {
+      "role": "Senior Warehouse Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "On what date will it happen?",
+          "answer": null
+        },
+        {
+          "question": "Will the interview be conducted online or offline?",
+          "answer": null
+        },
+        {
+          "question": "One date confirm",
+          "answer": null
+        },
+        {
+          "question": "Blue dart express Bharatpur Rajasthan",
+          "answer": null
+        },
+        {
+          "question": "What is your experience with Blue Dart Express over the past four years?",
+          "answer": "I'm good work blue dart express"
+        },
+        {
+          "question": "Blue dart express Bharatpur I'm good work",
+          "answer": null
+        },
+        {
+          "question": "I like blue dart express",
+          "answer": null
+        },
+        {
+          "question": "What is your interest in working at Blue Dart Express?",
+          "answer": "I'm happy \nBlue dart express work"
+        },
+        {
+          "question": "What is your level of interest in working for Blue Dart Express?",
+          "answer": "I'm interested and I'm happy"
+        },
+        {
+          "question": "Blue dart express work I happy",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-19 20:09:24"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Last mile supervisor for Ecom Express Ltd. Gumia(GUM)",
+          "answer": null
+        },
+        {
+          "question": "Experience 7 years for Ecom Express Ltd.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-31 08:31:49"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Operations management",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 18:41:37"
+    },
+    {
+      "role": "Front Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What strategies can be implemented to attract customers to book shipments through Blue Dart?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to enhance the sales growth of the company?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to ensure timely delivery for customers?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-03 16:35:59"
+    },
+    {
+      "role": "Customer Service Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Asked for relevant experience",
+          "answer": null
+        },
+        {
+          "question": "Asked is am good in hindi",
+          "answer": "Yes, I am proficient in Hindi and can effectively communicate with customers to provide excellent service.I am fluent in Hindi, which helps me understand and address customer queries clearly.In my previous role, I handled Hindi-speaking customers daily, ensuring their issues were resolved promptly.I can read, write, and speak Hindi confidently, which enhances customer satisfaction.For example, I once assisted a Hindi-speaking customer with a complex issue, explaining the solution step-by-step in Hindi."
+        }
+      ],
+      "review_date": "2026-04-06 11:09:30"
+    },
+    {
+      "role": "Accounts Executive and Audit Assistant",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience in logistics?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-14 09:03:40"
+    },
+    {
+      "role": "Delivery Boy",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-15 10:57:03"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is input data",
+          "answer": null
+        },
+        {
+          "question": "What is logistics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-19 14:37:33"
+    },
+    {
+      "role": "Customer Service and Operations Executive",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many customer call will attend",
+          "answer": "The number of customer calls attended depends on various factors like team size, call volume, and operational hours.Team size: A larger team can handle more calls. For example, a team of 10 can manage 100 calls in a shift.Call volume: Peak times may see higher call volumes, requiring more staff.Operational hours: Extended hours can increase the number of calls attended.Technology: Using call management software can streamline call handling."
+        },
+        {
+          "question": "How many call you",
+          "answer": "I handle numerous calls daily, focusing on customer satisfaction and efficient problem resolution.On average, I manage 50-70 calls per day, depending on the volume of inquiries.I prioritize calls based on urgency, ensuring critical issues are addressed first.For example, during peak hours, I may receive up to 100 calls, requiring quick thinking and multitasking.I utilize call management software to track and analyze call patterns for continuous improvement."
+        }
+      ],
+      "review_date": "2025-11-22 14:21:48"
+    },
+    {
+      "role": "Tally Accountant",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Give me self introduction about you?",
+          "answer": "I am a detail-oriented Tally Accountant with a strong background in financial management and a passion for accuracy in accounting.Educational Background: I hold a degree in Commerce, which provided me with a solid foundation in accounting principles.Professional Experience: I have over 3 years of experience working with Tally ERP 9, managing accounts for small to medium-sized businesses.Skills: Proficient in preparing financial statements, managing ledgers, and conducting audits to ensure compliance.Achievements: Successfully reduced discrepancies in financial reports by implementing a new reconciliation process.Team Collaboration: Worked closely with finance teams to streamline accounting processes and improve efficiency."
+        },
+        {
+          "question": "Explain abut transport chain ?",
+          "answer": "The transport chain is a series of protein complexes that transfer electrons, generating ATP in cellular respiration.Occurs in the inner mitochondrial membrane in eukaryotes.Involves four main protein complexes (I-IV) that facilitate electron transfer.Electrons are derived from NADH and FADH2 produced in earlier metabolic processes.As electrons move through the chain, protons are pumped into the intermembrane space, creating a proton gradient.ATP synthase uses this gradient to produce ATP from ADP and inorganic phosphate.Example: The final electron acceptor is oxygen, forming water."
+        }
+      ],
+      "review_date": "2024-03-25 17:54:50"
+    },
+    {
+      "role": "Senior Warehouse Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "On what date will it happen?",
+          "answer": null
+        },
+        {
+          "question": "Will the interview be conducted online or offline?",
+          "answer": null
+        },
+        {
+          "question": "One date confirm",
+          "answer": null
+        },
+        {
+          "question": "Blue dart express Bharatpur Rajasthan",
+          "answer": null
+        },
+        {
+          "question": "What is your experience with Blue Dart Express over the past four years?",
+          "answer": "I'm good work blue dart express"
+        },
+        {
+          "question": "Blue dart express Bharatpur I'm good work",
+          "answer": null
+        },
+        {
+          "question": "I like blue dart express",
+          "answer": null
+        },
+        {
+          "question": "What is your interest in working at Blue Dart Express?",
+          "answer": "I'm happy \nBlue dart express work"
+        },
+        {
+          "question": "What is your level of interest in working for Blue Dart Express?",
+          "answer": "I'm interested and I'm happy"
+        },
+        {
+          "question": "Blue dart express work I happy",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-19 20:09:24"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Last mile supervisor for Ecom Express Ltd. Gumia(GUM)",
+          "answer": null
+        },
+        {
+          "question": "Experience 7 years for Ecom Express Ltd.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-31 08:31:49"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Operations management",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 18:41:37"
+    },
+    {
+      "role": "Front Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What strategies can be implemented to attract customers to book shipments through Blue Dart?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to enhance the sales growth of the company?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to ensure timely delivery for customers?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-03 16:35:59"
+    },
+    {
+      "role": "Customer Service Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Asked for relevant experience",
+          "answer": null
+        },
+        {
+          "question": "Asked is am good in hindi",
+          "answer": "Yes, I am proficient in Hindi and can effectively communicate with customers to provide excellent service.I am fluent in Hindi, which helps me understand and address customer queries clearly.In my previous role, I handled Hindi-speaking customers daily, ensuring their issues were resolved promptly.I can read, write, and speak Hindi confidently, which enhances customer satisfaction.For example, I once assisted a Hindi-speaking customer with a complex issue, explaining the solution step-by-step in Hindi."
+        }
+      ],
+      "review_date": "2026-04-06 11:09:30"
+    },
+    {
+      "role": "Accounts Executive and Audit Assistant",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience in logistics?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-14 09:03:40"
+    },
+    {
+      "role": "Delivery Boy",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-15 10:57:03"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is input data",
+          "answer": null
+        },
+        {
+          "question": "What is logistics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-19 14:37:33"
+    },
+    {
+      "role": "Customer Service and Operations Executive",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many customer call will attend",
+          "answer": "The number of customer calls attended depends on various factors like team size, call volume, and operational hours.Team size: A larger team can handle more calls. For example, a team of 10 can manage 100 calls in a shift.Call volume: Peak times may see higher call volumes, requiring more staff.Operational hours: Extended hours can increase the number of calls attended.Technology: Using call management software can streamline call handling."
+        },
+        {
+          "question": "How many call you",
+          "answer": "I handle numerous calls daily, focusing on customer satisfaction and efficient problem resolution.On average, I manage 50-70 calls per day, depending on the volume of inquiries.I prioritize calls based on urgency, ensuring critical issues are addressed first.For example, during peak hours, I may receive up to 100 calls, requiring quick thinking and multitasking.I utilize call management software to track and analyze call patterns for continuous improvement."
+        }
+      ],
+      "review_date": "2025-11-22 14:21:48"
+    },
+    {
+      "role": "Tally Accountant",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Give me self introduction about you?",
+          "answer": "I am a detail-oriented Tally Accountant with a strong background in financial management and a passion for accuracy in accounting.Educational Background: I hold a degree in Commerce, which provided me with a solid foundation in accounting principles.Professional Experience: I have over 3 years of experience working with Tally ERP 9, managing accounts for small to medium-sized businesses.Skills: Proficient in preparing financial statements, managing ledgers, and conducting audits to ensure compliance.Achievements: Successfully reduced discrepancies in financial reports by implementing a new reconciliation process.Team Collaboration: Worked closely with finance teams to streamline accounting processes and improve efficiency."
+        },
+        {
+          "question": "Explain abut transport chain ?",
+          "answer": "The transport chain is a series of protein complexes that transfer electrons, generating ATP in cellular respiration.Occurs in the inner mitochondrial membrane in eukaryotes.Involves four main protein complexes (I-IV) that facilitate electron transfer.Electrons are derived from NADH and FADH2 produced in earlier metabolic processes.As electrons move through the chain, protons are pumped into the intermembrane space, creating a proton gradient.ATP synthase uses this gradient to produce ATP from ADP and inorganic phosphate.Example: The final electron acceptor is oxygen, forming water."
+        }
+      ],
+      "review_date": "2024-03-25 17:54:50"
+    },
+    {
+      "role": "Senior Warehouse Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "On what date will it happen?",
+          "answer": null
+        },
+        {
+          "question": "Will the interview be conducted online or offline?",
+          "answer": null
+        },
+        {
+          "question": "One date confirm",
+          "answer": null
+        },
+        {
+          "question": "Blue dart express Bharatpur Rajasthan",
+          "answer": null
+        },
+        {
+          "question": "What is your experience with Blue Dart Express over the past four years?",
+          "answer": "I'm good work blue dart express"
+        },
+        {
+          "question": "Blue dart express Bharatpur I'm good work",
+          "answer": null
+        },
+        {
+          "question": "I like blue dart express",
+          "answer": null
+        },
+        {
+          "question": "What is your interest in working at Blue Dart Express?",
+          "answer": "I'm happy \nBlue dart express work"
+        },
+        {
+          "question": "What is your level of interest in working for Blue Dart Express?",
+          "answer": "I'm interested and I'm happy"
+        },
+        {
+          "question": "Blue dart express work I happy",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-19 20:09:24"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Last mile supervisor for Ecom Express Ltd. Gumia(GUM)",
+          "answer": null
+        },
+        {
+          "question": "Experience 7 years for Ecom Express Ltd.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-31 08:31:49"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Operations management",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 18:41:37"
+    },
+    {
+      "role": "Front Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What strategies can be implemented to attract customers to book shipments through Blue Dart?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to enhance the sales growth of the company?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to ensure timely delivery for customers?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-03 16:35:59"
+    },
+    {
+      "role": "Customer Service Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Asked for relevant experience",
+          "answer": null
+        },
+        {
+          "question": "Asked is am good in hindi",
+          "answer": "Yes, I am proficient in Hindi and can effectively communicate with customers to provide excellent service.I am fluent in Hindi, which helps me understand and address customer queries clearly.In my previous role, I handled Hindi-speaking customers daily, ensuring their issues were resolved promptly.I can read, write, and speak Hindi confidently, which enhances customer satisfaction.For example, I once assisted a Hindi-speaking customer with a complex issue, explaining the solution step-by-step in Hindi."
+        }
+      ],
+      "review_date": "2026-04-06 11:09:30"
+    },
+    {
+      "role": "Accounts Executive and Audit Assistant",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience in logistics?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-14 09:03:40"
+    },
+    {
+      "role": "Delivery Boy",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-15 10:57:03"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is input data",
+          "answer": null
+        },
+        {
+          "question": "What is logistics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-19 14:37:33"
+    },
+    {
+      "role": "Customer Service and Operations Executive",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many customer call will attend",
+          "answer": "The number of customer calls attended depends on various factors like team size, call volume, and operational hours.Team size: A larger team can handle more calls. For example, a team of 10 can manage 100 calls in a shift.Call volume: Peak times may see higher call volumes, requiring more staff.Operational hours: Extended hours can increase the number of calls attended.Technology: Using call management software can streamline call handling."
+        },
+        {
+          "question": "How many call you",
+          "answer": "I handle numerous calls daily, focusing on customer satisfaction and efficient problem resolution.On average, I manage 50-70 calls per day, depending on the volume of inquiries.I prioritize calls based on urgency, ensuring critical issues are addressed first.For example, during peak hours, I may receive up to 100 calls, requiring quick thinking and multitasking.I utilize call management software to track and analyze call patterns for continuous improvement."
+        }
+      ],
+      "review_date": "2025-11-22 14:21:48"
+    },
+    {
+      "role": "Tally Accountant",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Give me self introduction about you?",
+          "answer": "I am a detail-oriented Tally Accountant with a strong background in financial management and a passion for accuracy in accounting.Educational Background: I hold a degree in Commerce, which provided me with a solid foundation in accounting principles.Professional Experience: I have over 3 years of experience working with Tally ERP 9, managing accounts for small to medium-sized businesses.Skills: Proficient in preparing financial statements, managing ledgers, and conducting audits to ensure compliance.Achievements: Successfully reduced discrepancies in financial reports by implementing a new reconciliation process.Team Collaboration: Worked closely with finance teams to streamline accounting processes and improve efficiency."
+        },
+        {
+          "question": "Explain abut transport chain ?",
+          "answer": "The transport chain is a series of protein complexes that transfer electrons, generating ATP in cellular respiration.Occurs in the inner mitochondrial membrane in eukaryotes.Involves four main protein complexes (I-IV) that facilitate electron transfer.Electrons are derived from NADH and FADH2 produced in earlier metabolic processes.As electrons move through the chain, protons are pumped into the intermembrane space, creating a proton gradient.ATP synthase uses this gradient to produce ATP from ADP and inorganic phosphate.Example: The final electron acceptor is oxygen, forming water."
+        }
+      ],
+      "review_date": "2024-03-25 17:54:50"
+    },
+    {
+      "role": "Senior Warehouse Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "On what date will it happen?",
+          "answer": null
+        },
+        {
+          "question": "Will the interview be conducted online or offline?",
+          "answer": null
+        },
+        {
+          "question": "One date confirm",
+          "answer": null
+        },
+        {
+          "question": "Blue dart express Bharatpur Rajasthan",
+          "answer": null
+        },
+        {
+          "question": "What is your experience with Blue Dart Express over the past four years?",
+          "answer": "I'm good work blue dart express"
+        },
+        {
+          "question": "Blue dart express Bharatpur I'm good work",
+          "answer": null
+        },
+        {
+          "question": "I like blue dart express",
+          "answer": null
+        },
+        {
+          "question": "What is your interest in working at Blue Dart Express?",
+          "answer": "I'm happy \nBlue dart express work"
+        },
+        {
+          "question": "What is your level of interest in working for Blue Dart Express?",
+          "answer": "I'm interested and I'm happy"
+        },
+        {
+          "question": "Blue dart express work I happy",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-19 20:09:24"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Last mile supervisor for Ecom Express Ltd. Gumia(GUM)",
+          "answer": null
+        },
+        {
+          "question": "Experience 7 years for Ecom Express Ltd.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-31 08:31:49"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Operations management",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 18:41:37"
+    },
+    {
+      "role": "Front Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What strategies can be implemented to attract customers to book shipments through Blue Dart?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to enhance the sales growth of the company?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to ensure timely delivery for customers?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-03 16:35:59"
+    },
+    {
+      "role": "Customer Service Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Asked for relevant experience",
+          "answer": null
+        },
+        {
+          "question": "Asked is am good in hindi",
+          "answer": "Yes, I am proficient in Hindi and can effectively communicate with customers to provide excellent service.I am fluent in Hindi, which helps me understand and address customer queries clearly.In my previous role, I handled Hindi-speaking customers daily, ensuring their issues were resolved promptly.I can read, write, and speak Hindi confidently, which enhances customer satisfaction.For example, I once assisted a Hindi-speaking customer with a complex issue, explaining the solution step-by-step in Hindi."
+        }
+      ],
+      "review_date": "2026-04-06 11:09:30"
+    },
+    {
+      "role": "Accounts Executive and Audit Assistant",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience in logistics?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-14 09:03:40"
+    },
+    {
+      "role": "Delivery Boy",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-15 10:57:03"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is input data",
+          "answer": null
+        },
+        {
+          "question": "What is logistics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-19 14:37:33"
+    },
+    {
+      "role": "Customer Service and Operations Executive",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many customer call will attend",
+          "answer": "The number of customer calls attended depends on various factors like team size, call volume, and operational hours.Team size: A larger team can handle more calls. For example, a team of 10 can manage 100 calls in a shift.Call volume: Peak times may see higher call volumes, requiring more staff.Operational hours: Extended hours can increase the number of calls attended.Technology: Using call management software can streamline call handling."
+        },
+        {
+          "question": "How many call you",
+          "answer": "I handle numerous calls daily, focusing on customer satisfaction and efficient problem resolution.On average, I manage 50-70 calls per day, depending on the volume of inquiries.I prioritize calls based on urgency, ensuring critical issues are addressed first.For example, during peak hours, I may receive up to 100 calls, requiring quick thinking and multitasking.I utilize call management software to track and analyze call patterns for continuous improvement."
+        }
+      ],
+      "review_date": "2025-11-22 14:21:48"
+    },
+    {
+      "role": "Tally Accountant",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Give me self introduction about you?",
+          "answer": "I am a detail-oriented Tally Accountant with a strong background in financial management and a passion for accuracy in accounting.Educational Background: I hold a degree in Commerce, which provided me with a solid foundation in accounting principles.Professional Experience: I have over 3 years of experience working with Tally ERP 9, managing accounts for small to medium-sized businesses.Skills: Proficient in preparing financial statements, managing ledgers, and conducting audits to ensure compliance.Achievements: Successfully reduced discrepancies in financial reports by implementing a new reconciliation process.Team Collaboration: Worked closely with finance teams to streamline accounting processes and improve efficiency."
+        },
+        {
+          "question": "Explain abut transport chain ?",
+          "answer": "The transport chain is a series of protein complexes that transfer electrons, generating ATP in cellular respiration.Occurs in the inner mitochondrial membrane in eukaryotes.Involves four main protein complexes (I-IV) that facilitate electron transfer.Electrons are derived from NADH and FADH2 produced in earlier metabolic processes.As electrons move through the chain, protons are pumped into the intermembrane space, creating a proton gradient.ATP synthase uses this gradient to produce ATP from ADP and inorganic phosphate.Example: The final electron acceptor is oxygen, forming water."
+        }
+      ],
+      "review_date": "2024-03-25 17:54:50"
+    },
+    {
+      "role": "Senior Warehouse Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "On what date will it happen?",
+          "answer": null
+        },
+        {
+          "question": "Will the interview be conducted online or offline?",
+          "answer": null
+        },
+        {
+          "question": "One date confirm",
+          "answer": null
+        },
+        {
+          "question": "Blue dart express Bharatpur Rajasthan",
+          "answer": null
+        },
+        {
+          "question": "What is your experience with Blue Dart Express over the past four years?",
+          "answer": "I'm good work blue dart express"
+        },
+        {
+          "question": "Blue dart express Bharatpur I'm good work",
+          "answer": null
+        },
+        {
+          "question": "I like blue dart express",
+          "answer": null
+        },
+        {
+          "question": "What is your interest in working at Blue Dart Express?",
+          "answer": "I'm happy \nBlue dart express work"
+        },
+        {
+          "question": "What is your level of interest in working for Blue Dart Express?",
+          "answer": "I'm interested and I'm happy"
+        },
+        {
+          "question": "Blue dart express work I happy",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-19 20:09:24"
+    },
+    {
+      "role": "Senior Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Last mile supervisor for Ecom Express Ltd. Gumia(GUM)",
+          "answer": null
+        },
+        {
+          "question": "Experience 7 years for Ecom Express Ltd.",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-05-31 08:31:49"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Operations management",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 18:41:37"
+    },
+    {
+      "role": "Front Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What strategies can be implemented to attract customers to book shipments through Blue Dart?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to enhance the sales growth of the company?",
+          "answer": null
+        },
+        {
+          "question": "What strategies can be implemented to ensure timely delivery for customers?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-03 16:35:59"
+    },
+    {
+      "role": "Customer Service Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Asked for relevant experience",
+          "answer": null
+        },
+        {
+          "question": "Asked is am good in hindi",
+          "answer": "Yes, I am proficient in Hindi and can effectively communicate with customers to provide excellent service.I am fluent in Hindi, which helps me understand and address customer queries clearly.In my previous role, I handled Hindi-speaking customers daily, ensuring their issues were resolved promptly.I can read, write, and speak Hindi confidently, which enhances customer satisfaction.For example, I once assisted a Hindi-speaking customer with a complex issue, explaining the solution step-by-step in Hindi."
+        }
+      ],
+      "review_date": "2026-04-06 11:09:30"
+    },
+    {
+      "role": "Accounts Executive and Audit Assistant",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience in logistics?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-14 09:03:40"
+    },
+    {
+      "role": "Delivery Boy",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-15 10:57:03"
+    }
+  ],
+  "_scraped_at": "2026-04-12T22:52:25.860712+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Blue Dart",
   "_registry_industry": "Logistics",
   "_sentiment": {
-    "positiveCount": 243,
-    "negativeCount": 112,
-    "neutralCount": 38,
+    "positiveCount": 186,
+    "negativeCount": 81,
+    "neutralCount": 30,
     "topPositiveThemes": [
       "company culture",
-      "salary & compensation",
       "job security",
+      "salary & compensation",
       "career growth",
       "management"
     ],

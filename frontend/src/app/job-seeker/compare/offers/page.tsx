@@ -171,10 +171,10 @@ function CompanySearch({
         onBlur={() => setTimeout(() => setOpen(false), 150)}
         onFocus={() => { if (results.length) setOpen(true); }}
         placeholder={placeholder}
-        className="w-full px-3 py-2 border border-ink/20 bg-white text-ink text-sm font-sans focus:outline-none focus:border-terracotta placeholder:text-warmgray/50"
+        className="w-full px-3 py-2 border border-ink/20 bg-card text-ink text-sm font-sans focus:outline-none focus:border-terracotta placeholder:text-warmgray/50"
       />
       {open && results.length > 0 && (
-        <div className="absolute z-20 top-full left-0 right-0 bg-white border border-ink/15 shadow-md max-h-56 overflow-y-auto">
+        <div className="absolute z-20 top-full left-0 right-0 bg-card border border-ink/15 shadow-md max-h-56 overflow-y-auto">
           {results.map((r) => (
             <button
               key={r.slug}
@@ -268,7 +268,7 @@ function ResultsView({
       )}
 
       {/* Compensation comparison */}
-      <div className="bg-white border border-ink/15">
+      <div className="bg-card border border-ink/15">
         <div className="px-5 py-2.5 border-b border-ink/10 bg-cream">
           <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Compensation</span>
         </div>
@@ -362,7 +362,7 @@ function ResultsView({
 
       {/* Ratings overlay */}
       {hasSomeRating && (
-        <div className="bg-white border border-ink/15">
+        <div className="bg-card border border-ink/15">
           <div className="px-5 py-2.5 border-b border-ink/10 bg-cream">
             <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Company Ratings</span>
           </div>
@@ -442,7 +442,7 @@ function ResultsView({
 
       {/* Benefits comparison */}
       {allBenefitCats.length > 0 && (
-        <div className="bg-white border border-ink/15">
+        <div className="bg-card border border-ink/15">
           <div className="px-5 py-2.5 border-b border-ink/10 bg-cream flex justify-between items-center">
             <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Benefits</span>
             <div className="flex gap-4 text-[10px] font-sans">
@@ -508,7 +508,7 @@ function OfferForm({
   }
 
   return (
-    <div className="bg-white border border-ink/15 overflow-hidden">
+    <div className="bg-card border border-ink/15 overflow-hidden">
       <div className="px-5 py-3 border-b border-ink/10 flex items-center gap-2" style={{ backgroundColor: `${color}10`, borderLeftWidth: 3, borderLeftColor: color }}>
         <span className="font-serif font-bold text-ink text-sm">{label}</span>
       </div>
@@ -532,7 +532,7 @@ function OfferForm({
             value={value.role}
             onChange={(e) => field("role", e.target.value)}
             placeholder="e.g. Software Engineer II"
-            className="w-full px-3 py-2 border border-ink/20 bg-white text-ink text-sm font-sans focus:outline-none focus:border-terracotta placeholder:text-warmgray/50"
+            className="w-full px-3 py-2 border border-ink/20 bg-card text-ink text-sm font-sans focus:outline-none focus:border-terracotta placeholder:text-warmgray/50"
           />
         </div>
 
@@ -542,7 +542,7 @@ function OfferForm({
           <select
             value={value.city}
             onChange={(e) => field("city", e.target.value)}
-            className="w-full px-3 py-2 border border-ink/20 bg-white text-ink text-sm font-sans focus:outline-none focus:border-terracotta"
+            className="w-full px-3 py-2 border border-ink/20 bg-card text-ink text-sm font-sans focus:outline-none focus:border-terracotta"
           >
             {CITY_NAMES.map((c) => (
               <option key={c} value={c}>{c}</option>
@@ -568,7 +568,7 @@ function OfferForm({
                 value={value[key]}
                 onChange={(e) => field(key, e.target.value)}
                 placeholder={placeholder}
-                className="w-full px-3 py-2 border border-ink/20 bg-white text-ink text-sm font-sans focus:outline-none focus:border-terracotta placeholder:text-warmgray/50"
+                className="w-full px-3 py-2 border border-ink/20 bg-card text-ink text-sm font-sans focus:outline-none focus:border-terracotta placeholder:text-warmgray/50"
               />
             </div>
           ))}
@@ -717,7 +717,7 @@ export default function OfferComparisonPage() {
                 <OfferForm label="Offer B" color={COLORS.B} value={offerB} onChange={setOfferB} />
 
                 {/* Priority weights */}
-                <div className="bg-white border border-ink/15">
+                <div className="bg-card border border-ink/15">
                   <div className="px-5 py-2.5 border-b border-ink/10 bg-cream">
                     <p className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Your Priorities</p>
                     <p className="text-[11px] text-warmgray font-sans mt-0.5">Tell us what matters most to you. Drag the sliders to weight each factor.</p>

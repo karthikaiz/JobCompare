@@ -7,8 +7,8 @@
   "employee_count": "10001-50000",
   "founded": 1983,
   "website": "https://www.apollohospitals.com/",
-  "overall_rating": 4.099999904632568,
-  "work_life_balance": 3.85,
+  "overall_rating": 4.0,
+  "work_life_balance": 3.84,
   "salary_benefits": 3.69,
   "job_security": 4.02,
   "career_growth": 3.43,
@@ -64,6 +64,19 @@
       "sentiment_score": 0.9888,
       "is_current_employee": true,
       "review_date": "2025-08-21",
+      "quality_score": 0.8
+    },
+    {
+      "title": null,
+      "role": "Junior Supervisor",
+      "location": "Bengaluru",
+      "rating": 2.0,
+      "pros": "On time Salary",
+      "cons": "Favourism towards non-Kannada speaking, south Indians is more. If you know Telgu or Tamil this is the company you should work. 24 hours a day are also less. People are made to work sometimes more than 24 hours and not even a cup of good tea will be provided. Employee food is served with most un hygienic plates. Your treatment in the company is not based on how you work for company but for elite few. Promotions and salary increments are also ment for those few & and you should have Telgu or Tamil speaking criteria. I can write a book on how A BRAND LIKE APOLLO TREATS ITS EMPLOYEES but if you speak up that means you need to leave the company which will be facilitated by their counter parts from Chennai using all ill means. Lastly working Hours means your log in is only counted, 8 to 9 hours is just to tell but 12 to 14 hours is average time spent by an employee still supervisor level and when told our shift is over, you get a nice reply saying you could not complete your work in given time so finish it and go whereas that last work will be assigned to you just at the time when your shift will be to end.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7184,
+      "is_current_employee": true,
+      "review_date": "2025-07-05",
       "quality_score": 0.8
     },
     {
@@ -393,19 +406,6 @@
     },
     {
       "title": null,
-      "role": "HRBP and administration ",
-      "location": "Jharsuguda",
-      "rating": 3.0,
-      "pros": "Staffs support, Intime salary credited, welfare gift, Doctors respond, Well treatment. Annual health checkup.\nEL encashment..",
-      "cons": "Designation, pramotion, Salary structure, increment, management system, work culture, planning, senior authorities responding issue. Growth, skill assessment and development, multiples work in multiple areas with multiple coordinator and administrator.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8957,
-      "is_current_employee": true,
-      "review_date": "2025-11-30",
-      "quality_score": 0.65
-    },
-    {
-      "title": null,
       "role": "Executive Relationship Manager",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -549,19 +549,6 @@
     },
     {
       "title": null,
-      "role": "Nursing Superintendent",
-      "location": "Sri Lanka",
-      "rating": 5.0,
-      "pros": "Skill development 4, job security 4.and work satisfaction 4, work balance 4, company culture 4.i was   work at Apolo hospitals in 2007 to 2009 in Sri Lanka, i enjoyed and I like Apolo hospitals.",
-      "cons": "nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.8779,
-      "is_current_employee": true,
-      "review_date": "2026-01-12",
-      "quality_score": 0.55
-    },
-    {
-      "title": null,
       "role": "Emergency Medical Officer",
       "location": "Hyderabad",
       "rating": 4.0,
@@ -662,19 +649,6 @@
       "sentiment_score": 0.9632,
       "is_current_employee": false,
       "review_date": "2024-10-28",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
-      "role": "Marketing Executive",
-      "location": "Chennai",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Worst experience worst corporate. I personally not recommend this place. If you want to work here then forget about your family otherwise they'll give more pressure and work to forget your home.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1243,
-      "is_current_employee": false,
-      "review_date": "2024-07-10",
       "quality_score": 0.53
     },
     {
@@ -965,19 +939,6 @@
     },
     {
       "title": null,
-      "role": "Resident Medical Officer",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "As a fresher it's good to learn but personally growth is very less unless you've further degrees.",
-      "cons": "Patient load to doctor ratio is absurdly high.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6542,
-      "is_current_employee": false,
-      "review_date": "2024-07-22",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
       "role": "Ctvs Staff Nurse",
       "location": "Jabalpur",
       "rating": 1.0,
@@ -1013,19 +974,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": false,
       "review_date": "2025-03-29",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
-      "location": "Hyderabad",
-      "rating": 2.0,
-      "pros": "Not so good in apollo jubilee hills, Hyderabad. Incharge is rude and do not want us to grow in career, specially Kerala incharges",
-      "cons": "Everything",
-      "sentiment": "negative",
-      "sentiment_score": -0.7045,
-      "is_current_employee": false,
-      "review_date": "2024-08-12",
       "quality_score": 0.44
     },
     {
@@ -1147,19 +1095,6 @@
     },
     {
       "title": null,
-      "role": "Purchase Executive",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "Focus on patient Safety",
-      "cons": "Dislikes can't be elaborate in word's,when you enter in Apollo Arena than you know reality bigger name only....",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "is_current_employee": false,
-      "review_date": "2024-06-21",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
       "role": "Resident Medical Officer",
       "location": "Tiruchirappalli",
       "rating": 3.0,
@@ -1234,19 +1169,6 @@
       "sentiment_score": 0.0387,
       "is_current_employee": false,
       "review_date": "2024-09-07",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Consultant Doctor",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Well coordination among team members, division of work\nGood hierarchy system\nGood food and employee arrangements",
-      "cons": "One man show, dictatorship scenes",
-      "sentiment": "positive",
-      "sentiment_score": 0.7845,
-      "is_current_employee": false,
-      "review_date": "2024-07-01",
       "quality_score": 0.41
     },
     {
@@ -1446,19 +1368,6 @@
     },
     {
       "title": null,
-      "role": "Head Chef",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "The ethics of our company are very strong.\nWorking environment is excellent.\nProfessional development and growth remarkable.",
-      "cons": "None",
-      "sentiment": "positive",
-      "sentiment_score": 0.9259,
-      "is_current_employee": false,
-      "review_date": "2024-10-23",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
       "role": "Deputy Medical Superintendent",
       "location": "Delhi",
       "rating": 5.0,
@@ -1468,19 +1377,6 @@
       "sentiment_score": 0.5106,
       "is_current_employee": false,
       "review_date": "2024-09-27",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Marketing Coordinator",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "I can just say it's wonderful 😊💯",
-      "cons": "Nothing to dislike everything depends our work how we work",
-      "sentiment": "positive",
-      "sentiment_score": 0.8975,
-      "is_current_employee": false,
-      "review_date": "2024-10-13",
       "quality_score": 0.37
     },
     {
@@ -1533,19 +1429,6 @@
       "sentiment_score": 0.2732,
       "is_current_employee": true,
       "review_date": "2025-05-20",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Medical Officer",
-      "location": "Navi Mumbai",
-      "rating": 2.0,
-      "pros": "Job security",
-      "cons": "Lot of micromanagement and poor decision making by upper management. Convoluted chain of command.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1779,
-      "is_current_employee": false,
-      "review_date": "2024-08-10",
       "quality_score": 0.36
     },
     {
@@ -1628,19 +1511,6 @@
     },
     {
       "title": null,
-      "role": "Floor Incharge",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Apollo is a very good organization.I m very happy to be an appolite.Tgank You.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.8012,
-      "is_current_employee": false,
-      "review_date": "2024-09-11",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
       "role": "Staff Nurse Grade 2",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -1715,45 +1585,6 @@
       "sentiment_score": 0.4576,
       "is_current_employee": false,
       "review_date": "2024-12-14",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Registered Nurse",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "",
-      "cons": "Workload is more and more & more politics, which is directly effect mental health",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-12-15",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Senior Assistant",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "Nothing good in it.",
-      "cons": "Pathetic management... No work life balance...\nEmployee's work as labour",
-      "sentiment": "negative",
-      "sentiment_score": -0.8077,
-      "is_current_employee": false,
-      "review_date": "2024-08-16",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Administration Executive",
-      "location": "Chennai",
-      "rating": 1.0,
-      "pros": "Work is routine and boring",
-      "cons": "They do illegal activities, like bribe doctors for patients.",
-      "sentiment": "negative",
-      "sentiment_score": -0.6369,
-      "is_current_employee": false,
-      "review_date": "2024-09-08",
       "quality_score": 0.34
     },
     {
@@ -1875,32 +1706,6 @@
     },
     {
       "title": null,
-      "role": "Deputy General Manager Operations",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Great Company with Great Vision.\nOwasome work culture and management support",
-      "cons": "NIL",
-      "sentiment": "positive",
-      "sentiment_score": 0.9169,
-      "is_current_employee": false,
-      "review_date": "2024-12-24",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Phlebotomy Lab Technician",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Celebrations happening on events",
-      "cons": "Office politics.. knowledge and talents are not appreciated..",
-      "sentiment": "positive",
-      "sentiment_score": 0.0767,
-      "is_current_employee": false,
-      "review_date": "2024-12-08",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
       "role": "Staff Nurse",
       "location": "Hyderabad",
       "rating": 5.0,
@@ -1936,71 +1741,6 @@
       "sentiment_score": -0.3167,
       "is_current_employee": false,
       "review_date": "2024-12-05",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Dental Surgeon",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "THE PRIDEOTOF BEING AN APOLLO DOCTOR IS ALWAYS THERE",
-      "cons": "NOT APPLICABLE",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-12-05",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Cardiac Technologist",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Really I am Satisfied to work in Apollo Hospital",
-      "cons": "Management Staff",
-      "sentiment": "positive",
-      "sentiment_score": 0.4703,
-      "is_current_employee": true,
-      "review_date": "2024-12-24",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Administration Executive",
-      "location": "Ahmedabad",
-      "rating": 1.0,
-      "pros": "Nothing i like about apollo hospital",
-      "cons": "Everything is at it's worst",
-      "sentiment": "negative",
-      "sentiment_score": -0.7359,
-      "is_current_employee": false,
-      "review_date": "2024-12-29",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Pharmacist",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Not",
-      "cons": "Work pressure is very hight and salary is very less",
-      "sentiment": "positive",
-      "sentiment_score": 0.2235,
-      "is_current_employee": true,
-      "review_date": "2024-12-26",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Floor Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Homely environment",
-      "cons": "No proper appraisal and salary \nThey keep good employees",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2024-09-22",
       "quality_score": 0.31
     },
     {
@@ -2079,58 +1819,6 @@
       "sentiment_score": 0.836,
       "is_current_employee": false,
       "review_date": "2024-11-18",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Senior Accounts Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "I like about Namaste Culture at Apollo Hospitals.",
-      "cons": "No dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.5801,
-      "is_current_employee": false,
-      "review_date": "2024-12-04",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Optometrist",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Good company    \nExcellent customer service care",
-      "cons": "No comments  \nSalary \nExcellent",
-      "sentiment": "positive",
-      "sentiment_score": 0.9062,
-      "is_current_employee": false,
-      "review_date": "2024-08-22",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Associate Consultant",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Work life balance",
-      "cons": "Do work not related to my stream",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-08-26",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Doctor",
-      "location": "Rourkela",
-      "rating": 4.0,
-      "pros": "Apollo culture n flexible environment",
-      "cons": "salary discrimination n marketing strategy",
-      "sentiment": "positive",
-      "sentiment_score": 0.2263,
-      "is_current_employee": false,
-      "review_date": "2024-07-21",
       "quality_score": 0.3
     },
     {
@@ -2235,45 +1923,6 @@
       "sentiment_score": 0.6369,
       "is_current_employee": false,
       "review_date": "2024-12-04",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "HR Executive Recruiter",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Excellent!",
-      "cons": "Everything is good! But promotions are too late..",
-      "sentiment": "positive",
-      "sentiment_score": 0.5972,
-      "is_current_employee": true,
-      "review_date": "2025-01-07",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Pharmacy Aide",
-      "location": "Koppal",
-      "rating": 3.0,
-      "pros": "Commitment and work",
-      "cons": "Lack of employe speciality no leaves",
-      "sentiment": "negative",
-      "sentiment_score": -0.2263,
-      "is_current_employee": true,
-      "review_date": "2025-01-06",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Hyderabad",
-      "rating": 2.0,
-      "pros": "Staff sacrifice",
-      "cons": "Salary law. Any Sick leave didn't give",
-      "sentiment": "negative",
-      "sentiment_score": -0.5423,
-      "is_current_employee": false,
-      "review_date": "2024-10-03",
       "quality_score": 0.29
     },
     {
@@ -2408,42 +2057,16 @@
     },
     {
       "title": null,
-      "role": "Pharmacy Incharge",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Yes,,,very gooda atmosphere",
-      "cons": "No,,apollo hospitals every one like",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2024-09-30",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Charge Nurse",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Learning process",
-      "cons": "No I'm not dislike apollo family",
+      "role": "Senior Pharmacist",
+      "location": "Guwahati",
+      "rating": 3.0,
+      "pros": "MNC\nSecurity",
+      "cons": "Internal politics \nAprisal not good",
       "sentiment": "neutral",
-      "sentiment_score": -0.0041,
-      "is_current_employee": false,
-      "review_date": "2024-10-21",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
-      "location": "Lucknow",
-      "rating": 4.0,
-      "pros": "Patient care",
-      "cons": "Late services while working in Apollo",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2024-11-19",
-      "quality_score": 0.28
+      "sentiment_score": -0.0015,
+      "is_current_employee": true,
+      "review_date": "2026-04-01",
+      "quality_score": 0.27
     },
     {
       "title": null,
@@ -2599,97 +2222,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": false,
       "review_date": "2024-10-14",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Ahmedabad",
-      "rating": 3.0,
-      "pros": "Good facilities",
-      "cons": "Salary structure of the employee",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2025-01-22",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Operations Manager",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Growth opportunities and freedom of expression",
-      "cons": "None",
-      "sentiment": "positive",
-      "sentiment_score": 0.8555,
-      "is_current_employee": false,
-      "review_date": "2024-10-05",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Pharmacist Trainee",
-      "location": "Tirupati",
-      "rating": 5.0,
-      "pros": "About work performance nd work confidence",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.5106,
-      "is_current_employee": false,
-      "review_date": "2024-10-03",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Chief Nursing Officer",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "Job security stress free working environment",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-10-10",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Noida",
-      "rating": 3.0,
-      "pros": "Properly pateint care",
-      "cons": "Any person doesn't disrespect",
-      "sentiment": "positive",
-      "sentiment_score": 0.6738,
-      "is_current_employee": false,
-      "review_date": "2024-11-16",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse 1",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Improve skills",
-      "cons": "Salary with food and accommodation",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-12-19",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Emergency Staff Nurse",
-      "location": "Indore",
-      "rating": 5.0,
-      "pros": "Also very Good",
-      "cons": "No anything no needs",
-      "sentiment": "positive",
-      "sentiment_score": 0.3824,
-      "is_current_employee": false,
-      "review_date": "2024-11-27",
       "quality_score": 0.27
     },
     {
@@ -2924,58 +2456,6 @@
       "sentiment_score": 0.8271,
       "is_current_employee": false,
       "review_date": "2024-12-24",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Pharmacist",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "4 year",
-      "cons": "Night duty very bad",
-      "sentiment": "negative",
-      "sentiment_score": -0.5849,
-      "is_current_employee": false,
-      "review_date": "2024-10-15",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "All staff are good",
-      "cons": "Less salary",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-11-14",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Regional Head Human Resource",
-      "location": "Ahmedabad",
-      "rating": 4.0,
-      "pros": "Position",
-      "cons": "Cross functional department ok ok",
-      "sentiment": "positive",
-      "sentiment_score": 0.5267,
-      "is_current_employee": false,
-      "review_date": "2024-12-21",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Talent Acquisition Executive",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Work life balance and culture",
-      "cons": "Salary",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-11-22",
       "quality_score": 0.26
     },
     {
@@ -3357,84 +2837,6 @@
     },
     {
       "title": null,
-      "role": "Hospital Pharmacist",
-      "location": "Lucknow",
-      "rating": 5.0,
-      "pros": "Super",
-      "cons": "No\nI am fine",
-      "sentiment": "positive",
-      "sentiment_score": 0.5423,
-      "is_current_employee": true,
-      "review_date": "2024-12-19",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Hospitality Assistant",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Good job 👍🏼",
-      "cons": "Good 👍🏼😊",
-      "sentiment": "positive",
-      "sentiment_score": 0.8957,
-      "is_current_employee": false,
-      "review_date": "2024-12-12",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Attending Consultant",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Work-Life Balance",
-      "cons": "No work satisfaction",
-      "sentiment": "negative",
-      "sentiment_score": -0.5583,
-      "is_current_employee": false,
-      "review_date": "2022-06-29",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Doctor",
-      "location": "Rourkela",
-      "rating": 3.0,
-      "pros": "time bound job",
-      "cons": "negative environment",
-      "sentiment": "negative",
-      "sentiment_score": -0.5719,
-      "is_current_employee": false,
-      "review_date": "2025-03-04",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Nellore",
-      "rating": 5.0,
-      "pros": "Good experience",
-      "cons": "Nothing i experienced",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-06-29",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Registered Nurse",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "Working time is length",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-11-29",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "Supervisor",
       "location": "Chennai",
       "rating": 2.0,
@@ -3588,6 +2990,19 @@
       "is_current_employee": true,
       "review_date": "2025-02-28",
       "quality_score": 0.24
+    },
+    {
+      "title": null,
+      "role": "Senior Supervisor",
+      "location": "Kolkata",
+      "rating": 1.0,
+      "pros": "",
+      "cons": "Too much lobby",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0258,
+      "is_current_employee": true,
+      "review_date": "2026-04-11",
+      "quality_score": 0.23
     },
     {
       "title": null,
@@ -3825,16 +3240,16 @@
     },
     {
       "title": null,
-      "role": "Staff Nurse",
+      "role": "Nursing Officer",
       "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Hygiene",
-      "cons": "No dislikes",
+      "rating": 2.0,
+      "pros": "Good",
+      "cons": "Managers",
       "sentiment": "positive",
-      "sentiment_score": 0.3089,
+      "sentiment_score": 0.4404,
       "is_current_employee": true,
-      "review_date": "2025-06-20",
-      "quality_score": 0.23
+      "review_date": "2026-04-01",
+      "quality_score": 0.22
     },
     {
       "title": null,
@@ -4694,14 +4109,1906 @@
       "details": "Regular health check-up camps and wellness activities to promote a healthy lifestyle among employees."
     }
   ],
-  "_scraped_at": "2026-04-10T20:57:24.163540+00:00",
+  "interviews": [
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Nurse-to-Patient Relationship Bundle",
+          "answer": null
+        },
+        {
+          "question": "International Council of Nurses (ICN) offers its official code",
+          "answer": null
+        },
+        {
+          "question": "A needle-stick injury",
+          "answer": null
+        },
+        {
+          "question": "emergency code Code Blue: Adult medical emergency, such as cardiac or respiratory arrest. Code Red: Fire or smoke. Code Silver: Active shooter, person with a weapon, or hostage situation. Code Pink / Code Purple: Infant or child abduction. Code Orange: Hazardous material spill or release. Code Black: Bomb threat. Code Gray: Combative or violent person. Code Yellow: Internal emergency disaster or infrastructure failure. Code Green: Patient elopement (missing patient)",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 15:25:23"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How do u handle challenges in a team environment??",
+          "answer": null
+        },
+        {
+          "question": "Can you provide an example of a time you demonstrated your creativity at work??",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-04 21:25:36"
+    },
+    {
+      "role": "Microbiologist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "You have many experiences",
+          "answer": null
+        },
+        {
+          "question": "What is Present salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-27 21:54:04"
+    },
+    {
+      "role": "Medicine Distributor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell us about yourself and your background? 2. Why do you want to work in this hospital? 3. How do you handle stress in a hospital environment? 4. Describe a time you dealt with a difficult patient or family member. 5. How do you prioritize tasks when the hospital is very busy? 6. What does patient care mean to you? 7. How do you work as part of a healthcare team? 8. How do you maintain confidentiality and follow hospital policies? 9. What are your strengths and weaknesses? 10. Where do you see yourself in 5 years in healthcare?",
+          "answer": null
+        },
+        {
+          "question": "How do you ensure the right medication reaches the right patient? 2. What would you do if a doctor prescribes the wrong dosage? 3. How do you handle drug shortages in the hospital pharmacy? 4. How do you counsel patients on medication usage and side effects? 5. How do you manage inventory and maintain accurate records?",
+          "answer": null
+        },
+        {
+          "question": ". How do you manage scheduling conflicts among staff? 2. How do you ensure smooth coordination between departments? 3. How would you handle a patient’s complaint about hospital services? 4. What strategies do you use to improve patient satisfaction? 5. How do you ensure compliance with hospital policies and healthcare regulations? ---",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-29 12:01:52"
+    },
+    {
+      "role": "Nursing Staff",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the benefits for stuff if got admitted in hospital?",
+          "answer": null
+        },
+        {
+          "question": "What is pph care?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-08 12:41:01"
+    },
+    {
+      "role": "Nursing Superintendent",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Nursing superintendent responsibilities",
+          "answer": null
+        },
+        {
+          "question": "Management, training, budget",
+          "answer": null
+        },
+        {
+          "question": "Benefits of company and employes",
+          "answer": null
+        },
+        {
+          "question": "How to maintain staff, duties.",
+          "answer": null
+        },
+        {
+          "question": "critical thinking, quality care, hospital policies",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-31 23:49:21"
+    },
+    {
+      "role": "Staff Nurse Grade 2",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Blood pressure and cardiac arrest",
+          "answer": null
+        },
+        {
+          "question": "Fundamental and hand hygiene",
+          "answer": null
+        },
+        {
+          "question": "Communication and community",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-07 11:20:41"
+    },
+    {
+      "role": "Nursing Officer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Self introduction",
+          "answer": null
+        },
+        {
+          "question": "BLS steps ACLS",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 11:27:58"
+    },
+    {
+      "role": "Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction Communication",
+          "answer": "Good Evening sir / Mam My self Priyanka B-pharmacy Graduated in ssj clg of pharmacy JNTU university"
+        },
+        {
+          "question": "Skills Language barriers",
+          "answer": null
+        },
+        {
+          "question": "Personality Acknowledgement",
+          "answer": null
+        },
+        {
+          "question": "Qualification \nLeadership \n",
+          "answer": "B-pharmacy Graduated"
+        },
+        {
+          "question": "Memory power \nVoice barriers ",
+          "answer": "Communication skills \nVocals"
+        }
+      ],
+      "review_date": "2026-03-10 12:49:07"
+    },
+    {
+      "role": "Senior Executive Corporate Sales",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many years of experience do you have in marketing?",
+          "answer": null
+        },
+        {
+          "question": "How can monthly business volume be achieved for both inpatient admissions and outpatient health check-ups?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-26 11:43:16"
+    }
+  ],
+  "_scraped_at": "2026-04-12T20:59:56.211038+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Apollo Hospitals",
   "_registry_industry": "Healthcare",
   "_sentiment": {
-    "positiveCount": 210,
-    "negativeCount": 59,
-    "neutralCount": 66,
+    "positiveCount": 179,
+    "negativeCount": 49,
+    "neutralCount": 62,
     "topPositiveThemes": [
       "company culture",
       "career growth",

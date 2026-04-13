@@ -10,9 +10,9 @@
   "overall_rating": 4.0,
   "work_life_balance": 3.82,
   "salary_benefits": 4.04,
-  "job_security": 3.71,
-  "career_growth": 3.41,
-  "company_culture": 3.61,
+  "job_security": 3.72,
+  "career_growth": 3.42,
+  "company_culture": 3.62,
   "reviews": [
     {
       "title": null,
@@ -94,58 +94,6 @@
     },
     {
       "title": null,
-      "role": "Accountant Cashier",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Dlf was a kind off bad company who fire the worker without any prior intimation if a family depend on dlf they will definitely loss their finances I was working with dlf since last 20 years dlf has fired me in pandemic when I need support the name is big but how dlf behave with employees is not good enough",
-      "cons": "Everything about dlf was disgusting very poor response from team dlf never expected",
-      "sentiment": "negative",
-      "sentiment_score": -0.936,
-      "is_current_employee": false,
-      "review_date": "2022-12-24",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Business Analyst",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "It all depends in your superiors or reporting manager behaviour & quality of work.",
-      "cons": "Top management like VP, Sr.VP working qualities are going down. No innovative ideas they have. No strategic planning to do work. Even, HR department is blindly believe & acts according to these Top management decisions. No facts & finding doing on any decision. Monopoly of Top level management people.",
-      "sentiment": "positive",
-      "sentiment_score": 0.2718,
-      "is_current_employee": false,
-      "review_date": "2024-07-01",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "CDP",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Mkt resturent chankyapuri development staff cearing off and selrey growth same one weakly off no disaidid staff and my advice pls no egnore junior staff. Pls disease hr department.",
-      "cons": "I have come in dlf property restaurant. Hr no egnore that me no birthday wishes. And time to time engerss selrey and bonus. So is better i come again and free maind work.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4826,
-      "is_current_employee": true,
-      "review_date": "2025-11-19",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Senior Project Engineer",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "I love the fact that i am the part of team dlf company. Another plus point is that my colleagues are very helpful in any ways we wor happily in collaboration.",
-      "cons": "compensation and growth is very slow. the work pressure is always very high.\ni have to work 9 to 10 hours.I do receive appreciation emails from the company also there is no job training for freshers hence senior folks like me have to  guide them step by step.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9422,
-      "is_current_employee": false,
-      "review_date": "2018-04-19",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "MEP Manager\r",
       "location": "Delhi",
       "rating": 1.0,
@@ -208,19 +156,6 @@
       "is_current_employee": false,
       "review_date": "2024-08-07",
       "quality_score": 0.73
-    },
-    {
-      "title": null,
-      "role": "Senior Sales Manager",
-      "location": "Lucknow",
-      "rating": 4.0,
-      "pros": "The company itself is a blessing to join and continue, unfortunately i was at the last phase of the Lucknow project so couldn't enjoy much of the experience here at DLF",
-      "cons": "No monitoring of Regional Team in practising unfair trade. Employee Feedback & Market Feedback is essential for any company to sustain.",
-      "sentiment": "negative",
-      "sentiment_score": -0.6377,
-      "is_current_employee": false,
-      "review_date": "2022-11-10",
-      "quality_score": 0.72
     },
     {
       "title": null,
@@ -367,32 +302,6 @@
     },
     {
       "title": null,
-      "role": "Deputy Manager",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Work culture and job security",
-      "cons": "I am working here since the inception of my career ,the only request I want is to make the salary revisions as per investment of my 15 good years with them.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6808,
-      "is_current_employee": false,
-      "review_date": "2022-06-02",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager Procurement",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Company is very good, team mates behavior is good. Work pressure is also there which make u learn for new things.",
-      "cons": "All policy are meant for good but SOP are quite long which can be minimize.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5262,
-      "is_current_employee": false,
-      "review_date": "2022-03-30",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
       "role": "Accounts Officer",
       "location": "Gurugram",
       "rating": 1.0,
@@ -441,19 +350,6 @@
       "sentiment_score": 0.2926,
       "is_current_employee": false,
       "review_date": "2022-12-14",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
-      "role": "Assistant Vice President",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "You have to drive the site therefore growth was abundant as project in charges were having practical approach.",
-      "cons": "HR, Planning, Purchase, Liaisoning, Estate, Operations all departments not working in tandem on project sites.",
-      "sentiment": "positive",
-      "sentiment_score": 0.128,
-      "is_current_employee": false,
-      "review_date": "2022-05-26",
       "quality_score": 0.53
     },
     {
@@ -510,19 +406,6 @@
     },
     {
       "title": null,
-      "role": "AGM-Design",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Always trying new and latest technologies which gives exposure of what's new and trendy.",
-      "cons": "You will be limited to your scope of work expanding your work profile is a bit difficult.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5267,
-      "is_current_employee": false,
-      "review_date": "2024-10-23",
-      "quality_score": 0.51
-    },
-    {
-      "title": null,
       "role": "Senior Executive Horticulture",
       "location": "Goa",
       "rating": 3.0,
@@ -558,19 +441,6 @@
       "sentiment_score": 0.1779,
       "is_current_employee": false,
       "review_date": "2023-09-26",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
-      "role": "Deputy General Manager",
-      "location": "Lucknow",
-      "rating": 4.0,
-      "pros": "The work environment is largely affected by internal politics. Rest is like all other corporates. Poor incentive structure.",
-      "cons": "Internal politics, Departmental boundaries, Poor training & development culture.",
-      "sentiment": "negative",
-      "sentiment_score": -0.4215,
-      "is_current_employee": false,
-      "review_date": "2018-05-29",
       "quality_score": 0.47
     },
     {
@@ -640,19 +510,6 @@
     },
     {
       "title": null,
-      "role": "Shift Engineer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Staff was technically strong.great experience with seniors .company work on many mind works on one mind set policy.",
-      "cons": "Nothing. Only far from home.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-11-26",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
       "role": "Assistant Manager",
       "location": "Gurugram",
       "rating": 4.0,
@@ -662,32 +519,6 @@
       "sentiment_score": 0.3612,
       "is_current_employee": false,
       "review_date": "2024-12-07",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
-      "role": "Executive Secretary to Director",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Job is secure till you can justify your Job",
-      "cons": "Politics, every body have their own kingdom, rules are different for different people.",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2022-04-08",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Good work environment. Reporting officer and teammates are fully supportive and transparent. Company policies are very good, increments are fair and satisfactory",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.9079,
-      "is_current_employee": false,
-      "review_date": "2020-07-13",
       "quality_score": 0.42
     },
     {
@@ -740,19 +571,6 @@
       "sentiment_score": -0.2644,
       "is_current_employee": true,
       "review_date": "2024-02-07",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Assistant Vice President Projects",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Exposure to all model of working in construction- labour contractors, General Contractors, PMC model etc",
-      "cons": "Work life is not good",
-      "sentiment": "negative",
-      "sentiment_score": -0.3412,
-      "is_current_employee": false,
-      "review_date": "2021-05-06",
       "quality_score": 0.4
     },
     {
@@ -887,19 +705,6 @@
     },
     {
       "title": null,
-      "role": "Senior Vice President",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Lot of work to do.",
-      "cons": "No social life only work is the policy. At least for Project staff",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-09-19",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
       "role": "Assistant Manager",
       "location": "Noida",
       "rating": 3.0,
@@ -961,45 +766,6 @@
       "sentiment_score": 0.089,
       "is_current_employee": false,
       "review_date": "2025-01-20",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Manager Accounts & CRM",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Company is too good but you have to face the challenge of Old workers politics.",
-      "cons": "Internal politics",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2024-10-09",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Good company for civil/MEP/electrical engineer",
-      "cons": "Nothing all are good .you have to stay with the guie line",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2023-04-26",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Deputy Safety Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Timely Salary, reputed organization at NCR",
-      "cons": "Don't expect good career growth at organization who don't know buttering",
-      "sentiment": "positive",
-      "sentiment_score": 0.05,
-      "is_current_employee": false,
-      "review_date": "2022-01-29",
       "quality_score": 0.37
     },
     {
@@ -1078,32 +844,6 @@
       "sentiment_score": 0.0772,
       "is_current_employee": false,
       "review_date": "2022-12-21",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Fire & Safety Officer",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Good work environment and culture.  Work Experience are well.",
-      "cons": "Company are provided living room and food.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6124,
-      "is_current_employee": false,
-      "review_date": "2021-05-09",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Assistant Vice President Human Resource",
-      "location": "Delhi",
-      "rating": 2.0,
-      "pros": "Salary and benfits.\nTimely payment",
-      "cons": "Jon Insecurity.\nQuick hiring and firing\nNo concern for the employees",
-      "sentiment": "negative",
-      "sentiment_score": -0.7506,
-      "is_current_employee": false,
-      "review_date": "2023-05-01",
       "quality_score": 0.36
     },
     {
@@ -1195,32 +935,6 @@
       "sentiment_score": 0.8779,
       "is_current_employee": false,
       "review_date": "2023-02-12",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "BU HSE Head ",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Work life balance \nSupportive supervisors \nFreedom for performing \nReporting process",
-      "cons": "HR Recruitment and Grading process",
-      "sentiment": "positive",
-      "sentiment_score": 0.7506,
-      "is_current_employee": false,
-      "review_date": "2024-11-18",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "HR Manager",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Salaries are always paid in time.",
-      "cons": "Lot of corporate politics internally and unhealthy work culture.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5267,
-      "is_current_employee": false,
-      "review_date": "2023-04-14",
       "quality_score": 0.35
     },
     {
@@ -1325,45 +1039,6 @@
       "sentiment_score": -0.7283,
       "is_current_employee": false,
       "review_date": "2022-10-10",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Company Secretary Management Trainee",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "- Growth opportunities\n- Good management",
-      "cons": "- Higher politics\n- No work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.7096,
-      "is_current_employee": false,
-      "review_date": "2023-08-01",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "AGM - QS & Budgeting",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Team spirit, good compensation \nLearning opportunities \nOpportunities to grow financially and professionally",
-      "cons": "Workload distribution",
-      "sentiment": "positive",
-      "sentiment_score": 0.8316,
-      "is_current_employee": false,
-      "review_date": "2024-11-24",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Security Manager",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Salary disbursement is good and on time",
-      "cons": "Lacking in process driven only man driven",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2019-06-18",
       "quality_score": 0.34
     },
     {
@@ -1524,19 +1199,6 @@
     },
     {
       "title": null,
-      "role": "Senior Engineer",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "On time salary.",
-      "cons": "No work life balance, late working hours and multiple reporting",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2022-02-01",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
       "role": "Safety Manager",
       "location": "Gurugram",
       "rating": 4.0,
@@ -1689,32 +1351,6 @@
       "sentiment_score": -0.1263,
       "is_current_employee": false,
       "review_date": "2023-05-08",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Documentation Executive",
-      "location": "Panchkula",
-      "rating": 5.0,
-      "pros": "Very much co operative staff and no any financial crisis",
-      "cons": "All wel",
-      "sentiment": "negative",
-      "sentiment_score": -0.743,
-      "is_current_employee": true,
-      "review_date": "2025-01-08",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Finance Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Quality of work and challenging",
-      "cons": "No young work force and learning environment",
-      "sentiment": "negative",
-      "sentiment_score": -0.1531,
-      "is_current_employee": false,
-      "review_date": "2023-09-22",
       "quality_score": 0.32
     },
     {
@@ -1940,123 +1576,6 @@
     },
     {
       "title": null,
-      "role": "General Manager Qa Qc",
-      "location": "Chennai",
-      "rating": 3.0,
-      "pros": "Timely salary deposit.",
-      "cons": "Toxic politics, No value for positions below VP,",
-      "sentiment": "negative",
-      "sentiment_score": -0.2584,
-      "is_current_employee": false,
-      "review_date": "2022-10-11",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Head - Security (DLF IT Parks Kolkata)",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Internal professional training, timely salary",
-      "cons": "Increment is not that much impressive",
-      "sentiment": "negative",
-      "sentiment_score": -0.4023,
-      "is_current_employee": false,
-      "review_date": "2024-05-17",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Manager Purchase",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Timely salary",
-      "cons": "No job  security its all up to personal reasons",
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "is_current_employee": false,
-      "review_date": "2022-10-09",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager HSE",
-      "location": "Delhi",
-      "rating": 2.0,
-      "pros": "Nothing",
-      "cons": "Lack of professional development opportunities\nCommunication gap between line management",
-      "sentiment": "positive",
-      "sentiment_score": 0.5517,
-      "is_current_employee": true,
-      "review_date": "2024-02-02",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "rajar hat new town",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "👍 good working and good behaviour BM and engineer",
-      "cons": "Sarley   &dress",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": true,
-      "review_date": "2023-12-25",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Planning Manager",
-      "location": "Gurugram",
-      "rating": 2.0,
-      "pros": "Nothing. No person wants to work",
-      "cons": "Bad Management. Rude Top Bosses",
-      "sentiment": "negative",
-      "sentiment_score": -0.5875,
-      "is_current_employee": false,
-      "review_date": "2023-08-20",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Accountant ",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Got to work in varied new assignment.\nSupporting bosses.",
-      "cons": "Office Politics",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2021-03-29",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "It was a great experience",
-      "cons": "Appraisal was not as per caliber",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2024-08-23",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Manager Civil",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "",
-      "cons": "Suddenly changed the policy of employment. Sudden layoff to the employees.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-10-10",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
       "role": "Assistant Manager",
       "location": "Gurugram",
       "rating": 3.0,
@@ -2265,45 +1784,6 @@
     },
     {
       "title": null,
-      "role": "Front Office Executive cum sales",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Renowned Brand. Every thing is good",
-      "cons": "Nothing, everything is fine.",
-      "sentiment": "positive",
-      "sentiment_score": 0.32,
-      "is_current_employee": true,
-      "review_date": "2025-01-07",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Customer Service Executive",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "didn't have any job culture , no heirarchy level.",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2022-05-05",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "General Manager Project",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "customer first policy, no compromise for quality",
-      "cons": "Purely professional company.",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2022-05-07",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
       "role": "Senior Project Executive",
       "location": "Mumbai",
       "rating": 5.0,
@@ -2469,110 +1949,6 @@
       "sentiment_score": 0.4939,
       "is_current_employee": false,
       "review_date": "2022-12-30",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "MIS Executive",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Challenging work",
-      "cons": "As working in third party pay roll",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-09-14",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Worst company to work with",
-      "cons": "Nothing to like about",
-      "sentiment": "negative",
-      "sentiment_score": -0.7359,
-      "is_current_employee": false,
-      "review_date": "2023-02-04",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Vice President Product Management",
-      "location": "Gurugram",
-      "rating": 2.0,
-      "pros": "Nothing really",
-      "cons": "Other listed Indian companies do more work",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-11-17",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Fire & Safety Officer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Dlf is very good company I",
-      "cons": "I like it",
-      "sentiment": "positive",
-      "sentiment_score": 0.6901,
-      "is_current_employee": false,
-      "review_date": "2022-06-19",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Commercial Officer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Company policy and management support is very good",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.7089,
-      "is_current_employee": false,
-      "review_date": "2022-03-22",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Sales Associate",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "WORK CULTURE",
-      "cons": "Nothing as much all things are good",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-05-08",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "seniors in office, work life balance, learning",
-      "cons": "no cafeteria",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2018-10-25",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Project Manager Civil",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Job secure\nGood culture\nGood management",
-      "cons": "No at all",
-      "sentiment": "positive",
-      "sentiment_score": 0.7184,
-      "is_current_employee": false,
-      "review_date": "2023-07-05",
       "quality_score": 0.29
     },
     {
@@ -2781,71 +2157,6 @@
       "sentiment_score": -0.1531,
       "is_current_employee": false,
       "review_date": "2023-06-08",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Collection Officer Associate",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Healthy place of work",
-      "cons": "Healthy and friendly atmosphere",
-      "sentiment": "positive",
-      "sentiment_score": 0.8225,
-      "is_current_employee": false,
-      "review_date": "2024-09-09",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Fire & Safety Officer",
-      "location": "Sakti",
-      "rating": 4.0,
-      "pros": "Goof",
-      "cons": "Not good it was good for all",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2024-07-18",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Interior Designer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Good but not good",
-      "cons": "work the is high",
-      "sentiment": "negative",
-      "sentiment_score": -0.2867,
-      "is_current_employee": false,
-      "review_date": "2024-05-06",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Fashion Consultant",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Love the timing,Understanding among the staff,",
-      "cons": "No comments",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": true,
-      "review_date": "2025-01-03",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Huge exposure and learning",
-      "cons": "Less work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.3182,
-      "is_current_employee": false,
-      "review_date": "2018-05-22",
       "quality_score": 0.28
     },
     {
@@ -3214,146 +2525,16 @@
     },
     {
       "title": null,
-      "role": "Assistant Manager",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Best work place for any professional",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2024-12-02",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Customer Service Officer",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Everything is good",
-      "cons": "nothing i have noticed",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-01-02",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Professional company",
-      "cons": "Not applicable for the company",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-05-07",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Office Boy",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Company is supported in office work.",
-      "cons": "No",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "is_current_employee": false,
-      "review_date": "2024-10-03",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Fire & Safety Officer",
+      "role": "Assistant General Manager Facilities",
       "location": "Delhi",
       "rating": 4.0,
-      "pros": "Fire and Safety Training",
-      "cons": "Senior not supporting.",
-      "sentiment": "negative",
-      "sentiment_score": -0.2514,
-      "is_current_employee": false,
-      "review_date": "2023-05-15",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "senior manager QS MEP",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Salary on time",
-      "cons": "I don' Mismanagement here.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-05-10",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "IT & Information Security - Other",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Yes I like dlf company",
-      "cons": "No points",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": false,
-      "review_date": "2024-05-24",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Manager- Contracts & Procurement",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Work life balance",
-      "cons": "None of the above",
+      "pros": "Salary",
+      "cons": "Too much politics and toxicity",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "is_current_employee": true,
-      "review_date": "2024-02-09",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Planning Engineer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "On time salary",
-      "cons": "Lagging in system process",
-      "sentiment": "negative",
-      "sentiment_score": -0.2732,
-      "is_current_employee": true,
-      "review_date": "2023-12-01",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Assistant General Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Job security",
-      "cons": "New management dislikes, present staff",
-      "sentiment": "negative",
-      "sentiment_score": -0.0772,
-      "is_current_employee": false,
-      "review_date": "2020-11-18",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Account and Finance Management Trainee",
-      "location": "Gurugram",
-      "rating": 2.0,
-      "pros": "Nothing to he specifc",
-      "cons": "No job security",
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "is_current_employee": false,
-      "review_date": "2024-10-21",
-      "quality_score": 0.27
+      "review_date": "2026-04-03",
+      "quality_score": 0.26
     },
     {
       "title": null,
@@ -3708,136 +2889,6 @@
     },
     {
       "title": null,
-      "role": "Project Executive",
-      "location": "Goa",
-      "rating": 4.0,
-      "pros": "Salary on time",
-      "cons": "Didn't find yet",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-04-15",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Customer Service and Operations Officer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Working Culture & Environment",
-      "cons": "late promotions",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-09-12",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "NON Voice Process",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "My career started",
-      "cons": "Like this company",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2023-01-25",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "AGM Operations",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "#Good company.\n#secure Job.",
-      "cons": "#Salary discrimination.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2023-02-11",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Manage QA",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Excellent",
-      "cons": "No comments for this area",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2024-09-18",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Manager Sales & Marketing",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Brand",
-      "cons": "Can be more process oriented",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-06-29",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Project Executive",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Salary on time",
-      "cons": "Nothing to dislike.",
-      "sentiment": "positive",
-      "sentiment_score": 0.2924,
-      "is_current_employee": false,
-      "review_date": "2023-07-14",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Work and team sprits",
-      "cons": "Work allocation",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-11-27",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Vice President Project",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "👍 good place to work",
-      "cons": "Nil",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-08-20",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Engineer",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Timely salary , big work exposure",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-04-02",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "Draughtsman",
       "location": "Gurugram",
       "rating": 5.0,
@@ -4150,188 +3201,6 @@
     },
     {
       "title": null,
-      "role": "Project Safety Executive",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Amazing place for work..",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.5859,
-      "is_current_employee": true,
-      "review_date": "2025-01-13",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Team Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Great company",
-      "cons": "Nothing as such",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2023-03-18",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Duty Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Overall excellent DLF BRANDS",
-      "cons": "Rules",
-      "sentiment": "positive",
-      "sentiment_score": 0.5719,
-      "is_current_employee": false,
-      "review_date": "2022-12-26",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Firefighter",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Yes mahesh ku",
-      "cons": "No else",
-      "sentiment": "positive",
-      "sentiment_score": 0.128,
-      "is_current_employee": false,
-      "review_date": "2022-12-18",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "General Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Good place for work",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-01-16",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Project Incharge Services",
-      "location": "Chandigarh",
-      "rating": 5.0,
-      "pros": "Excellent exposure",
-      "cons": "Nothing special. Enjoying",
-      "sentiment": "negative",
-      "sentiment_score": -0.0859,
-      "is_current_employee": false,
-      "review_date": "2024-09-12",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Assistant Officer",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "5 day working",
-      "cons": "work culture",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-06-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Cctv Operator",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Everything",
-      "cons": "Inshort Gossip and blasphemy",
-      "sentiment": "negative",
-      "sentiment_score": -0.1779,
-      "is_current_employee": false,
-      "review_date": "2023-02-20",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Commis Chef",
-      "location": "Gurugram",
-      "rating": 2.0,
-      "pros": "Nothing",
-      "cons": "Senior Mangement not supported",
-      "sentiment": "negative",
-      "sentiment_score": -0.2411,
-      "is_current_employee": false,
-      "review_date": "2023-10-16",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Engineer",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Team effort",
-      "cons": "Nothing so far",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-05-05",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Fire Supervisor",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Good safety policy",
-      "cons": "No promotion",
-      "sentiment": "positive",
-      "sentiment_score": 0.5423,
-      "is_current_employee": false,
-      "review_date": "2020-12-13",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Executive Secretary to Executive Director",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "A very good company",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4927,
-      "is_current_employee": false,
-      "review_date": "2023-11-07",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Hvac Engineer",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Stable and healthy atmosphere.",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2023-11-24",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "DPT.Manager",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Excellent Company",
-      "cons": "Sudden Job Close",
-      "sentiment": "positive",
-      "sentiment_score": 0.5719,
-      "is_current_employee": false,
-      "review_date": "2018-05-12",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "Assistant Vice President",
       "location": "Delhi",
       "rating": 2.0,
@@ -4471,71 +3340,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2023-03-01",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "HR Manager",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "No job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.3929,
-      "is_current_employee": false,
-      "review_date": "2023-03-18",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Finishing Engineer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Company culture",
-      "cons": "Job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2021-12-23",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "General Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Quality and commitment",
-      "cons": "Flexibility",
-      "sentiment": "positive",
-      "sentiment_score": 0.6124,
-      "is_current_employee": false,
-      "review_date": "2023-02-27",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Assistant General Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Very nice organization",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4754,
-      "is_current_employee": false,
-      "review_date": "2022-12-12",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Commercial Officer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "work life balance",
-      "cons": "appraisal",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2019-09-24",
       "quality_score": 0.24
     },
     {
@@ -4705,32 +3509,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": true,
       "review_date": "2025-04-25",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Security Guard",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "Capp lagana",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-04-24",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Job Security",
-      "cons": "Growth",
-      "sentiment": "positive",
-      "sentiment_score": 0.6124,
-      "is_current_employee": false,
-      "review_date": "2021-05-09",
       "quality_score": 0.23
     },
     {
@@ -5005,19 +3783,6 @@
       "is_current_employee": true,
       "review_date": "2025-10-25",
       "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Shift Engineer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Troubleshooting",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2021-03-31",
-      "quality_score": 0.21
     }
   ],
   "salaries": [
@@ -5105,8 +3870,8 @@
       "role": "Senior Safety Officer",
       "location": null,
       "min_salary": 688000,
-      "max_salary": 900000,
-      "avg_salary": 809554,
+      "max_salary": 915000,
+      "avg_salary": 817987,
       "currency": "INR",
       "experience": "5-11 years",
       "sample_count": null
@@ -5339,14 +4104,1689 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-10T23:34:14.802361+00:00",
+  "interviews": [
+    {
+      "role": "Senior Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Education & previous experiences.",
+          "answer": null
+        },
+        {
+          "question": "Software & other technical skills.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 12:06:52"
+    },
+    {
+      "role": "Safety Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "General information at height,hot work, electrical work Fire safety housekeeping safety",
+          "answer": null
+        },
+        {
+          "question": "About permit and TBT conducted and training.",
+          "answer": null
+        },
+        {
+          "question": "Legal documents",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-28 09:04:01"
+    },
+    {
+      "role": "Accountant ",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-06 12:46:53"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How is waterproofing done and what is the method to do it, what things have to be seen",
+          "answer": null
+        },
+        {
+          "question": "What is the method of applying tiles, how do they apply them, what do we check for tiles",
+          "answer": null
+        },
+        {
+          "question": "If the plumbing team has to give front for work then the civil work should be complete and what work happens after that",
+          "answer": null
+        },
+        {
+          "question": "Falseciling causes false tiles or does falseseciling cause false tiles?",
+          "answer": null
+        },
+        {
+          "question": "When does toilet ledge wall block work?",
+          "answer": null
+        },
+        {
+          "question": "What is the difference between wall tiles and floor tiles?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 17:43:57"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, HR",
+      "questions": [],
+      "review_date": "2024-11-18 22:45:01"
+    },
+    {
+      "role": "Civil Site Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "BUILDING CONSTRUCTIONS ALL WORK",
+          "answer": null
+        },
+        {
+          "question": "HIGH RISE BUILDING CONSTRUCTIONS",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING STRUCTURE ANALYSIS",
+          "answer": null
+        },
+        {
+          "question": "PILLING FOUNDATION TO BUILDING STRUCTURE WORK AND HOSPITAL",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING ALL STRUCTURE WORK EXPERIENCE R.RAJKUMA COMPNNY LTD",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-29 05:59:29"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Size of cube",
+          "answer": null
+        },
+        {
+          "question": "Ratio of M20 grade",
+          "answer": null
+        },
+        {
+          "question": "Unit wait of 25 mm dia steel",
+          "answer": "Unit weight of 25 mm diameter steel is crucial for construction and engineering calculations.The unit weight of steel is typically around 7850 kg/m³.For a 25 mm diameter steel bar, the volume can be calculated using the formula: V = πr²h.Example: For a 1 meter length, the volume is approximately 0.0004909 m³.Thus, the weight can be calculated as: Weight = Volume × Density.Weight of 25 mm steel bar = 0.0004909 m³ × 7850 kg/m³ ≈ 3.86 kg."
+        },
+        {
+          "question": "Maxmum dia of steel in used",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-15 08:14:43"
+    },
+    {
+      "role": "Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-06-10 11:35:45"
+    },
+    {
+      "role": "MEP Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a single line diagram?",
+          "answer": null
+        },
+        {
+          "question": "What are HVAC systems, and how do they function?",
+          "answer": null
+        },
+        {
+          "question": "What is the maximum number of circuits that can be installed in a single conduit?",
+          "answer": null
+        },
+        {
+          "question": "What factors should be considered when deciding on an exhaust fan?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 08:01:43"
+    },
+    {
+      "role": "Health and Safety Executive and Project Incharge",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Safety management system",
+          "answer": null
+        },
+        {
+          "question": "Work permit procedures",
+          "answer": "Work permit procedures ensure safety and compliance during hazardous work activities.Identify the type of work requiring a permit, such as hot work or confined space entry.Conduct a risk assessment to evaluate potential hazards associated with the work.Obtain necessary approvals from relevant authorities before commencing work.Ensure all personnel involved are trained and aware of the permit requirements.Monitor the work site continuously to ensure compliance with safety measures outlined in the permit."
+        },
+        {
+          "question": "Hot work work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Tower crane safety system",
+          "answer": null
+        },
+        {
+          "question": "Hazard minimising procedures",
+          "answer": "Implementing hazard minimising procedures is crucial for ensuring safety in the workplace and reducing risks.Conduct regular risk assessments to identify potential hazards.Implement control measures such as PPE (Personal Protective Equipment) to protect workers.Provide training and education on safety protocols and emergency procedures.Establish clear communication channels for reporting hazards.Regularly review and update safety procedures based on new information or incidents."
+        },
+        {
+          "question": "Height work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Roles and responsibility of safety person",
+          "answer": "Safety personnel ensure compliance with health and safety regulations, promoting a safe work environment for all employees.Conduct regular safety audits to identify hazards and ensure compliance with safety regulations.Develop and implement safety training programs for employees, such as fire safety drills.Investigate accidents and incidents to determine root causes and prevent future occurrences.Maintain safety records and documentation, including incident reports and safety inspections.Collaborate with management to create and enforce safety policies and procedures."
+        },
+        {
+          "question": "What’s risk in Pailing work",
+          "answer": "Pailing work involves risks such as falls, equipment hazards, and exposure to harmful materials, requiring safety measures.Falls from height: Workers may fall while installing or removing pails, especially if proper safety harnesses are not used.Equipment hazards: Improper use of tools like drills or hammers can lead to injuries such as cuts or bruises.Exposure to harmful substances: Pailing work may involve chemicals or materials that can cause respiratory issues if not handled properly.Lifting injuries: Manual handling of heavy pails can lead to musculoskeletal injuries if proper lifting techniques are not followed."
+        },
+        {
+          "question": "What is near miss and first aid",
+          "answer": null
+        },
+        {
+          "question": "Confined space safety",
+          "answer": null
+        },
+        {
+          "question": "Electrical safety",
+          "answer": null
+        },
+        {
+          "question": "What is inspection procedures of tools and tackles",
+          "answer": "Inspection procedures for tools and tackles ensure safety, functionality, and compliance with regulations in the workplace.Conduct visual inspections for signs of wear, damage, or corrosion.Check for proper labeling and certification of tools, e.g., lifting equipment must have a valid test certificate.Perform functional tests to ensure tools operate correctly, such as testing a power tool before use.Maintain a log of inspections, including dates, findings, and actions taken.Ensure tools are stored properly to prevent damage, e.g., using toolboxes or racks."
+        },
+        {
+          "question": "How to control construction site",
+          "answer": "Effective control of a construction site ensures safety, efficiency, and compliance with regulations.Implement a comprehensive safety plan that includes risk assessments and emergency procedures.Conduct regular safety training sessions for all workers to ensure they understand safety protocols.Establish clear communication channels among team members to report hazards or incidents promptly.Use signage and barriers to delineate hazardous areas and ensure proper access control.Regularly inspect equipment and tools to ensure they are in safe working condition."
+        },
+        {
+          "question": "What’s yours good and bad habits",
+          "answer": "I have a mix of good and bad habits that shape my work ethic and personal growth.Good Habit: Strong attention to detail - I meticulously review safety protocols to ensure compliance.Good Habit: Effective communication - I regularly hold team meetings to discuss safety concerns and updates.Bad Habit: Overcommitting - I sometimes take on too many projects, which can lead to stress and reduced focus.Bad Habit: Procrastination - Occasionally, I delay non-urgent tasks, which can create last-minute pressure."
+        }
+      ],
+      "review_date": "2025-06-29 11:21:21"
+    },
+    {
+      "role": "Senior Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Education & previous experiences.",
+          "answer": null
+        },
+        {
+          "question": "Software & other technical skills.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 12:06:52"
+    },
+    {
+      "role": "Safety Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "General information at height,hot work, electrical work Fire safety housekeeping safety",
+          "answer": null
+        },
+        {
+          "question": "About permit and TBT conducted and training.",
+          "answer": null
+        },
+        {
+          "question": "Legal documents",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-28 09:04:01"
+    },
+    {
+      "role": "Accountant ",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-06 12:46:53"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How is waterproofing done and what is the method to do it, what things have to be seen",
+          "answer": null
+        },
+        {
+          "question": "What is the method of applying tiles, how do they apply them, what do we check for tiles",
+          "answer": null
+        },
+        {
+          "question": "If the plumbing team has to give front for work then the civil work should be complete and what work happens after that",
+          "answer": null
+        },
+        {
+          "question": "Falseciling causes false tiles or does falseseciling cause false tiles?",
+          "answer": null
+        },
+        {
+          "question": "When does toilet ledge wall block work?",
+          "answer": null
+        },
+        {
+          "question": "What is the difference between wall tiles and floor tiles?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 17:43:57"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, HR",
+      "questions": [],
+      "review_date": "2024-11-18 22:45:01"
+    },
+    {
+      "role": "Civil Site Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "BUILDING CONSTRUCTIONS ALL WORK",
+          "answer": null
+        },
+        {
+          "question": "HIGH RISE BUILDING CONSTRUCTIONS",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING STRUCTURE ANALYSIS",
+          "answer": null
+        },
+        {
+          "question": "PILLING FOUNDATION TO BUILDING STRUCTURE WORK AND HOSPITAL",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING ALL STRUCTURE WORK EXPERIENCE R.RAJKUMA COMPNNY LTD",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-29 05:59:29"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Size of cube",
+          "answer": null
+        },
+        {
+          "question": "Ratio of M20 grade",
+          "answer": null
+        },
+        {
+          "question": "Unit wait of 25 mm dia steel",
+          "answer": "Unit weight of 25 mm diameter steel is crucial for construction and engineering calculations.The unit weight of steel is typically around 7850 kg/m³.For a 25 mm diameter steel bar, the volume can be calculated using the formula: V = πr²h.Example: For a 1 meter length, the volume is approximately 0.0004909 m³.Thus, the weight can be calculated as: Weight = Volume × Density.Weight of 25 mm steel bar = 0.0004909 m³ × 7850 kg/m³ ≈ 3.86 kg."
+        },
+        {
+          "question": "Maxmum dia of steel in used",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-15 08:14:43"
+    },
+    {
+      "role": "Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-06-10 11:35:45"
+    },
+    {
+      "role": "MEP Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a single line diagram?",
+          "answer": null
+        },
+        {
+          "question": "What are HVAC systems, and how do they function?",
+          "answer": null
+        },
+        {
+          "question": "What is the maximum number of circuits that can be installed in a single conduit?",
+          "answer": null
+        },
+        {
+          "question": "What factors should be considered when deciding on an exhaust fan?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 08:01:43"
+    },
+    {
+      "role": "Health and Safety Executive and Project Incharge",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Safety management system",
+          "answer": null
+        },
+        {
+          "question": "Work permit procedures",
+          "answer": "Work permit procedures ensure safety and compliance during hazardous work activities.Identify the type of work requiring a permit, such as hot work or confined space entry.Conduct a risk assessment to evaluate potential hazards associated with the work.Obtain necessary approvals from relevant authorities before commencing work.Ensure all personnel involved are trained and aware of the permit requirements.Monitor the work site continuously to ensure compliance with safety measures outlined in the permit."
+        },
+        {
+          "question": "Hot work work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Tower crane safety system",
+          "answer": null
+        },
+        {
+          "question": "Hazard minimising procedures",
+          "answer": "Implementing hazard minimising procedures is crucial for ensuring safety in the workplace and reducing risks.Conduct regular risk assessments to identify potential hazards.Implement control measures such as PPE (Personal Protective Equipment) to protect workers.Provide training and education on safety protocols and emergency procedures.Establish clear communication channels for reporting hazards.Regularly review and update safety procedures based on new information or incidents."
+        },
+        {
+          "question": "Height work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Roles and responsibility of safety person",
+          "answer": "Safety personnel ensure compliance with health and safety regulations, promoting a safe work environment for all employees.Conduct regular safety audits to identify hazards and ensure compliance with safety regulations.Develop and implement safety training programs for employees, such as fire safety drills.Investigate accidents and incidents to determine root causes and prevent future occurrences.Maintain safety records and documentation, including incident reports and safety inspections.Collaborate with management to create and enforce safety policies and procedures."
+        },
+        {
+          "question": "What’s risk in Pailing work",
+          "answer": "Pailing work involves risks such as falls, equipment hazards, and exposure to harmful materials, requiring safety measures.Falls from height: Workers may fall while installing or removing pails, especially if proper safety harnesses are not used.Equipment hazards: Improper use of tools like drills or hammers can lead to injuries such as cuts or bruises.Exposure to harmful substances: Pailing work may involve chemicals or materials that can cause respiratory issues if not handled properly.Lifting injuries: Manual handling of heavy pails can lead to musculoskeletal injuries if proper lifting techniques are not followed."
+        },
+        {
+          "question": "What is near miss and first aid",
+          "answer": null
+        },
+        {
+          "question": "Confined space safety",
+          "answer": null
+        },
+        {
+          "question": "Electrical safety",
+          "answer": null
+        },
+        {
+          "question": "What is inspection procedures of tools and tackles",
+          "answer": "Inspection procedures for tools and tackles ensure safety, functionality, and compliance with regulations in the workplace.Conduct visual inspections for signs of wear, damage, or corrosion.Check for proper labeling and certification of tools, e.g., lifting equipment must have a valid test certificate.Perform functional tests to ensure tools operate correctly, such as testing a power tool before use.Maintain a log of inspections, including dates, findings, and actions taken.Ensure tools are stored properly to prevent damage, e.g., using toolboxes or racks."
+        },
+        {
+          "question": "How to control construction site",
+          "answer": "Effective control of a construction site ensures safety, efficiency, and compliance with regulations.Implement a comprehensive safety plan that includes risk assessments and emergency procedures.Conduct regular safety training sessions for all workers to ensure they understand safety protocols.Establish clear communication channels among team members to report hazards or incidents promptly.Use signage and barriers to delineate hazardous areas and ensure proper access control.Regularly inspect equipment and tools to ensure they are in safe working condition."
+        },
+        {
+          "question": "What’s yours good and bad habits",
+          "answer": "I have a mix of good and bad habits that shape my work ethic and personal growth.Good Habit: Strong attention to detail - I meticulously review safety protocols to ensure compliance.Good Habit: Effective communication - I regularly hold team meetings to discuss safety concerns and updates.Bad Habit: Overcommitting - I sometimes take on too many projects, which can lead to stress and reduced focus.Bad Habit: Procrastination - Occasionally, I delay non-urgent tasks, which can create last-minute pressure."
+        }
+      ],
+      "review_date": "2025-06-29 11:21:21"
+    },
+    {
+      "role": "Senior Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Education & previous experiences.",
+          "answer": null
+        },
+        {
+          "question": "Software & other technical skills.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 12:06:52"
+    },
+    {
+      "role": "Safety Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "General information at height,hot work, electrical work Fire safety housekeeping safety",
+          "answer": null
+        },
+        {
+          "question": "About permit and TBT conducted and training.",
+          "answer": null
+        },
+        {
+          "question": "Legal documents",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-28 09:04:01"
+    },
+    {
+      "role": "Accountant ",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-06 12:46:53"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How is waterproofing done and what is the method to do it, what things have to be seen",
+          "answer": null
+        },
+        {
+          "question": "What is the method of applying tiles, how do they apply them, what do we check for tiles",
+          "answer": null
+        },
+        {
+          "question": "If the plumbing team has to give front for work then the civil work should be complete and what work happens after that",
+          "answer": null
+        },
+        {
+          "question": "Falseciling causes false tiles or does falseseciling cause false tiles?",
+          "answer": null
+        },
+        {
+          "question": "When does toilet ledge wall block work?",
+          "answer": null
+        },
+        {
+          "question": "What is the difference between wall tiles and floor tiles?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 17:43:57"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, HR",
+      "questions": [],
+      "review_date": "2024-11-18 22:45:01"
+    },
+    {
+      "role": "Civil Site Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "BUILDING CONSTRUCTIONS ALL WORK",
+          "answer": null
+        },
+        {
+          "question": "HIGH RISE BUILDING CONSTRUCTIONS",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING STRUCTURE ANALYSIS",
+          "answer": null
+        },
+        {
+          "question": "PILLING FOUNDATION TO BUILDING STRUCTURE WORK AND HOSPITAL",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING ALL STRUCTURE WORK EXPERIENCE R.RAJKUMA COMPNNY LTD",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-29 05:59:29"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Size of cube",
+          "answer": null
+        },
+        {
+          "question": "Ratio of M20 grade",
+          "answer": null
+        },
+        {
+          "question": "Unit wait of 25 mm dia steel",
+          "answer": "Unit weight of 25 mm diameter steel is crucial for construction and engineering calculations.The unit weight of steel is typically around 7850 kg/m³.For a 25 mm diameter steel bar, the volume can be calculated using the formula: V = πr²h.Example: For a 1 meter length, the volume is approximately 0.0004909 m³.Thus, the weight can be calculated as: Weight = Volume × Density.Weight of 25 mm steel bar = 0.0004909 m³ × 7850 kg/m³ ≈ 3.86 kg."
+        },
+        {
+          "question": "Maxmum dia of steel in used",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-15 08:14:43"
+    },
+    {
+      "role": "Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-06-10 11:35:45"
+    },
+    {
+      "role": "MEP Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a single line diagram?",
+          "answer": null
+        },
+        {
+          "question": "What are HVAC systems, and how do they function?",
+          "answer": null
+        },
+        {
+          "question": "What is the maximum number of circuits that can be installed in a single conduit?",
+          "answer": null
+        },
+        {
+          "question": "What factors should be considered when deciding on an exhaust fan?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 08:01:43"
+    },
+    {
+      "role": "Health and Safety Executive and Project Incharge",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Safety management system",
+          "answer": null
+        },
+        {
+          "question": "Work permit procedures",
+          "answer": "Work permit procedures ensure safety and compliance during hazardous work activities.Identify the type of work requiring a permit, such as hot work or confined space entry.Conduct a risk assessment to evaluate potential hazards associated with the work.Obtain necessary approvals from relevant authorities before commencing work.Ensure all personnel involved are trained and aware of the permit requirements.Monitor the work site continuously to ensure compliance with safety measures outlined in the permit."
+        },
+        {
+          "question": "Hot work work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Tower crane safety system",
+          "answer": null
+        },
+        {
+          "question": "Hazard minimising procedures",
+          "answer": "Implementing hazard minimising procedures is crucial for ensuring safety in the workplace and reducing risks.Conduct regular risk assessments to identify potential hazards.Implement control measures such as PPE (Personal Protective Equipment) to protect workers.Provide training and education on safety protocols and emergency procedures.Establish clear communication channels for reporting hazards.Regularly review and update safety procedures based on new information or incidents."
+        },
+        {
+          "question": "Height work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Roles and responsibility of safety person",
+          "answer": "Safety personnel ensure compliance with health and safety regulations, promoting a safe work environment for all employees.Conduct regular safety audits to identify hazards and ensure compliance with safety regulations.Develop and implement safety training programs for employees, such as fire safety drills.Investigate accidents and incidents to determine root causes and prevent future occurrences.Maintain safety records and documentation, including incident reports and safety inspections.Collaborate with management to create and enforce safety policies and procedures."
+        },
+        {
+          "question": "What’s risk in Pailing work",
+          "answer": "Pailing work involves risks such as falls, equipment hazards, and exposure to harmful materials, requiring safety measures.Falls from height: Workers may fall while installing or removing pails, especially if proper safety harnesses are not used.Equipment hazards: Improper use of tools like drills or hammers can lead to injuries such as cuts or bruises.Exposure to harmful substances: Pailing work may involve chemicals or materials that can cause respiratory issues if not handled properly.Lifting injuries: Manual handling of heavy pails can lead to musculoskeletal injuries if proper lifting techniques are not followed."
+        },
+        {
+          "question": "What is near miss and first aid",
+          "answer": null
+        },
+        {
+          "question": "Confined space safety",
+          "answer": null
+        },
+        {
+          "question": "Electrical safety",
+          "answer": null
+        },
+        {
+          "question": "What is inspection procedures of tools and tackles",
+          "answer": "Inspection procedures for tools and tackles ensure safety, functionality, and compliance with regulations in the workplace.Conduct visual inspections for signs of wear, damage, or corrosion.Check for proper labeling and certification of tools, e.g., lifting equipment must have a valid test certificate.Perform functional tests to ensure tools operate correctly, such as testing a power tool before use.Maintain a log of inspections, including dates, findings, and actions taken.Ensure tools are stored properly to prevent damage, e.g., using toolboxes or racks."
+        },
+        {
+          "question": "How to control construction site",
+          "answer": "Effective control of a construction site ensures safety, efficiency, and compliance with regulations.Implement a comprehensive safety plan that includes risk assessments and emergency procedures.Conduct regular safety training sessions for all workers to ensure they understand safety protocols.Establish clear communication channels among team members to report hazards or incidents promptly.Use signage and barriers to delineate hazardous areas and ensure proper access control.Regularly inspect equipment and tools to ensure they are in safe working condition."
+        },
+        {
+          "question": "What’s yours good and bad habits",
+          "answer": "I have a mix of good and bad habits that shape my work ethic and personal growth.Good Habit: Strong attention to detail - I meticulously review safety protocols to ensure compliance.Good Habit: Effective communication - I regularly hold team meetings to discuss safety concerns and updates.Bad Habit: Overcommitting - I sometimes take on too many projects, which can lead to stress and reduced focus.Bad Habit: Procrastination - Occasionally, I delay non-urgent tasks, which can create last-minute pressure."
+        }
+      ],
+      "review_date": "2025-06-29 11:21:21"
+    },
+    {
+      "role": "Senior Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Education & previous experiences.",
+          "answer": null
+        },
+        {
+          "question": "Software & other technical skills.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 12:06:52"
+    },
+    {
+      "role": "Safety Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "General information at height,hot work, electrical work Fire safety housekeeping safety",
+          "answer": null
+        },
+        {
+          "question": "About permit and TBT conducted and training.",
+          "answer": null
+        },
+        {
+          "question": "Legal documents",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-28 09:04:01"
+    },
+    {
+      "role": "Accountant ",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-06 12:46:53"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How is waterproofing done and what is the method to do it, what things have to be seen",
+          "answer": null
+        },
+        {
+          "question": "What is the method of applying tiles, how do they apply them, what do we check for tiles",
+          "answer": null
+        },
+        {
+          "question": "If the plumbing team has to give front for work then the civil work should be complete and what work happens after that",
+          "answer": null
+        },
+        {
+          "question": "Falseciling causes false tiles or does falseseciling cause false tiles?",
+          "answer": null
+        },
+        {
+          "question": "When does toilet ledge wall block work?",
+          "answer": null
+        },
+        {
+          "question": "What is the difference between wall tiles and floor tiles?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 17:43:57"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, HR",
+      "questions": [],
+      "review_date": "2024-11-18 22:45:01"
+    },
+    {
+      "role": "Civil Site Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "BUILDING CONSTRUCTIONS ALL WORK",
+          "answer": null
+        },
+        {
+          "question": "HIGH RISE BUILDING CONSTRUCTIONS",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING STRUCTURE ANALYSIS",
+          "answer": null
+        },
+        {
+          "question": "PILLING FOUNDATION TO BUILDING STRUCTURE WORK AND HOSPITAL",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING ALL STRUCTURE WORK EXPERIENCE R.RAJKUMA COMPNNY LTD",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-29 05:59:29"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Size of cube",
+          "answer": null
+        },
+        {
+          "question": "Ratio of M20 grade",
+          "answer": null
+        },
+        {
+          "question": "Unit wait of 25 mm dia steel",
+          "answer": "Unit weight of 25 mm diameter steel is crucial for construction and engineering calculations.The unit weight of steel is typically around 7850 kg/m³.For a 25 mm diameter steel bar, the volume can be calculated using the formula: V = πr²h.Example: For a 1 meter length, the volume is approximately 0.0004909 m³.Thus, the weight can be calculated as: Weight = Volume × Density.Weight of 25 mm steel bar = 0.0004909 m³ × 7850 kg/m³ ≈ 3.86 kg."
+        },
+        {
+          "question": "Maxmum dia of steel in used",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-15 08:14:43"
+    },
+    {
+      "role": "Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-06-10 11:35:45"
+    },
+    {
+      "role": "MEP Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a single line diagram?",
+          "answer": null
+        },
+        {
+          "question": "What are HVAC systems, and how do they function?",
+          "answer": null
+        },
+        {
+          "question": "What is the maximum number of circuits that can be installed in a single conduit?",
+          "answer": null
+        },
+        {
+          "question": "What factors should be considered when deciding on an exhaust fan?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 08:01:43"
+    },
+    {
+      "role": "Health and Safety Executive and Project Incharge",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Safety management system",
+          "answer": null
+        },
+        {
+          "question": "Work permit procedures",
+          "answer": "Work permit procedures ensure safety and compliance during hazardous work activities.Identify the type of work requiring a permit, such as hot work or confined space entry.Conduct a risk assessment to evaluate potential hazards associated with the work.Obtain necessary approvals from relevant authorities before commencing work.Ensure all personnel involved are trained and aware of the permit requirements.Monitor the work site continuously to ensure compliance with safety measures outlined in the permit."
+        },
+        {
+          "question": "Hot work work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Tower crane safety system",
+          "answer": null
+        },
+        {
+          "question": "Hazard minimising procedures",
+          "answer": "Implementing hazard minimising procedures is crucial for ensuring safety in the workplace and reducing risks.Conduct regular risk assessments to identify potential hazards.Implement control measures such as PPE (Personal Protective Equipment) to protect workers.Provide training and education on safety protocols and emergency procedures.Establish clear communication channels for reporting hazards.Regularly review and update safety procedures based on new information or incidents."
+        },
+        {
+          "question": "Height work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Roles and responsibility of safety person",
+          "answer": "Safety personnel ensure compliance with health and safety regulations, promoting a safe work environment for all employees.Conduct regular safety audits to identify hazards and ensure compliance with safety regulations.Develop and implement safety training programs for employees, such as fire safety drills.Investigate accidents and incidents to determine root causes and prevent future occurrences.Maintain safety records and documentation, including incident reports and safety inspections.Collaborate with management to create and enforce safety policies and procedures."
+        },
+        {
+          "question": "What’s risk in Pailing work",
+          "answer": "Pailing work involves risks such as falls, equipment hazards, and exposure to harmful materials, requiring safety measures.Falls from height: Workers may fall while installing or removing pails, especially if proper safety harnesses are not used.Equipment hazards: Improper use of tools like drills or hammers can lead to injuries such as cuts or bruises.Exposure to harmful substances: Pailing work may involve chemicals or materials that can cause respiratory issues if not handled properly.Lifting injuries: Manual handling of heavy pails can lead to musculoskeletal injuries if proper lifting techniques are not followed."
+        },
+        {
+          "question": "What is near miss and first aid",
+          "answer": null
+        },
+        {
+          "question": "Confined space safety",
+          "answer": null
+        },
+        {
+          "question": "Electrical safety",
+          "answer": null
+        },
+        {
+          "question": "What is inspection procedures of tools and tackles",
+          "answer": "Inspection procedures for tools and tackles ensure safety, functionality, and compliance with regulations in the workplace.Conduct visual inspections for signs of wear, damage, or corrosion.Check for proper labeling and certification of tools, e.g., lifting equipment must have a valid test certificate.Perform functional tests to ensure tools operate correctly, such as testing a power tool before use.Maintain a log of inspections, including dates, findings, and actions taken.Ensure tools are stored properly to prevent damage, e.g., using toolboxes or racks."
+        },
+        {
+          "question": "How to control construction site",
+          "answer": "Effective control of a construction site ensures safety, efficiency, and compliance with regulations.Implement a comprehensive safety plan that includes risk assessments and emergency procedures.Conduct regular safety training sessions for all workers to ensure they understand safety protocols.Establish clear communication channels among team members to report hazards or incidents promptly.Use signage and barriers to delineate hazardous areas and ensure proper access control.Regularly inspect equipment and tools to ensure they are in safe working condition."
+        },
+        {
+          "question": "What’s yours good and bad habits",
+          "answer": "I have a mix of good and bad habits that shape my work ethic and personal growth.Good Habit: Strong attention to detail - I meticulously review safety protocols to ensure compliance.Good Habit: Effective communication - I regularly hold team meetings to discuss safety concerns and updates.Bad Habit: Overcommitting - I sometimes take on too many projects, which can lead to stress and reduced focus.Bad Habit: Procrastination - Occasionally, I delay non-urgent tasks, which can create last-minute pressure."
+        }
+      ],
+      "review_date": "2025-06-29 11:21:21"
+    },
+    {
+      "role": "Senior Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Education & previous experiences.",
+          "answer": null
+        },
+        {
+          "question": "Software & other technical skills.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 12:06:52"
+    },
+    {
+      "role": "Safety Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "General information at height,hot work, electrical work Fire safety housekeeping safety",
+          "answer": null
+        },
+        {
+          "question": "About permit and TBT conducted and training.",
+          "answer": null
+        },
+        {
+          "question": "Legal documents",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-28 09:04:01"
+    },
+    {
+      "role": "Accountant ",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-06 12:46:53"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How is waterproofing done and what is the method to do it, what things have to be seen",
+          "answer": null
+        },
+        {
+          "question": "What is the method of applying tiles, how do they apply them, what do we check for tiles",
+          "answer": null
+        },
+        {
+          "question": "If the plumbing team has to give front for work then the civil work should be complete and what work happens after that",
+          "answer": null
+        },
+        {
+          "question": "Falseciling causes false tiles or does falseseciling cause false tiles?",
+          "answer": null
+        },
+        {
+          "question": "When does toilet ledge wall block work?",
+          "answer": null
+        },
+        {
+          "question": "What is the difference between wall tiles and floor tiles?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 17:43:57"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, HR",
+      "questions": [],
+      "review_date": "2024-11-18 22:45:01"
+    },
+    {
+      "role": "Civil Site Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "BUILDING CONSTRUCTIONS ALL WORK",
+          "answer": null
+        },
+        {
+          "question": "HIGH RISE BUILDING CONSTRUCTIONS",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING STRUCTURE ANALYSIS",
+          "answer": null
+        },
+        {
+          "question": "PILLING FOUNDATION TO BUILDING STRUCTURE WORK AND HOSPITAL",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING ALL STRUCTURE WORK EXPERIENCE R.RAJKUMA COMPNNY LTD",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-29 05:59:29"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Size of cube",
+          "answer": null
+        },
+        {
+          "question": "Ratio of M20 grade",
+          "answer": null
+        },
+        {
+          "question": "Unit wait of 25 mm dia steel",
+          "answer": "Unit weight of 25 mm diameter steel is crucial for construction and engineering calculations.The unit weight of steel is typically around 7850 kg/m³.For a 25 mm diameter steel bar, the volume can be calculated using the formula: V = πr²h.Example: For a 1 meter length, the volume is approximately 0.0004909 m³.Thus, the weight can be calculated as: Weight = Volume × Density.Weight of 25 mm steel bar = 0.0004909 m³ × 7850 kg/m³ ≈ 3.86 kg."
+        },
+        {
+          "question": "Maxmum dia of steel in used",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-15 08:14:43"
+    },
+    {
+      "role": "Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-06-10 11:35:45"
+    },
+    {
+      "role": "MEP Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a single line diagram?",
+          "answer": null
+        },
+        {
+          "question": "What are HVAC systems, and how do they function?",
+          "answer": null
+        },
+        {
+          "question": "What is the maximum number of circuits that can be installed in a single conduit?",
+          "answer": null
+        },
+        {
+          "question": "What factors should be considered when deciding on an exhaust fan?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 08:01:43"
+    },
+    {
+      "role": "Health and Safety Executive and Project Incharge",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Safety management system",
+          "answer": null
+        },
+        {
+          "question": "Work permit procedures",
+          "answer": "Work permit procedures ensure safety and compliance during hazardous work activities.Identify the type of work requiring a permit, such as hot work or confined space entry.Conduct a risk assessment to evaluate potential hazards associated with the work.Obtain necessary approvals from relevant authorities before commencing work.Ensure all personnel involved are trained and aware of the permit requirements.Monitor the work site continuously to ensure compliance with safety measures outlined in the permit."
+        },
+        {
+          "question": "Hot work work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Tower crane safety system",
+          "answer": null
+        },
+        {
+          "question": "Hazard minimising procedures",
+          "answer": "Implementing hazard minimising procedures is crucial for ensuring safety in the workplace and reducing risks.Conduct regular risk assessments to identify potential hazards.Implement control measures such as PPE (Personal Protective Equipment) to protect workers.Provide training and education on safety protocols and emergency procedures.Establish clear communication channels for reporting hazards.Regularly review and update safety procedures based on new information or incidents."
+        },
+        {
+          "question": "Height work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Roles and responsibility of safety person",
+          "answer": "Safety personnel ensure compliance with health and safety regulations, promoting a safe work environment for all employees.Conduct regular safety audits to identify hazards and ensure compliance with safety regulations.Develop and implement safety training programs for employees, such as fire safety drills.Investigate accidents and incidents to determine root causes and prevent future occurrences.Maintain safety records and documentation, including incident reports and safety inspections.Collaborate with management to create and enforce safety policies and procedures."
+        },
+        {
+          "question": "What’s risk in Pailing work",
+          "answer": "Pailing work involves risks such as falls, equipment hazards, and exposure to harmful materials, requiring safety measures.Falls from height: Workers may fall while installing or removing pails, especially if proper safety harnesses are not used.Equipment hazards: Improper use of tools like drills or hammers can lead to injuries such as cuts or bruises.Exposure to harmful substances: Pailing work may involve chemicals or materials that can cause respiratory issues if not handled properly.Lifting injuries: Manual handling of heavy pails can lead to musculoskeletal injuries if proper lifting techniques are not followed."
+        },
+        {
+          "question": "What is near miss and first aid",
+          "answer": null
+        },
+        {
+          "question": "Confined space safety",
+          "answer": null
+        },
+        {
+          "question": "Electrical safety",
+          "answer": null
+        },
+        {
+          "question": "What is inspection procedures of tools and tackles",
+          "answer": "Inspection procedures for tools and tackles ensure safety, functionality, and compliance with regulations in the workplace.Conduct visual inspections for signs of wear, damage, or corrosion.Check for proper labeling and certification of tools, e.g., lifting equipment must have a valid test certificate.Perform functional tests to ensure tools operate correctly, such as testing a power tool before use.Maintain a log of inspections, including dates, findings, and actions taken.Ensure tools are stored properly to prevent damage, e.g., using toolboxes or racks."
+        },
+        {
+          "question": "How to control construction site",
+          "answer": "Effective control of a construction site ensures safety, efficiency, and compliance with regulations.Implement a comprehensive safety plan that includes risk assessments and emergency procedures.Conduct regular safety training sessions for all workers to ensure they understand safety protocols.Establish clear communication channels among team members to report hazards or incidents promptly.Use signage and barriers to delineate hazardous areas and ensure proper access control.Regularly inspect equipment and tools to ensure they are in safe working condition."
+        },
+        {
+          "question": "What’s yours good and bad habits",
+          "answer": "I have a mix of good and bad habits that shape my work ethic and personal growth.Good Habit: Strong attention to detail - I meticulously review safety protocols to ensure compliance.Good Habit: Effective communication - I regularly hold team meetings to discuss safety concerns and updates.Bad Habit: Overcommitting - I sometimes take on too many projects, which can lead to stress and reduced focus.Bad Habit: Procrastination - Occasionally, I delay non-urgent tasks, which can create last-minute pressure."
+        }
+      ],
+      "review_date": "2025-06-29 11:21:21"
+    },
+    {
+      "role": "Senior Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Education & previous experiences.",
+          "answer": null
+        },
+        {
+          "question": "Software & other technical skills.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 12:06:52"
+    },
+    {
+      "role": "Safety Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "General information at height,hot work, electrical work Fire safety housekeeping safety",
+          "answer": null
+        },
+        {
+          "question": "About permit and TBT conducted and training.",
+          "answer": null
+        },
+        {
+          "question": "Legal documents",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-28 09:04:01"
+    },
+    {
+      "role": "Accountant ",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-06 12:46:53"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How is waterproofing done and what is the method to do it, what things have to be seen",
+          "answer": null
+        },
+        {
+          "question": "What is the method of applying tiles, how do they apply them, what do we check for tiles",
+          "answer": null
+        },
+        {
+          "question": "If the plumbing team has to give front for work then the civil work should be complete and what work happens after that",
+          "answer": null
+        },
+        {
+          "question": "Falseciling causes false tiles or does falseseciling cause false tiles?",
+          "answer": null
+        },
+        {
+          "question": "When does toilet ledge wall block work?",
+          "answer": null
+        },
+        {
+          "question": "What is the difference between wall tiles and floor tiles?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 17:43:57"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, HR",
+      "questions": [],
+      "review_date": "2024-11-18 22:45:01"
+    },
+    {
+      "role": "Civil Site Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "BUILDING CONSTRUCTIONS ALL WORK",
+          "answer": null
+        },
+        {
+          "question": "HIGH RISE BUILDING CONSTRUCTIONS",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING STRUCTURE ANALYSIS",
+          "answer": null
+        },
+        {
+          "question": "PILLING FOUNDATION TO BUILDING STRUCTURE WORK AND HOSPITAL",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING ALL STRUCTURE WORK EXPERIENCE R.RAJKUMA COMPNNY LTD",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-29 05:59:29"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Size of cube",
+          "answer": null
+        },
+        {
+          "question": "Ratio of M20 grade",
+          "answer": null
+        },
+        {
+          "question": "Unit wait of 25 mm dia steel",
+          "answer": "Unit weight of 25 mm diameter steel is crucial for construction and engineering calculations.The unit weight of steel is typically around 7850 kg/m³.For a 25 mm diameter steel bar, the volume can be calculated using the formula: V = πr²h.Example: For a 1 meter length, the volume is approximately 0.0004909 m³.Thus, the weight can be calculated as: Weight = Volume × Density.Weight of 25 mm steel bar = 0.0004909 m³ × 7850 kg/m³ ≈ 3.86 kg."
+        },
+        {
+          "question": "Maxmum dia of steel in used",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-15 08:14:43"
+    },
+    {
+      "role": "Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-06-10 11:35:45"
+    },
+    {
+      "role": "MEP Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a single line diagram?",
+          "answer": null
+        },
+        {
+          "question": "What are HVAC systems, and how do they function?",
+          "answer": null
+        },
+        {
+          "question": "What is the maximum number of circuits that can be installed in a single conduit?",
+          "answer": null
+        },
+        {
+          "question": "What factors should be considered when deciding on an exhaust fan?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 08:01:43"
+    },
+    {
+      "role": "Health and Safety Executive and Project Incharge",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Safety management system",
+          "answer": null
+        },
+        {
+          "question": "Work permit procedures",
+          "answer": "Work permit procedures ensure safety and compliance during hazardous work activities.Identify the type of work requiring a permit, such as hot work or confined space entry.Conduct a risk assessment to evaluate potential hazards associated with the work.Obtain necessary approvals from relevant authorities before commencing work.Ensure all personnel involved are trained and aware of the permit requirements.Monitor the work site continuously to ensure compliance with safety measures outlined in the permit."
+        },
+        {
+          "question": "Hot work work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Tower crane safety system",
+          "answer": null
+        },
+        {
+          "question": "Hazard minimising procedures",
+          "answer": "Implementing hazard minimising procedures is crucial for ensuring safety in the workplace and reducing risks.Conduct regular risk assessments to identify potential hazards.Implement control measures such as PPE (Personal Protective Equipment) to protect workers.Provide training and education on safety protocols and emergency procedures.Establish clear communication channels for reporting hazards.Regularly review and update safety procedures based on new information or incidents."
+        },
+        {
+          "question": "Height work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Roles and responsibility of safety person",
+          "answer": "Safety personnel ensure compliance with health and safety regulations, promoting a safe work environment for all employees.Conduct regular safety audits to identify hazards and ensure compliance with safety regulations.Develop and implement safety training programs for employees, such as fire safety drills.Investigate accidents and incidents to determine root causes and prevent future occurrences.Maintain safety records and documentation, including incident reports and safety inspections.Collaborate with management to create and enforce safety policies and procedures."
+        },
+        {
+          "question": "What’s risk in Pailing work",
+          "answer": "Pailing work involves risks such as falls, equipment hazards, and exposure to harmful materials, requiring safety measures.Falls from height: Workers may fall while installing or removing pails, especially if proper safety harnesses are not used.Equipment hazards: Improper use of tools like drills or hammers can lead to injuries such as cuts or bruises.Exposure to harmful substances: Pailing work may involve chemicals or materials that can cause respiratory issues if not handled properly.Lifting injuries: Manual handling of heavy pails can lead to musculoskeletal injuries if proper lifting techniques are not followed."
+        },
+        {
+          "question": "What is near miss and first aid",
+          "answer": null
+        },
+        {
+          "question": "Confined space safety",
+          "answer": null
+        },
+        {
+          "question": "Electrical safety",
+          "answer": null
+        },
+        {
+          "question": "What is inspection procedures of tools and tackles",
+          "answer": "Inspection procedures for tools and tackles ensure safety, functionality, and compliance with regulations in the workplace.Conduct visual inspections for signs of wear, damage, or corrosion.Check for proper labeling and certification of tools, e.g., lifting equipment must have a valid test certificate.Perform functional tests to ensure tools operate correctly, such as testing a power tool before use.Maintain a log of inspections, including dates, findings, and actions taken.Ensure tools are stored properly to prevent damage, e.g., using toolboxes or racks."
+        },
+        {
+          "question": "How to control construction site",
+          "answer": "Effective control of a construction site ensures safety, efficiency, and compliance with regulations.Implement a comprehensive safety plan that includes risk assessments and emergency procedures.Conduct regular safety training sessions for all workers to ensure they understand safety protocols.Establish clear communication channels among team members to report hazards or incidents promptly.Use signage and barriers to delineate hazardous areas and ensure proper access control.Regularly inspect equipment and tools to ensure they are in safe working condition."
+        },
+        {
+          "question": "What’s yours good and bad habits",
+          "answer": "I have a mix of good and bad habits that shape my work ethic and personal growth.Good Habit: Strong attention to detail - I meticulously review safety protocols to ensure compliance.Good Habit: Effective communication - I regularly hold team meetings to discuss safety concerns and updates.Bad Habit: Overcommitting - I sometimes take on too many projects, which can lead to stress and reduced focus.Bad Habit: Procrastination - Occasionally, I delay non-urgent tasks, which can create last-minute pressure."
+        }
+      ],
+      "review_date": "2025-06-29 11:21:21"
+    },
+    {
+      "role": "Senior Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Education & previous experiences.",
+          "answer": null
+        },
+        {
+          "question": "Software & other technical skills.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 12:06:52"
+    },
+    {
+      "role": "Safety Officer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "General information at height,hot work, electrical work Fire safety housekeeping safety",
+          "answer": null
+        },
+        {
+          "question": "About permit and TBT conducted and training.",
+          "answer": null
+        },
+        {
+          "question": "Legal documents",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-28 09:04:01"
+    },
+    {
+      "role": "Accountant ",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-06 12:46:53"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How is waterproofing done and what is the method to do it, what things have to be seen",
+          "answer": null
+        },
+        {
+          "question": "What is the method of applying tiles, how do they apply them, what do we check for tiles",
+          "answer": null
+        },
+        {
+          "question": "If the plumbing team has to give front for work then the civil work should be complete and what work happens after that",
+          "answer": null
+        },
+        {
+          "question": "Falseciling causes false tiles or does falseseciling cause false tiles?",
+          "answer": null
+        },
+        {
+          "question": "When does toilet ledge wall block work?",
+          "answer": null
+        },
+        {
+          "question": "What is the difference between wall tiles and floor tiles?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-12 17:43:57"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, HR",
+      "questions": [],
+      "review_date": "2024-11-18 22:45:01"
+    },
+    {
+      "role": "Civil Site Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "BUILDING CONSTRUCTIONS ALL WORK",
+          "answer": null
+        },
+        {
+          "question": "HIGH RISE BUILDING CONSTRUCTIONS",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING STRUCTURE ANALYSIS",
+          "answer": null
+        },
+        {
+          "question": "PILLING FOUNDATION TO BUILDING STRUCTURE WORK AND HOSPITAL",
+          "answer": null
+        },
+        {
+          "question": "RESIDENTIAL BUILDING ALL STRUCTURE WORK EXPERIENCE R.RAJKUMA COMPNNY LTD",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-29 05:59:29"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Size of cube",
+          "answer": null
+        },
+        {
+          "question": "Ratio of M20 grade",
+          "answer": null
+        },
+        {
+          "question": "Unit wait of 25 mm dia steel",
+          "answer": "Unit weight of 25 mm diameter steel is crucial for construction and engineering calculations.The unit weight of steel is typically around 7850 kg/m³.For a 25 mm diameter steel bar, the volume can be calculated using the formula: V = πr²h.Example: For a 1 meter length, the volume is approximately 0.0004909 m³.Thus, the weight can be calculated as: Weight = Volume × Density.Weight of 25 mm steel bar = 0.0004909 m³ × 7850 kg/m³ ≈ 3.86 kg."
+        },
+        {
+          "question": "Maxmum dia of steel in used",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-15 08:14:43"
+    },
+    {
+      "role": "Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-06-10 11:35:45"
+    },
+    {
+      "role": "MEP Engineer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a single line diagram?",
+          "answer": null
+        },
+        {
+          "question": "What are HVAC systems, and how do they function?",
+          "answer": null
+        },
+        {
+          "question": "What is the maximum number of circuits that can be installed in a single conduit?",
+          "answer": null
+        },
+        {
+          "question": "What factors should be considered when deciding on an exhaust fan?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 08:01:43"
+    },
+    {
+      "role": "Health and Safety Executive and Project Incharge",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Safety management system",
+          "answer": null
+        },
+        {
+          "question": "Work permit procedures",
+          "answer": "Work permit procedures ensure safety and compliance during hazardous work activities.Identify the type of work requiring a permit, such as hot work or confined space entry.Conduct a risk assessment to evaluate potential hazards associated with the work.Obtain necessary approvals from relevant authorities before commencing work.Ensure all personnel involved are trained and aware of the permit requirements.Monitor the work site continuously to ensure compliance with safety measures outlined in the permit."
+        },
+        {
+          "question": "Hot work work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Tower crane safety system",
+          "answer": null
+        },
+        {
+          "question": "Hazard minimising procedures",
+          "answer": "Implementing hazard minimising procedures is crucial for ensuring safety in the workplace and reducing risks.Conduct regular risk assessments to identify potential hazards.Implement control measures such as PPE (Personal Protective Equipment) to protect workers.Provide training and education on safety protocols and emergency procedures.Establish clear communication channels for reporting hazards.Regularly review and update safety procedures based on new information or incidents."
+        },
+        {
+          "question": "Height work safety precautions",
+          "answer": null
+        },
+        {
+          "question": "Roles and responsibility of safety person",
+          "answer": "Safety personnel ensure compliance with health and safety regulations, promoting a safe work environment for all employees.Conduct regular safety audits to identify hazards and ensure compliance with safety regulations.Develop and implement safety training programs for employees, such as fire safety drills.Investigate accidents and incidents to determine root causes and prevent future occurrences.Maintain safety records and documentation, including incident reports and safety inspections.Collaborate with management to create and enforce safety policies and procedures."
+        },
+        {
+          "question": "What’s risk in Pailing work",
+          "answer": "Pailing work involves risks such as falls, equipment hazards, and exposure to harmful materials, requiring safety measures.Falls from height: Workers may fall while installing or removing pails, especially if proper safety harnesses are not used.Equipment hazards: Improper use of tools like drills or hammers can lead to injuries such as cuts or bruises.Exposure to harmful substances: Pailing work may involve chemicals or materials that can cause respiratory issues if not handled properly.Lifting injuries: Manual handling of heavy pails can lead to musculoskeletal injuries if proper lifting techniques are not followed."
+        },
+        {
+          "question": "What is near miss and first aid",
+          "answer": null
+        },
+        {
+          "question": "Confined space safety",
+          "answer": null
+        },
+        {
+          "question": "Electrical safety",
+          "answer": null
+        },
+        {
+          "question": "What is inspection procedures of tools and tackles",
+          "answer": "Inspection procedures for tools and tackles ensure safety, functionality, and compliance with regulations in the workplace.Conduct visual inspections for signs of wear, damage, or corrosion.Check for proper labeling and certification of tools, e.g., lifting equipment must have a valid test certificate.Perform functional tests to ensure tools operate correctly, such as testing a power tool before use.Maintain a log of inspections, including dates, findings, and actions taken.Ensure tools are stored properly to prevent damage, e.g., using toolboxes or racks."
+        },
+        {
+          "question": "How to control construction site",
+          "answer": "Effective control of a construction site ensures safety, efficiency, and compliance with regulations.Implement a comprehensive safety plan that includes risk assessments and emergency procedures.Conduct regular safety training sessions for all workers to ensure they understand safety protocols.Establish clear communication channels among team members to report hazards or incidents promptly.Use signage and barriers to delineate hazardous areas and ensure proper access control.Regularly inspect equipment and tools to ensure they are in safe working condition."
+        },
+        {
+          "question": "What’s yours good and bad habits",
+          "answer": "I have a mix of good and bad habits that shape my work ethic and personal growth.Good Habit: Strong attention to detail - I meticulously review safety protocols to ensure compliance.Good Habit: Effective communication - I regularly hold team meetings to discuss safety concerns and updates.Bad Habit: Overcommitting - I sometimes take on too many projects, which can lead to stress and reduced focus.Bad Habit: Procrastination - Occasionally, I delay non-urgent tasks, which can create last-minute pressure."
+        }
+      ],
+      "review_date": "2025-06-29 11:21:21"
+    }
+  ],
+  "_scraped_at": "2026-04-13T00:44:10.437329+00:00",
   "_source": "ambitionbox",
   "_registry_name": "DLF",
   "_registry_industry": "Real Estate",
   "_sentiment": {
-    "positiveCount": 221,
-    "negativeCount": 89,
-    "neutralCount": 75,
+    "positiveCount": 167,
+    "negativeCount": 62,
+    "neutralCount": 61,
     "topPositiveThemes": [
       "salary & compensation",
       "company culture",
@@ -5358,8 +5798,8 @@
       "company culture",
       "career growth",
       "management",
-      "salary & compensation",
-      "work-life balance"
+      "work-life balance",
+      "salary & compensation"
     ]
   }
 }

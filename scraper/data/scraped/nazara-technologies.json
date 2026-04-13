@@ -399,8 +399,61 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T21:28:38.403713+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "International/On-site exposure",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 1 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 1 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "DO YOU KNOW THE MOST BASIC LANGUAGES WHICH IS HELPFUL FOR CLIENTS AND PROJECTS",
+          "answer": "Basic programming languages like HTML, CSS, and JavaScript are essential for web development and client projects.HTML: The backbone of web pages, used for structuring content.CSS: Styles the appearance of web pages, enhancing user experience.JavaScript: Adds interactivity and dynamic features to websites.Python: Widely used for backend development and data analysis.Java: Commonly used for enterprise applications and Android development."
+        },
+        {
+          "question": "DO YOU KNOW ABOUT HTML AND CSS",
+          "answer": "Yes, I have a solid understanding of HTML and CSS, which are essential for web development and design.HTML (HyperText Markup Language) is used to structure content on the web.CSS (Cascading Style Sheets) is used to style and layout web pages.HTML elements include tags like &lt;div&gt;, &lt;p&gt;, &lt;a&gt;, and &lt;img&gt;.CSS properties include color, font-size, margin, and padding.Responsive design can be achieved using CSS media queries."
+        }
+      ],
+      "review_date": "2025-04-10 15:34:09"
+    },
+    {
+      "role": "Senior General Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-30 06:11:06"
+    }
+  ],
+  "_scraped_at": "2026-04-12T21:41:56.219121+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Nazara Technologies",
   "_registry_industry": "Gaming",

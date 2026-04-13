@@ -8,9 +8,9 @@
   "founded": 2000,
   "website": "https://www.narayanahealth.org",
   "overall_rating": 4.0,
-  "work_life_balance": 3.85,
+  "work_life_balance": 3.86,
   "salary_benefits": 3.49,
-  "job_security": 3.97,
+  "job_security": 3.98,
   "career_growth": 3.27,
   "company_culture": 3.8,
   "reviews": [
@@ -211,45 +211,6 @@
     },
     {
       "title": null,
-      "role": "Consultant",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Good managment and HR department",
-      "cons": "Very egoistic consultant in surgical oncology department calling himself to be senior consultant and lead and doing maximum complications on patients and treating the fellow surgeon as his intern\nAnd doing unindicated procedures always\nManagment taking no steps to stop this\nPrevious candidate also left for same reason\nHospital just thinks of revenue generation. Doesn't think about the patients and their well being...and doesn't think about the skill development of surgeon and other factors\nVery poor",
-      "sentiment": "negative",
-      "sentiment_score": -0.4201,
-      "is_current_employee": false,
-      "review_date": "2023-07-11",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Kolkata",
-      "rating": 2.0,
-      "pros": "It's a great field to learn more and more\nSalary comes first",
-      "cons": "The box will be full with my words of dislike...the administrative level staff see the nursing staff as they are illiterate.once you resign..they will obviously creat a harrasment not to give you experience certificate.the HR staffs have no common sense what to behave with a person.The medical staffs are actually literate about human behaviour.but the non medical staffs of this hospital behaviour is very bad.",
-      "sentiment": "negative",
-      "sentiment_score": -0.2247,
-      "is_current_employee": true,
-      "review_date": "2024-02-03",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Consultant",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work ethics\nPromptness in queries\nTimely salary credit\nWork life balance\nEducational updates\nApproachability and more over working with the celebrity cardiologist Dr.Devishetti sir. \nI had a privilege of capturing selfie with my inspirational figure. Dr. Devishetti sir",
-      "cons": "No job security \nNo project extension in Kalaburgi which is area of need.\nNot extended to Kalaburgi which is the area of need",
-      "sentiment": "positive",
-      "sentiment_score": 0.4523,
-      "is_current_employee": false,
-      "review_date": "2024-10-04",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Nursing Staff",
       "location": "Gurugram",
       "rating": 4.0,
@@ -276,32 +237,6 @@
     },
     {
       "title": null,
-      "role": "Senior Executive SCM",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Only work life balance and job security is there.",
-      "cons": "No perks and benefits. Appraisal only 3-5%. But if are close to your boss like chmcha then you will get all benefits. If boss is intelligent you don't mind to be chmcha also. What if a illiterate become your boss then you won't tolerate enough.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9109,
-      "is_current_employee": false,
-      "review_date": "2023-01-27",
-      "quality_score": 0.74
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "I feel more at home, more comfortable, more in control and more supported than I ever have before.\" \"This employer genuinely cares for your growth, both professionally and personally. \"I have worked 2 years in cardiac ITU and I have not heard any grumbling about management or the company or even the co-workers.",
-      "cons": "Nil",
-      "sentiment": "positive",
-      "sentiment_score": 0.8953,
-      "is_current_employee": true,
-      "review_date": "2023-12-20",
-      "quality_score": 0.74
-    },
-    {
-      "title": null,
       "role": "Staff Nurse",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -311,19 +246,6 @@
       "sentiment_score": 0.9614,
       "is_current_employee": false,
       "review_date": "2024-11-19",
-      "quality_score": 0.72
-    },
-    {
-      "title": null,
-      "role": "Tele Counsellor",
-      "location": "Ramamurthy nagar",
-      "rating": 4.0,
-      "pros": "Our principle sir is very friendly and supporting for staff's",
-      "cons": "Mainly  no respect  for female  staff's  specially for other language people accept from Telugu people and more work pressure  from DGM  everytime  scolding  female  staffs  front  of parents and students very bad experience  for me as tamilan  really  it's very hard to",
-      "sentiment": "negative",
-      "sentiment_score": -0.1344,
-      "is_current_employee": false,
-      "review_date": "2024-10-13",
       "quality_score": 0.72
     },
     {
@@ -390,19 +312,6 @@
       "is_current_employee": false,
       "review_date": "2023-11-04",
       "quality_score": 0.69
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Guwahati",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Only HR people will grow here every year, but the employee who work passionately will get ignored by management. Director never appreciate your work but only know how to shout on people who work. This place is become the worst place to work because of few people.",
-      "sentiment": "negative",
-      "sentiment_score": -0.7837,
-      "is_current_employee": false,
-      "review_date": "2023-05-02",
-      "quality_score": 0.68
     },
     {
       "title": null,
@@ -481,19 +390,6 @@
       "is_current_employee": true,
       "review_date": "2025-02-06",
       "quality_score": 0.62
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Excellent hospital and who all are need to learn everything means must go this hospital....",
-      "cons": "When I join that time salary was they not increased . Why I said like this means especially during Covid pandemic time we faced more consequences...",
-      "sentiment": "positive",
-      "sentiment_score": 0.764,
-      "is_current_employee": false,
-      "review_date": "2023-02-10",
-      "quality_score": 0.61
     },
     {
       "title": null,
@@ -627,19 +523,6 @@
     },
     {
       "title": null,
-      "role": "Deputy Manager",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "New learnings from Corporate Team.",
-      "cons": "Experience in working with the highest management personnel in Jessore Road Unit was extremely poor.\nExtremely substandard decision making quality by the highest management personnel with disappointing reverts.",
-      "sentiment": "negative",
-      "sentiment_score": -0.7645,
-      "is_current_employee": false,
-      "review_date": "2023-07-31",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
       "role": "Associate Professor",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -675,19 +558,6 @@
       "sentiment_score": 0.7096,
       "is_current_employee": false,
       "review_date": "2023-10-18",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager Marketing",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Drs are good",
-      "cons": "Leg pulling no proper  justification of role, no proper structure either of designation, experience doesn't  matter, people who r in system hv less salary then people who join newly",
-      "sentiment": "positive",
-      "sentiment_score": 0.1596,
-      "is_current_employee": false,
-      "review_date": "2023-07-01",
       "quality_score": 0.52
     },
     {
@@ -822,19 +692,6 @@
     },
     {
       "title": null,
-      "role": "Junior Executive",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "No position opinion on this company.",
-      "cons": "No work culture.\nOvertime everyday.\nNo holidays.\nNo compensatory leaves given.\nNo growth opportunities.\nLack of proper management.\nLess qualified managers.",
-      "sentiment": "negative",
-      "sentiment_score": -0.8542,
-      "is_current_employee": false,
-      "review_date": "2023-06-06",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
       "role": "Dialysis Technician Incharge",
       "location": "Gurugram",
       "rating": 4.0,
@@ -884,32 +741,6 @@
       "is_current_employee": false,
       "review_date": "2024-11-18",
       "quality_score": 0.46
-    },
-    {
-      "title": null,
-      "role": "Microbiology Technician",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Eco - friendly behaviour\nAppraisal and being polite to everyone\nHard working and caring people \nStaff is too good \nBenefits in carrier opportunities",
-      "cons": "Nothing to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.9358,
-      "is_current_employee": false,
-      "review_date": "2023-08-01",
-      "quality_score": 0.46
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Everything is ok to work here but the hospital not supported senior staff that is the biggest problem please improve that",
-      "cons": "Not encouraging old staff",
-      "sentiment": "negative",
-      "sentiment_score": -0.3087,
-      "is_current_employee": false,
-      "review_date": "2023-07-24",
-      "quality_score": 0.45
     },
     {
       "title": null,
@@ -991,32 +822,6 @@
     },
     {
       "title": null,
-      "role": "Deputy Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Work Life Balance and empathetic colleagues",
-      "cons": "Appraisal, bad employee retention plans at ground level, Monopoly of clinical department and admin at the back seat.",
-      "sentiment": "negative",
-      "sentiment_score": -0.2023,
-      "is_current_employee": false,
-      "review_date": "2024-03-19",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Digital Adoption & Business Process Transformation Unit Lead",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Work culture\nLearnings & skill development \nL & D\nWork life balance",
-      "cons": "Salary range\nAnnual appraisal amount\nPromotion\nManpower issue\nLocation of the hospital",
-      "sentiment": "positive",
-      "sentiment_score": 0.5766,
-      "is_current_employee": true,
-      "review_date": "2025-10-15",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
       "role": "Ward Incharge",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -1039,19 +844,6 @@
       "sentiment_score": 0.854,
       "is_current_employee": false,
       "review_date": "2023-11-09",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Senior Medical Officer",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Overall experience was good except few individual in the name of BOSS  r very bad & opportunistic..notching against the company",
-      "cons": "No Job security",
-      "sentiment": "negative",
-      "sentiment_score": -0.6284,
-      "is_current_employee": false,
-      "review_date": "2024-09-26",
       "quality_score": 0.43
     },
     {
@@ -1104,32 +896,6 @@
       "sentiment_score": -0.6646,
       "is_current_employee": true,
       "review_date": "2026-02-04",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Registrar",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Cool and calm place to work. Lots to learn from. Good work culture",
-      "cons": "Salary is not good with poor yearly increament",
-      "sentiment": "positive",
-      "sentiment_score": 0.7682,
-      "is_current_employee": true,
-      "review_date": "2023-12-20",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": null,
-      "rating": 4.0,
-      "pros": "Great Work place culture and supportive environment, continuous learning opportunities",
-      "cons": "Work load will be bit higher and minimal staff welfare activities",
-      "sentiment": "positive",
-      "sentiment_score": 0.836,
-      "is_current_employee": false,
-      "review_date": "2024-11-26",
       "quality_score": 0.41
     },
     {
@@ -1199,45 +965,6 @@
     },
     {
       "title": null,
-      "role": "Domain Trainer",
-      "location": "Jaipur",
-      "rating": 5.0,
-      "pros": "The Work culture is too good 👍",
-      "cons": "The overall experience is good but the lower staff culture is not good",
-      "sentiment": "negative",
-      "sentiment_score": -0.4605,
-      "is_current_employee": false,
-      "review_date": "2023-09-06",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "On time salary",
-      "cons": "Current role lacks clarity; policies favours ambiguity. Lots of disparity in designation & packages between various departments",
-      "sentiment": "positive",
-      "sentiment_score": 0.6705,
-      "is_current_employee": false,
-      "review_date": "2023-06-29",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Junior Physiotherapist",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good  working place and  we are update  place",
-      "cons": "Not give leave for argently Thats one problem and salary very low",
-      "sentiment": "negative",
-      "sentiment_score": -0.2605,
-      "is_current_employee": false,
-      "review_date": "2023-08-02",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
       "role": "Staff Nurse",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -1247,32 +974,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": true,
       "review_date": "2025-09-05",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Jammu",
-      "rating": 2.0,
-      "pros": "NH is good organisation no doubt but management is very pathetic.",
-      "cons": "Unit level management is very rude and pathetic.",
-      "sentiment": "negative",
-      "sentiment_score": -0.9246,
-      "is_current_employee": false,
-      "review_date": "2023-08-31",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Analyst",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "working in Narayana health made me a good learner and their care towards candidate was good .",
-      "cons": "no dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.8822,
-      "is_current_employee": true,
-      "review_date": "2024-02-07",
       "quality_score": 0.39
     },
     {
@@ -1316,32 +1017,6 @@
     },
     {
       "title": null,
-      "role": "Staff Nurse",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Social culture is good",
-      "cons": "Being a Nurse you seek respect and good pay, here both are not there",
-      "sentiment": "positive",
-      "sentiment_score": 0.8176,
-      "is_current_employee": false,
-      "review_date": "2023-09-24",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Assistant manager of nursing",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "",
-      "cons": "Too much mental tortured and misbehaving continue from HOD., HR and treatculture going on. \nEnvironment is too toxic.",
-      "sentiment": "negative",
-      "sentiment_score": -0.743,
-      "is_current_employee": true,
-      "review_date": "2025-10-11",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
       "role": "Front Office Executive",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -1377,19 +1052,6 @@
       "sentiment_score": -0.5,
       "is_current_employee": true,
       "review_date": "2024-04-17",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Project Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Narayana Health ensures that Employee security",
-      "cons": "Some where no value for who stay here for long time",
-      "sentiment": "positive",
-      "sentiment_score": 0.0936,
-      "is_current_employee": false,
-      "review_date": "2023-12-01",
       "quality_score": 0.37
     },
     {
@@ -1485,19 +1147,6 @@
     },
     {
       "title": null,
-      "role": "Senior Registrar",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Exposure to variety of cases",
-      "cons": "Heavy work load, toxic environment, low salary, no work life balance",
-      "sentiment": "negative",
-      "sentiment_score": -0.5106,
-      "is_current_employee": false,
-      "review_date": "2023-09-14",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
       "role": "Head Materials",
       "location": "Delhi",
       "rating": 4.0,
@@ -1550,32 +1199,6 @@
     },
     {
       "title": null,
-      "role": "Clinical Instructor",
-      "location": "Raipur",
-      "rating": 2.0,
-      "pros": "Nothing",
-      "cons": "No proper washrooms\nTraining room is not well maintained \nLack of many educational resources",
-      "sentiment": "positive",
-      "sentiment_score": 0.2584,
-      "is_current_employee": false,
-      "review_date": "2023-08-04",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Marketing Manager",
-      "location": "Kolkata",
-      "rating": 2.0,
-      "pros": "I am unsatisfied ok ok",
-      "cons": "No training and motivation fromsenior side and no one coperate",
-      "sentiment": "negative",
-      "sentiment_score": -0.0772,
-      "is_current_employee": false,
-      "review_date": "2023-07-21",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
       "role": "Clinical Assistant",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -1624,32 +1247,6 @@
       "sentiment_score": 0.4215,
       "is_current_employee": false,
       "review_date": "2024-07-04",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Clinical Research Coordinator",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good Place learn Ground level of CRC work at this site.",
-      "cons": "Salary\nWork Culture",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-06-20",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Dietician",
-      "location": "Ballari",
-      "rating": 3.0,
-      "pros": "Work load is not much. Work freedom also here",
-      "cons": "Salary package is very cheap.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5216,
-      "is_current_employee": false,
-      "review_date": "2023-05-10",
       "quality_score": 0.34
     },
     {
@@ -1823,45 +1420,6 @@
     },
     {
       "title": null,
-      "role": "Executive",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Flexible in Working timings and less stress",
-      "cons": "Nothing bad. Less in career growth",
-      "sentiment": "positive",
-      "sentiment_score": 0.5132,
-      "is_current_employee": false,
-      "review_date": "2023-10-08",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Nurse Educator",
-      "location": "Jammu",
-      "rating": 5.0,
-      "pros": "It is wonderful experience working in Narayana, under great leadership",
-      "cons": "Sometimes, hectic hours.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8316,
-      "is_current_employee": false,
-      "review_date": "2023-10-19",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Executive",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Excellent organization with excellent working atmostphere.",
-      "cons": "no dislikes because I like working here",
-      "sentiment": "positive",
-      "sentiment_score": 0.9034,
-      "is_current_employee": false,
-      "review_date": "2023-08-03",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
       "role": "Consultant Specialist",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -2001,110 +1559,6 @@
       "sentiment_score": 0.7506,
       "is_current_employee": true,
       "review_date": "2026-02-26",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Anaesthesia Technician",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Lots of opportunities to improvise our skills",
-      "cons": "No proper promotions on time",
-      "sentiment": "positive",
-      "sentiment_score": 0.1027,
-      "is_current_employee": true,
-      "review_date": "2023-12-18",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Senior Systems Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Nice company to work over here",
-      "cons": "As of now nothing to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.6103,
-      "is_current_employee": false,
-      "review_date": "2023-08-08",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Senior Resident",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "I Like the nursing staff",
-      "cons": "Nothing as such every thing is good",
-      "sentiment": "positive",
-      "sentiment_score": 0.6597,
-      "is_current_employee": false,
-      "review_date": "2023-09-01",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Dietician",
-      "location": "Haora",
-      "rating": 5.0,
-      "pros": "I like everything at narayana. Health",
-      "cons": "I dislike nothing at narayana health",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0258,
-      "is_current_employee": false,
-      "review_date": "2023-07-07",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Job timings , HR policies, learnings",
-      "cons": "Culture, work environment, micromanagent, work pressure",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-06-12",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
-      "location": "Bommasandra",
-      "rating": 5.0,
-      "pros": "Co-operation , encouraging the staffs and giving rewards for hardwork.",
-      "cons": "Less salary",
-      "sentiment": "positive",
-      "sentiment_score": 0.836,
-      "is_current_employee": true,
-      "review_date": "2025-07-12",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Emergency Medicine Registrar",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good Work culture nice place to work",
-      "cons": "Nothing good work culture overall",
-      "sentiment": "positive",
-      "sentiment_score": 0.5096,
-      "is_current_employee": false,
-      "review_date": "2023-10-03",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "There are lot of things to learn",
-      "cons": "No supporting for the nurses",
-      "sentiment": "negative",
-      "sentiment_score": -0.3412,
-      "is_current_employee": false,
-      "review_date": "2023-06-20",
       "quality_score": 0.32
     },
     {
@@ -2356,97 +1810,6 @@
     },
     {
       "title": null,
-      "role": "Staff Nurse",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "NH employees policy so good",
-      "cons": "Nowadays don’t get face any issues",
-      "sentiment": "positive",
-      "sentiment_score": 0.8259,
-      "is_current_employee": false,
-      "review_date": "2023-08-29",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Yes Premier Relationship Manager",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "Narayana is real state Education registered company  I like job",
-      "cons": "no",
-      "sentiment": "positive",
-      "sentiment_score": 0.0772,
-      "is_current_employee": false,
-      "review_date": "2023-09-20",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Technician",
-      "location": "Haora",
-      "rating": 4.0,
-      "pros": "Managers and senior are very helpfull.",
-      "cons": "Need more Skills program .",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-10-16",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "BSC Staff Nurse",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Standard and quality of care",
-      "cons": "Men hostal not there in hospital",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2024-07-03",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Fire Officer",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Good work culture , good learning",
-      "cons": "Working pressure is too heavy",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": false,
-      "review_date": "2023-06-27",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Software Developer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Environment is so good for people",
-      "cons": "Nothing has dislike for me",
-      "sentiment": "positive",
-      "sentiment_score": 0.7118,
-      "is_current_employee": false,
-      "review_date": "2023-10-27",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Junior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Learning new skills",
-      "cons": "Nothing , the work is comfortable for me",
-      "sentiment": "positive",
-      "sentiment_score": 0.5106,
-      "is_current_employee": false,
-      "review_date": "2023-05-07",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
       "role": "Supply Chain Manager",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -2629,110 +1992,6 @@
     },
     {
       "title": null,
-      "role": "Senior Executive",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Serveses are good",
-      "cons": "Salary is not enough according to experience",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-10-31",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "👍🏻company rules and culture and employees friendly environment",
-      "cons": "No Comments",
-      "sentiment": "positive",
-      "sentiment_score": 0.25,
-      "is_current_employee": false,
-      "review_date": "2023-09-07",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "job security",
-      "cons": "no wfh & quality of work assigned sometimes",
-      "sentiment": "positive",
-      "sentiment_score": 0.0516,
-      "is_current_employee": true,
-      "review_date": "2024-01-03",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Deputy Nursing Superintendent",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Good colleagues to work with",
-      "cons": "Empowerment is lacking from HOD",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-10-16",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
-      "location": "Mumbai Suburban",
-      "rating": 4.0,
-      "pros": "Development of the employee",
-      "cons": "Shortage of staff\nSalary is less",
-      "sentiment": "negative",
-      "sentiment_score": -0.25,
-      "is_current_employee": false,
-      "review_date": "2023-07-24",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Finance Executive",
-      "location": "Raipur",
-      "rating": 4.0,
-      "pros": "Salary credited on time, and never disappoint for leaves",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.5801,
-      "is_current_employee": false,
-      "review_date": "2023-09-06",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Shift Incharge",
-      "location": "Jammu",
-      "rating": 4.0,
-      "pros": "Everything is good",
-      "cons": "I don't want to say any dislike",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0201,
-      "is_current_employee": false,
-      "review_date": "2023-10-19",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Supply Chain Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work ethics, Work life balance",
-      "cons": "Procrastination, processes are very slow",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-08-04",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
       "role": "Marketing Associate",
       "location": "Gurugram",
       "rating": 1.0,
@@ -2859,71 +2118,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": true,
       "review_date": "2024-03-09",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Nursing Incharge",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "That atmosphere and working experience and management",
-      "cons": "Not special",
-      "sentiment": "negative",
-      "sentiment_score": -0.3089,
-      "is_current_employee": true,
-      "review_date": "2024-01-02",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Security Supervisor",
-      "location": "Raipur",
-      "rating": 5.0,
-      "pros": "NH all programmes by HR Team",
-      "cons": "12 hours duty",
-      "sentiment": "positive",
-      "sentiment_score": 0.6037,
-      "is_current_employee": false,
-      "review_date": "2023-10-29",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Lab Technician",
-      "location": "Jammu",
-      "rating": 4.0,
-      "pros": "I love Weather",
-      "cons": "I don't like Moody staff sometimes",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2023-07-05",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Raipur",
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "No I am very happy to work NH",
-      "sentiment": "positive",
-      "sentiment_score": 0.8565,
-      "is_current_employee": false,
-      "review_date": "2023-06-17",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Salary date perfection",
-      "cons": "No respect and support for nurses",
-      "sentiment": "positive",
-      "sentiment_score": 0.5921,
-      "is_current_employee": false,
-      "review_date": "2023-07-07",
       "quality_score": 0.29
     },
     {
@@ -3175,110 +2369,6 @@
     },
     {
       "title": null,
-      "role": "Clinical Coordinator",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Comprehensive care, quality of work",
-      "cons": "Very less dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.3642,
-      "is_current_employee": true,
-      "review_date": "2023-12-08",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Administration Assistant",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Very nice place to work.",
-      "cons": "Nothing to say.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4754,
-      "is_current_employee": true,
-      "review_date": "2023-12-04",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Executive",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Friendly environment",
-      "cons": "Nothing as much it's good hospital",
-      "sentiment": "positive",
-      "sentiment_score": 0.7269,
-      "is_current_employee": true,
-      "review_date": "2023-10-03",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Bangalore Rural",
-      "rating": 4.0,
-      "pros": "Good culuture, Good managers",
-      "cons": "No dislikes that much",
-      "sentiment": "positive",
-      "sentiment_score": 0.794,
-      "is_current_employee": false,
-      "review_date": "2023-10-12",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Really u can shine ur professional skillz",
-      "cons": "Nil",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-10-19",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Doctor",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "One of the best place for work",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2023-06-24",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Service Excellence Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Best was to work with my boss.",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2023-10-14",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Guwahati",
-      "rating": 4.0,
-      "pros": "Salary on time",
-      "cons": "Less leave & very hardworking",
-      "sentiment": "neutral",
-      "sentiment_score": 0.024,
-      "is_current_employee": false,
-      "review_date": "2024-05-31",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
       "role": "Shift Incharge Nurse",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -3496,84 +2586,6 @@
       "sentiment_score": 0.5777,
       "is_current_employee": true,
       "review_date": "2026-02-12",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Unit Lead",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "On time salary",
-      "cons": "No zeal to work",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2023-12-01",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "Job security",
-      "cons": "Salary structure is very poor",
-      "sentiment": "negative",
-      "sentiment_score": -0.2484,
-      "is_current_employee": false,
-      "review_date": "2023-08-20",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Patient Care Coordinator",
-      "location": "Raipur",
-      "rating": 5.0,
-      "pros": "Working environment was very good",
-      "cons": "Salary issues",
-      "sentiment": "positive",
-      "sentiment_score": 0.4927,
-      "is_current_employee": true,
-      "review_date": "2024-01-25",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Shift Incharge",
-      "location": "Jammu",
-      "rating": 5.0,
-      "pros": "Company is cooperative and understanding",
-      "cons": "No dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.3089,
-      "is_current_employee": false,
-      "review_date": "2023-10-19",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Resident",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "No micromanagement",
-      "cons": "Delayed and inadequate appraisal .",
-      "sentiment": "negative",
-      "sentiment_score": -0.4997,
-      "is_current_employee": false,
-      "review_date": "2023-06-17",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Billing Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work culture and job security",
-      "cons": "Non recognition",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-06-16",
       "quality_score": 0.27
     },
     {
@@ -3873,84 +2885,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2024-12-09",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Executive SCM",
-      "location": "Guwahati",
-      "rating": 5.0,
-      "pros": "Salary in time",
-      "cons": "All are good",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-10-27",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Front Office Executive",
-      "location": "Jaipur",
-      "rating": 4.0,
-      "pros": "Best place to the job.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2023-10-23",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Deputy Nursing Superintendent",
-      "location": "Katra",
-      "rating": 5.0,
-      "pros": "Good atmosphere and good team",
-      "cons": "Nil",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2023-10-19",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Registered Nurse",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good working environment",
-      "cons": "Long working hours",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-09-30",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
-      "location": "Mysuru",
-      "rating": 5.0,
-      "pros": "Nurses service  and good communication",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-08-20",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Doctor",
-      "location": "Jaipur",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "Less salary is given here",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-08-05",
       "quality_score": 0.26
     },
     {
@@ -4280,97 +3214,6 @@
     },
     {
       "title": null,
-      "role": "Billing and Administration Executive",
-      "location": "Raipur",
-      "rating": 5.0,
-      "pros": "Everytging",
-      "cons": "Nothing every is fine",
-      "sentiment": "negative",
-      "sentiment_score": -0.1511,
-      "is_current_employee": true,
-      "review_date": "2024-01-18",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "Available Holiday",
-      "cons": "Patient motion clean",
-      "sentiment": "positive",
-      "sentiment_score": 0.6597,
-      "is_current_employee": true,
-      "review_date": "2024-03-01",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Sr.Engineer-Projects",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "Increment will be less",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-11-17",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Dialysis Technician",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Friendly coworkers",
-      "cons": "Underground Bike parking",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2023-10-18",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Billing Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Friendly environment",
-      "cons": "Salary and promotion",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": true,
-      "review_date": "2023-12-18",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Nursing Supervisor",
-      "location": "Jammu",
-      "rating": 4.0,
-      "pros": "Work place environment ✌",
-      "cons": "nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2023-10-19",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Registrar",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Best culture ever",
-      "cons": "No disliked",
-      "sentiment": "positive",
-      "sentiment_score": 0.7549,
-      "is_current_employee": true,
-      "review_date": "2024-04-10",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "Assistant Manager 1",
       "location": "Kolkata",
       "rating": 4.0,
@@ -4605,32 +3448,6 @@
     },
     {
       "title": null,
-      "role": "FNB minimal Access Surgeon ",
-      "location": "Mysuru / Mysore, Karnataka",
-      "rating": 5.0,
-      "pros": "Good patient attending",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-10-15",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Marketing Executive",
-      "location": "Dharwad",
-      "rating": 5.0,
-      "pros": "Good Support",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.5267,
-      "is_current_employee": true,
-      "review_date": "2023-12-21",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
       "role": "Staff Nurse",
       "location": "Davanagere",
       "rating": 5.0,
@@ -4774,42 +3591,16 @@
     },
     {
       "title": null,
-      "role": "Ccu Staff Nurse",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Very good",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4927,
-      "is_current_employee": true,
-      "review_date": "2024-01-17",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
       "role": "Nursing Staff",
-      "location": "Mumbai",
+      "location": "Mysuru",
       "rating": 5.0,
-      "pros": "I like",
+      "pros": "Good",
       "cons": "",
       "sentiment": "positive",
-      "sentiment_score": 0.3612,
+      "sentiment_score": 0.4404,
       "is_current_employee": true,
-      "review_date": "2025-11-18",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Ok",
-      "cons": "Yes",
-      "sentiment": "positive",
-      "sentiment_score": 0.5994,
-      "is_current_employee": true,
-      "review_date": "2025-10-08",
-      "quality_score": 0.22
+      "review_date": "2026-04-11",
+      "quality_score": 0.21
     },
     {
       "title": null,
@@ -5017,45 +3808,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": true,
       "review_date": "2025-12-03",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
-      "location": null,
-      "rating": 5.0,
-      "pros": "",
-      "cons": "Like",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": true,
-      "review_date": "2025-12-25",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Lab Technician",
-      "location": "Jaipur",
-      "rating": 5.0,
-      "pros": "",
-      "cons": "No",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2025-11-21",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "X RAY Technician",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": true,
-      "review_date": "2025-11-14",
       "quality_score": 0.21
     }
   ],
@@ -5318,14 +4070,440 @@
       "details": "Provident Fund (PF), Employee State Insurance (ESI), Gratuity, and NPS tax advantages."
     }
   ],
-  "_scraped_at": "2026-04-10T21:07:52.251638+00:00",
+  "interviews": [
+    {
+      "role": "Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Glasgow come scale",
+          "answer": null
+        },
+        {
+          "question": "Needle stick injury",
+          "answer": null
+        },
+        {
+          "question": "Control infection",
+          "answer": null
+        },
+        {
+          "question": "Basic life support",
+          "answer": null
+        },
+        {
+          "question": "Advance life support",
+          "answer": null
+        },
+        {
+          "question": "Cardio pulmonary resuscitation",
+          "answer": null
+        },
+        {
+          "question": "Vital signs normal values",
+          "answer": null
+        },
+        {
+          "question": "Adverse drug reaction",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-16 10:50:47"
+    },
+    {
+      "role": "Staff Nurse Midwife",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is GCS",
+          "answer": null
+        },
+        {
+          "question": "Vital signs normal range",
+          "answer": null
+        },
+        {
+          "question": "What is hypoglycemia",
+          "answer": null
+        },
+        {
+          "question": "What is CVA",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-25 17:24:00"
+    },
+    {
+      "role": "Nurse",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is preeclampsia?",
+          "answer": null
+        },
+        {
+          "question": "Stages of normal delivery?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-13 11:55:51"
+    },
+    {
+      "role": "Radiographer Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is iodinated contrast media & Gadolinium & Barium ???",
+          "answer": null
+        },
+        {
+          "question": "We are doing mri, ct, x-ray,DEXA.. why ?",
+          "answer": null
+        },
+        {
+          "question": "MRCP full form name ?",
+          "answer": null
+        },
+        {
+          "question": "How to scan doing 1. According diagnose 2. According doctor",
+          "answer": null
+        },
+        {
+          "question": "Type of radiation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-17 23:39:10"
+    },
+    {
+      "role": "Deputy Nursing Superintendent",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Staff management",
+          "answer": null
+        },
+        {
+          "question": "Manpower and patient experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 19:38:47"
+    },
+    {
+      "role": "Senior Medicine Consultant",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2025-03-08 18:25:14"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-02-26 16:54:51"
+    },
+    {
+      "role": "Sde1",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "DSA Question on sliding window",
+          "answer": null
+        },
+        {
+          "question": "round 2 hash map question",
+          "answer": null
+        },
+        {
+          "question": "asked me to develop frontend form app",
+          "answer": null
+        },
+        {
+          "question": "backedn authnectication",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 00:26:09"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are your reasons for wanting this position?",
+          "answer": null
+        },
+        {
+          "question": "What are your qualifications?",
+          "answer": null
+        },
+        {
+          "question": "What knowledge do you possess about this field?",
+          "answer": null
+        },
+        {
+          "question": "Are you an experienced professional or a fresher in this field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-31 17:31:35"
+    },
+    {
+      "role": "Pharmacist Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to dispace narcotics drugs",
+          "answer": null
+        },
+        {
+          "question": "List of h1 schedule",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 22:05:34"
+    },
+    {
+      "role": "Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Glasgow come scale",
+          "answer": null
+        },
+        {
+          "question": "Needle stick injury",
+          "answer": null
+        },
+        {
+          "question": "Control infection",
+          "answer": null
+        },
+        {
+          "question": "Basic life support",
+          "answer": null
+        },
+        {
+          "question": "Advance life support",
+          "answer": null
+        },
+        {
+          "question": "Cardio pulmonary resuscitation",
+          "answer": null
+        },
+        {
+          "question": "Vital signs normal values",
+          "answer": null
+        },
+        {
+          "question": "Adverse drug reaction",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-16 10:50:47"
+    },
+    {
+      "role": "Staff Nurse Midwife",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is GCS",
+          "answer": null
+        },
+        {
+          "question": "Vital signs normal range",
+          "answer": null
+        },
+        {
+          "question": "What is hypoglycemia",
+          "answer": null
+        },
+        {
+          "question": "What is CVA",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-25 17:24:00"
+    },
+    {
+      "role": "Nurse",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is preeclampsia?",
+          "answer": null
+        },
+        {
+          "question": "Stages of normal delivery?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-13 11:55:51"
+    },
+    {
+      "role": "Radiographer Trainee",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is iodinated contrast media & Gadolinium & Barium ???",
+          "answer": null
+        },
+        {
+          "question": "We are doing mri, ct, x-ray,DEXA.. why ?",
+          "answer": null
+        },
+        {
+          "question": "MRCP full form name ?",
+          "answer": null
+        },
+        {
+          "question": "How to scan doing 1. According diagnose 2. According doctor",
+          "answer": null
+        },
+        {
+          "question": "Type of radiation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-17 23:39:10"
+    },
+    {
+      "role": "Deputy Nursing Superintendent",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Staff management",
+          "answer": null
+        },
+        {
+          "question": "Manpower and patient experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 19:38:47"
+    },
+    {
+      "role": "Senior Medicine Consultant",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2025-03-08 18:25:14"
+    },
+    {
+      "role": "Lab Technician",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-02-26 16:54:51"
+    },
+    {
+      "role": "Sde1",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "DSA Question on sliding window",
+          "answer": null
+        },
+        {
+          "question": "round 2 hash map question",
+          "answer": null
+        },
+        {
+          "question": "asked me to develop frontend form app",
+          "answer": null
+        },
+        {
+          "question": "backedn authnectication",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 00:26:09"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are your reasons for wanting this position?",
+          "answer": null
+        },
+        {
+          "question": "What are your qualifications?",
+          "answer": null
+        },
+        {
+          "question": "What knowledge do you possess about this field?",
+          "answer": null
+        },
+        {
+          "question": "Are you an experienced professional or a fresher in this field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-31 17:31:35"
+    },
+    {
+      "role": "Pharmacist Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to dispace narcotics drugs",
+          "answer": null
+        },
+        {
+          "question": "List of h1 schedule",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-17 22:05:34"
+    }
+  ],
+  "_scraped_at": "2026-04-12T21:10:18.920993+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Narayana Health",
   "_registry_industry": "Healthcare",
   "_sentiment": {
-    "positiveCount": 251,
-    "negativeCount": 83,
-    "neutralCount": 54,
+    "positiveCount": 186,
+    "negativeCount": 58,
+    "neutralCount": 48,
     "topPositiveThemes": [
       "company culture",
       "career growth",
@@ -5336,8 +4514,8 @@
     "topNegativeThemes": [
       "salary & compensation",
       "management",
-      "career growth",
       "company culture",
+      "career growth",
       "benefits"
     ]
   }

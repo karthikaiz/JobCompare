@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
 import { CompareBar } from "@/components/compare-bar";
+import { ThemeToggle } from "@/components/theme-toggle";
 import { useCompare } from "@/context/compare-context";
 import { useAuth } from "@/context/auth-context";
 import { cn } from "@/lib/utils";
@@ -25,6 +26,7 @@ export function DashboardShell({ role, children }: DashboardShellProps) {
       ? [
           { href: "/job-seeker", label: "Dashboard" },
           { href: "/job-seeker/compare", label: "Compare" },
+          { href: "/should-i-switch", label: "Should I Switch?" },
         ]
       : [{ href: "/recruiter", label: "Dashboard" }];
 
@@ -78,8 +80,9 @@ export function DashboardShell({ role, children }: DashboardShellProps) {
           ))}
         </nav>
 
-        {/* Auth — pushed to the right */}
-        <div className="ml-auto flex items-center gap-2 sm:gap-3">
+        {/* Auth + theme — pushed to the right */}
+        <div className="ml-auto flex items-center gap-1 sm:gap-3">
+          <ThemeToggle />
           {!loading && (
             <>
               {user ? (

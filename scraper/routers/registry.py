@@ -63,6 +63,7 @@ class CompanyEntry(BaseModel):
     reviews: int | None = None
     salaries: int | None = None
     benefits: int | None = None
+    interviews: int | None = None
 
 
 async def discover_slug(company_name: str) -> dict | None:
@@ -132,6 +133,7 @@ async def list_companies():
             reviews=scrape_info.get("reviews"),
             salaries=scrape_info.get("salaries"),
             benefits=scrape_info.get("benefits"),
+            interviews=scrape_info.get("interviews"),
         ))
 
     return result

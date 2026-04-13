@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
 import { useAuth } from "@/context/auth-context";
 import { Button } from "@/components/ui/button";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 export function Navbar() {
   const pathname = usePathname();
@@ -46,6 +47,7 @@ export function Navbar() {
         </div>
 
         <div className="flex items-center gap-1 sm:gap-3 ml-auto">
+          <ThemeToggle variant="light" />
           <Link href="/admin/registry" className="hidden sm:block">
             <span className="text-xs text-white/30 hover:text-white/60 transition-colors">Admin</span>
           </Link>

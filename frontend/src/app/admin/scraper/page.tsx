@@ -12,11 +12,12 @@ interface Company {
   last_scraped: string | null;
   reviews: number | null;
   salaries: number | null;
+  interviews: number | null;
 }
 
 interface ScrapeStatus {
   running: boolean;
-  phase?: "starting" | "scraping" | "syncing" | "done" | "error" | "scrape_only";
+  phase?: "starting" | "scraping" | "syncing" | "done" | "error" | "scrape_only" | "stopped";
   mode?: string;
   slugs?: string[];
   started_at?: string;
@@ -31,6 +32,7 @@ const PHASE_LABEL: Record<string, string> = {
   done: "Complete",
   error: "Error",
   scrape_only: "Scrape complete",
+  stopped: "Stopped",
 };
 const PHASE_COLOR: Record<string, string> = {
   starting: "text-white/40",
@@ -39,6 +41,7 @@ const PHASE_COLOR: Record<string, string> = {
   done: "text-[#4A7C59]",
   error: "text-[#B05252]",
   scrape_only: "text-white/50",
+  stopped: "text-[#C9876E]",
 };
 
 function lineColor(line: string) {
@@ -67,9 +70,11 @@ export default function ScraperPage() {
   // Params
   const [maxReviews, setMaxReviews] = useState(5);
   const [maxSalaries, setMaxSalaries] = useState(15);
+  const [maxInterviewPages, setMaxInterviewPages] = useState(50);
   const [autoSync, setAutoSync] = useState(true);
 
   const [triggering, setTriggering] = useState(false);
+  const [stopping, setStopping] = useState(false);
   const [message, setMessage] = useState<{ text: string; type: "success" | "error" } | null>(null);
   const [terminalOpen, setTerminalOpen] = useState(false);
 
@@ -167,6 +172,7 @@ export default function ScraperPage() {
       slugs: mode === "custom" ? Array.from(selected) : [],
       max_reviews: maxReviews,
       max_salaries: maxSalaries,
+      max_interview_pages: maxInterviewPages,
       auto_sync: autoSync,
     };
 
@@ -187,6 +193,27 @@ export default function ScraperPage() {
       setMessage({ text: "Cannot reach scraper.", type: "error" });
     } finally {
       setTriggering(false);
+    }
+  };
+
+  // ── Stop scrape ────────────────────────────────────────────────────────
+  const stopScrape = async () => {
+    setStopping(true);
+    setMessage(null);
+    try {
+      const res = await fetch(`${SCRAPER_URL}/scrape`, { method: "DELETE" });
+      const data = await res.json();
+      if (res.ok) {
+        setMessage({ text: "Scrape stopped.", type: "success" });
+        fetchStatus();
+        fetchLogs();
+      } else {
+        setMessage({ text: data.detail ?? "Failed to stop.", type: "error" });
+      }
+    } catch {
+      setMessage({ text: "Cannot reach scraper.", type: "error" });
+    } finally {
+      setStopping(false);
     }
   };
 
@@ -267,15 +294,26 @@ export default function ScraperPage() {
             </div>
           )}
         </div>
-        {(isRunning || status?.phase === "done") && (
+        {(isRunning || status?.phase === "done" || status?.phase === "stopped") && (
           <div className="mt-4 flex gap-1.5">
             {(["scraping", "syncing"] as const).map(ph => {
               const isActive = status?.phase === ph;
+              const isStopped = status?.phase === "stopped";
               const isDone = (ph === "scraping" && (status?.phase === "syncing" || status?.phase === "done")) || (ph === "syncing" && status?.phase === "done");
               return (
                 <div key={ph} className="flex-1">
-                  <div className={`h-0.5 rounded-full transition-all duration-500 ${isDone ? "bg-[#4A7C59]" : isActive ? "bg-terracotta animate-pulse" : "bg-white/10"}`} />
-                  <p className={`text-[9px] mt-1 uppercase tracking-widest ${isDone ? "text-[#4A7C59]" : isActive ? "text-terracotta" : "text-white/15"}`}>
+                  <div className={`h-0.5 rounded-full transition-all duration-500 ${
+                    isDone ? "bg-[#4A7C59]" :
+                    isActive && isStopped ? "bg-[#B05252]" :
+                    isActive ? "bg-terracotta animate-pulse" :
+                    "bg-white/10"
+                  }`} />
+                  <p className={`text-[9px] mt-1 uppercase tracking-widest ${
+                    isDone ? "text-[#4A7C59]" :
+                    isActive && isStopped ? "text-[#B05252]" :
+                    isActive ? "text-terracotta" :
+                    "text-white/15"
+                  }`}>
                     {ph === "scraping" ? "1. Scrape" : "2. DB Sync"}
                   </p>
                 </div>
@@ -396,9 +434,11 @@ export default function ScraperPage() {
                       </div>
                       <p className="text-[11px] text-white/20 font-mono mt-0.5">{c.slug}</p>
                     </div>
-                    {c.reviews != null && (
-                      <span className="text-[10px] text-white/20 flex-shrink-0">{c.reviews} rev</span>
-                    )}
+                    <div className="flex items-center gap-2 flex-shrink-0 text-[10px] text-white/20">
+                      {c.reviews != null && <span>{c.reviews} rev</span>}
+                      {c.salaries != null && <span>{c.salaries} sal</span>}
+                      {c.interviews != null && <span>{c.interviews} int</span>}
+                    </div>
                   </label>
                 ))
               )}
@@ -435,6 +475,21 @@ export default function ScraperPage() {
           </div>
         </div>
 
+        <div>
+          <div className="flex justify-between mb-2">
+            <label className="text-xs text-white/50">Max interview pages per company</label>
+            <span className="text-xs font-mono text-cream">
+              {maxInterviewPages} pages{" "}
+              <span className="text-white/25">≈ up to {maxInterviewPages * 10} interviews</span>
+            </span>
+          </div>
+          <input type="range" min={1} max={100} value={maxInterviewPages} onChange={e => setMaxInterviewPages(Number(e.target.value))} className="w-full accent-terracotta" />
+          <div className="flex justify-between mt-1">
+            <span className="text-[10px] text-white/20">1 page (10)</span>
+            <span className="text-[10px] text-white/20">100 pages (1,000)</span>
+          </div>
+        </div>
+
         <div className="flex items-center justify-between">
           <label className="text-xs text-white/40 cursor-pointer" htmlFor="autosync">Auto-sync to DB after scrape</label>
           <button id="autosync" onClick={() => setAutoSync(!autoSync)}
@@ -443,13 +498,31 @@ export default function ScraperPage() {
           </button>
         </div>
 
-        <button
-          onClick={triggerScrape}
-          disabled={triggering || !online || !!isRunning || (mode === "custom" && selected.size === 0)}
-          className="w-full py-2.5 text-sm bg-terracotta/90 hover:bg-terracotta text-cream rounded-sm disabled:opacity-40 transition-colors"
-        >
-          {runLabel()}
-        </button>
+        <div className="flex gap-2">
+          <button
+            onClick={triggerScrape}
+            disabled={triggering || !online || !!isRunning || (mode === "custom" && selected.size === 0)}
+            className="flex-1 py-2.5 text-sm bg-terracotta/90 hover:bg-terracotta text-cream rounded-sm disabled:opacity-40 transition-colors"
+          >
+            {runLabel()}
+          </button>
+          {isRunning && (
+            <button
+              onClick={stopScrape}
+              disabled={stopping}
+              className="px-4 py-2.5 text-sm bg-[#B05252]/80 hover:bg-[#B05252] text-cream rounded-sm disabled:opacity-40 transition-colors flex items-center gap-2 whitespace-nowrap"
+            >
+              {stopping ? (
+                <span className="w-3.5 h-3.5 border border-cream/40 border-t-cream rounded-full animate-spin" />
+              ) : (
+                <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                  <rect x="6" y="6" width="12" height="12" rx="1" />
+                </svg>
+              )}
+              Stop
+            </button>
+          )}
+        </div>
 
         {mode === "custom" && selected.size === 0 && (
           <p className="text-[11px] text-white/25 text-center -mt-3">Select at least one company above.</p>
@@ -467,9 +540,9 @@ export default function ScraperPage() {
         <p className="text-[10px] uppercase tracking-widest text-white/30">Shell reference</p>
         {[
           { label: "Start API server", cmd: "cd scraper && uvicorn main:app --reload" },
-          { label: "All companies — max scrape", cmd: "python3 batch.py --all --max-reviews 20 --max-salaries 50" },
-          { label: "Specific companies", cmd: "python3 batch.py --slugs infosys,tcs,wipro --max-reviews 10 --max-salaries 20" },
-          { label: "Retry failed", cmd: "python3 batch.py --failed --max-reviews 10 --max-salaries 20" },
+          { label: "All companies — max scrape", cmd: "python3 batch.py --all --max-reviews 20 --max-salaries 50 --max-interview-pages 100" },
+          { label: "Specific companies", cmd: "python3 batch.py --slugs infosys,tcs,wipro --max-reviews 10 --max-salaries 20 --max-interview-pages 50" },
+          { label: "Retry failed", cmd: "python3 batch.py --failed --max-reviews 10 --max-salaries 20 --max-interview-pages 50" },
           { label: "Sync to DB", cmd: "python3 pipeline.py" },
         ].map(item => (
           <div key={item.cmd}>

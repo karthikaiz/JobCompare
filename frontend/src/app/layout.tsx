@@ -5,6 +5,7 @@ import { Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { CompareProvider } from "@/context/compare-context";
 import { AuthProvider } from "@/context/auth-context";
+import { ThemeProvider } from "@/context/theme-context";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -38,12 +39,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${geistMono.variable} ${playfair.variable}`}>
-      <body className={`${geistSans.variable} min-h-screen bg-cream font-sans antialiased`}>
-        <AuthProvider>
-          <CompareProvider>
-            {children}
-          </CompareProvider>
-        </AuthProvider>
+      <body className={`${geistSans.variable} min-h-screen bg-cream font-sans antialiased transition-colors duration-300`}>
+        <ThemeProvider>
+          <AuthProvider>
+            <CompareProvider>
+              {children}
+            </CompareProvider>
+          </AuthProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

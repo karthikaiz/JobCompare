@@ -9,8 +9,8 @@
   "website": "https://www.bsnl.co.in/",
   "overall_rating": 3.9000000953674316,
   "work_life_balance": 3.98,
-  "salary_benefits": 3.42,
-  "job_security": 3.98,
+  "salary_benefits": 3.43,
+  "job_security": 3.99,
   "career_growth": 3.24,
   "company_culture": 3.69,
   "reviews": [
@@ -107,136 +107,6 @@
     },
     {
       "title": null,
-      "role": "B Tech Fresher",
-      "location": "Machilipatnam",
-      "rating": 4.0,
-      "pros": "The company is stranded .The work of the company is excellent and it is used to gain the knowledge and huge of risky situvations.And in the company is moving from a old years by the supporting of the teams. And having good supporting teams in the company.According to salarys .The salary don't get in time. But the job secure.And I like the working in telecommunication",
-      "cons": "The growth of career is very slow.But developing knowledge is very fast",
-      "sentiment": "positive",
-      "sentiment_score": 0.936,
-      "is_current_employee": false,
-      "review_date": "2020-09-25",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Apprentice Engineer",
-      "location": "Balaghat",
-      "rating": 5.0,
-      "pros": "It is very usefull for Jobseeker, learning some different things, company policies is very good, you learn and government pay some staypand for students it is good",
-      "cons": "Actually we are study about circuits and to much different things in engineering and we are working and learning in bsnl is totally different because we work in bsnl other department like billing department like TRA i think we are working at external area or department because this department management are all network from bsnl tower",
-      "sentiment": "positive",
-      "sentiment_score": 0.8655,
-      "is_current_employee": false,
-      "review_date": "2022-03-09",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Divisional Engineer",
-      "location": "Bhopal",
-      "rating": 5.0,
-      "pros": "The company gave me an opportunity to serve my country. There was job security along with a lot of learning experience and explore different cultures of the country. Got to learn new and upcoming technologies from experience people and taught them to my subordinates for the greater good of the company and telecom sector. Being a government employee the salary was attractive.",
-      "cons": "Since the company is run by Government of India the talent assessment is not done properly and there are low chance of going to the top if have not been appointed to higher rank.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9432,
-      "is_current_employee": false,
-      "review_date": "2020-04-12",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Civil Sub Divisional Engineer",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Being strategic PSU in telecom sector which serves rural population of india with service motive and not with profit. Also, BSNL is the only telecom organisations which serves the people in difficult times like flood, earthquake, cyclones, etc.,",
-      "cons": "Govt. of India is not supporting BSNL though its own company due to obvious reasons, not allowed to expand in needy times, not supporting financially for its survival and not even allowed to take loan from banks for its developement though BSNL is having lakhs and crores worth of assests.",
-      "sentiment": "negative",
-      "sentiment_score": -0.8262,
-      "is_current_employee": false,
-      "review_date": "2019-10-08",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Junior Telecommunication Officer",
-      "location": "Chennai",
-      "rating": 3.0,
-      "pros": "Had a challenging carrer.could sucessfully accomplish tasks in time. Added many new broadband and FTTH connections, to add up revenue for bsnl.",
-      "cons": "Very diifficult to extract work from DOT deputed to bsnl Non-executives who are union based workers,who are not willing to improve ,revive bsnl from huge losses even though each of them get more than Rs 60000/- salary per month.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4577,
-      "is_current_employee": false,
-      "review_date": "2020-04-21",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "BSNL SDE  executive B group",
-      "location": "Ranchi",
-      "rating": 5.0,
-      "pros": "Company peovided better to his employee than employees returned to company. We have excuse but cannot deny the truth each employee have got opportunity to Work",
-      "cons": "The govt policies leads BSNL and we bound to follow the rules . But heart is full of pain when see the accountability of employee employ getting more than deserving by making comprision to private sector.   Hope bright future of BSNL with it motto service without profit",
-      "sentiment": "positive",
-      "sentiment_score": 0.9161,
-      "is_current_employee": false,
-      "review_date": "2020-01-13",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "TAXATION OFFICER  BHARAT SANCHAR NIGAM LIMITED,  FORMER PLANNING OFFICER ",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "I LIKE NOTHING ABOUT BSNL.I AM A CHARTERED ACCOUNTANT WORKING AS JUNIOR ACCOUNTS OFFICER FROM LAST 4 YEARS WITH BSNL. WORST COMPANY TO WORK WITH. TERRIBLE ACCOUNTS AND VERY BAD WORK CULTURE. AS PER MY EXPERIENCE NEVER JOIN ANY LOSS MAKING PSU IN INDIA. BETTER DO A JOB IN PRIVATE SECTOR IF YOUR ARE HIGLY QUALIFIED THEN OPTING FOR A GOVERNMENT SECTOR. HERE YOUR WORK WILL NEVER BE APPRECIATED AND ALWAYS YOU WILL HAVE TO SUFFER POLITICS FROM OLD UNSKILLED GOVERNMENT OFFICIALS SITTING AT HIGH POSTS DOING NOTHING. TOTAL WASTE OF YOUR PROFESSIONAL DEGREE. NEVER EVER JOIN BSNL AS NO SALARIES COMING ON TIME AND NO JOB SECURITY. LACK OF BASIC FACILITIES IN OFFICE. NO WATER NO ELECTRICITY. BADLY MAINTAINED TOILETS. NEVER EVER JOIN A GOVERNMENT ORGANISATION IF YOU WANT TO ACHIEVE SOMETHING IN LIFE.",
-      "cons": "WORST COMPANY TO WORK WITH.",
-      "sentiment": "negative",
-      "sentiment_score": -0.9821,
-      "is_current_employee": false,
-      "review_date": "2019-09-25",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "TT",
-      "location": null,
-      "rating": 5.0,
-      "pros": "It make the person who I am now.And without it I can’t balance my life",
-      "cons": "According to my view nothing ,but I now I want to take vrs for my salary benefit and want to do some job in any sector since I donnt know computer so well and I am a undergraduate and I am proud that of myself that I have the thing what a higher educated people cannt do .My personality is not to stay home and but to get employed",
-      "sentiment": "positive",
-      "sentiment_score": 0.9282,
-      "is_current_employee": false,
-      "review_date": "2019-12-01",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Its a employee driven government owned company. The more you will work you more you will be satisfied.",
-      "cons": "Promotion i got in 10 trs luckly...working under under qualified and unskilled hurt the most. ITS not absorbed in BSNL rules here ..they dont have any midern management skill to run a corporates. New  Generation Engineers presently highly motivated here.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4005,
-      "is_current_employee": false,
-      "review_date": "2020-05-02",
-      "quality_score": 0.78
-    },
-    {
-      "title": null,
-      "role": "Assistant General Manager",
-      "location": "Dehradun",
-      "rating": 5.0,
-      "pros": "Since it's a government PSU so job security was 100%. Working environment was perfect. Since, stake of the government is there, henceforth company major decisions is solely depends upon the government. \nSalary hike is as per the guidelines, so out of turn promotion one cannot think of",
-      "cons": "Company's growth lies on the government policies apartment from the management",
-      "sentiment": "positive",
-      "sentiment_score": 0.7334,
-      "is_current_employee": false,
-      "review_date": "2022-02-26",
-      "quality_score": 0.78
-    },
-    {
-      "title": null,
       "role": "Telecom Engineer",
       "location": "Kalaburagi",
       "rating": 1.0,
@@ -276,45 +146,6 @@
     },
     {
       "title": null,
-      "role": "Sales Officer",
-      "location": "Srikakulam",
-      "rating": 4.0,
-      "pros": "In this have more work continuesly hundreds of people are coming to that office only one man are see whole office. There is no career growth and job security 4months salary outstanding.PF amount are not given.",
-      "cons": "That company is decent but no job security all most 76000 people are on road 4months salary are out standing",
-      "sentiment": "negative",
-      "sentiment_score": -0.7046,
-      "is_current_employee": false,
-      "review_date": "2020-04-02",
-      "quality_score": 0.76
-    },
-    {
-      "title": null,
-      "role": "Sub Divisional Engineer",
-      "location": "Mumbai Suburban",
-      "rating": 5.0,
-      "pros": "It's a Public Sector Unit, a Government of India Undertaking 🇮🇳.  Recently given VRS in Jan2020 to employees having age 50 years and above.  Nearly 60% of staff has been retired under this scheme.",
-      "cons": "Nothing bad , but the Group C and Dstaff is to be upgraded by time to time training, skills  in all sectors.",
-      "sentiment": "positive",
-      "sentiment_score": 0.2323,
-      "is_current_employee": false,
-      "review_date": "2022-06-25",
-      "quality_score": 0.76
-    },
-    {
-      "title": null,
-      "role": "Deputy General Manager Finance VRS in January 2020",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Government corporate sector. New changes took place in this period. Government corporate, Mobile billing, ERP system for billing and provisioning etc took place in my service. I liked these changes as i learnt much during these activities",
-      "cons": "Nothing. Performance oriented. I liked my job very much. Higher ups gave free hand to execute my role",
-      "sentiment": "positive",
-      "sentiment_score": 0.9022,
-      "is_current_employee": false,
-      "review_date": "2022-06-29",
-      "quality_score": 0.75
-    },
-    {
-      "title": null,
       "role": "Computer Operator",
       "location": "Vijayawada",
       "rating": 1.0,
@@ -324,19 +155,6 @@
       "sentiment_score": -0.9525,
       "is_current_employee": false,
       "review_date": "2023-10-07",
-      "quality_score": 0.71
-    },
-    {
-      "title": null,
-      "role": "Junior Engineer",
-      "location": "Hubballi",
-      "rating": 3.0,
-      "pros": "It's a government enterprise. Trying to provide telecom services to all corners of India. It's providing best MLLN, PRI, FTTH & Broadband service in the country. It is a leader in wired base telecom services in India. I am happy to be part of it.",
-      "cons": "No early updation to new technologies.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7717,
-      "is_current_employee": false,
-      "review_date": "2020-02-15",
       "quality_score": 0.71
     },
     {
@@ -367,58 +185,6 @@
     },
     {
       "title": null,
-      "role": "Private Secretary",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "For a long time I had woked at BSNL. From the very begging there was prospective step of BSNL. Hapilly was working there. I always want the bright future of BSNL being a Govt organisation",
-      "cons": "I dislike for the internal policy of BSNL, which has made BSNL weak.",
-      "sentiment": "negative",
-      "sentiment_score": -0.3182,
-      "is_current_employee": false,
-      "review_date": "2023-01-23",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Deputy General Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Although BSNL had lost market share but not lost his reputation. There is availability of good young officers, through which I have made a good sales team and exceeded revenue targets.",
-      "cons": "There was no scope for facility like, out it turn promotion or financial incentives to deserving officers.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9259,
-      "is_current_employee": false,
-      "review_date": "2020-09-09",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Chief Accounts Officer",
-      "location": "Chandigarh",
-      "rating": 5.0,
-      "pros": "I served in BSNL since 1985 and experienced many changes in my carrier i.e. from clerk to chief Accouns officer and enjoyed full by doing work on many new softwares from time to time",
-      "cons": "I dislike Government decisions which prevents BSNL's growth by non sanctioning new technology projects",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": false,
-      "review_date": "2022-05-28",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Junior Engineer",
-      "location": "Shimla",
-      "rating": 5.0,
-      "pros": "We are upgraded with new technologies and daily operations and ERP issues are solved",
-      "cons": "Due to non payment of salary and  salary uogradation since last 10 years security is there but not happy at present also pay is too low as per my qualifications and job",
-      "sentiment": "negative",
-      "sentiment_score": -0.7182,
-      "is_current_employee": false,
-      "review_date": "2020-03-06",
-      "quality_score": 0.66
-    },
-    {
-      "title": null,
       "role": "Junior Telecom Officer",
       "location": "Hyderabad",
       "rating": 4.0,
@@ -432,71 +198,6 @@
     },
     {
       "title": null,
-      "role": "Technical Assistant",
-      "location": "Aska, Orissa",
-      "rating": 4.0,
-      "pros": "I have learn lot of things in this company, i have more than 10 years working Experience in this company, all staffs are supportive.",
-      "cons": "This company is govt undertaking company, actual ground lavele workers are very hardworking and talented. All things are ok.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6969,
-      "is_current_employee": false,
-      "review_date": "2023-10-12",
-      "quality_score": 0.63
-    },
-    {
-      "title": null,
-      "role": "Computer Operator",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "Good work environment and culture. It is a govt. company. There is a huge space for working and stuff and officers are very helpful and friendly. Company policy are not good for the contractor stuff.",
-      "cons": "Management policy is not good for contractor stuff.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7873,
-      "is_current_employee": false,
-      "review_date": "2020-11-20",
-      "quality_score": 0.63
-    },
-    {
-      "title": null,
-      "role": "Sub Divisional Engineer",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "100 % job security, work very happly with new technology, very co-operative management, BSNL  works for the people satisfaction & best service by impruving mobile towers & technology with less support of Government.",
-      "cons": "highly pressure with low support of some higher officer",
-      "sentiment": "positive",
-      "sentiment_score": 0.8674,
-      "is_current_employee": false,
-      "review_date": "2021-05-04",
-      "quality_score": 0.62
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Overall  good working conditions and career growth is only for people who are keen on learning and grow with the new developments' appraisals are fair good salary hike compared to other corporates,",
-      "cons": "Career growth is slow for the operational cadres ,",
-      "sentiment": "positive",
-      "sentiment_score": 0.93,
-      "is_current_employee": false,
-      "review_date": "2021-02-04",
-      "quality_score": 0.61
-    },
-    {
-      "title": null,
-      "role": "Commercial work",
-      "location": "Bhopal",
-      "rating": 3.0,
-      "pros": "Not supported during lockdown. Not got salary during lockdown. Govt. has approved good salary but we were getting only 8000/9000. So much corruption is there.",
-      "cons": "during lockdown they had not shown any humanity and had eaten our govt sanction salary.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3333,
-      "is_current_employee": false,
-      "review_date": "2021-01-04",
-      "quality_score": 0.6
-    },
-    {
-      "title": null,
       "role": "AGM",
       "location": "Shivamogga",
       "rating": 4.0,
@@ -506,19 +207,6 @@
       "sentiment_score": -0.2732,
       "is_current_employee": false,
       "review_date": "2023-04-15",
-      "quality_score": 0.59
-    },
-    {
-      "title": null,
-      "role": "Former Deputy manager",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Really liked working in BSNL, being a Govt. Company the job was very secure, had good work culture and company policy to a large extent decided by Government.",
-      "cons": "The level playing field for all the players was not same",
-      "sentiment": "positive",
-      "sentiment_score": 0.8674,
-      "is_current_employee": false,
-      "review_date": "2022-01-29",
       "quality_score": 0.59
     },
     {
@@ -546,32 +234,6 @@
       "is_current_employee": false,
       "review_date": "2022-01-16",
       "quality_score": 0.58
-    },
-    {
-      "title": null,
-      "role": "Junior Accounts Officer",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Worki Life Balance, Good Starting Pay Package, !00% Job Security",
-      "cons": "Poor Government setup, Promotions not based on performance but based upon faulty government policies, reservations and litigation, poor management of Human resource and under-utilization of available resources.",
-      "sentiment": "negative",
-      "sentiment_score": -0.8478,
-      "is_current_employee": false,
-      "review_date": "2020-02-27",
-      "quality_score": 0.57
-    },
-    {
-      "title": null,
-      "role": "Customer Service",
-      "location": "Charminar, Hyderabad",
-      "rating": 5.0,
-      "pros": "Good work environment and culture. Teammates are supportive and the management is transparent.",
-      "cons": "There is a lot of politics and the management doesn't address our issues. On the job training is not given to new joiners.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2020-10-05",
-      "quality_score": 0.56
     },
     {
       "title": null,
@@ -653,45 +315,6 @@
     },
     {
       "title": null,
-      "role": "Assistant General Manager",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Assured job security ,work culture as per PSU,management and company policy is helpful to grow & self satisfaction is also there.",
-      "cons": "Nothing is disliked in my tenure of 35 yrs 7 months.",
-      "sentiment": "positive",
-      "sentiment_score": 0.897,
-      "is_current_employee": false,
-      "review_date": "2021-11-14",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
-      "role": "Bsnl temporary je ",
-      "location": "Pattukkottai",
-      "rating": 4.0,
-      "pros": "I support 100% in work for Bsnl on full lockdown period",
-      "cons": "Iam contract labour for bsnl.. now all r  our from office.. ur not working here..  . That way am more worried",
-      "sentiment": "positive",
-      "sentiment_score": 0.0534,
-      "is_current_employee": false,
-      "review_date": "2020-06-18",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
-      "role": "Plsql Developer",
-      "location": null,
-      "rating": 4.0,
-      "pros": "Overall good environment for employees.Supportive staff,work life balance is good.",
-      "cons": "It is a government office although this is good from other government office's. Skill development is less, this thing I dislike most.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7269,
-      "is_current_employee": false,
-      "review_date": "2020-04-20",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
       "role": "CAO FINANCE",
       "location": "Rajkot",
       "rating": 3.0,
@@ -744,19 +367,6 @@
     },
     {
       "title": null,
-      "role": "Intern",
-      "location": "Visakhapatnam",
-      "rating": 5.0,
-      "pros": "It was very nice and the staff were experienced and made sure we understood the methods.",
-      "cons": "As it is government service the maintenance of the work place not that great",
-      "sentiment": "positive",
-      "sentiment_score": 0.273,
-      "is_current_employee": false,
-      "review_date": "2024-11-28",
-      "quality_score": 0.5
-    },
-    {
-      "title": null,
       "role": "Computer Office Assistant",
       "location": "Chhatrapati Sambhajinagar",
       "rating": 4.0,
@@ -783,45 +393,6 @@
     },
     {
       "title": null,
-      "role": "Apprentice",
-      "location": "Jabalpur",
-      "rating": 5.0,
-      "pros": "It was fantastic and learning experience..I was learned all practical work..nd most important think that is my personality skills, communication skills...there all trainee facilities are very good...I'm happy",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.8648,
-      "is_current_employee": false,
-      "review_date": "2019-01-29",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Accountant ",
-      "location": "Choolaimedu",
-      "rating": 5.0,
-      "pros": "Life is not only about doing work and get pai . it will give me learn more things during the lockdown period",
-      "cons": "work timingbis not comfort to me",
-      "sentiment": "negative",
-      "sentiment_score": -0.2755,
-      "is_current_employee": false,
-      "review_date": "2020-11-05",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Tower Technician",
-      "location": "Telangana",
-      "rating": 5.0,
-      "pros": "I hope I have a future ahead",
-      "cons": "I'm working as  tower technician in bsnl but they r giving 7 k per month so I'm not happy with that",
-      "sentiment": "negative",
-      "sentiment_score": -0.0881,
-      "is_current_employee": false,
-      "review_date": "2020-10-05",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
       "role": "Office Assistant",
       "location": "Raipur chhatisgarh",
       "rating": 5.0,
@@ -844,19 +415,6 @@
       "sentiment_score": 0.6187,
       "is_current_employee": false,
       "review_date": "2022-04-20",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
-      "role": "Customer Relation Officer",
-      "location": "Guntur",
-      "rating": 1.0,
-      "pros": "Nothing support from our company in COVID-19 including duty timing and time to time paying salaries",
-      "cons": "Not good in working environment and there is a clumsy culture",
-      "sentiment": "negative",
-      "sentiment_score": -0.5667,
-      "is_current_employee": false,
-      "review_date": "2020-06-11",
       "quality_score": 0.47
     },
     {
@@ -991,32 +549,6 @@
     },
     {
       "title": null,
-      "role": "Apprentice",
-      "location": "Vidisha, bhopal,sagar",
-      "rating": 1.0,
-      "pros": "I haven't any job so please if any tender in bsnl so personally inform me",
-      "cons": "Payment not come in time even payment not done now",
-      "sentiment": "positive",
-      "sentiment_score": 0.4572,
-      "is_current_employee": false,
-      "review_date": "2021-01-11",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
-      "role": "Store Supervisor",
-      "location": "Fafadih near ganj thana raipur CG",
-      "rating": 1.0,
-      "pros": "Seniors were good in behaviour with their employees",
-      "cons": "Salary never get credited in time. Contracter always delays the salary of workers for atleast 4-5 months.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1999,
-      "is_current_employee": false,
-      "review_date": "2022-11-14",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
       "role": "Junior Accounts Officer",
       "location": "Anantapur",
       "rating": 2.0,
@@ -1052,19 +584,6 @@
       "sentiment_score": 0.3891,
       "is_current_employee": false,
       "review_date": "2022-04-12",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Server Technical",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "Good work environment and culture.company salary hike and bonus every year.",
-      "cons": "There is a lot of politics and the management doesnot address our issues.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7506,
-      "is_current_employee": false,
-      "review_date": "2021-04-12",
       "quality_score": 0.44
     },
     {
@@ -1134,45 +653,6 @@
     },
     {
       "title": null,
-      "role": "Sub Divisional Engineer",
-      "location": "Kolkata",
-      "rating": 2.0,
-      "pros": "good policies but poor implementation",
-      "cons": "no career progress, poor HR , no regulatory mechanism.... heaven for non performers. Most unaccountable department under GOI",
-      "sentiment": "negative",
-      "sentiment_score": -0.8885,
-      "is_current_employee": false,
-      "review_date": "2021-04-09",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Deputy General Manager",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "supporting very well and work culture and atmosphere following all precautainoray measurements.",
-      "cons": "payment to vendor and other contractor to be done in time",
-      "sentiment": "positive",
-      "sentiment_score": 0.6478,
-      "is_current_employee": false,
-      "review_date": "2020-10-07",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Desktop Technical Support Engineer",
-      "location": "Satna",
-      "rating": 5.0,
-      "pros": "I'm supporting through covid 19 Lockdown by daily office work, because my office is nearest me residency",
-      "cons": "Workl life balance is not good",
-      "sentiment": "positive",
-      "sentiment_score": 0.1265,
-      "is_current_employee": false,
-      "review_date": "2020-11-12",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
       "role": "JTO",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -1212,19 +692,6 @@
     },
     {
       "title": null,
-      "role": "Job Contract Labour",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Job was good but no future is there for job Contract Labours",
-      "cons": "The payment of the JCL workers was not in time",
-      "sentiment": "negative",
-      "sentiment_score": -0.2144,
-      "is_current_employee": false,
-      "review_date": "2021-08-17",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
       "role": "Apprentice",
       "location": "Jabalpur",
       "rating": 5.0,
@@ -1260,32 +727,6 @@
       "sentiment_score": -0.3309,
       "is_current_employee": false,
       "review_date": "2022-06-29",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Computer Operator/Data Entry Operator",
-      "location": "Nizamabad",
-      "rating": 4.0,
-      "pros": "Sim Sales and service to th customer and telephone bils received from the customers etc",
-      "cons": "Customer doesn't happy for bsnl network",
-      "sentiment": "negative",
-      "sentiment_score": -0.4585,
-      "is_current_employee": false,
-      "review_date": "2021-12-15",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "JE",
-      "location": "Chandigarh",
-      "rating": 5.0,
-      "pros": "I am broadband je and I helped the people to work from home and Kids do their online classes",
-      "cons": "Be positive",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": false,
-      "review_date": "2020-06-12",
       "quality_score": 0.41
     },
     {
@@ -1394,19 +835,6 @@
     },
     {
       "title": null,
-      "role": "Assistant Director",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Take care, work from home.",
-      "cons": "They can post you anywhere within India. We have to manage for some years.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2020-06-10",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
       "role": "JTO",
       "location": "Mumbai",
       "rating": 1.0,
@@ -1507,19 +935,6 @@
       "sentiment_score": -0.3578,
       "is_current_employee": false,
       "review_date": "2021-10-23",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "C.S.A",
-      "location": "Guntakal",
-      "rating": 1.0,
-      "pros": "No not at all",
-      "cons": "I dont like to work where i didnt get my salary by monthly",
-      "sentiment": "negative",
-      "sentiment_score": -0.5122,
-      "is_current_employee": false,
-      "review_date": "2020-09-22",
       "quality_score": 0.37
     },
     {
@@ -1745,32 +1160,6 @@
     },
     {
       "title": null,
-      "role": "JTO",
-      "location": "Hisar",
-      "rating": 1.0,
-      "pros": "Late decisions on every issue",
-      "cons": "Lack of active officers not working for the company's growth",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": false,
-      "review_date": "2020-10-02",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Junior Telecom Officer",
-      "location": "Chandigarh",
-      "rating": 5.0,
-      "pros": "It provides great platform and environment for learning.",
-      "cons": "Now its tough to survive without 4G.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": false,
-      "review_date": "2020-09-18",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
       "role": "Assistant General Manager",
       "location": "Hyderabad",
       "rating": 5.0,
@@ -1953,45 +1342,6 @@
     },
     {
       "title": null,
-      "role": "Hardware & Networking Engineer",
-      "location": "Noida sec 62",
-      "rating": 5.0,
-      "pros": "Bsnl management system is very good. And work place and environment are also gd.",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4927,
-      "is_current_employee": false,
-      "review_date": "2021-08-12",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Network Engineer",
-      "location": "Chennsi",
-      "rating": 2.0,
-      "pros": "The employers are so firendly .",
-      "cons": "No learning at all .Just like our ollege.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0094,
-      "is_current_employee": false,
-      "review_date": "2022-11-29",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Production Engineer, Production & Material Planning",
-      "location": "Wayanad",
-      "rating": 2.0,
-      "pros": "Good work environment. Teammates are supportive and the management is transparent.",
-      "cons": "No more problems.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6653,
-      "is_current_employee": false,
-      "review_date": "2021-03-24",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Telecom Officer",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -2170,45 +1520,6 @@
       "sentiment_score": 0.8555,
       "is_current_employee": false,
       "review_date": "2024-09-27",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Trainee",
-      "location": "Kalyani",
-      "rating": 5.0,
-      "pros": "There were good colleagues who helped me throughout.",
-      "cons": "There is nothing I disliked.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6319,
-      "is_current_employee": false,
-      "review_date": "2021-09-20",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Trainee",
-      "location": "Chennai",
-      "rating": 3.0,
-      "pros": "trainers were not so strict they were chill and explained stuffs clearly",
-      "cons": "nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2023-07-28",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Executive",
-      "location": "Visakhapatnam",
-      "rating": 3.0,
-      "pros": "Company is good but, it comes to  work iam not satisfied with that.",
-      "cons": "",
-      "sentiment": "negative",
-      "sentiment_score": -0.2612,
-      "is_current_employee": false,
-      "review_date": "2021-06-05",
       "quality_score": 0.33
     },
     {
@@ -2564,19 +1875,6 @@
     },
     {
       "title": null,
-      "role": "Junior Engineer",
-      "location": "Bihar",
-      "rating": 3.0,
-      "pros": "Not any supportive and cooperative staff.",
-      "cons": "Not any ruling this company",
-      "sentiment": "negative",
-      "sentiment_score": -0.2235,
-      "is_current_employee": false,
-      "review_date": "2020-09-23",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
       "role": "Server Engineer",
       "location": "Srinagar",
       "rating": 4.0,
@@ -2807,45 +2105,6 @@
       "sentiment_score": -0.4959,
       "is_current_employee": false,
       "review_date": "2022-04-20",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "broadband technician who can resolved all solution of broadband costomers",
-      "location": "Jaipur",
-      "rating": 5.0,
-      "pros": "I want to finish departmental politics from here.",
-      "cons": "Departmental politics",
-      "sentiment": "positive",
-      "sentiment_score": 0.0772,
-      "is_current_employee": false,
-      "review_date": "2021-08-14",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Junior Telecom Officer",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Job security and Intersting Technology",
-      "cons": "Policy making is very complex",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2020-12-20",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Sub Divisional Engineer",
-      "location": "Guntur",
-      "rating": 5.0,
-      "pros": "My company supporting me very much in pandemic situation",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2020-10-02",
       "quality_score": 0.3
     },
     {
@@ -3093,84 +2352,6 @@
       "sentiment_score": -0.296,
       "is_current_employee": true,
       "review_date": "2024-01-26",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "CAR Driver",
-      "location": "Kanpur Nagar",
-      "rating": 5.0,
-      "pros": "Good working is banl mobile",
-      "cons": "Nice job best work",
-      "sentiment": "positive",
-      "sentiment_score": 0.872,
-      "is_current_employee": false,
-      "review_date": "2021-10-07",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Trainee",
-      "location": "Kalyani",
-      "rating": 5.0,
-      "pros": "They give good transportation",
-      "cons": "I didn't come across any",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-07-08",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager -Site HR (Hrbp)",
-      "location": "Gulabarag",
-      "rating": 2.0,
-      "pros": "Good working involved to all working process",
-      "cons": "2 years",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2021-04-04",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Computer Operator",
-      "location": "Patna",
-      "rating": 5.0,
-      "pros": "Good behaviour in officer",
-      "cons": "I Dislike about us management",
-      "sentiment": "positive",
-      "sentiment_score": 0.0772,
-      "is_current_employee": false,
-      "review_date": "2020-03-09",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Junior Engineer",
-      "location": "Naidupet",
-      "rating": 5.0,
-      "pros": "Good work experience and culture.",
-      "cons": "Delay in medical bills",
-      "sentiment": "positive",
-      "sentiment_score": 0.1531,
-      "is_current_employee": false,
-      "review_date": "2020-10-02",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Service Maintenance Supervisor",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "More knowledge and skills development",
-      "cons": "Nothing enjoying my work",
-      "sentiment": "negative",
-      "sentiment_score": -0.4168,
-      "is_current_employee": false,
-      "review_date": "2020-10-05",
       "quality_score": 0.29
     },
     {
@@ -3522,84 +2703,6 @@
       "sentiment_score": 0.5994,
       "is_current_employee": false,
       "review_date": "2021-04-03",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Relationship Executive",
-      "location": "mahbuba nagar",
-      "rating": 1.0,
-      "pros": "bad experience",
-      "cons": "behaviour of staff members and co.",
-      "sentiment": "negative",
-      "sentiment_score": -0.5423,
-      "is_current_employee": false,
-      "review_date": "2022-02-27",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Intern",
-      "location": "Vijayawada",
-      "rating": 5.0,
-      "pros": "Learning new things on hands on experience",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-07-26",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "iot",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Good internship",
-      "cons": "nothing I disliked everything is good",
-      "sentiment": "positive",
-      "sentiment_score": 0.794,
-      "is_current_employee": false,
-      "review_date": "2022-04-11",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Bsnl",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Job security is good",
-      "cons": "Stuff Is not there",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2021-01-20",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Trainee",
-      "location": "Vis",
-      "rating": 4.0,
-      "pros": "They treat equally and support to each other",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.6597,
-      "is_current_employee": false,
-      "review_date": "2021-01-07",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Site Engineer/Site Supervisor",
-      "location": "Locha aligarh",
-      "rating": 4.0,
-      "pros": "Behavior of senior employees",
-      "cons": "Wants 24 hours availability",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-08-20",
       "quality_score": 0.28
     },
     {
@@ -3977,58 +3080,6 @@
       "sentiment_score": 0.6229,
       "is_current_employee": true,
       "review_date": "2024-04-01",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Computer Operator",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good work culture",
-      "cons": "Not giving salary properly",
-      "sentiment": "positive",
-      "sentiment_score": 0.2177,
-      "is_current_employee": false,
-      "review_date": "2021-08-03",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Customer Service Associate",
-      "location": "Guntur",
-      "rating": 1.0,
-      "pros": "Very bad",
-      "cons": "Very bad culture. Salary issues",
-      "sentiment": "negative",
-      "sentiment_score": -0.8338,
-      "is_current_employee": false,
-      "review_date": "2022-11-01",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Hardware & Networking Engineer",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "I like to work on the company",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": true,
-      "review_date": "2025-12-09",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Trainee",
-      "location": "Jaipur",
-      "rating": 5.0,
-      "pros": "good company",
-      "cons": "all ok nothing for that",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2023-02-23",
       "quality_score": 0.27
     },
     {
@@ -4605,97 +3656,6 @@
     },
     {
       "title": null,
-      "role": "Broadband Technician",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Facilities provided, work culture, economical balance.",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-03-09",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Marketing Manager",
-      "location": "Bettiah",
-      "rating": 5.0,
-      "pros": "I like everything",
-      "cons": "I liked everything",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2021-09-28",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Job Security\nHighly secured",
-      "cons": "career growth",
-      "sentiment": "positive",
-      "sentiment_score": 0.8051,
-      "is_current_employee": false,
-      "review_date": "2021-08-09",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Junior Engineer",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "Average",
-      "cons": "Career growth, salary and benifits",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2022-02-22",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Network Engineer",
-      "location": null,
-      "rating": 4.0,
-      "pros": "Jobs is better",
-      "cons": "GOOd for jobs",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2022-10-23",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Driver",
-      "location": "Gm finnance",
-      "rating": 5.0,
-      "pros": "Very good so nice",
-      "cons": "Driver job",
-      "sentiment": "positive",
-      "sentiment_score": 0.7986,
-      "is_current_employee": false,
-      "review_date": "2021-01-01",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Customer Service",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Customer service job very excellent",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6115,
-      "is_current_employee": false,
-      "review_date": "2023-06-08",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "Junior Engineer",
       "location": "Shillong",
       "rating": 1.0,
@@ -5242,71 +4202,6 @@
     },
     {
       "title": null,
-      "role": "Quality Analyst",
-      "location": "Jhunjhunun",
-      "rating": 5.0,
-      "pros": "Good working environment",
-      "cons": "No comments",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": true,
-      "review_date": "2022-05-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Management Trainee",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Good environment",
-      "cons": "As such nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-07-19",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Intern",
-      "location": "Bhubaneswar",
-      "rating": 4.0,
-      "pros": "It's being a excellent.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.5719,
-      "is_current_employee": false,
-      "review_date": "2021-10-07",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Trainee",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Work culture is good",
-      "cons": "Travel",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-03-27",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Jr. Accounts and Finance Officer",
-      "location": "Vns",
-      "rating": 4.0,
-      "pros": "Job security, work life balance",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2021-04-08",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "Optical Fiber Splicer",
       "location": "Kota",
       "rating": 3.0,
@@ -5489,45 +4384,6 @@
     },
     {
       "title": null,
-      "role": "Apprentice Trainee",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "very good",
-      "cons": "very good",
-      "sentiment": "positive",
-      "sentiment_score": 0.7684,
-      "is_current_employee": false,
-      "review_date": "2022-03-31",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Optical Fiber Technician",
-      "location": "Kerala",
-      "rating": 3.0,
-      "pros": "Good work",
-      "cons": "Management issue",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2021-08-08",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Telecommunications Technician,splicing,otdr,ftth ,testing ,cable Sub Assembly",
-      "location": "Stambhalagaruvu, Guntur",
-      "rating": 5.0,
-      "pros": "Career Growth & Opportunities",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2021-07-31",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
       "role": "Telecommunication Technician",
       "location": "Dibrugarh",
       "rating": 5.0,
@@ -5628,45 +4484,6 @@
       "sentiment_score": 0.34,
       "is_current_employee": false,
       "review_date": "2020-07-04",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Administration Executive",
-      "location": "Kiitsquare",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "Salary issue",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2021-03-30",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Call Center Executive, Admin",
-      "location": "Anyplace",
-      "rating": 4.0,
-      "pros": "Working culture",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-04-23",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Varanasi",
-      "rating": 5.0,
-      "pros": "Work environment",
-      "cons": "Salary",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2019-02-18",
       "quality_score": 0.23
     },
     {
@@ -5788,45 +4605,6 @@
     },
     {
       "title": null,
-      "role": "Sales & Marketing",
-      "location": "Civil lines",
-      "rating": 5.0,
-      "pros": "Seles marketting",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-11-02",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Jabalpur",
-      "location": "Yrs",
-      "rating": 4.0,
-      "pros": "Yes",
-      "cons": "Yes",
-      "sentiment": "positive",
-      "sentiment_score": 0.6597,
-      "is_current_employee": false,
-      "review_date": "2021-05-03",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Business Development",
-      "location": "Patna",
-      "rating": 5.0,
-      "pros": "Hii",
-      "cons": "Hii",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-05-05",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
       "role": "Optical Fiber Technician",
       "location": "Pune",
       "rating": 2.0,
@@ -5918,6 +4696,19 @@
     },
     {
       "title": null,
+      "role": "Supervisor and Technician",
+      "location": "India",
+      "rating": 5.0,
+      "pros": "",
+      "cons": "Nothing",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-04-11",
+      "quality_score": 0.21
+    },
+    {
+      "title": null,
       "role": "Calling Agent",
       "location": "Kolkata",
       "rating": 4.0,
@@ -5927,58 +4718,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": true,
       "review_date": "2025-09-12",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Apprentice",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Hh",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2019-09-16",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Management Trainee",
-      "location": "SunderNagar Himachal Pradesh",
-      "rating": 4.0,
-      "pros": "Yes",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2021-11-14",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Office Assistant",
-      "location": "Thrissur",
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2021-06-26",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Customer Service Executive",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2026-03-14",
       "quality_score": 0.21
     }
   ],
@@ -6184,28 +4923,731 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T21:22:23.312603+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 70 employees (99% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 27 employees (96% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "International/On-site exposure",
+      "details": "Reported by 4 employees (80% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Office cab/shuttle",
+      "details": "Reported by 26 employees (96% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 19 employees (95% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 10 employees (91% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Free meal",
+      "details": "Reported by 6 employees (86% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 34 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": "Back Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "about qualification",
+          "answer": null
+        },
+        {
+          "question": "what you join these company",
+          "answer": "I want to join this company to leverage my skills, contribute to its growth, and develop professionally in a dynamic environment.I admire the company's commitment to innovation and excellence, which aligns with my career goals.The opportunity to work with a talented team excites me, as collaboration fosters personal and professional growth.I am impressed by the company's values and culture, which emphasize integrity and customer satisfaction.Joining this company would allow me to utilize my skills in data management and customer service effectively."
+        },
+        {
+          "question": "related family details",
+          "answer": null
+        },
+        {
+          "question": "and general question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 01:26:02"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Implement the Least Recently Used (LRU) Cache.",
+          "answer": "Implementing an LRU Cache involves storing key-value pairs with eviction of the least recently used item when capacity is exceeded.Use a hash map for O(1) access to cache items.Use a doubly linked list to maintain the order of usage.On access, move the accessed item to the front of the list.On insertion, if the cache exceeds capacity, remove the tail of the list.Example: For a cache of capacity 2, accessing keys 1, 2, then 1 again, will keep 1 and 2 in cache."
+        },
+        {
+          "question": "What is the process for implementing a linked list and performing traversals on it?",
+          "answer": "Implementing a linked list involves creating nodes and defining methods for insertion, deletion, and traversal.Define a Node class with data and a pointer to the next node.Create a LinkedList class to manage the nodes.Implement methods for insertion (at head, tail, or specific position).Implement a method for deletion (by value or position).Create a traversal method to visit each node and print its data."
+        }
+      ],
+      "review_date": "2025-07-07 17:31:34"
+    },
+    {
+      "role": "Customer Support Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What role have hobbies played in your life?",
+          "answer": null
+        },
+        {
+          "question": "Our interaction with people",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-06 16:55:55"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": "D kyc",
+      "questions": [],
+      "review_date": "2024-12-01 22:12:36"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-18 17:38:53"
+    },
+    {
+      "role": "Office Assistant",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 12:26:49"
+    },
+    {
+      "role": "Area Manager",
+      "difficulty": null,
+      "experience": "positive",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-16 16:38:08"
+    },
+    {
+      "role": "Technical Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your expected salary?",
+          "answer": "I expect a salary that reflects my skills, experience, and the industry standards for a Technical Specialist role.Research industry standards: For example, Glassdoor or Payscale can provide insights into average salaries for similar roles.Consider my experience: With over 5 years in technical support, I bring valuable expertise that justifies a competitive salary.Location matters: Salaries can vary significantly based on geographic location; for instance, tech roles in Silicon Valley often pay more.Be open to negotiation: I am flexible and willing to discuss a salary range that aligns with the company's budget and my qualifications."
+        },
+        {
+          "question": "How much salary",
+          "answer": "Salary expectations depend on experience, industry standards, and job responsibilities.Research industry standards: Use websites like Glassdoor or Payscale to find average salaries for similar roles.Consider your experience: If you have specialized skills or years of experience, you may justify a higher salary.Location matters: Salaries can vary significantly based on geographic location; for example, tech jobs in Silicon Valley often pay more.Be prepared to negotiate: Understand your worth and be ready to discuss your salary expectations during the interview."
+        },
+        {
+          "question": "What is your job experience?",
+          "answer": null
+        },
+        {
+          "question": "My job experience 6 year 8 month",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-02 22:05:18"
+    },
+    {
+      "role": "Data Management Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-07-01 19:35:01"
+    },
+    {
+      "role": "Intern",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-02 11:43:58"
+    },
+    {
+      "role": "Back Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "about qualification",
+          "answer": null
+        },
+        {
+          "question": "what you join these company",
+          "answer": "I want to join this company to leverage my skills, contribute to its growth, and develop professionally in a dynamic environment.I admire the company's commitment to innovation and excellence, which aligns with my career goals.The opportunity to work with a talented team excites me, as collaboration fosters personal and professional growth.I am impressed by the company's values and culture, which emphasize integrity and customer satisfaction.Joining this company would allow me to utilize my skills in data management and customer service effectively."
+        },
+        {
+          "question": "related family details",
+          "answer": null
+        },
+        {
+          "question": "and general question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 01:26:02"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Implement the Least Recently Used (LRU) Cache.",
+          "answer": "Implementing an LRU Cache involves storing key-value pairs with eviction of the least recently used item when capacity is exceeded.Use a hash map for O(1) access to cache items.Use a doubly linked list to maintain the order of usage.On access, move the accessed item to the front of the list.On insertion, if the cache exceeds capacity, remove the tail of the list.Example: For a cache of capacity 2, accessing keys 1, 2, then 1 again, will keep 1 and 2 in cache."
+        },
+        {
+          "question": "What is the process for implementing a linked list and performing traversals on it?",
+          "answer": "Implementing a linked list involves creating nodes and defining methods for insertion, deletion, and traversal.Define a Node class with data and a pointer to the next node.Create a LinkedList class to manage the nodes.Implement methods for insertion (at head, tail, or specific position).Implement a method for deletion (by value or position).Create a traversal method to visit each node and print its data."
+        }
+      ],
+      "review_date": "2025-07-07 17:31:34"
+    },
+    {
+      "role": "Customer Support Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What role have hobbies played in your life?",
+          "answer": null
+        },
+        {
+          "question": "Our interaction with people",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-06 16:55:55"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": "D kyc",
+      "questions": [],
+      "review_date": "2024-12-01 22:12:36"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-18 17:38:53"
+    },
+    {
+      "role": "Office Assistant",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 12:26:49"
+    },
+    {
+      "role": "Area Manager",
+      "difficulty": null,
+      "experience": "positive",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-16 16:38:08"
+    },
+    {
+      "role": "Technical Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your expected salary?",
+          "answer": "I expect a salary that reflects my skills, experience, and the industry standards for a Technical Specialist role.Research industry standards: For example, Glassdoor or Payscale can provide insights into average salaries for similar roles.Consider my experience: With over 5 years in technical support, I bring valuable expertise that justifies a competitive salary.Location matters: Salaries can vary significantly based on geographic location; for instance, tech roles in Silicon Valley often pay more.Be open to negotiation: I am flexible and willing to discuss a salary range that aligns with the company's budget and my qualifications."
+        },
+        {
+          "question": "How much salary",
+          "answer": "Salary expectations depend on experience, industry standards, and job responsibilities.Research industry standards: Use websites like Glassdoor or Payscale to find average salaries for similar roles.Consider your experience: If you have specialized skills or years of experience, you may justify a higher salary.Location matters: Salaries can vary significantly based on geographic location; for example, tech jobs in Silicon Valley often pay more.Be prepared to negotiate: Understand your worth and be ready to discuss your salary expectations during the interview."
+        },
+        {
+          "question": "What is your job experience?",
+          "answer": null
+        },
+        {
+          "question": "My job experience 6 year 8 month",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-02 22:05:18"
+    },
+    {
+      "role": "Data Management Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-07-01 19:35:01"
+    },
+    {
+      "role": "Intern",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-02 11:43:58"
+    },
+    {
+      "role": "Back Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "about qualification",
+          "answer": null
+        },
+        {
+          "question": "what you join these company",
+          "answer": "I want to join this company to leverage my skills, contribute to its growth, and develop professionally in a dynamic environment.I admire the company's commitment to innovation and excellence, which aligns with my career goals.The opportunity to work with a talented team excites me, as collaboration fosters personal and professional growth.I am impressed by the company's values and culture, which emphasize integrity and customer satisfaction.Joining this company would allow me to utilize my skills in data management and customer service effectively."
+        },
+        {
+          "question": "related family details",
+          "answer": null
+        },
+        {
+          "question": "and general question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 01:26:02"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Implement the Least Recently Used (LRU) Cache.",
+          "answer": "Implementing an LRU Cache involves storing key-value pairs with eviction of the least recently used item when capacity is exceeded.Use a hash map for O(1) access to cache items.Use a doubly linked list to maintain the order of usage.On access, move the accessed item to the front of the list.On insertion, if the cache exceeds capacity, remove the tail of the list.Example: For a cache of capacity 2, accessing keys 1, 2, then 1 again, will keep 1 and 2 in cache."
+        },
+        {
+          "question": "What is the process for implementing a linked list and performing traversals on it?",
+          "answer": "Implementing a linked list involves creating nodes and defining methods for insertion, deletion, and traversal.Define a Node class with data and a pointer to the next node.Create a LinkedList class to manage the nodes.Implement methods for insertion (at head, tail, or specific position).Implement a method for deletion (by value or position).Create a traversal method to visit each node and print its data."
+        }
+      ],
+      "review_date": "2025-07-07 17:31:34"
+    },
+    {
+      "role": "Customer Support Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What role have hobbies played in your life?",
+          "answer": null
+        },
+        {
+          "question": "Our interaction with people",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-06 16:55:55"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": "D kyc",
+      "questions": [],
+      "review_date": "2024-12-01 22:12:36"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-18 17:38:53"
+    },
+    {
+      "role": "Office Assistant",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 12:26:49"
+    },
+    {
+      "role": "Area Manager",
+      "difficulty": null,
+      "experience": "positive",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-16 16:38:08"
+    },
+    {
+      "role": "Technical Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your expected salary?",
+          "answer": "I expect a salary that reflects my skills, experience, and the industry standards for a Technical Specialist role.Research industry standards: For example, Glassdoor or Payscale can provide insights into average salaries for similar roles.Consider my experience: With over 5 years in technical support, I bring valuable expertise that justifies a competitive salary.Location matters: Salaries can vary significantly based on geographic location; for instance, tech roles in Silicon Valley often pay more.Be open to negotiation: I am flexible and willing to discuss a salary range that aligns with the company's budget and my qualifications."
+        },
+        {
+          "question": "How much salary",
+          "answer": "Salary expectations depend on experience, industry standards, and job responsibilities.Research industry standards: Use websites like Glassdoor or Payscale to find average salaries for similar roles.Consider your experience: If you have specialized skills or years of experience, you may justify a higher salary.Location matters: Salaries can vary significantly based on geographic location; for example, tech jobs in Silicon Valley often pay more.Be prepared to negotiate: Understand your worth and be ready to discuss your salary expectations during the interview."
+        },
+        {
+          "question": "What is your job experience?",
+          "answer": null
+        },
+        {
+          "question": "My job experience 6 year 8 month",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-02 22:05:18"
+    },
+    {
+      "role": "Data Management Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-07-01 19:35:01"
+    },
+    {
+      "role": "Intern",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-02 11:43:58"
+    },
+    {
+      "role": "Back Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "about qualification",
+          "answer": null
+        },
+        {
+          "question": "what you join these company",
+          "answer": "I want to join this company to leverage my skills, contribute to its growth, and develop professionally in a dynamic environment.I admire the company's commitment to innovation and excellence, which aligns with my career goals.The opportunity to work with a talented team excites me, as collaboration fosters personal and professional growth.I am impressed by the company's values and culture, which emphasize integrity and customer satisfaction.Joining this company would allow me to utilize my skills in data management and customer service effectively."
+        },
+        {
+          "question": "related family details",
+          "answer": null
+        },
+        {
+          "question": "and general question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 01:26:02"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Implement the Least Recently Used (LRU) Cache.",
+          "answer": "Implementing an LRU Cache involves storing key-value pairs with eviction of the least recently used item when capacity is exceeded.Use a hash map for O(1) access to cache items.Use a doubly linked list to maintain the order of usage.On access, move the accessed item to the front of the list.On insertion, if the cache exceeds capacity, remove the tail of the list.Example: For a cache of capacity 2, accessing keys 1, 2, then 1 again, will keep 1 and 2 in cache."
+        },
+        {
+          "question": "What is the process for implementing a linked list and performing traversals on it?",
+          "answer": "Implementing a linked list involves creating nodes and defining methods for insertion, deletion, and traversal.Define a Node class with data and a pointer to the next node.Create a LinkedList class to manage the nodes.Implement methods for insertion (at head, tail, or specific position).Implement a method for deletion (by value or position).Create a traversal method to visit each node and print its data."
+        }
+      ],
+      "review_date": "2025-07-07 17:31:34"
+    },
+    {
+      "role": "Customer Support Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What role have hobbies played in your life?",
+          "answer": null
+        },
+        {
+          "question": "Our interaction with people",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-06 16:55:55"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": "D kyc",
+      "questions": [],
+      "review_date": "2024-12-01 22:12:36"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-18 17:38:53"
+    },
+    {
+      "role": "Office Assistant",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 12:26:49"
+    },
+    {
+      "role": "Area Manager",
+      "difficulty": null,
+      "experience": "positive",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-16 16:38:08"
+    },
+    {
+      "role": "Technical Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your expected salary?",
+          "answer": "I expect a salary that reflects my skills, experience, and the industry standards for a Technical Specialist role.Research industry standards: For example, Glassdoor or Payscale can provide insights into average salaries for similar roles.Consider my experience: With over 5 years in technical support, I bring valuable expertise that justifies a competitive salary.Location matters: Salaries can vary significantly based on geographic location; for instance, tech roles in Silicon Valley often pay more.Be open to negotiation: I am flexible and willing to discuss a salary range that aligns with the company's budget and my qualifications."
+        },
+        {
+          "question": "How much salary",
+          "answer": "Salary expectations depend on experience, industry standards, and job responsibilities.Research industry standards: Use websites like Glassdoor or Payscale to find average salaries for similar roles.Consider your experience: If you have specialized skills or years of experience, you may justify a higher salary.Location matters: Salaries can vary significantly based on geographic location; for example, tech jobs in Silicon Valley often pay more.Be prepared to negotiate: Understand your worth and be ready to discuss your salary expectations during the interview."
+        },
+        {
+          "question": "What is your job experience?",
+          "answer": null
+        },
+        {
+          "question": "My job experience 6 year 8 month",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-02 22:05:18"
+    },
+    {
+      "role": "Data Management Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-07-01 19:35:01"
+    },
+    {
+      "role": "Intern",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-02 11:43:58"
+    },
+    {
+      "role": "Back Office Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "about qualification",
+          "answer": null
+        },
+        {
+          "question": "what you join these company",
+          "answer": "I want to join this company to leverage my skills, contribute to its growth, and develop professionally in a dynamic environment.I admire the company's commitment to innovation and excellence, which aligns with my career goals.The opportunity to work with a talented team excites me, as collaboration fosters personal and professional growth.I am impressed by the company's values and culture, which emphasize integrity and customer satisfaction.Joining this company would allow me to utilize my skills in data management and customer service effectively."
+        },
+        {
+          "question": "related family details",
+          "answer": null
+        },
+        {
+          "question": "and general question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 01:26:02"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Implement the Least Recently Used (LRU) Cache.",
+          "answer": "Implementing an LRU Cache involves storing key-value pairs with eviction of the least recently used item when capacity is exceeded.Use a hash map for O(1) access to cache items.Use a doubly linked list to maintain the order of usage.On access, move the accessed item to the front of the list.On insertion, if the cache exceeds capacity, remove the tail of the list.Example: For a cache of capacity 2, accessing keys 1, 2, then 1 again, will keep 1 and 2 in cache."
+        },
+        {
+          "question": "What is the process for implementing a linked list and performing traversals on it?",
+          "answer": "Implementing a linked list involves creating nodes and defining methods for insertion, deletion, and traversal.Define a Node class with data and a pointer to the next node.Create a LinkedList class to manage the nodes.Implement methods for insertion (at head, tail, or specific position).Implement a method for deletion (by value or position).Create a traversal method to visit each node and print its data."
+        }
+      ],
+      "review_date": "2025-07-07 17:31:34"
+    },
+    {
+      "role": "Customer Support Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What role have hobbies played in your life?",
+          "answer": null
+        },
+        {
+          "question": "Our interaction with people",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-06 16:55:55"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": "D kyc",
+      "questions": [],
+      "review_date": "2024-12-01 22:12:36"
+    },
+    {
+      "role": "Trainee",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-18 17:38:53"
+    },
+    {
+      "role": "Office Assistant",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 12:26:49"
+    },
+    {
+      "role": "Area Manager",
+      "difficulty": null,
+      "experience": "positive",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-16 16:38:08"
+    },
+    {
+      "role": "Technical Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your expected salary?",
+          "answer": "I expect a salary that reflects my skills, experience, and the industry standards for a Technical Specialist role.Research industry standards: For example, Glassdoor or Payscale can provide insights into average salaries for similar roles.Consider my experience: With over 5 years in technical support, I bring valuable expertise that justifies a competitive salary.Location matters: Salaries can vary significantly based on geographic location; for instance, tech roles in Silicon Valley often pay more.Be open to negotiation: I am flexible and willing to discuss a salary range that aligns with the company's budget and my qualifications."
+        },
+        {
+          "question": "How much salary",
+          "answer": "Salary expectations depend on experience, industry standards, and job responsibilities.Research industry standards: Use websites like Glassdoor or Payscale to find average salaries for similar roles.Consider your experience: If you have specialized skills or years of experience, you may justify a higher salary.Location matters: Salaries can vary significantly based on geographic location; for example, tech jobs in Silicon Valley often pay more.Be prepared to negotiate: Understand your worth and be ready to discuss your salary expectations during the interview."
+        },
+        {
+          "question": "What is your job experience?",
+          "answer": null
+        },
+        {
+          "question": "My job experience 6 year 8 month",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-02 22:05:18"
+    },
+    {
+      "role": "Data Management Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-07-01 19:35:01"
+    },
+    {
+      "role": "Intern",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-02 11:43:58"
+    }
+  ],
+  "_scraped_at": "2026-04-12T21:34:55.929546+00:00",
   "_source": "ambitionbox",
   "_registry_name": "BSNL",
   "_registry_industry": "Telecom",
   "_sentiment": {
-    "positiveCount": 294,
-    "negativeCount": 96,
-    "neutralCount": 69,
+    "positiveCount": 223,
+    "negativeCount": 78,
+    "neutralCount": 61,
     "topPositiveThemes": [
       "company culture",
       "career growth",
       "training",
-      "job security",
-      "salary & compensation"
+      "work-life balance",
+      "job security"
     ],
     "topNegativeThemes": [
       "salary & compensation",
       "career growth",
       "company culture",
       "management",
-      "training"
+      "benefits"
     ]
   }
 }

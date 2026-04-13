@@ -1650,7 +1650,384 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-10T19:41:52.163391+00:00",
+  "interviews": [
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Resume based questions on previous projects",
+          "answer": null
+        },
+        {
+          "question": "3Sum from Leetcode",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 13:35:14"
+    },
+    {
+      "role": "Implementation Engineer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on behvioral, technical and client handling scenarios",
+          "answer": null
+        },
+        {
+          "question": "Soft Skills are also tested",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-26 17:10:32"
+    },
+    {
+      "role": "QA Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Both manual + automations topic covered",
+          "answer": null
+        },
+        {
+          "question": "What are the real-time use cases and the quality assurance process?",
+          "answer": "QA processes ensure software meets quality standards through testing, validation, and continuous improvement.Test Case Development: Creating detailed test cases based on requirements, e.g., testing a login feature with various user roles.Automated Testing: Implementing automated tests for regression, e.g., using Selenium for web applications.Performance Testing: Assessing application performance under load, e.g., using JMeter to simulate multiple users.User Acceptance Testing (UAT): Involving end-users to validate the software meets their needs, e.g., beta testing a new app.Defect Tracking: Using tools like JIRA to log and manage bugs, ensuring they are addressed before release."
+        }
+      ],
+      "review_date": "2025-10-12 21:31:56"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-20 22:14:22"
+    },
+    {
+      "role": "UI Developer",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-16 22:43:45"
+    },
+    {
+      "role": "Senior Database Administrator",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-26 21:41:35"
+    },
+    {
+      "role": "Customer Success Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What types of accounts have you managed in your previous roles?",
+          "answer": null
+        },
+        {
+          "question": "How did you create the pipeline?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-13 23:31:50"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Course Scedule topological sort question",
+          "answer": "Determine if all courses can be completed given prerequisite constraints.Use topological sorting to detect cycles in the course dependency graph.If a cycle exists, it's impossible to complete all courses.Example: numCourses = 2, prerequisites = [[1, 0]] -&gt; return true.Example: numCourses = 2, prerequisites = [[1, 0], [0, 1]] -&gt; return false."
+        },
+        {
+          "question": "Koko Eating Bananas binary search",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-21 21:59:03"
+    },
+    {
+      "role": "Software Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Assignment, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-01-28 19:18:26"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2025-02-28 16:44:58"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Resume based questions on previous projects",
+          "answer": null
+        },
+        {
+          "question": "3Sum from Leetcode",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 13:35:14"
+    },
+    {
+      "role": "Implementation Engineer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on behvioral, technical and client handling scenarios",
+          "answer": null
+        },
+        {
+          "question": "Soft Skills are also tested",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-26 17:10:32"
+    },
+    {
+      "role": "QA Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Both manual + automations topic covered",
+          "answer": null
+        },
+        {
+          "question": "What are the real-time use cases and the quality assurance process?",
+          "answer": "QA processes ensure software meets quality standards through testing, validation, and continuous improvement.Test Case Development: Creating detailed test cases based on requirements, e.g., testing a login feature with various user roles.Automated Testing: Implementing automated tests for regression, e.g., using Selenium for web applications.Performance Testing: Assessing application performance under load, e.g., using JMeter to simulate multiple users.User Acceptance Testing (UAT): Involving end-users to validate the software meets their needs, e.g., beta testing a new app.Defect Tracking: Using tools like JIRA to log and manage bugs, ensuring they are addressed before release."
+        }
+      ],
+      "review_date": "2025-10-12 21:31:56"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-20 22:14:22"
+    },
+    {
+      "role": "UI Developer",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-16 22:43:45"
+    },
+    {
+      "role": "Senior Database Administrator",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-26 21:41:35"
+    },
+    {
+      "role": "Customer Success Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What types of accounts have you managed in your previous roles?",
+          "answer": null
+        },
+        {
+          "question": "How did you create the pipeline?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-13 23:31:50"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Course Scedule topological sort question",
+          "answer": "Determine if all courses can be completed given prerequisite constraints.Use topological sorting to detect cycles in the course dependency graph.If a cycle exists, it's impossible to complete all courses.Example: numCourses = 2, prerequisites = [[1, 0]] -&gt; return true.Example: numCourses = 2, prerequisites = [[1, 0], [0, 1]] -&gt; return false."
+        },
+        {
+          "question": "Koko Eating Bananas binary search",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-21 21:59:03"
+    },
+    {
+      "role": "Software Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Assignment, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-01-28 19:18:26"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2025-02-28 16:44:58"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Resume based questions on previous projects",
+          "answer": null
+        },
+        {
+          "question": "3Sum from Leetcode",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 13:35:14"
+    },
+    {
+      "role": "Implementation Engineer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions on behvioral, technical and client handling scenarios",
+          "answer": null
+        },
+        {
+          "question": "Soft Skills are also tested",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-26 17:10:32"
+    },
+    {
+      "role": "QA Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Both manual + automations topic covered",
+          "answer": null
+        },
+        {
+          "question": "What are the real-time use cases and the quality assurance process?",
+          "answer": "QA processes ensure software meets quality standards through testing, validation, and continuous improvement.Test Case Development: Creating detailed test cases based on requirements, e.g., testing a login feature with various user roles.Automated Testing: Implementing automated tests for regression, e.g., using Selenium for web applications.Performance Testing: Assessing application performance under load, e.g., using JMeter to simulate multiple users.User Acceptance Testing (UAT): Involving end-users to validate the software meets their needs, e.g., beta testing a new app.Defect Tracking: Using tools like JIRA to log and manage bugs, ensuring they are addressed before release."
+        }
+      ],
+      "review_date": "2025-10-12 21:31:56"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-20 22:14:22"
+    },
+    {
+      "role": "UI Developer",
+      "difficulty": "hard",
+      "experience": "neutral",
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2025-01-16 22:43:45"
+    },
+    {
+      "role": "Senior Database Administrator",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-26 21:41:35"
+    },
+    {
+      "role": "Customer Success Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What types of accounts have you managed in your previous roles?",
+          "answer": null
+        },
+        {
+          "question": "How did you create the pipeline?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-13 23:31:50"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Course Scedule topological sort question",
+          "answer": "Determine if all courses can be completed given prerequisite constraints.Use topological sorting to detect cycles in the course dependency graph.If a cycle exists, it's impossible to complete all courses.Example: numCourses = 2, prerequisites = [[1, 0]] -&gt; return true.Example: numCourses = 2, prerequisites = [[1, 0], [0, 1]] -&gt; return false."
+        },
+        {
+          "question": "Koko Eating Bananas binary search",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-21 21:59:03"
+    },
+    {
+      "role": "Software Application Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Assignment, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-01-28 19:18:26"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2025-02-28 16:44:58"
+    }
+  ],
+  "_scraped_at": "2026-04-12T19:18:09.513349+00:00",
   "_source": "ambitionbox",
   "_registry_name": "MoEngage",
   "_registry_industry": "SaaS",

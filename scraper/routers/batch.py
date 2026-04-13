@@ -27,6 +27,7 @@ LOG_FILE = SCRAPER_DIR / "data" / "scrape_run.log"
 
 _task: asyncio.Task | None = None
 _run_meta: dict = {}
+_active_proc: asyncio.subprocess.Process | None = None  # currently running subprocess
 
 
 class ScrapeRequest(BaseModel):
@@ -34,6 +35,7 @@ class ScrapeRequest(BaseModel):
     slugs: list[str] = []          # used only when mode="custom"
     max_reviews: int = 5
     max_salaries: int = 15
+    max_interview_pages: int = 50  # 10 interviews/page — default 50 pages = up to 500 interviews
     auto_sync: bool = True
 
 
@@ -73,7 +75,7 @@ async def _stream_subprocess(proc: asyncio.subprocess.Process):
 
 
 async def _run_pipeline(req: ScrapeRequest):
-    global _run_meta
+    global _run_meta, _active_proc
 
     LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
     LOG_FILE.write_text("")
@@ -94,6 +96,7 @@ async def _run_pipeline(req: ScrapeRequest):
         *mode_args,
         "--max-reviews", str(req.max_reviews),
         "--max-salaries", str(req.max_salaries),
+        "--max-interview-pages", str(req.max_interview_pages),
     ]
 
     _log(f"=== SCRAPE START — {mode_label} ===")
@@ -111,11 +114,14 @@ async def _run_pipeline(req: ScrapeRequest):
             stdout=asyncio.subprocess.PIPE,
             stderr=asyncio.subprocess.STDOUT,
         )
+        _active_proc = proc
         _run_meta["batch_pid"] = proc.pid
         _save_run(_run_meta)
         await asyncio.gather(_stream_subprocess(proc), proc.wait())
+        _active_proc = None
         _run_meta["batch_exit"] = proc.returncode
     except Exception as e:
+        _active_proc = None
         _log(f"ERROR: {e}")
         _run_meta["phase"] = "error"
         _run_meta["error"] = str(e)
@@ -125,14 +131,40 @@ async def _run_pipeline(req: ScrapeRequest):
 
     if req.auto_sync:
         _log("")
-        _log("=== PIPELINE SYNC START ===")
-        _log("Command: python3 pipeline.py")
+
+        # Only sync the companies that were just scraped.
+        # For "all" mode we sync everything; for custom/failed we restrict to what was requested.
+        if req.mode == "all":
+            pipeline_slugs_arg: list[str] = []
+            sync_label = "all companies"
+        else:
+            # Use the slugs that were passed (custom) or derive from status file (failed mode).
+            if req.mode == "custom" and req.slugs:
+                target_slugs = req.slugs
+            else:
+                # failed mode: re-derive from status file (slugs that are now marked success)
+                status_now = _load_status()
+                target_slugs = [s for s, v in status_now.items() if v.get("status") == "success"]
+
+            if target_slugs:
+                pipeline_slugs_arg = ["--slugs", ",".join(target_slugs)]
+                sync_label = f"{len(target_slugs)} companies"
+            else:
+                pipeline_slugs_arg = []
+                sync_label = "all companies"
+
+        _log(f"=== PIPELINE SYNC START — {sync_label} ===")
+        pipeline_cmd_display = (
+            f"python3 pipeline.py {' '.join(pipeline_slugs_arg)}"
+            if pipeline_slugs_arg else "python3 pipeline.py"
+        )
+        _log(f"Command: {pipeline_cmd_display}")
         _log("")
 
         _run_meta["phase"] = "syncing"
         _save_run(_run_meta)
 
-        pipeline_cmd = ["python3", str(PIPELINE_SCRIPT)]
+        pipeline_cmd = ["python3", str(PIPELINE_SCRIPT)] + pipeline_slugs_arg
         try:
             proc2 = await asyncio.create_subprocess_exec(
                 *pipeline_cmd,
@@ -140,11 +172,14 @@ async def _run_pipeline(req: ScrapeRequest):
                 stdout=asyncio.subprocess.PIPE,
                 stderr=asyncio.subprocess.STDOUT,
             )
+            _active_proc = proc2
             _run_meta["pipeline_pid"] = proc2.pid
             _save_run(_run_meta)
             await asyncio.gather(_stream_subprocess(proc2), proc2.wait())
+            _active_proc = None
             _run_meta["pipeline_exit"] = proc2.returncode
         except Exception as e:
+            _active_proc = None
             _log(f"ERROR: {e}")
             _run_meta["pipeline_error"] = str(e)
 
@@ -171,6 +206,7 @@ async def start_scrape(req: ScrapeRequest):
         "slugs": req.slugs,
         "max_reviews": req.max_reviews,
         "max_salaries": req.max_salaries,
+        "max_interview_pages": req.max_interview_pages,
         "auto_sync": req.auto_sync,
         "phase": "starting",
     }
@@ -179,6 +215,36 @@ async def start_scrape(req: ScrapeRequest):
 
     label = f"{len(req.slugs)} companies" if req.mode == "custom" else req.mode
     return {"started": True, "message": f"Scrape started ({label}). Poll /scrape/status and /scrape/logs."}
+
+
+@router.delete("/scrape")
+async def stop_scrape():
+    global _task, _active_proc, _run_meta
+
+    if _task is None or _task.done():
+        raise HTTPException(status_code=409, detail="No scrape is currently running.")
+
+    # Kill the active subprocess first (batch.py or pipeline.py)
+    if _active_proc is not None:
+        try:
+            _active_proc.kill()
+            _log("=== STOPPED BY USER ===")
+        except ProcessLookupError:
+            pass  # already exited
+        _active_proc = None
+
+    # Cancel the asyncio task
+    _task.cancel()
+    try:
+        await _task
+    except asyncio.CancelledError:
+        pass
+
+    _run_meta["phase"] = "stopped"
+    _run_meta["finished_at"] = datetime.utcnow().isoformat()
+    _save_run(_run_meta)
+
+    return {"stopped": True, "message": "Scrape stopped."}
 
 
 @router.get("/scrape/status")

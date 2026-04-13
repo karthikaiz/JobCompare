@@ -5,6 +5,7 @@ import { useState, useRef, useEffect } from "react";
 import { motion, useInView, type Variants } from "framer-motion";
 import { useAuth } from "@/context/auth-context";
 import { SearchBar } from "@/components/search-bar";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 interface LiveCompany { name: string; slug: string; overallRating: number | null; industry: string | null; }
 
@@ -119,7 +120,7 @@ function LiveDataCard({ companies, stats }: { companies: LiveCompany[]; stats: {
       initial={{ opacity: 0, x: 50, rotate: 0.5 }}
       animate={{ opacity: 1, x: 0, rotate: 0 }}
       transition={{ delay: 0.35, duration: 0.6, ease: "easeOut" }}
-      className="border-2 border-ink bg-white overflow-hidden shadow-[4px_4px_0px_0px_rgba(26,21,4,0.08)]"
+      className="border-2 border-ink bg-card overflow-hidden shadow-[4px_4px_0px_0px_rgba(26,21,4,0.08)] dark:shadow-none"
     >
       <div className="px-4 py-2.5 border-b border-ink/15 flex items-center justify-between bg-cream">
         <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Company Data</span>
@@ -139,7 +140,7 @@ function LiveDataCard({ companies, stats }: { companies: LiveCompany[]; stats: {
           >
             <Link
               href={`/job-seeker/${c.slug}`}
-              className="flex items-center justify-between px-4 py-2.5 hover:bg-[#FDF5EE] transition-colors group relative overflow-hidden"
+              className="flex items-center justify-between px-4 py-2.5 hover:bg-terracotta/5 transition-colors group relative overflow-hidden"
             >
               <span className="absolute left-0 top-0 bottom-0 w-0.5 bg-terracotta scale-y-0 group-hover:scale-y-100 transition-transform duration-200 origin-center" />
               <div className="flex items-center gap-2.5 min-w-0 pl-1">
@@ -237,8 +238,10 @@ export default function Home() {
           <Link href="/job-seeker" className="text-xs uppercase tracking-[0.1em] text-warmgray hover:text-ink transition-colors font-sans">Job Seeker</Link>
           <Link href="/recruiter" className="text-xs uppercase tracking-[0.1em] text-warmgray hover:text-ink transition-colors font-sans">Recruiter</Link>
           <Link href="/job-seeker/compare/offers" className="text-xs uppercase tracking-[0.1em] text-warmgray hover:text-ink transition-colors font-sans">Offer Calculator</Link>
+          <Link href="/should-i-switch" className="text-xs uppercase tracking-[0.1em] text-warmgray hover:text-ink transition-colors font-sans">Should I Switch?</Link>
         </nav>
-        <div className="ml-auto flex items-center gap-3">
+        <div className="ml-auto flex items-center gap-2 sm:gap-3">
+          <ThemeToggle />
           {!authLoading && (
             user ? (
               <button onClick={logout} className="text-xs uppercase tracking-[0.1em] text-warmgray hover:text-ink transition-colors font-sans">Logout</button>
@@ -384,7 +387,7 @@ export default function Home() {
       </div>
 
       {/* ── Testimonials ── */}
-      <div className="py-20 px-8 bg-[#FAF8F2] border-b-2 border-ink/10">
+      <div className="py-20 px-8 bg-secondary border-b-2 border-ink/10">
         <div className="max-w-4xl mx-auto">
           <FadeIn>
             <div className="flex items-center gap-3 mb-10">
@@ -396,7 +399,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
             {TESTIMONIALS.map(({ quote, name, role, company }, i) => (
               <FadeIn key={name} delay={i * 0.1}>
-                <div className="bg-white border border-ink/15 p-6 flex flex-col gap-4 h-full">
+                <div className="bg-card border border-ink/15 p-6 flex flex-col gap-4 h-full">
                   {/* Quote mark */}
                   <span className="font-serif text-4xl text-terracotta/30 leading-none select-none">&ldquo;</span>
                   <p className="text-sm text-ink font-sans leading-relaxed flex-1">{quote}</p>

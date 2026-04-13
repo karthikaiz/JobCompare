@@ -237,97 +237,6 @@
     },
     {
       "title": null,
-      "role": "Application Developer Intern",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "The team is vibrant and there is something new to learn everyday. There is good expansion of product in the company. New initiatives by the employees are very much appreciated and welcomed and deployed within the organisation to improve efficiency. The HR people respond quick for all your queries.",
-      "cons": "PPO selection and end of internship certificates and last month stipend took a month's time to be dispersed.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9492,
-      "is_current_employee": false,
-      "review_date": "2023-08-29",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "L&D",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "The company is good but growth depends on how close you are to your manager and butter him/her. Working hard doesn’t make sense unless you don’t say yes for everything that your manager says.",
-      "cons": "I don’t dislike Razorpay but I definitely dislike the managers and couple of my team members I worked there. When you raise a PoSH case to anyone they are least bothered. My manager actually found it humorous when I raised it.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8718,
-      "is_current_employee": false,
-      "review_date": "2023-10-04",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Razorpay",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Some smart people as colleagues who have joined from very good backgrounds and organisations.",
-      "cons": "Horrible work culture. No professionalism. Your success depends upon how close you are to founders. Culture is loosely defined as the freedom to do and say anything anytime. \nThere's no way you can approach anyone if you feel there's an issue as there's so much politics brewing at all levels.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7841,
-      "is_current_employee": false,
-      "review_date": "2023-08-29",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Director, CX Quality ",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "The work Culture and leadership vision for the organisation and product experience which we have to provide to the customers and merchants is impeccable",
-      "cons": "Need of leadership  connect at all level sometimes helps to attain valuable insights company can try to do that more often to ensure issues at the middle management or lower management reaches to the top management. \n This will help the Razorpay culture to become highly motivated and employee centric where employees can further provide a great support to the merchants.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9689,
-      "is_current_employee": false,
-      "review_date": "2022-08-06",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Potential Candidate",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Growing Fintech Company",
-      "cons": "I interviewed with Razorpay as a potential candidate for a senior role. After going though 4-5 interviews over a period of 2 months, which is needless to say an investment of time and energy, both for the potential employer and employee, Razorpay decided to ghost me, without even sending a formal rejection email or letter. Several attempts to reach out to the HR. further went unanswered. I am glad I did not make it, because if this is how accountability is at Razorpay at the time of recruitment, I can only imagine how it would be to work here!",
-      "sentiment": "positive",
-      "sentiment_score": 0.1007,
-      "is_current_employee": false,
-      "review_date": "2022-09-25",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Sales Team Leader",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Is Razorpay a good company to work for? Razorpay has an overall rating of 4.1 out of 5, based on over 328 reviews left anonymously by employees. 82% of employees would recommend working at Razorpay to a friend and 81% have a positive outlook for the business. This rating has improved by 7% over the last 12 months",
-      "cons": "No reason",
-      "sentiment": "positive",
-      "sentiment_score": 0.9201,
-      "is_current_employee": false,
-      "review_date": "2022-08-30",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Bangalore Urban",
-      "rating": 4.0,
-      "pros": "The people we connect and learn from was very interesting.",
-      "cons": "Teammate were supportive, and the role of work done varies every two months and also your KRA's which has led to lot of confusion and more over I had been put in various teams and had to ensure I achieve my target. Most of all the Job security is very sad, cause people who leave their previous organisation hoping to start a new journey get kicked out with very less opportunity given to them. Moving on to work life balance, due to covide its been bad and thanks to Razorpay its been worst, not just for me, but the entire support teams who look into the merchant escalations, cause you need to be there in front of your systems at all times. When there is an escalation we need to make sure issues are resolved the same day, whether it be mid night or early morning and if this is during a weekend then good luck finding someone to help you may it be your own reporting manager.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9656,
-      "is_current_employee": false,
-      "review_date": "2022-03-14",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Business Analyst and Product Owner",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -341,19 +250,6 @@
     },
     {
       "title": null,
-      "role": "Software Engineer",
-      "location": "Bangalore HSR Layout",
-      "rating": 4.0,
-      "pros": "I am working in an android client team. The team lead (Mohit)  and manager(Deepak) are super cool and supportive. Perfect work-life balance. Always admire my hard work. In a year, they have a hackathon. Great place to work.",
-      "cons": "I have been working for the past 1.5 years and honestly, everything is excellent. they are nothing that I dislike.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9794,
-      "is_current_employee": false,
-      "review_date": "2022-05-26",
-      "quality_score": 0.78
-    },
-    {
-      "title": null,
       "role": "Product Manager",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -364,32 +260,6 @@
       "is_current_employee": false,
       "review_date": "2022-12-06",
       "quality_score": 0.76
-    },
-    {
-      "title": null,
-      "role": "Sales & Operation Executive",
-      "location": "Koromangala",
-      "rating": 5.0,
-      "pros": "Really an amazing place to work \nYou get lot of perks from free food to really understanding people around \nFrom the outside there is amazing culture",
-      "cons": "Politics and other usual things you experience at many places but I feel this is only thing and due to this I really hope it does not affect the culture",
-      "sentiment": "positive",
-      "sentiment_score": 0.8854,
-      "is_current_employee": true,
-      "review_date": "2022-05-31",
-      "quality_score": 0.76
-    },
-    {
-      "title": null,
-      "role": "Junior Analyst - Business and Operations support",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "As per my rating, the WLB is great. Free food, good office environment. MacBook for everyone.",
-      "cons": "Everything apart from work life balance. I joined as a contractual employee and I suggest nobody to join as contractual.\nThe politics is very bad in the company. There's no hope that you will get a appraisal too.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7431,
-      "is_current_employee": true,
-      "review_date": "2023-12-19",
-      "quality_score": 0.74
     },
     {
       "title": null,
@@ -419,19 +289,6 @@
     },
     {
       "title": null,
-      "role": "Senior Risk Analyst",
-      "location": "Bangalore Rural",
-      "rating": 5.0,
-      "pros": "Very Good hike and Good environmental friendly Nature. \nNeed create opportunity there and some time group of team dominate you.",
-      "cons": "Groupism, \nonly support who is tenure in the company day one . \nhigh position who joined new commer they won't get proper training and support \nVery less people management skill.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9524,
-      "is_current_employee": false,
-      "review_date": "2022-03-11",
-      "quality_score": 0.7
-    },
-    {
-      "title": null,
       "role": "Product Development Engineer",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -441,19 +298,6 @@
       "sentiment_score": -0.8992,
       "is_current_employee": true,
       "review_date": "2024-03-24",
-      "quality_score": 0.67
-    },
-    {
-      "title": null,
-      "role": "Analyst Finops",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "One of the finest fintech company in india with very good working atmosphere , learn and grow is key motive of leadership. Work life balance, and compansation (if you are good in negotiation) is good .",
-      "cons": "No such point found, you need to be super active .",
-      "sentiment": "positive",
-      "sentiment_score": 0.9245,
-      "is_current_employee": false,
-      "review_date": "2022-08-17",
       "quality_score": 0.67
     },
     {
@@ -497,19 +341,6 @@
     },
     {
       "title": null,
-      "role": "Regional Sales Manager\r",
-      "location": "Dubai",
-      "rating": 5.0,
-      "pros": "At Ezetap, you have a challenging yet positive work environment, that gets the best out of you. Encouraging you to get out of your comfort zone and thinking out of the box is something that Ezetap has always believed in.",
-      "cons": "Still trying to figure out :)",
-      "sentiment": "positive",
-      "sentiment_score": 0.9538,
-      "is_current_employee": false,
-      "review_date": "2022-06-27",
-      "quality_score": 0.66
-    },
-    {
-      "title": null,
       "role": "Software Engineer",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -519,19 +350,6 @@
       "sentiment_score": 0.8271,
       "is_current_employee": true,
       "review_date": "2025-02-02",
-      "quality_score": 0.64
-    },
-    {
-      "title": null,
-      "role": "Front end Engineer",
-      "location": null,
-      "rating": 4.0,
-      "pros": "The projects that I got to work on, I loved so much as they contributed to my skills and growth.",
-      "cons": "Company work culture and job security got hampered in this current market condition. Management didn't handle it well. So, many employees got unsatisfied anonymously.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6582,
-      "is_current_employee": false,
-      "review_date": "2023-08-09",
       "quality_score": 0.64
     },
     {
@@ -640,19 +458,6 @@
     },
     {
       "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "The work culture is amazing, tons of stuff to learn, good pay, surprise gifts, work from home.",
-      "cons": "Though now a big company, the processes still works like a startup. The finance team is not the strongest.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8173,
-      "is_current_employee": false,
-      "review_date": "2022-05-19",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
       "role": "Strategic Account Manager",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -662,32 +467,6 @@
       "sentiment_score": -0.0834,
       "is_current_employee": false,
       "review_date": "2023-10-24",
-      "quality_score": 0.55
-    },
-    {
-      "title": null,
-      "role": "Product Manager",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Brand Name\nSmart People\nLot of customer conversations",
-      "cons": "Toxic and aggressive work culture\nVery high attrition rate\nPMs forced to chase business goals instead of building product\nMany tenured PMs are good only at politics",
-      "sentiment": "positive",
-      "sentiment_score": 0.25,
-      "is_current_employee": false,
-      "review_date": "2023-02-07",
-      "quality_score": 0.55
-    },
-    {
-      "title": null,
-      "role": "Service Executive",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "I Have Been in Ezetap To Last 7 Years, Their Customer Service is Very Good And Company Support To The All Employees.",
-      "cons": "I Think, Employees increament And Promotion Process is Very Slow in This Company",
-      "sentiment": "positive",
-      "sentiment_score": 0.7089,
-      "is_current_employee": false,
-      "review_date": "2022-05-26",
       "quality_score": 0.55
     },
     {
@@ -714,32 +493,6 @@
       "sentiment_score": 0.9432,
       "is_current_employee": false,
       "review_date": "2024-10-01",
-      "quality_score": 0.54
-    },
-    {
-      "title": null,
-      "role": "Senior Accounts Payable Analyst",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "There is nothing to like",
-      "cons": "Only top level and management level employees get all the Benifits and no recognition and no appreciation to employees.  Thousands of policy introduced but it will not to employees",
-      "sentiment": "negative",
-      "sentiment_score": -0.383,
-      "is_current_employee": true,
-      "review_date": "2023-12-18",
-      "quality_score": 0.54
-    },
-    {
-      "title": null,
-      "role": "Jaipur",
-      "location": "Jaipur",
-      "rating": 5.0,
-      "pros": "The company is open to innovation and readily adopts latest technology,i love the fact that i am a part of a team that markets reliable, high quality products and has a global clirnt base",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.8176,
-      "is_current_employee": false,
-      "review_date": "2021-12-12",
       "quality_score": 0.54
     },
     {
@@ -835,19 +588,6 @@
     },
     {
       "title": null,
-      "role": "Junior Analyst",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Worst I request to no one to join this company were u will be used for job purpose and once done they will throw us out with no proper reason",
-      "cons": "Everything",
-      "sentiment": "negative",
-      "sentiment_score": -0.743,
-      "is_current_employee": false,
-      "review_date": "2022-06-06",
-      "quality_score": 0.51
-    },
-    {
-      "title": null,
       "role": "Software Engineer",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -870,19 +610,6 @@
       "sentiment_score": 0.296,
       "is_current_employee": false,
       "review_date": "2024-10-30",
-      "quality_score": 0.5
-    },
-    {
-      "title": null,
-      "role": "Junior Business Analyst",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Open Floor Culture, and the Transparency is the best part. Ease of approaching leadership is a big +1.",
-      "cons": "Some teams may have micro management, depending on the manager and role.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7717,
-      "is_current_employee": false,
-      "review_date": "2023-05-02",
       "quality_score": 0.5
     },
     {
@@ -1173,32 +900,6 @@
     },
     {
       "title": null,
-      "role": "Associate Manager - Enterprise Partnership",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Work culture is one of the best in the Industry. Employee satisfaction is always the priority.",
-      "cons": "I don't see any major thing to dislike about Razorpay",
-      "sentiment": "positive",
-      "sentiment_score": 0.6412,
-      "is_current_employee": false,
-      "review_date": "2023-06-17",
-      "quality_score": 0.46
-    },
-    {
-      "title": null,
-      "role": "Software Developer",
-      "location": "WFH",
-      "rating": 5.0,
-      "pros": "The work culture is very good, people are very supportive and there are no work timing restrictions.",
-      "cons": "The salary might be less compared to other organizations",
-      "sentiment": "positive",
-      "sentiment_score": 0.5402,
-      "is_current_employee": false,
-      "review_date": "2022-06-29",
-      "quality_score": 0.46
-    },
-    {
-      "title": null,
       "role": "Software Developer",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -1286,19 +987,6 @@
       "sentiment_score": 0.6146,
       "is_current_employee": false,
       "review_date": "2023-06-30",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Risk Management Analyst",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "The culture of the company and it is very much employee friendly.",
-      "cons": "They offer less and the growth is really slow in the company",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2022-05-25",
       "quality_score": 0.44
     },
     {
@@ -1394,58 +1082,6 @@
     },
     {
       "title": null,
-      "role": "HR Coordinator",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Razor pay really is a great place to work and we have very supportive managers who constantly encourages in growth and improvement.",
-      "cons": "Na",
-      "sentiment": "positive",
-      "sentiment_score": 0.932,
-      "is_current_employee": false,
-      "review_date": "2023-09-28",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Service Engineer",
-      "location": "kouthrud karvenagar",
-      "rating": 4.0,
-      "pros": "Likes how to provide good customer service",
-      "cons": "Not getting support the way it should be can make it difficult to resolve customer issues",
-      "sentiment": "positive",
-      "sentiment_score": 0.5487,
-      "is_current_employee": false,
-      "review_date": "2022-12-10",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Virtual Relationship Manager",
-      "location": "One point one",
-      "rating": 1.0,
-      "pros": "I like nothing about the company as a employee and i can tell that not even customers were happy with the service.",
-      "cons": "Everything",
-      "sentiment": "positive",
-      "sentiment_score": 0.7351,
-      "is_current_employee": false,
-      "review_date": "2022-11-30",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Data Analyst",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Anyone who loves Fintech will surely enjoy working here.",
-      "cons": "Poor Work Life Balance, Amount of responsibilities is huge when compared with your CTC.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8402,
-      "is_current_employee": false,
-      "review_date": "2022-03-08",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
       "role": "Regional Manager",
       "location": "Gurugram",
       "rating": 4.0,
@@ -1524,19 +1160,6 @@
     },
     {
       "title": null,
-      "role": "Manager credit and risk automation",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Excellent cultural values. \nOpen forum for every single employees to reach out any one in department \nResponsive admin Hr team",
-      "cons": "Quite nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.8402,
-      "is_current_employee": false,
-      "review_date": "2023-08-18",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
       "role": "Lead Product Engineer",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -1572,19 +1195,6 @@
       "sentiment_score": 0.6542,
       "is_current_employee": false,
       "review_date": "2021-11-10",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Sr. Manager - Procurement, Cost Management and Control",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Well educated leadership . Vision is great",
-      "cons": "Extremely fast paced ..... No work life Balance. People work 7 days a week",
-      "sentiment": "positive",
-      "sentiment_score": 0.7184,
-      "is_current_employee": false,
-      "review_date": "2023-07-08",
       "quality_score": 0.41
     },
     {
@@ -1680,45 +1290,6 @@
     },
     {
       "title": null,
-      "role": "Senior Sales Manager",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "The company closed down the whole vertical",
-      "cons": "No vision before hiring for vertical ss they closed down in 4 months",
-      "sentiment": "negative",
-      "sentiment_score": -0.1877,
-      "is_current_employee": false,
-      "review_date": "2020-05-18",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Senior Analytics Specialist",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Freedom to work independently and benefits.",
-      "cons": "Due to the growth, lot of micromanagement has started and lack of good work.",
-      "sentiment": "positive",
-      "sentiment_score": 0.875,
-      "is_current_employee": false,
-      "review_date": "2022-07-19",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager Process Excellence and CRM",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "With my last 8 years experience this is one of the best company where I worked for..",
-      "cons": "Nothing in Specific",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2022-06-06",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
       "role": "Senior Analyst",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -1797,19 +1368,6 @@
     },
     {
       "title": null,
-      "role": "Technical Recruiter",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Pretty much everything. I've never come across such an amazing team before. Proud to be a part of Razorpay",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.8779,
-      "is_current_employee": false,
-      "review_date": "2022-05-18",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
       "role": "Procurement",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -1858,32 +1416,6 @@
       "sentiment_score": 0.0772,
       "is_current_employee": false,
       "review_date": "2023-08-13",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Senior Test Engineer",
-      "location": null,
-      "rating": 4.0,
-      "pros": "Company's culture ans tech stack to work on.",
-      "cons": "There might be a little pressure of work during releases.",
-      "sentiment": "negative",
-      "sentiment_score": -0.228,
-      "is_current_employee": false,
-      "review_date": "2023-06-13",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Strategy Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Not much",
-      "cons": "Do not even have the time to write criticism as there is no WLB at all!",
-      "sentiment": "negative",
-      "sentiment_score": -0.6588,
-      "is_current_employee": false,
-      "review_date": "2022-06-28",
       "quality_score": 0.38
     },
     {
@@ -1979,32 +1511,6 @@
     },
     {
       "title": null,
-      "role": "Junior Analyst Intern",
-      "location": "Kormangala",
-      "rating": 5.0,
-      "pros": "I like Rozorpay work culture and would like to work with again and again .",
-      "cons": "Job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.7506,
-      "is_current_employee": false,
-      "review_date": "2022-08-11",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Senior Software Developer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "-- Amazing culture\n-- Free food\n-- smart colleagues",
-      "cons": "-- work is boring \n-- growth is slow",
-      "sentiment": "positive",
-      "sentiment_score": 0.8779,
-      "is_current_employee": true,
-      "review_date": "2022-06-03",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
       "role": "Senior Manager",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -2040,32 +1546,6 @@
       "sentiment_score": -0.1396,
       "is_current_employee": false,
       "review_date": "2023-05-02",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer 2",
-      "location": null,
-      "rating": 4.0,
-      "pros": "The company is cool . unicorn name itself says",
-      "cons": "difficult to have access to manger +1",
-      "sentiment": "negative",
-      "sentiment_score": -0.0516,
-      "is_current_employee": false,
-      "review_date": "2022-12-08",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "It’s a great place to be in !!!",
-      "cons": "The growth parameter is a bit slow !",
-      "sentiment": "positive",
-      "sentiment_score": 0.8346,
-      "is_current_employee": false,
-      "review_date": "2022-06-11",
       "quality_score": 0.36
     },
     {
@@ -2170,45 +1650,6 @@
       "sentiment_score": 0.7964,
       "is_current_employee": false,
       "review_date": "2023-01-06",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Ezetab Wings",
-      "location": "Tripura",
-      "rating": 5.0,
-      "pros": "Good but the company will sink in few days because of too many people",
-      "cons": "Ghwati",
-      "sentiment": "positive",
-      "sentiment_score": 0.2382,
-      "is_current_employee": false,
-      "review_date": "2023-10-10",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Software Developer",
-      "location": null,
-      "rating": 5.0,
-      "pros": "it brings good development in my skills",
-      "cons": "very less job security, does not offer ppos",
-      "sentiment": "positive",
-      "sentiment_score": 0.6469,
-      "is_current_employee": false,
-      "review_date": "2023-11-29",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Senior Communication Designer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work culture, transparency and benefits.",
-      "cons": "They should allow work for home if required by employee.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5423,
-      "is_current_employee": false,
-      "review_date": "2023-08-09",
       "quality_score": 0.35
     },
     {
@@ -2391,19 +1832,6 @@
       "sentiment_score": 0.3089,
       "is_current_employee": false,
       "review_date": "2024-05-08",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Support Analyst",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Very good work environment for an employee to achieve their career goals",
-      "cons": "No dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.6572,
-      "is_current_employee": false,
-      "review_date": "2022-02-25",
       "quality_score": 0.34
     },
     {
@@ -2603,58 +2031,6 @@
     },
     {
       "title": null,
-      "role": "Key Account Manager",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Good Platform Razorpay Software Private Limited",
-      "cons": "No Issues with Razorpay Software Private Limited",
-      "sentiment": "negative",
-      "sentiment_score": -0.2732,
-      "is_current_employee": false,
-      "review_date": "2023-10-23",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Product Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work culture is flexible and good",
-      "cons": "None to be thought of right now",
-      "sentiment": "positive",
-      "sentiment_score": 0.5859,
-      "is_current_employee": false,
-      "review_date": "2022-09-15",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Indian",
-      "rating": 1.0,
-      "pros": "Promotion only otherwise all are worst",
-      "cons": "Very worst company don't join then feel.",
-      "sentiment": "negative",
-      "sentiment_score": -0.8855,
-      "is_current_employee": false,
-      "review_date": "2022-08-25",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Analyst",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "No job security you will not know when they will remove you",
-      "sentiment": "negative",
-      "sentiment_score": -0.0864,
-      "is_current_employee": false,
-      "review_date": "2023-04-08",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
       "role": "Program Manager",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -2833,110 +2209,6 @@
       "sentiment_score": 0.6369,
       "is_current_employee": false,
       "review_date": "2019-09-24",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Senior Banking Partner",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Energy to deliver and commitments, good food,",
-      "cons": "Nothing much. Fast track mode.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6705,
-      "is_current_employee": false,
-      "review_date": "2023-11-17",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Software Developer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Learnings are great,with great team",
-      "cons": "Tpoo much work which cant be done",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2023-11-21",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Junior Data Analyst",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "The work culture is good",
-      "cons": "The worst part is salary and promotions",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-02-22",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Analyst",
-      "location": "Salarpuria",
-      "rating": 3.0,
-      "pros": "Good culture, Office environment is great.",
-      "cons": "Growth, recognition and compensation is poor",
-      "sentiment": "positive",
-      "sentiment_score": 0.7579,
-      "is_current_employee": false,
-      "review_date": "2022-08-26",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Engineering Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Free food \nFlexible work hours",
-      "cons": "Manager micromanagement \nCulture has deteriorated over time",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2022-07-31",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "AD- Banking Alliances ",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Open culture, transparency, lot of dependency",
-      "cons": "Being casual sometimes on big issues",
-      "sentiment": "positive",
-      "sentiment_score": 0.2023,
-      "is_current_employee": false,
-      "review_date": "2022-06-14",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Team Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "food is amazing. Do have the curd rice.",
-      "cons": "Manager is an idiot.",
-      "sentiment": "positive",
-      "sentiment_score": 0.128,
-      "is_current_employee": false,
-      "review_date": "2022-08-16",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Regional Head",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "People and culture are good",
-      "cons": "Flat organization and growth prospective in limited.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": false,
-      "review_date": "2022-04-24",
       "quality_score": 0.32
     },
     {
@@ -3145,45 +2417,6 @@
       "sentiment_score": -0.2505,
       "is_current_employee": false,
       "review_date": "2022-04-22",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Business Operations Analyst",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good work culture, flexible working hours",
-      "cons": "No dislikes overall good experience",
-      "sentiment": "positive",
-      "sentiment_score": 0.8384,
-      "is_current_employee": false,
-      "review_date": "2023-10-14",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Technical Writer",
-      "location": "Koramangala",
-      "rating": 5.0,
-      "pros": "Great work culture and work-life balance.",
-      "cons": "Nothing to dislike so far..",
-      "sentiment": "positive",
-      "sentiment_score": 0.7418,
-      "is_current_employee": false,
-      "review_date": "2022-11-17",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Software Engineer",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Culture is awesome",
-      "cons": "Need to focus on tech stack a bit.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2022-07-26",
       "quality_score": 0.31
     },
     {
@@ -3483,110 +2716,6 @@
       "sentiment_score": 0.8268,
       "is_current_employee": false,
       "review_date": "2023-06-22",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Senior Technical Recruiter  Leadership Hiring",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Good food \nGood engineering team",
-      "cons": "Office politics \nJob is insecure",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": true,
-      "review_date": "2023-12-18",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Customer Success Manager",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Good company to learn and earn",
-      "cons": "Huge responsibilities and pressure.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": false,
-      "review_date": "2023-05-07",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Financial Analyst",
-      "location": "Adugodi",
-      "rating": 4.0,
-      "pros": "Ambiance, Food, Play area, Gym",
-      "cons": "No job satisfaction, no outings",
-      "sentiment": "negative",
-      "sentiment_score": -0.5277,
-      "is_current_employee": false,
-      "review_date": "2022-08-30",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Associate Software Engineer",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Nothing nope no not now",
-      "cons": "Nothing nope no not now",
-      "sentiment": "negative",
-      "sentiment_score": -0.3213,
-      "is_current_employee": false,
-      "review_date": "2022-09-20",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Software Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Everything is good about razorpay",
-      "cons": "Nothing is bad about razorpay",
-      "sentiment": "positive",
-      "sentiment_score": 0.6956,
-      "is_current_employee": false,
-      "review_date": "2022-10-18",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Team Leader- Inside sales",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Wirk culture is good",
-      "cons": "There is no work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2022-04-19",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Analyst",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Work-life balance",
-      "cons": "Salary & Benefits \nPromotion & Appraisal \nJob Security",
-      "sentiment": "positive",
-      "sentiment_score": 0.6124,
-      "is_current_employee": false,
-      "review_date": "2023-04-01",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Growth marketing intern",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Hr and managers",
-      "cons": "They should hire interns for full time",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-03-02",
       "quality_score": 0.3
     },
     {
@@ -3955,71 +3084,6 @@
     },
     {
       "title": null,
-      "role": "Senior Executive Procurement",
-      "location": "Kormangala",
-      "rating": 5.0,
-      "pros": "Work life balance",
-      "cons": "Nothing as of now about Razorpay",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-07-19",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Flexible timings supportive manager and from management",
-      "cons": "no dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.6467,
-      "is_current_employee": false,
-      "review_date": "2022-11-19",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Recruiter",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Learning new things work recognizing",
-      "cons": "No appraisal and politics",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-07-09",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Junior Analyst",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Will get a lot of learning opportunities.",
-      "cons": "No WFH.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1027,
-      "is_current_employee": false,
-      "review_date": "2022-06-28",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Scrum Master",
-      "location": "Bangalore Rural",
-      "rating": 5.0,
-      "pros": "Amazing work culture and people",
-      "cons": "Nothing that I dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.717,
-      "is_current_employee": false,
-      "review_date": "2022-06-24",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
       "role": "Senior Territory Manager",
       "location": "Hyderabad",
       "rating": 2.0,
@@ -4315,110 +3379,6 @@
       "sentiment_score": 0.3818,
       "is_current_employee": false,
       "review_date": "2023-04-04",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Lead - Forecast & Planning",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Culture, Work Balance & Visibility, leadership skills",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2023-12-21",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Software Developer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Learning Curve was amazing and very flexible.",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.7178,
-      "is_current_employee": false,
-      "review_date": "2023-08-08",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Software Quality Engineer",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Work Satisfaction at Ezetap is good.",
-      "cons": "No Comment",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": false,
-      "review_date": "2022-10-05",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Technical Program Manager",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "none",
-      "cons": "Lack of leadership in program management team",
-      "sentiment": "positive",
-      "sentiment_score": 0.2411,
-      "is_current_employee": false,
-      "review_date": "2022-09-12",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Lead, HR Operation",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Company culture and policy",
-      "cons": "No learning and development",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-02-27",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Risk Analyst",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "> Flexible work Culture.\n> Transparent work.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.2263,
-      "is_current_employee": true,
-      "review_date": "2022-06-13",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Solution Engineer",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Excellent culture and learning",
-      "cons": "Not such but time",
-      "sentiment": "positive",
-      "sentiment_score": 0.3291,
-      "is_current_employee": false,
-      "review_date": "2022-06-15",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "It's a great company to work with.",
-      "cons": "N/A",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2022-04-06",
       "quality_score": 0.28
     },
     {
@@ -4744,58 +3704,6 @@
       "sentiment_score": 0.7003,
       "is_current_employee": false,
       "review_date": "2023-11-11",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Production Engineer",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Good wlb and culture",
-      "cons": "Na na na",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2023-06-21",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Talent Acquisition Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Culture\nWork Environment",
-      "cons": "No cons as such",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2022-12-23",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Razorpay Customer Care Number O7OO 1818022",
-      "location": null,
-      "rating": 4.0,
-      "pros": "Good payment releted",
-      "cons": "Bad service team regarding",
-      "sentiment": "negative",
-      "sentiment_score": -0.1531,
-      "is_current_employee": false,
-      "review_date": "2022-10-23",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Lead- Work force Management",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Complete employee centric company",
-      "cons": "Nothing so far",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-08-29",
       "quality_score": 0.27
     },
     {
@@ -5138,84 +4046,6 @@
     },
     {
       "title": null,
-      "role": "Product Designer",
-      "location": null,
-      "rating": 4.0,
-      "pros": "company culture, people",
-      "cons": "nothing as such",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-09-08",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager T&Q",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Work culture",
-      "cons": "Senior management constant changes",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-09-11",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Product Support Engineer",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Its a fast growing company",
-      "cons": "None",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2023-04-25",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Junior Analyst",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Good culture",
-      "cons": "Nothing as of now",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-10-28",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "nicely ",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Yes my fevret compny",
-      "cons": "Very nich",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2022-12-03",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Lucknow",
-      "rating": 5.0,
-      "pros": "Work culture and Job satisfaction",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-07-22",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "Business Operations Executive",
       "location": "Bengaluru",
       "rating": 3.0,
@@ -5528,71 +4358,6 @@
     },
     {
       "title": null,
-      "role": "Incident Engineer",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Salary and Benefits",
-      "cons": "Working hours",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": true,
-      "review_date": "2024-01-07",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Associate Manager - Process Excellence & Product Management",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Nothing such",
-      "cons": "Vague  Leadership vision",
-      "sentiment": "positive",
-      "sentiment_score": 0.3173,
-      "is_current_employee": true,
-      "review_date": "2023-12-21",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Software Developer Intern",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "work and the Culture",
-      "cons": "NA",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-09-11",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "fintech analyst",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Work life balance",
-      "cons": "Unorganized company,",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-07-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Customer Service Executive",
-      "location": "Garvebhavi Palya",
-      "rating": 3.0,
-      "pros": "Changed process worst experience",
-      "cons": "Nothing",
-      "sentiment": "negative",
-      "sentiment_score": -0.6249,
-      "is_current_employee": false,
-      "review_date": "2022-05-17",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "Finance Executive",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -5602,32 +4367,6 @@
       "sentiment_score": 0.5413,
       "is_current_employee": true,
       "review_date": "2025-12-19",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "ANALYST, LIVE CHAT",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good working cultural",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-05-11",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Junior Analyst",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Employee centricity",
-      "cons": "Workforce management",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-05-30",
       "quality_score": 0.24
     },
     {
@@ -5693,19 +4432,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": false,
       "review_date": "2020-06-06",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Associate Account Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "It's culture, Amazing!",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.6239,
-      "is_current_employee": false,
-      "review_date": "2022-05-04",
       "quality_score": 0.23
     },
     {
@@ -5784,19 +4510,6 @@
       "sentiment_score": 0.128,
       "is_current_employee": false,
       "review_date": "2019-05-29",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Team Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Skill development",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-03-10",
       "quality_score": 0.22
     },
     {
@@ -5908,6 +4621,16 @@
       "sample_count": null
     },
     {
+      "role": "Senior Software Development Engineer",
+      "location": null,
+      "min_salary": 2500000,
+      "max_salary": 4174553,
+      "avg_salary": 3450857,
+      "currency": "INR",
+      "experience": "2-8 years",
+      "sample_count": null
+    },
+    {
       "role": "Analytics Specialist",
       "location": null,
       "min_salary": 1200000,
@@ -5928,16 +4651,6 @@
       "sample_count": null
     },
     {
-      "role": "Senior Software Development Engineer",
-      "location": null,
-      "min_salary": 2500000,
-      "max_salary": 4174553,
-      "avg_salary": 3450857,
-      "currency": "INR",
-      "experience": "2-8 years",
-      "sample_count": null
-    },
-    {
       "role": "Front end Developer",
       "location": null,
       "min_salary": 1200000,
@@ -5948,16 +4661,6 @@
       "sample_count": null
     },
     {
-      "role": "Business Analyst",
-      "location": null,
-      "min_salary": 365000,
-      "max_salary": 1040000,
-      "avg_salary": 634121,
-      "currency": "INR",
-      "experience": "0-3 years",
-      "sample_count": null
-    },
-    {
       "role": "Data Analyst",
       "location": null,
       "min_salary": 600000,
@@ -5965,6 +4668,16 @@
       "avg_salary": 940456,
       "currency": "INR",
       "experience": "0-4 years",
+      "sample_count": null
+    },
+    {
+      "role": "Business Analyst",
+      "location": null,
+      "min_salary": 365000,
+      "max_salary": 1040000,
+      "avg_salary": 634121,
+      "currency": "INR",
+      "experience": "0-3 years",
       "sample_count": null
     },
     {
@@ -6140,20 +4853,2227 @@
       "details": "Under the policy, Razorpay will provide continued financial support to the employee’s immediate family in case of an unfortunate demise."
     }
   ],
-  "_scraped_at": "2026-04-10T16:48:50.201920+00:00",
+  "interviews": [
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    },
+    {
+      "role": "HR Executive",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience in Employee engagement",
+          "answer": null
+        },
+        {
+          "question": "HR Operations experiance",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-01 14:50:07"
+    },
+    {
+      "role": "KYC Analyst",
+      "difficulty": "easy",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Demo KYC in english and hindi.",
+          "answer": null
+        },
+        {
+          "question": "Why do you think KYC is important for the company?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-02 02:44:05"
+    },
+    {
+      "role": "Lead Software Engineer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vibe coding for working notification system",
+          "answer": null
+        },
+        {
+          "question": "HLD for genai workflow",
+          "answer": null
+        },
+        {
+          "question": "Nothing was asked there",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Doc sharing app",
+          "answer": null
+        },
+        {
+          "question": "In memory database",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 02:16:27"
+    },
+    {
+      "role": "Branding Intern",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What would be the first action you would take upon securing the job?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you plan to implement for branding the company from a hiring perspective?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-11 11:56:13"
+    },
+    {
+      "role": "Business Operations Associate",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "tell me something about yourself",
+          "answer": null
+        },
+        {
+          "question": "why you are living your current rol ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-14 23:21:26"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Coding Test, Coding Test, Behavioral",
+      "questions": [],
+      "review_date": "2024-11-27 18:05:33"
+    },
+    {
+      "role": "Operations Analyst",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-09-24 15:23:29"
+    },
+    {
+      "role": "Product Manager 2",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-11-13 07:08:16"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions based on joins",
+          "answer": null
+        },
+        {
+          "question": "Advance Excel and functions of it",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-04 01:21:32"
+    }
+  ],
+  "_scraped_at": "2026-04-12T14:59:43.452250+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Razorpay",
   "_registry_industry": "Fintech",
   "_sentiment": {
-    "positiveCount": 288,
-    "negativeCount": 101,
-    "neutralCount": 58,
+    "positiveCount": 216,
+    "negativeCount": 84,
+    "neutralCount": 48,
     "topPositiveThemes": [
       "company culture",
       "salary & compensation",
       "career growth",
-      "benefits",
-      "training"
+      "training",
+      "benefits"
     ],
     "topNegativeThemes": [
       "company culture",

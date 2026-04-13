@@ -65,6 +65,7 @@ async def scrape_company(
     company: dict,
     max_review_pages: int = 2,
     max_salary_roles: int = 8,
+    max_interview_pages: int = 50,
 ) -> dict | None:
     """Scrape a single company and return the data dict, or None on failure."""
     slug = company["slug"]
@@ -77,14 +78,23 @@ async def scrape_company(
         data = await scraper.scrape_company(slug, max_review_pages=max_review_pages, max_salary_roles=max_salary_roles)
         result = data.model_dump()
 
+        # Also scrape interviews (best-effort — don't fail if it errors)
+        try:
+            interviews = await scraper.scrape_interviews(slug, max_pages=max_interview_pages)
+            result["interviews"] = [iv.model_dump() for iv in interviews]
+        except Exception as ie:
+            print(f"[interview scrape failed: {ie}]", end=" ")
+            result["interviews"] = []
+
         elapsed = round(time.time() - start, 1)
         review_count = len(result.get("reviews", []))
         salary_count = len(result.get("salaries", []))
         benefit_count = len(result.get("benefits", []))
+        interview_count = len(result.get("interviews", []))
 
         print(
             f"OK ({elapsed}s) — "
-            f"{review_count} reviews, {salary_count} salaries, {benefit_count} benefits"
+            f"{review_count} reviews, {salary_count} salaries, {benefit_count} benefits, {interview_count} interviews"
         )
         return result
 
@@ -97,6 +107,7 @@ async def run_batch(
     companies: list[dict],
     max_review_pages: int = 2,
     max_salary_roles: int = 8,
+    max_interview_pages: int = 50,
 ):
     """Scrape a list of companies and save results."""
     SCRAPED_DIR.mkdir(parents=True, exist_ok=True)
@@ -122,7 +133,7 @@ async def run_batch(
             print(f"[{i}/{total}]", end=" ")
 
             result = await scrape_company(
-                scraper, company, max_review_pages, max_salary_roles
+                scraper, company, max_review_pages, max_salary_roles, max_interview_pages
             )
 
             if result:
@@ -149,6 +160,7 @@ async def run_batch(
                     "reviews": len(result.get("reviews", [])),
                     "salaries": len(result.get("salaries", [])),
                     "benefits": len(result.get("benefits", [])),
+                    "interviews": len(result.get("interviews", [])),
                 }
                 succeeded += 1
             else:
@@ -188,6 +200,14 @@ async def run_batch(
                     result["_source"] = "ambitionbox"
                     result["_registry_name"] = name
                     result["_registry_industry"] = company.get("industry", "")
+
+                    if "interviews" not in result:
+                        try:
+                            from scrapers.ambitionbox import AmbitionBoxScraper as _ABS
+                            _iv = await scraper.scrape_interviews(slug, max_pages=50)
+                            result["interviews"] = [iv.model_dump() for iv in _iv]
+                        except Exception:
+                            result["interviews"] = []
 
                     output_path = SCRAPED_DIR / f"{slug}.json"
                     with open(output_path, "w") as f:
@@ -230,6 +250,7 @@ def main():
                         help="Comma-separated list of slugs to scrape (overrides --all/--failed)")
     parser.add_argument("--max-reviews", type=int, default=2, help="Max review pages per company (default: 2)")
     parser.add_argument("--max-salaries", type=int, default=8, help="Max salary roles per company (default: 8)")
+    parser.add_argument("--max-interview-pages", type=int, default=50, help="Max interview pages per company (default: 50 = up to 500 interviews)")
 
     args = parser.parse_args()
     registry = load_registry()
@@ -261,7 +282,7 @@ def main():
     else:
         parser.error("Provide one of: --all, --failed, --company, --slugs")
 
-    asyncio.run(run_batch(companies, args.max_reviews, args.max_salaries))
+    asyncio.run(run_batch(companies, args.max_reviews, args.max_salaries, args.max_interview_pages))
 
 
 if __name__ == "__main__":

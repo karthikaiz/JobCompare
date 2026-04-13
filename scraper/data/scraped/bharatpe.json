@@ -8,11 +8,11 @@
   "founded": 2018,
   "website": "https://bharatpe.com/",
   "overall_rating": 3.5,
-  "work_life_balance": 3.61,
-  "salary_benefits": 3.54,
-  "job_security": 3.15,
-  "career_growth": 2.93,
-  "company_culture": 3.29,
+  "work_life_balance": 3.62,
+  "salary_benefits": 3.55,
+  "job_security": 3.17,
+  "career_growth": 2.94,
+  "company_culture": 3.3,
   "reviews": [
     {
       "title": null,
@@ -172,19 +172,6 @@
     },
     {
       "title": null,
-      "role": "Bharatpe Field Sales Executive",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Get more money like other G-/Pay, Phonepe,Paytm and etc",
-      "cons": "JB covid k daur pr company ko achhe field sales executive ko Kuch amount dena chahiye jisse servibe KR ske Jo companies ke sath kafi time se Jude hue h....abhi meri halat kharab h lockdown ki wajah se market khuli nhi account me paise nhi rent Khana peena muskil ho rha h Kuch minimum amount Dene chaiye unhe",
-      "sentiment": "positive",
-      "sentiment_score": 0.4173,
-      "is_current_employee": false,
-      "review_date": "2021-05-03",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Bcom",
       "location": "Bengaluru",
       "rating": 5.0,
@@ -237,32 +224,6 @@
     },
     {
       "title": null,
-      "role": "Territory Manager",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Good work environment and culture. Teammates are supportive and the management is transparent.",
-      "cons": "There is a lot of politics and the management doesn’t address our issues. Salary is decent but career growth is slow. There is a bond of 2 years before which you cannot resign. On the job training is not given to new joinees.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8178,
-      "is_current_employee": false,
-      "review_date": "2020-09-02",
-      "quality_score": 0.76
-    },
-    {
-      "title": null,
-      "role": "Factory Manager",
-      "location": "Rohtak",
-      "rating": 1.0,
-      "pros": "ye loh bhut hi juthe h or ghatya h",
-      "cons": "ye bharat pe wale log bhut ji juthe or ghatya kisham ke admi h,In logo ki baato me koi b mut ana ye log apna product pachne k leya kisi b hud tuk b gir skte h,Is company ke log bhut hi neach or gire hue h",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-12-21",
-      "quality_score": 0.76
-    },
-    {
-      "title": null,
       "role": "Data Scientist",
       "location": null,
       "rating": 1.0,
@@ -272,19 +233,6 @@
       "sentiment_score": -0.5277,
       "is_current_employee": false,
       "review_date": "2024-12-13",
-      "quality_score": 0.75
-    },
-    {
-      "title": null,
-      "role": "Software Engineer",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Nothing to like",
-      "cons": "Its a family busines.. you are a bonded labour and you are forced to work from office during lockdown\nTerrible or no wprk culture, like a labour you treat your employees.. you force them to work 10 hrs a day\nMnaagement is pathetic. family business of ceo.. better open a ration shop",
-      "sentiment": "negative",
-      "sentiment_score": -0.7193,
-      "is_current_employee": false,
-      "review_date": "2021-03-21",
       "quality_score": 0.75
     },
     {
@@ -302,19 +250,6 @@
     },
     {
       "title": null,
-      "role": "Escalation Engineer",
-      "location": "Malviya nagar",
-      "rating": 5.0,
-      "pros": "Working environment and corporate with each other",
-      "cons": "I have good experience from Bharatpe , I have learner a lots , that was best job experience of my life , I want to work again there , due to our process closed in Bharatpe I lost my job .",
-      "sentiment": "positive",
-      "sentiment_score": 0.7269,
-      "is_current_employee": false,
-      "review_date": "2021-07-09",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
       "role": "Senior Area Sales Manager",
       "location": "Zirakpur",
       "rating": 4.0,
@@ -324,19 +259,6 @@
       "sentiment_score": 0.7506,
       "is_current_employee": false,
       "review_date": "2022-04-08",
-      "quality_score": 0.67
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "Don't waste your time here, uncultured employees and seniors, I was working in this company when felt sick and tested covid positive that time they pressured me to compete my target, and i didn't get the salary of that month,  worst experience",
-      "cons": "nothing to be like here",
-      "sentiment": "negative",
-      "sentiment_score": -0.6681,
-      "is_current_employee": false,
-      "review_date": "2021-06-16",
       "quality_score": 0.67
     },
     {
@@ -432,19 +354,6 @@
     },
     {
       "title": null,
-      "role": "Assistant Manager/Manager-(Nontechnical)",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Yes I'm working with BharatPe from last 2 year,  The first benefit of working in a startup is learning amd growth",
-      "cons": "We have a seperate team, so basically we we really don't like so we implement as per our requirement 😂😂😂",
-      "sentiment": "positive",
-      "sentiment_score": 0.9275,
-      "is_current_employee": false,
-      "review_date": "2021-04-20",
-      "quality_score": 0.61
-    },
-    {
-      "title": null,
       "role": "State Head",
       "location": "Chandigarh",
       "rating": 2.0,
@@ -484,32 +393,6 @@
     },
     {
       "title": null,
-      "role": "Team Lead",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Nature of working is good only thing is payout structure only based on performance",
-      "cons": "There is lots of politics the management and reporting manager is not look into our performance the company is provided growth only to their support",
-      "sentiment": "positive",
-      "sentiment_score": 0.802,
-      "is_current_employee": false,
-      "review_date": "2021-08-13",
-      "quality_score": 0.59
-    },
-    {
-      "title": null,
-      "role": "Manager / Sr Manager - Administration",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "Its a company with no managment skills",
-      "cons": "I will never recommend to any one and will never recommend to use products also , always delaying customers money in returning doing frauds with customers and earning money with complicated policies",
-      "sentiment": "negative",
-      "sentiment_score": -0.828,
-      "is_current_employee": false,
-      "review_date": "2021-03-22",
-      "quality_score": 0.59
-    },
-    {
-      "title": null,
       "role": "Team Leader (Technical)",
       "location": "Hyderabad",
       "rating": 2.0,
@@ -545,32 +428,6 @@
       "sentiment_score": 0.2732,
       "is_current_employee": false,
       "review_date": "2023-07-03",
-      "quality_score": 0.58
-    },
-    {
-      "title": null,
-      "role": "Team Leader Quality",
-      "location": null,
-      "rating": 1.0,
-      "pros": "The salary was good !",
-      "cons": "The staff was very bad characters. \nLike these team leaders and team manager  these peoples didnt pay Our 1 to 1.5 month Salary. To the all working peoples in company as a fsc.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3525,
-      "is_current_employee": false,
-      "review_date": "2023-08-25",
-      "quality_score": 0.58
-    },
-    {
-      "title": null,
-      "role": "Territory Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "1st up all thanks BharatPe really I am happy because learning more different  different knowledge. And company is high transactions and instantly amount Sattelment policy  here and I like also that management so good and cool.",
-      "cons": "Nothing special",
-      "sentiment": "positive",
-      "sentiment_score": 0.9247,
-      "is_current_employee": false,
-      "review_date": "2019-11-19",
       "quality_score": 0.58
     },
     {
@@ -640,32 +497,6 @@
     },
     {
       "title": null,
-      "role": "Sales Executive",
-      "location": "Hyderabad",
-      "rating": 1.0,
-      "pros": "Wasting of my time",
-      "cons": "They did not provide the salary what they promised and they dont pay incentives also but they mention for consultant they will pay that much of amount but they are not paying",
-      "sentiment": "negative",
-      "sentiment_score": -0.2577,
-      "is_current_employee": false,
-      "review_date": "2019-11-01",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
-      "role": "Outbound Executive",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "that was an amazing place.it was vry loving to work there.",
-      "cons": "only they have some techinecal issues related to their working sites due to that we had to face problems sometimes otherwise everything was perfect",
-      "sentiment": "positive",
-      "sentiment_score": 0.8658,
-      "is_current_employee": false,
-      "review_date": "2020-10-13",
-      "quality_score": 0.55
-    },
-    {
-      "title": null,
       "role": "FSE",
       "location": "Amroha",
       "rating": 3.0,
@@ -675,19 +506,6 @@
       "sentiment_score": 0.5508,
       "is_current_employee": false,
       "review_date": "2023-11-04",
-      "quality_score": 0.54
-    },
-    {
-      "title": null,
-      "role": "Sales Manager",
-      "location": "Jaipur",
-      "rating": 1.0,
-      "pros": "Their is no growth for any fse agent. Their is good salary but no future in this company for any fse agent.",
-      "cons": "Theire is no growth and not a fix income for fse agent.",
-      "sentiment": "negative",
-      "sentiment_score": -0.6391,
-      "is_current_employee": false,
-      "review_date": "2021-05-09",
       "quality_score": 0.54
     },
     {
@@ -757,19 +575,6 @@
     },
     {
       "title": null,
-      "role": "Field Sales Executive",
-      "location": "Nagpur",
-      "rating": 4.0,
-      "pros": "Working for BharatPe is a good experience, having lot of learning and developing skills like direct selling, insurance and loan selling. Also good earning chance..",
-      "cons": "Very low incentive and no job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.7543,
-      "is_current_employee": false,
-      "review_date": "2020-12-09",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
       "role": "Area Sales Manager",
       "location": "Pune",
       "rating": 2.0,
@@ -796,32 +601,6 @@
     },
     {
       "title": null,
-      "role": "Field Sales Executive",
-      "location": "Ludhiana",
-      "rating": 5.0,
-      "pros": "They are providing good salary",
-      "cons": "They don't understand our problem \nWhat the situation right now \nToday it's raining\nBut Bharat pe senior  don't understand \nThey only need number of onboarding",
-      "sentiment": "positive",
-      "sentiment_score": 0.4641,
-      "is_current_employee": false,
-      "review_date": "2019-12-12",
-      "quality_score": 0.5
-    },
-    {
-      "title": null,
-      "role": "Maintenance Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Good morning my love you too my love you too my love you too my love you too my love",
-      "cons": "I am a beautiful person who is this still available",
-      "sentiment": "positive",
-      "sentiment_score": 0.9831,
-      "is_current_employee": false,
-      "review_date": "2023-06-06",
-      "quality_score": 0.5
-    },
-    {
-      "title": null,
       "role": "Operations Manager",
       "location": "Gurugram",
       "rating": 3.0,
@@ -844,19 +623,6 @@
       "sentiment_score": -0.6749,
       "is_current_employee": false,
       "review_date": "2024-07-12",
-      "quality_score": 0.49
-    },
-    {
-      "title": null,
-      "role": "Bharat Pe",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Bharat pe is indian application very useful and wonderful app our indian shopkeepers\nAnd salary very high \nVery interesting app \nLoan , runs \nI order Rohit sharma sign bat😍",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.9248,
-      "is_current_employee": false,
-      "review_date": "2021-03-25",
       "quality_score": 0.49
     },
     {
@@ -965,32 +731,6 @@
     },
     {
       "title": null,
-      "role": "Bharat Pe FOS",
-      "location": "Bhilai Nagar",
-      "rating": 5.0,
-      "pros": "It's free and fair way for working without hesitation about work, supportive TL group, flexibility in working hours, Nice salary package.",
-      "cons": "I left bharat pe due to pendamic.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9155,
-      "is_current_employee": false,
-      "review_date": "2022-01-15",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Seles Executive",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "This company is very very good for me \nAnd my all seniors good and honest so I am like warming at bharat pe",
-      "cons": "I like warming at bharatpe",
-      "sentiment": "positive",
-      "sentiment_score": 0.9445,
-      "is_current_employee": false,
-      "review_date": "2019-01-16",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
       "role": "Territory Manager",
       "location": "Hyderabad",
       "rating": 3.0,
@@ -1000,19 +740,6 @@
       "sentiment_score": -0.8758,
       "is_current_employee": false,
       "review_date": "2020-08-16",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
-      "role": "Field Engineer",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "The company which I have choose is super company with high qualities.",
-      "cons": "The work pressure is so high because iam not getting my lead about my area.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2019-11-07",
       "quality_score": 0.47
     },
     {
@@ -1043,19 +770,6 @@
     },
     {
       "title": null,
-      "role": "Field Sales Executive",
-      "location": "Hubballi",
-      "rating": 3.0,
-      "pros": "I'm satisfied with working in Bharat pe, but salary is not fixed ,.",
-      "cons": "Salary is not fixed , always changes  with respective to every month",
-      "sentiment": "positive",
-      "sentiment_score": 0.6808,
-      "is_current_employee": false,
-      "review_date": "2021-08-05",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
       "role": "Senior Manager",
       "location": "Gurugram",
       "rating": 3.0,
@@ -1065,19 +779,6 @@
       "sentiment_score": -0.1027,
       "is_current_employee": false,
       "review_date": "2024-10-18",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Team Manager",
-      "location": null,
-      "rating": 5.0,
-      "pros": "It has a good gesture towards their employees and a good atmosphere as well.",
-      "cons": "Compensation is decent but growth is slow which is good.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8934,
-      "is_current_employee": false,
-      "review_date": "2019-11-29",
       "quality_score": 0.44
     },
     {
@@ -1173,19 +874,6 @@
     },
     {
       "title": null,
-      "role": "Territory Manager",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Very bad culture\nNo career growth",
-      "cons": "There is a lot of politics and the management sallery is not pay on time",
-      "sentiment": "negative",
-      "sentiment_score": -0.7989,
-      "is_current_employee": false,
-      "review_date": "2021-12-03",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
       "role": "Area Sales Manager",
       "location": "Pune",
       "rating": 3.0,
@@ -1238,32 +926,6 @@
     },
     {
       "title": null,
-      "role": "Field Executive",
-      "location": "Madhapur",
-      "rating": 5.0,
-      "pros": "Good work environment and culture. Teammates are supportive and the management is transparent. Company policies are good.,",
-      "cons": "Not increasing salaries",
-      "sentiment": "positive",
-      "sentiment_score": 0.7906,
-      "is_current_employee": false,
-      "review_date": "2020-11-01",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Vemulawada",
-      "rating": 3.0,
-      "pros": "No support at...im working hard in lock down... But I'm getting salary 1900...very low salary",
-      "cons": "Salary low in may month",
-      "sentiment": "negative",
-      "sentiment_score": -0.7294,
-      "is_current_employee": false,
-      "review_date": "2020-06-30",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
       "role": "Product Designer",
       "location": "Gurugram",
       "rating": 1.0,
@@ -1273,32 +935,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": false,
       "review_date": "2024-07-11",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Territory Sales Manager",
-      "location": "Meerut",
-      "rating": 1.0,
-      "pros": "apni life ki sabse bada experience",
-      "cons": "aap apni sabse choti kadi ko bajbot le kr nahi chal rahe ho",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-05-02",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager Key Accounts",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "I would never recommend anyone to work for Bharatpe because of job security and bad management",
-      "cons": "Work culture, management",
-      "sentiment": "negative",
-      "sentiment_score": -0.4956,
-      "is_current_employee": false,
-      "review_date": "2021-02-16",
       "quality_score": 0.39
     },
     {
@@ -1416,19 +1052,6 @@
       "sentiment_score": 0.1779,
       "is_current_employee": false,
       "review_date": "2021-03-31",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Not so good not so bad",
-      "cons": "Again my answer is same good vibes little bad vibes more",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0354,
-      "is_current_employee": false,
-      "review_date": "2019-12-25",
       "quality_score": 0.37
     },
     {
@@ -1628,45 +1251,6 @@
     },
     {
       "title": null,
-      "role": "Bharatpe",
-      "location": "Lucknow",
-      "rating": 2.0,
-      "pros": "Very poor company and not paying employees selery",
-      "cons": "Very bad company not provide employees selery",
-      "sentiment": "negative",
-      "sentiment_score": -0.8012,
-      "is_current_employee": false,
-      "review_date": "2021-04-26",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Field Service Executive",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Pls i need a job help me",
-      "cons": "Really good company but not career this company",
-      "sentiment": "positive",
-      "sentiment_score": 0.476,
-      "is_current_employee": false,
-      "review_date": "2020-06-18",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Hyderabad",
-      "rating": 3.0,
-      "pros": "No security for job nothing always pushes from back ,always shouts on team leaders ..",
-      "cons": "",
-      "sentiment": "negative",
-      "sentiment_score": -0.2584,
-      "is_current_employee": false,
-      "review_date": "2020-09-11",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
       "role": "Assistant Manager",
       "location": "Gurugram",
       "rating": 2.0,
@@ -1758,19 +1342,6 @@
     },
     {
       "title": null,
-      "role": "Strategic Account Manager",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Fast paced organisation to work and grow with. Immense learning opportunities.",
-      "cons": "Nothing as such.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2021-09-22",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Senior Sales Officer",
       "location": "Jaipur",
       "rating": 4.0,
@@ -1806,19 +1377,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2022-09-28",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "FSE",
-      "location": "Karimganj",
-      "rating": 3.0,
-      "pros": "Bharatpe need to change the payment system..",
-      "cons": "Payment is very not that good",
-      "sentiment": "negative",
-      "sentiment_score": -0.3959,
-      "is_current_employee": false,
-      "review_date": "2022-04-09",
       "quality_score": 0.33
     },
     {
@@ -1953,19 +1511,6 @@
     },
     {
       "title": null,
-      "role": "Sales Team Lead Manager",
-      "location": null,
-      "rating": 4.0,
-      "pros": "Incentives / team",
-      "cons": "To much work load everytime have new new targets",
-      "sentiment": "positive",
-      "sentiment_score": 0.3182,
-      "is_current_employee": false,
-      "review_date": "2022-08-31",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
       "role": "Area Sales Manager",
       "location": "Kolkata",
       "rating": 1.0,
@@ -2079,97 +1624,6 @@
       "sentiment_score": 0.5706,
       "is_current_employee": false,
       "review_date": "2022-07-30",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Vice President Business Development",
-      "location": "South Delhi",
-      "rating": 3.0,
-      "pros": "Learning of new aspects of business",
-      "cons": "The culture and job insecurity",
-      "sentiment": "negative",
-      "sentiment_score": -0.4215,
-      "is_current_employee": false,
-      "review_date": "2021-11-14",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Chennai",
-      "rating": 2.0,
-      "pros": "Improve skills",
-      "cons": "Salary delay not proper response didn't get full salary",
-      "sentiment": "positive",
-      "sentiment_score": 0.1531,
-      "is_current_employee": false,
-      "review_date": "2022-05-31",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "ASM",
-      "location": "Manglore",
-      "rating": 5.0,
-      "pros": "Earnings are too good",
-      "cons": "We dislike about removing on-board and tax",
-      "sentiment": "positive",
-      "sentiment_score": 0.0772,
-      "is_current_employee": false,
-      "review_date": "2021-04-13",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Medical Social Worker and Psychiatric Social Worker",
-      "location": "Biswanath chariali",
-      "rating": 5.0,
-      "pros": "I 2014 to 2021 BJP workers membership.Bhart mata ki jay.Jay hind.",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-02-16",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Seles Executive",
-      "location": "Jodhpur",
-      "rating": 5.0,
-      "pros": "Fabulous",
-      "cons": "Dislike is company employee talk cheep not like limited company",
-      "sentiment": "positive",
-      "sentiment_score": 0.0915,
-      "is_current_employee": false,
-      "review_date": "2020-02-01",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Bhartpe",
-      "location": null,
-      "rating": 4.0,
-      "pros": "Kam korka aisa laga",
-      "cons": "Koi koi somoisa ka samadhan nahi milta",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-07-25",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Territory Sales Manager",
-      "location": "Lucknow",
-      "rating": 5.0,
-      "pros": "If you want a stable job please don't join..",
-      "cons": "Many things...",
-      "sentiment": "positive",
-      "sentiment_score": 0.4427,
-      "is_current_employee": false,
-      "review_date": "2020-05-03",
       "quality_score": 0.31
     },
     {
@@ -2326,58 +1780,6 @@
       "sentiment_score": -0.7351,
       "is_current_employee": false,
       "review_date": "2023-09-20",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Field Executive",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Job is best not job security",
-      "cons": "Best company of india",
-      "sentiment": "negative",
-      "sentiment_score": -0.0526,
-      "is_current_employee": false,
-      "review_date": "2021-11-20",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Area Sales Executive",
-      "location": "Hyderabad",
-      "rating": 4.0,
-      "pros": "My teammates are friendly nature and we enjoying the work",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.765,
-      "is_current_employee": false,
-      "review_date": "2020-05-29",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Nice place for work",
-      "cons": "Threre is nothing like tha dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.4356,
-      "is_current_employee": false,
-      "review_date": "2019-09-30",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Management Staff",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Nil don't join this company",
-      "cons": "Nil don't join this company",
-      "sentiment": "negative",
-      "sentiment_score": -0.4168,
-      "is_current_employee": false,
-      "review_date": "2023-08-04",
       "quality_score": 0.3
     },
     {
@@ -2625,19 +2027,6 @@
       "sentiment_score": 0.3612,
       "is_current_employee": false,
       "review_date": "2023-07-22",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Area Sales Manager",
-      "location": "Chandigarh",
-      "rating": 5.0,
-      "pros": "It's very good culture in company and supportive management",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.659,
-      "is_current_employee": false,
-      "review_date": "2021-03-25",
       "quality_score": 0.29
     },
     {
@@ -3032,32 +2421,6 @@
     },
     {
       "title": null,
-      "role": "MIS Executive",
-      "location": "Ahmedabad",
-      "rating": 4.0,
-      "pros": "Work Culture and very comfortable work environment",
-      "cons": "NAAAAAAAAAAAAAAAA",
-      "sentiment": "positive",
-      "sentiment_score": 0.5563,
-      "is_current_employee": false,
-      "review_date": "2021-11-01",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": "Mysuru",
-      "rating": 5.0,
-      "pros": "Good salery.  Growth.  Overall good exelent",
-      "cons": "Payment issues.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8126,
-      "is_current_employee": false,
-      "review_date": "2019-11-04",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
       "role": "Assistant Manager",
       "location": "Gurugram",
       "rating": 2.0,
@@ -3353,58 +2716,6 @@
       "sentiment_score": 0.7264,
       "is_current_employee": true,
       "review_date": "2022-05-10",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Prayagraj",
-      "rating": 5.0,
-      "pros": "Yas it is good pletform of arning",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-03-25",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Safety Officer",
-      "location": "Bhubaneswar",
-      "rating": 3.0,
-      "pros": "For employment and good work",
-      "cons": "Not dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.6229,
-      "is_current_employee": false,
-      "review_date": "2022-02-13",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Field Sales Executive",
-      "location": "Mysuru",
-      "rating": 2.0,
-      "pros": "It's a wrost company fr sales executive's",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2020-08-15",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Field Sales Executive",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Just it a part time job",
-      "cons": "Worest",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2020-12-27",
       "quality_score": 0.27
     },
     {
@@ -3773,42 +3084,16 @@
     },
     {
       "title": null,
-      "role": "Bharat pe customer service no7810890157",
-      "location": "Pnnjab",
+      "role": "Customer experience Manager",
+      "location": "Delhi",
       "rating": 4.0,
-      "pros": "All amount refunded",
-      "cons": "All amount refunded",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-07-29",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Field Executive",
-      "location": "Hsr",
-      "rating": 3.0,
-      "pros": "Salary not get correctly",
-      "cons": "Salary issues",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2020-07-17",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Field Sales Executive",
-      "location": "Ludhiana",
-      "rating": 3.0,
-      "pros": "Work but now market mostly competitive",
+      "pros": "Work culture and social environment",
       "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.2617,
-      "is_current_employee": false,
-      "review_date": "2021-07-13",
-      "quality_score": 0.26
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-04-06",
+      "quality_score": 0.25
     },
     {
       "title": null,
@@ -4085,110 +3370,6 @@
     },
     {
       "title": null,
-      "role": "Marketing Specialist",
-      "location": "Cg",
-      "rating": 2.0,
-      "pros": "Very worst company",
-      "cons": "Worst company",
-      "sentiment": "negative",
-      "sentiment_score": -0.8676,
-      "is_current_employee": false,
-      "review_date": "2022-06-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Tratrey Manager",
-      "location": "Shimla",
-      "rating": 5.0,
-      "pros": "Ol line payment",
-      "cons": "Himachal Pradesh",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-04-22",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "BD Executive",
-      "location": "Ahmedabad",
-      "rating": 3.0,
-      "pros": "Incentive",
-      "cons": "Hire & fire policy",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "is_current_employee": false,
-      "review_date": "2022-11-29",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Teritory Sales Officer",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Management good",
-      "cons": "Sending payment issues",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-02-24",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Field Sales Executive",
-      "location": null,
-      "rating": 4.0,
-      "pros": "Good work",
-      "cons": "Category wise work",
-      "sentiment": "positive",
-      "sentiment_score": 0.7184,
-      "is_current_employee": false,
-      "review_date": "2019-06-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Hyderabad",
-      "rating": 1.0,
-      "pros": "No",
-      "cons": "Worst not giving salary",
-      "sentiment": "positive",
-      "sentiment_score": 0.3089,
-      "is_current_employee": false,
-      "review_date": "2020-06-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Team Lead",
-      "location": null,
-      "rating": 3.0,
-      "pros": "Nice no issue",
-      "cons": "No issues",
-      "sentiment": "positive",
-      "sentiment_score": 0.3586,
-      "is_current_employee": false,
-      "review_date": "2023-06-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Accounts Payable Specialist",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Best app jii",
-      "cons": "No comments",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": false,
-      "review_date": "2023-03-26",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
       "role": "Area Sales Manager",
       "location": "Bareilly",
       "rating": 5.0,
@@ -4237,97 +3418,6 @@
       "sentiment_score": 0.4019,
       "is_current_employee": true,
       "review_date": "2025-06-14",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Field Sales Manager",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Company pramoter .",
-      "cons": "System",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-04-09",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Bharatpe Field Sales Executive",
-      "location": "Madhapur",
-      "rating": 4.0,
-      "pros": "Good Relationship",
-      "cons": "Higher salary",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2021-05-28",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Marketing Executive",
-      "location": "Dehli",
-      "rating": 5.0,
-      "pros": "Management system sports full",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-06-10",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "kurla west",
-      "location": null,
-      "rating": 2.0,
-      "pros": "Deepak gupta",
-      "cons": "Salary deduction",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2019-10-30",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Field Sales Executive",
-      "location": "Noida",
-      "rating": 4.0,
-      "pros": "Nice job",
-      "cons": "Nice job",
-      "sentiment": "positive",
-      "sentiment_score": 0.6808,
-      "is_current_employee": false,
-      "review_date": "2019-07-17",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Kolhapur ",
-      "location": "Kolhapur",
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "Fuchar nahi hai",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": true,
-      "review_date": "2024-03-13",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Innovative people",
-      "cons": "HR policies",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2023-12-16",
       "quality_score": 0.24
     },
     {
@@ -4410,84 +3500,6 @@
     },
     {
       "title": null,
-      "role": "Sales Executive",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Overall excellent",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.5719,
-      "is_current_employee": false,
-      "review_date": "2022-01-25",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Relationship Manager",
-      "location": "Malviya nagar , Delhi",
-      "rating": 2.0,
-      "pros": "Office environment",
-      "cons": "Exploitation",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2022-04-25",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Marketing Specialist",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Thanks to bharatpe",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-05-14",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "No never",
-      "cons": "Yes",
-      "sentiment": "negative",
-      "sentiment_score": -0.0693,
-      "is_current_employee": false,
-      "review_date": "2019-06-04",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Territory Sales Manager",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "Good Teammate",
-      "cons": "Politics",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2022-04-29",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "CPA",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Good learning",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2021-02-26",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
       "role": "Supply Chain Planner",
       "location": "Gurugram",
       "rating": 1.0,
@@ -4510,6 +3522,19 @@
       "sentiment_score": 0.4404,
       "is_current_employee": true,
       "review_date": "2026-02-13",
+      "quality_score": 0.22
+    },
+    {
+      "title": null,
+      "role": "Human Resource Operations Manager",
+      "location": "Gurugram",
+      "rating": 1.0,
+      "pros": "Noo",
+      "cons": "Naa",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "is_current_employee": true,
+      "review_date": "2026-02-10",
       "quality_score": 0.22
     },
     {
@@ -4644,110 +3669,6 @@
     },
     {
       "title": null,
-      "role": "Sales Executive",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Merchent",
-      "cons": "Transaction",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2021-10-27",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Kalaburagi",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "Good",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2021-05-09",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Hyderabad",
-      "rating": 2.0,
-      "pros": "****",
-      "cons": "****",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2019-11-07",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "On birding Executive",
-      "location": "Pune",
-      "rating": 2.0,
-      "pros": "Salary",
-      "cons": "Field",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2019-08-02",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Field Sales Officer",
-      "location": null,
-      "rating": 1.0,
-      "pros": "Not satisfied",
-      "cons": "",
-      "sentiment": "negative",
-      "sentiment_score": -0.3252,
-      "is_current_employee": false,
-      "review_date": "2019-04-24",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Deputy Key Accounts Sales Manager",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Everything",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2020-03-03",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Seles Executive",
-      "location": "Bhubaneswar",
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.128,
-      "is_current_employee": true,
-      "review_date": "2024-01-09",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Principal Engineer",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "",
-      "cons": "Leadership sucks",
-      "sentiment": "negative",
-      "sentiment_score": -0.3612,
-      "is_current_employee": true,
-      "review_date": "2023-12-24",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
       "role": "Area Sales Manager",
       "location": "Kochi",
       "rating": 5.0,
@@ -4822,32 +3743,6 @@
       "sentiment_score": 0.4215,
       "is_current_employee": true,
       "review_date": "2025-03-18",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Field Officer",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "No",
-      "cons": "",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2021-08-19",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Field Sales Executive",
-      "location": null,
-      "rating": 5.0,
-      "pros": "7",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2019-05-08",
       "quality_score": 0.21
     }
   ],
@@ -5053,25 +3948,616 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T17:02:31.261364+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Office cab/shuttle",
+      "details": "Reported by 5 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 3 employees (75% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 2 employees (67% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 5 employees (71% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Mental health wellbeing",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 6 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 5 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Rewards & recognition",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "International/On-site exposure",
+      "details": "Reported by 1 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": "Agency Coordinator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Excel work related",
+          "answer": null
+        },
+        {
+          "question": "Legal work related",
+          "answer": null
+        },
+        {
+          "question": "Some personal questions",
+          "answer": null
+        },
+        {
+          "question": "Some job related questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-12 10:44:38"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Already experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-25 23:13:18"
+    },
+    {
+      "role": "Sales Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How does a team leader get rewards?",
+          "answer": null
+        },
+        {
+          "question": "How does a boys get a name like Salary?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-18 17:54:53"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Data entry ke question",
+          "answer": null
+        },
+        {
+          "question": "Any questions wark",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-24 18:47:13"
+    },
+    {
+      "role": "Technical Lead",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "coding questions - leet code medium level on arrays",
+          "answer": null
+        },
+        {
+          "question": "Design questions, design subscription models like amazon prime",
+          "answer": null
+        },
+        {
+          "question": "How could you handle DB in distributed systems.",
+          "answer": "Managing databases in distributed systems requires strategies for consistency, availability, and partition tolerance.Use a distributed database like Cassandra or MongoDB for horizontal scalability.Implement data replication to ensure high availability and fault tolerance.Employ sharding to distribute data across multiple nodes, enhancing performance.Utilize eventual consistency models for better performance in systems like DynamoDB.Incorporate caching layers (e.g., Redis) to reduce database load and improve response times."
+        }
+      ],
+      "review_date": "2025-06-11 23:17:43"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why you want to switch from good pbc to bharat pe?",
+          "answer": "I seek to join Bharat Pe for its innovative approach and growth opportunities in the fintech sector, aligning with my career aspirations.Bharat Pe's focus on financial inclusion resonates with my passion for using technology to empower underserved communities.The dynamic work environment at Bharat Pe offers opportunities to tackle complex data challenges, enhancing my skills.I admire Bharat Pe's rapid growth and innovative solutions, such as QR code payments, which inspire me to contribute to impactful projects.Transitioning to Bharat Pe allows me to work with cutting-edge technologies and collaborate with talented professionals in the fintech space."
+        },
+        {
+          "question": "Current projectz",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-06-12 17:32:21"
+    },
+    {
+      "role": "SDE-2",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 12:36:13"
+    },
+    {
+      "role": "Seles Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience holder",
+          "answer": null
+        },
+        {
+          "question": "Hard work sell excutive",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-13 13:19:15"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Maximum Area in Histogram",
+          "answer": "Find the largest rectangular area in a histogram represented by an array of heights.Use a stack to keep track of the indices of the histogram bars.Iterate through each bar, pushing indices onto the stack until a shorter bar is found.When a shorter bar is found, pop from the stack and calculate the area with the popped height as the smallest height.The width is determined by the distance between the current index and the index of the new top of the stack after popping.Repeat until all bars are processed, ensuring to pop remaining indices from the stack."
+        },
+        {
+          "question": "Longest Common Subsequence",
+          "answer": "Longest Common Subsequence (LCS) finds the longest sequence present in both strings without rearranging characters.LCS is a classic dynamic programming problem.Example: For strings 'ABCBDAB' and 'BDCAB', LCS is 'BCAB' or 'BDAB'.The time complexity is O(m * n), where m and n are lengths of the two strings.A 2D array is typically used to store lengths of LCS for substrings."
+        }
+      ],
+      "review_date": "2025-04-16 15:31:14"
+    },
+    {
+      "role": "Territory Sales Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Team wark leadership",
+          "answer": null
+        },
+        {
+          "question": "Computer time management",
+          "answer": null
+        },
+        {
+          "question": "Field work qr",
+          "answer": null
+        },
+        {
+          "question": "Selas saund box",
+          "answer": null
+        },
+        {
+          "question": "Wship machine bar",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-12 09:46:10"
+    },
+    {
+      "role": "Agency Coordinator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Excel work related",
+          "answer": null
+        },
+        {
+          "question": "Legal work related",
+          "answer": null
+        },
+        {
+          "question": "Some personal questions",
+          "answer": null
+        },
+        {
+          "question": "Some job related questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-12 10:44:38"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Already experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-25 23:13:18"
+    },
+    {
+      "role": "Sales Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How does a team leader get rewards?",
+          "answer": null
+        },
+        {
+          "question": "How does a boys get a name like Salary?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-18 17:54:53"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Data entry ke question",
+          "answer": null
+        },
+        {
+          "question": "Any questions wark",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-24 18:47:13"
+    },
+    {
+      "role": "Technical Lead",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "coding questions - leet code medium level on arrays",
+          "answer": null
+        },
+        {
+          "question": "Design questions, design subscription models like amazon prime",
+          "answer": null
+        },
+        {
+          "question": "How could you handle DB in distributed systems.",
+          "answer": "Managing databases in distributed systems requires strategies for consistency, availability, and partition tolerance.Use a distributed database like Cassandra or MongoDB for horizontal scalability.Implement data replication to ensure high availability and fault tolerance.Employ sharding to distribute data across multiple nodes, enhancing performance.Utilize eventual consistency models for better performance in systems like DynamoDB.Incorporate caching layers (e.g., Redis) to reduce database load and improve response times."
+        }
+      ],
+      "review_date": "2025-06-11 23:17:43"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why you want to switch from good pbc to bharat pe?",
+          "answer": "I seek to join Bharat Pe for its innovative approach and growth opportunities in the fintech sector, aligning with my career aspirations.Bharat Pe's focus on financial inclusion resonates with my passion for using technology to empower underserved communities.The dynamic work environment at Bharat Pe offers opportunities to tackle complex data challenges, enhancing my skills.I admire Bharat Pe's rapid growth and innovative solutions, such as QR code payments, which inspire me to contribute to impactful projects.Transitioning to Bharat Pe allows me to work with cutting-edge technologies and collaborate with talented professionals in the fintech space."
+        },
+        {
+          "question": "Current projectz",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-06-12 17:32:21"
+    },
+    {
+      "role": "SDE-2",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 12:36:13"
+    },
+    {
+      "role": "Seles Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience holder",
+          "answer": null
+        },
+        {
+          "question": "Hard work sell excutive",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-13 13:19:15"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Maximum Area in Histogram",
+          "answer": "Find the largest rectangular area in a histogram represented by an array of heights.Use a stack to keep track of the indices of the histogram bars.Iterate through each bar, pushing indices onto the stack until a shorter bar is found.When a shorter bar is found, pop from the stack and calculate the area with the popped height as the smallest height.The width is determined by the distance between the current index and the index of the new top of the stack after popping.Repeat until all bars are processed, ensuring to pop remaining indices from the stack."
+        },
+        {
+          "question": "Longest Common Subsequence",
+          "answer": "Longest Common Subsequence (LCS) finds the longest sequence present in both strings without rearranging characters.LCS is a classic dynamic programming problem.Example: For strings 'ABCBDAB' and 'BDCAB', LCS is 'BCAB' or 'BDAB'.The time complexity is O(m * n), where m and n are lengths of the two strings.A 2D array is typically used to store lengths of LCS for substrings."
+        }
+      ],
+      "review_date": "2025-04-16 15:31:14"
+    },
+    {
+      "role": "Territory Sales Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Team wark leadership",
+          "answer": null
+        },
+        {
+          "question": "Computer time management",
+          "answer": null
+        },
+        {
+          "question": "Field work qr",
+          "answer": null
+        },
+        {
+          "question": "Selas saund box",
+          "answer": null
+        },
+        {
+          "question": "Wship machine bar",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-12 09:46:10"
+    },
+    {
+      "role": "Agency Coordinator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Excel work related",
+          "answer": null
+        },
+        {
+          "question": "Legal work related",
+          "answer": null
+        },
+        {
+          "question": "Some personal questions",
+          "answer": null
+        },
+        {
+          "question": "Some job related questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-12 10:44:38"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Already experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-25 23:13:18"
+    },
+    {
+      "role": "Sales Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How does a team leader get rewards?",
+          "answer": null
+        },
+        {
+          "question": "How does a boys get a name like Salary?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-18 17:54:53"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Data entry ke question",
+          "answer": null
+        },
+        {
+          "question": "Any questions wark",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-24 18:47:13"
+    },
+    {
+      "role": "Technical Lead",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "coding questions - leet code medium level on arrays",
+          "answer": null
+        },
+        {
+          "question": "Design questions, design subscription models like amazon prime",
+          "answer": null
+        },
+        {
+          "question": "How could you handle DB in distributed systems.",
+          "answer": "Managing databases in distributed systems requires strategies for consistency, availability, and partition tolerance.Use a distributed database like Cassandra or MongoDB for horizontal scalability.Implement data replication to ensure high availability and fault tolerance.Employ sharding to distribute data across multiple nodes, enhancing performance.Utilize eventual consistency models for better performance in systems like DynamoDB.Incorporate caching layers (e.g., Redis) to reduce database load and improve response times."
+        }
+      ],
+      "review_date": "2025-06-11 23:17:43"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why you want to switch from good pbc to bharat pe?",
+          "answer": "I seek to join Bharat Pe for its innovative approach and growth opportunities in the fintech sector, aligning with my career aspirations.Bharat Pe's focus on financial inclusion resonates with my passion for using technology to empower underserved communities.The dynamic work environment at Bharat Pe offers opportunities to tackle complex data challenges, enhancing my skills.I admire Bharat Pe's rapid growth and innovative solutions, such as QR code payments, which inspire me to contribute to impactful projects.Transitioning to Bharat Pe allows me to work with cutting-edge technologies and collaborate with talented professionals in the fintech space."
+        },
+        {
+          "question": "Current projectz",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-06-12 17:32:21"
+    },
+    {
+      "role": "SDE-2",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 12:36:13"
+    },
+    {
+      "role": "Seles Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience holder",
+          "answer": null
+        },
+        {
+          "question": "Hard work sell excutive",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-13 13:19:15"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Maximum Area in Histogram",
+          "answer": "Find the largest rectangular area in a histogram represented by an array of heights.Use a stack to keep track of the indices of the histogram bars.Iterate through each bar, pushing indices onto the stack until a shorter bar is found.When a shorter bar is found, pop from the stack and calculate the area with the popped height as the smallest height.The width is determined by the distance between the current index and the index of the new top of the stack after popping.Repeat until all bars are processed, ensuring to pop remaining indices from the stack."
+        },
+        {
+          "question": "Longest Common Subsequence",
+          "answer": "Longest Common Subsequence (LCS) finds the longest sequence present in both strings without rearranging characters.LCS is a classic dynamic programming problem.Example: For strings 'ABCBDAB' and 'BDCAB', LCS is 'BCAB' or 'BDAB'.The time complexity is O(m * n), where m and n are lengths of the two strings.A 2D array is typically used to store lengths of LCS for substrings."
+        }
+      ],
+      "review_date": "2025-04-16 15:31:14"
+    },
+    {
+      "role": "Territory Sales Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Team wark leadership",
+          "answer": null
+        },
+        {
+          "question": "Computer time management",
+          "answer": null
+        },
+        {
+          "question": "Field work qr",
+          "answer": null
+        },
+        {
+          "question": "Selas saund box",
+          "answer": null
+        },
+        {
+          "question": "Wship machine bar",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-12 09:46:10"
+    }
+  ],
+  "_scraped_at": "2026-04-12T15:17:30.820846+00:00",
   "_source": "ambitionbox",
   "_registry_name": "BharatPe",
   "_registry_industry": "Fintech",
   "_sentiment": {
-    "positiveCount": 218,
-    "negativeCount": 94,
-    "neutralCount": 60,
+    "positiveCount": 170,
+    "negativeCount": 75,
+    "neutralCount": 42,
     "topPositiveThemes": [
-      "salary & compensation",
       "company culture",
+      "salary & compensation",
       "management",
-      "career growth",
-      "work-life balance"
+      "work-life balance",
+      "career growth"
     ],
     "topNegativeThemes": [
-      "salary & compensation",
       "management",
+      "salary & compensation",
       "company culture",
       "career growth",
       "job security"

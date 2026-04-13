@@ -271,6 +271,17 @@ def format_for_sync(data: dict) -> dict:
             }
             for b in data.get("benefits", [])
         ],
+        "interviews": [
+            {
+                "role": iv.get("role"),
+                "difficulty": iv.get("difficulty"),
+                "experience": iv.get("experience"),
+                "process": iv.get("process"),
+                "questions": iv.get("questions", []),
+                "reviewDate": iv.get("review_date"),
+            }
+            for iv in data.get("interviews", [])
+        ],
     }
 
 
@@ -380,6 +391,8 @@ def process_company(file_path: Path, analyzer: SentimentIntensityAnalyzer, dry_r
 def main():
     parser = argparse.ArgumentParser(description="JobCompare Data Pipeline")
     parser.add_argument("--company", type=str, help="Process a single company by slug")
+    parser.add_argument("--slugs", type=str, default=None,
+                        help="Comma-separated slugs to process (only those files)")
     parser.add_argument("--dry-run", action="store_true", help="Analyze sentiment without syncing to DB")
     parser.add_argument("--sync-url", type=str, help="Override the sync API URL")
 
@@ -397,6 +410,18 @@ def main():
             print(f"No scraped data for '{args.company}'. Run batch.py first.")
             sys.exit(1)
         files = [file_path]
+    elif args.slugs:
+        slug_list = [s.strip() for s in args.slugs.split(",") if s.strip()]
+        files = []
+        for slug in slug_list:
+            fp = SCRAPED_DIR / f"{slug}.json"
+            if fp.exists():
+                files.append(fp)
+            else:
+                print(f"  WARNING: No scraped data for '{slug}' — skipping.")
+        if not files:
+            print("None of the requested slugs have scraped data.")
+            sys.exit(1)
     else:
         files = sorted(SCRAPED_DIR.glob("*.json"))
         if not files:

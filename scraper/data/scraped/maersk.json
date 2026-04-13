@@ -11,8 +11,8 @@
   "work_life_balance": 4.0,
   "salary_benefits": 3.71,
   "job_security": 3.59,
-  "career_growth": 3.06,
-  "company_culture": 3.96,
+  "career_growth": 3.07,
+  "company_culture": 3.95,
   "reviews": [
     {
       "title": null,
@@ -237,32 +237,6 @@
     },
     {
       "title": null,
-      "role": "Process Expert",
-      "location": "Navi Mumbai",
-      "rating": 5.0,
-      "pros": "I have worked with 3 more organizations but none of them can touch the level of this organization.\nThe kind of management, colleagues, fun games, team engaging activities, annual day participation to sports day, i have been part of all the things happening in the organizations and this is what i was looking for all my life, an organization where there is work but also other activities happens and people participate and this is what exactly Maersk is. 💯 employee centric.",
-      "cons": "There is a lot of work that is what I dislike sometimes but i love how i am very much occupied during my work hours and sometimes even after that 😄",
-      "sentiment": "positive",
-      "sentiment_score": 0.9595,
-      "is_current_employee": false,
-      "review_date": "2024-06-15",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Quality Engineer",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "only salary is good  \nWork from home facility",
-      "cons": "No job security they can fire anyone eventhough they do work very well. \nNo proper process within a team all tasks comes at a time and you will overloaded\nNo work life balance\nNo appreciation and certificates or motivation for good work \nTheir is no login and logout time as multiple teams are spreaded across different place in world so due to time zone you have to stretch",
-      "sentiment": "negative",
-      "sentiment_score": -0.5608,
-      "is_current_employee": true,
-      "review_date": "2024-02-29",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Assistant Manager",
       "location": "Mumbai",
       "rating": 2.0,
@@ -298,19 +272,6 @@
       "sentiment_score": -0.7996,
       "is_current_employee": false,
       "review_date": "2024-09-26",
-      "quality_score": 0.75
-    },
-    {
-      "title": null,
-      "role": "US Recruiter",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Work life balance",
-      "cons": "No job security, lot of partiality. They favor the people based out in UK, Europe more than India despite majority of the technical function being based here. Lot of racism, although they will deny. But just take look at the \"leadership\" and decide for yourself. Also leaders have no forethought or planning",
-      "sentiment": "negative",
-      "sentiment_score": -0.7444,
-      "is_current_employee": true,
-      "review_date": "2024-01-30",
       "quality_score": 0.75
     },
     {
@@ -364,19 +325,6 @@
       "is_current_employee": true,
       "review_date": "2026-02-25",
       "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Associate Finance Controller",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Maersk is hyped in Market, L4 don't respect below levels. Coz of lay off if u don't agree with manager he can give ur name for lay off and keep on saying everyday that u don't deserve the position  you are at. They hit self respect.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1441,
-      "is_current_employee": true,
-      "review_date": "2025-03-29",
-      "quality_score": 0.67
     },
     {
       "title": null,
@@ -467,19 +415,6 @@
       "sentiment_score": 0.3119,
       "is_current_employee": true,
       "review_date": "2025-02-19",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
-      "role": "Senior Quality Control Specialist",
-      "location": "Pune",
-      "rating": 2.0,
-      "pros": "Company stand by employees by every recession cyber attack any natural calamity or any global issue",
-      "cons": "Salary Pay perks only for outsiders that also for one time only salary hike very very slow or very less",
-      "sentiment": "negative",
-      "sentiment_score": -0.5859,
-      "is_current_employee": false,
-      "review_date": "2024-05-05",
       "quality_score": 0.56
     },
     {
@@ -796,19 +731,6 @@
     },
     {
       "title": null,
-      "role": "Process Expert",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "As women we have job security and if you have kids it is a good place to work and balance you personal life",
-      "cons": "Promotion and hike",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2024-09-17",
-      "quality_score": 0.46
-    },
-    {
-      "title": null,
       "role": "Senior Specialist",
       "location": "Mumbai",
       "rating": 5.0,
@@ -831,32 +753,6 @@
       "sentiment_score": 0.4019,
       "is_current_employee": false,
       "review_date": "2025-01-29",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
-      "role": "Senior Process Expert",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "",
-      "cons": "In SCM process the work load is too much where people extends daily more than 3-4hrs and even working on week off. Its a hell.",
-      "sentiment": "negative",
-      "sentiment_score": -0.6249,
-      "is_current_employee": true,
-      "review_date": "2025-05-23",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
-      "role": "Senior Specialist",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Maersk's policy and culture and overall as a company",
-      "cons": "Yes, I had few worst experience in my team but all that were about one person.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1779,
-      "is_current_employee": false,
-      "review_date": "2025-02-28",
       "quality_score": 0.45
     },
     {
@@ -952,32 +848,6 @@
     },
     {
       "title": null,
-      "role": "Associate Software Engineer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Apart from work and salary, everything else is good. WFH, good managers, supportive ecosystem",
-      "cons": "Work is not upto the mark, not to learn codingwise",
-      "sentiment": "positive",
-      "sentiment_score": 0.7906,
-      "is_current_employee": false,
-      "review_date": "2024-07-17",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Finance Planning and Analysis Manager",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Good work life balance\nInternational exposure\nBroader perspective\nJob security\nDecent culture",
-      "cons": "Slow growth\nLimited internal movement\nPreference for known people/jack in internal movement",
-      "sentiment": "positive",
-      "sentiment_score": 0.7184,
-      "is_current_employee": false,
-      "review_date": "2024-05-23",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
       "role": "District Manager",
       "location": "Mumbai",
       "rating": 1.0,
@@ -1030,58 +900,6 @@
     },
     {
       "title": null,
-      "role": "Senior Process Expert",
-      "location": "Navi Mumbai",
-      "rating": 4.0,
-      "pros": "Maersk still working on Hybrid culture, \nWe can review our manager on yearly basis, it gives us some power",
-      "cons": "Growth here is limited,",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": false,
-      "review_date": "2024-06-19",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Manager Financial Analyst",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Excellent culture and values. The leaders think about the employees and work as one big family",
-      "cons": "Promotions are not directly linked to performance.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7506,
-      "is_current_employee": false,
-      "review_date": "2024-05-27",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Senior UX Designer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Company culture and work life balance is good in some projects",
-      "cons": "Job security  , Larger discussion is not conveyed\nanything can happen",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2024-10-03",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
-      "role": "Training and Development Specialist",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Honestly absolutely NOTHING",
-      "cons": "Everything culture, environment, work life balance, no stability, dirty politics, always discouraging people, favraoitesim, long list to go on....",
-      "sentiment": "positive",
-      "sentiment_score": 0.0788,
-      "is_current_employee": true,
-      "review_date": "2025-08-25",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
       "role": "Financial Analyst",
       "location": "Pune",
       "rating": 5.0,
@@ -1091,19 +909,6 @@
       "sentiment_score": 0.3798,
       "is_current_employee": true,
       "review_date": "2025-10-14",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Process Expert",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Work life balance, cab, nice team",
-      "cons": "Salary revision and promotions.. people stay for longer tenure so that no growth is possible",
-      "sentiment": "positive",
-      "sentiment_score": 0.1607,
-      "is_current_employee": false,
-      "review_date": "2024-05-17",
       "quality_score": 0.41
     },
     {
@@ -1143,19 +948,6 @@
       "sentiment_score": 0.5574,
       "is_current_employee": true,
       "review_date": "2025-01-02",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Senior Analyst",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Love working with Maersk",
-      "cons": "Only thing which can be better is they should allow to wfo as per our convenience",
-      "sentiment": "positive",
-      "sentiment_score": 0.8402,
-      "is_current_employee": false,
-      "review_date": "2024-10-08",
       "quality_score": 0.4
     },
     {
@@ -1377,19 +1169,6 @@
       "sentiment_score": 0.6249,
       "is_current_employee": false,
       "review_date": "2024-11-26",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Very good company. Lot of good technilogies to work on :",
-      "cons": "There is nothing to mention about",
-      "sentiment": "positive",
-      "sentiment_score": 0.7264,
-      "is_current_employee": false,
-      "review_date": "2024-08-01",
       "quality_score": 0.37
     },
     {
@@ -1628,19 +1407,6 @@
     },
     {
       "title": null,
-      "role": "Software Engineer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "All good about work life balance, salary, remote working.",
-      "cons": "Unexpected firings due to economical changes",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-06-20",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
       "role": "Process Expert",
       "location": "Chennai",
       "rating": 3.0,
@@ -1745,19 +1511,6 @@
     },
     {
       "title": null,
-      "role": "Senior Analyst",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Co operative workers",
-      "cons": "Internal Politics, No growth for hard worker, No work life balance",
-      "sentiment": "negative",
-      "sentiment_score": -0.5837,
-      "is_current_employee": false,
-      "review_date": "2024-12-15",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Cash Application Specialist",
       "location": "Chennai",
       "rating": 4.0,
@@ -1845,45 +1598,6 @@
       "sentiment_score": 0.1027,
       "is_current_employee": false,
       "review_date": "2024-10-17",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Process Expert",
-      "location": "Navi Mumbai",
-      "rating": 5.0,
-      "pros": "Good salary \nPluxee\nHybrid model \nBus/Cab facility\nGreat company culture",
-      "cons": "Nothing as such",
-      "sentiment": "positive",
-      "sentiment_score": 0.7906,
-      "is_current_employee": false,
-      "review_date": "2024-08-19",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Process Expert",
-      "location": "Navi Mumbai",
-      "rating": 5.0,
-      "pros": "Work culture and company Benefits. Company take cares of employees.",
-      "cons": "No fair appraisal",
-      "sentiment": "positive",
-      "sentiment_score": 0.5629,
-      "is_current_employee": false,
-      "review_date": "2024-07-15",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Process Expert",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Ambience is good",
-      "cons": "Work culture is not great. They have so backward thinking.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1012,
-      "is_current_employee": false,
-      "review_date": "2024-07-13",
       "quality_score": 0.33
     },
     {
@@ -2005,32 +1719,6 @@
     },
     {
       "title": null,
-      "role": "Associate Cost Controller",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "Work Life Balance,\nOpportunity to learn busineee",
-      "cons": "Office politics,\nFavouritism,\nNo appreciation",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0253,
-      "is_current_employee": false,
-      "review_date": "2024-10-14",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Senior Financial Analyst",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "Work life balance is ok",
-      "cons": "Salary and hike and lots of politics",
-      "sentiment": "positive",
-      "sentiment_score": 0.296,
-      "is_current_employee": false,
-      "review_date": "2024-07-31",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
       "role": "Integration Engineer",
       "location": "Hyderabad",
       "rating": 3.0,
@@ -2144,71 +1832,6 @@
       "sentiment_score": 0.555,
       "is_current_employee": false,
       "review_date": "2024-10-14",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Otc Analyst",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Environment",
-      "cons": "Nothing as such but would like to have financial independence",
-      "sentiment": "positive",
-      "sentiment_score": 0.5023,
-      "is_current_employee": false,
-      "review_date": "2024-10-12",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Ptp Analyst",
-      "location": "Pune",
-      "rating": 2.0,
-      "pros": "Hybrid model, transport",
-      "cons": "No growth, zero work life balance, micro management",
-      "sentiment": "negative",
-      "sentiment_score": -0.2924,
-      "is_current_employee": false,
-      "review_date": "2025-01-22",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Account Receivables Finance Executive",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Working culture is very good.",
-      "cons": "Promotion or increment is not good.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1991,
-      "is_current_employee": false,
-      "review_date": "2024-11-20",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Process Expert",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Job security and flexibility",
-      "cons": "Politics.. Only show off guys get noticed",
-      "sentiment": "positive",
-      "sentiment_score": 0.5859,
-      "is_current_employee": false,
-      "review_date": "2024-07-26",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Analyst",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Work life balance",
-      "cons": "Appraisal and promotions are too less and favouritism",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-07-01",
       "quality_score": 0.31
     },
     {
@@ -2447,19 +2070,6 @@
     },
     {
       "title": null,
-      "role": "Senior Specialist",
-      "location": "Pune",
-      "rating": 3.0,
-      "pros": "HR policies are very good",
-      "cons": "Management, no work life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.1851,
-      "is_current_employee": false,
-      "review_date": "2024-07-31",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
       "role": "Office Administrator",
       "location": "Chennai",
       "rating": 5.0,
@@ -2586,32 +2196,6 @@
       "sentiment_score": 0.7003,
       "is_current_employee": true,
       "review_date": "2025-01-20",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Software Engineer III",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Great tech culture and highly intelligent co workers",
-      "cons": "N/A",
-      "sentiment": "positive",
-      "sentiment_score": 0.8122,
-      "is_current_employee": false,
-      "review_date": "2024-09-12",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Associate Finance Controller",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Job Security & Good Pay & Good Culture",
-      "cons": "Promotion",
-      "sentiment": "positive",
-      "sentiment_score": 0.7783,
-      "is_current_employee": false,
-      "review_date": "2024-09-04",
       "quality_score": 0.29
     },
     {
@@ -2800,32 +2384,6 @@
       "title": null,
       "role": "Analyst",
       "location": "Pune",
-      "rating": 5.0,
-      "pros": "Good work culture",
-      "cons": "Do not have any dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.6319,
-      "is_current_employee": true,
-      "review_date": "2025-01-06",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Tech stack, learning, work-life balance, culture",
-      "cons": "Job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2024-10-15",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Analyst",
-      "location": "Pune",
       "rating": 2.0,
       "pros": "",
       "cons": "No work life balance,no on roll position",
@@ -2950,71 +2508,6 @@
       "sentiment_score": 0.1779,
       "is_current_employee": true,
       "review_date": "2025-03-25",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Operations Analyst",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "No very good working culture here",
-      "sentiment": "negative",
-      "sentiment_score": -0.2957,
-      "is_current_employee": false,
-      "review_date": "2025-01-21",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Project Specialist",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Flexi work day's",
-      "cons": "Salary range between levels",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-01-07",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Team Management Lead",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Everything",
-      "cons": "Nothing to point on. All good.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-08-26",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Lead Developer",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Can facility",
-      "cons": "No job security..hire and fire",
-      "sentiment": "negative",
-      "sentiment_score": -0.5574,
-      "is_current_employee": false,
-      "review_date": "2024-11-08",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "SAP SCM Consultant",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "WFH",
-      "cons": "Micro Management Job Satisfaction, Poor Management",
-      "sentiment": "negative",
-      "sentiment_score": -0.0516,
-      "is_current_employee": false,
-      "review_date": "2024-09-05",
       "quality_score": 0.27
     },
     {
@@ -3227,58 +2720,6 @@
     },
     {
       "title": null,
-      "role": "Data Engineer",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Culture and team events",
-      "cons": "Skill development",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-03-14",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Specialist",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "All good",
-      "cons": "No dislike\nAll good",
-      "sentiment": "positive",
-      "sentiment_score": 0.7896,
-      "is_current_employee": false,
-      "review_date": "2024-10-19",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Process Expert",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Overall work culture",
-      "cons": "Nothing as such",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-01-08",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Customer experience Manager",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "The Brand",
-      "cons": "Opportunities in branch office.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2024-12-11",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "Financial Controller",
       "location": "Chennai",
       "rating": 2.0,
@@ -3405,58 +2846,6 @@
       "sentiment_score": 0.5423,
       "is_current_employee": false,
       "review_date": "2024-11-22",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Ptp Analyst",
-      "location": "Pune",
-      "rating": 5.0,
-      "pros": "Working culture",
-      "cons": "Nothing to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.2924,
-      "is_current_employee": false,
-      "review_date": "2024-10-23",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Production Manager",
-      "location": "Navi Mumbai",
-      "rating": 5.0,
-      "pros": "Super good culture",
-      "cons": "Amazing team",
-      "sentiment": "positive",
-      "sentiment_score": 0.891,
-      "is_current_employee": false,
-      "review_date": "2024-10-31",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Associate Finance Controller",
-      "location": "Chennai",
-      "rating": 2.0,
-      "pros": "",
-      "cons": "Low salary with restless job",
-      "sentiment": "negative",
-      "sentiment_score": -0.4939,
-      "is_current_employee": true,
-      "review_date": "2025-10-21",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Process Expert",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Excellent",
-      "cons": "There's an no dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.7147,
-      "is_current_employee": false,
-      "review_date": "2024-11-17",
       "quality_score": 0.25
     },
     {
@@ -4290,14 +3679,2476 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-10T22:11:01.667136+00:00",
+  "interviews": [
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Design BookMyShow",
+          "answer": "Design a platform for booking movie tickets, managing shows, and providing user-friendly features for moviegoers.User Registration: Allow users to create accounts using email or social media.Movie Listings: Display current and upcoming movies with details like genre, duration, and ratings.Showtimes: Provide a schedule of showtimes for each movie, including different formats (2D, 3D).Seat Selection: Implement an interactive seating chart for users to choose their preferred seats.Payment Gateway: Integrate secure payment options (credit/debit cards, wallets) for ticket purchases.User Reviews: Allow users to leave reviews and ratings for movies they have watched.Notifications: Send reminders for upcoming shows and special offers via email or app notifications.Admin Dashboard: Create a backend for managing movies, showtimes, and user feedback."
+        },
+        {
+          "question": "Design Payment System of BookMyShow",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-08 20:49:55"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "React and asked to write codes",
+          "answer": "React is a JavaScript library for building user interfaces, focusing on component-based architecture.Components: React applications are built using components, which are reusable pieces of UI.JSX: React uses JSX, a syntax extension that allows mixing HTML with JavaScript.State Management: Components can maintain their own state, allowing for dynamic UI updates.Props: Data can be passed to components via props, enabling communication between components.Lifecycle Methods: React components have lifecycle methods that allow you to run code at specific points in a component's life."
+        },
+        {
+          "question": "SQL questions and asked to write code",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 10:39:51"
+    },
+    {
+      "role": "Lead Security Architect",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Controls to protect data in a Kubernetes environment",
+          "answer": null
+        },
+        {
+          "question": "Controls to protect data on the cloud",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-03 13:29:14"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Technical, System Design",
+      "questions": [],
+      "review_date": "2025-01-18 17:03:51"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself and you know in MS Excel, so what’s your knowledge in MS Excel and also we look up and made formulas and too much are asking in my interview. So amazing experience with this company.",
+          "answer": null
+        },
+        {
+          "question": "First, one thing they are asking to me, are you know English so I know English so we are communicating in English so it’s a very good experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-13 11:22:22"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-13 10:48:19"
+    },
+    {
+      "role": "Process Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Why do the company recruit SME?",
+          "answer": null
+        },
+        {
+          "question": "How do reduce the total turn around time TAT in your previous job?",
+          "answer": null
+        },
+        {
+          "question": "How do you respond to your stake holders in terms of delivery excellence?",
+          "answer": "I prioritize clear communication, timely updates, and proactive problem-solving to ensure delivery excellence for stakeholders.Maintain open lines of communication: Regularly update stakeholders on project status and any potential issues.Set realistic expectations: Clearly define deliverables and timelines to avoid misunderstandings.Be proactive: Anticipate potential challenges and address them before they escalate.Seek feedback: Regularly ask for input from stakeholders to ensure their needs are being met.Deliver on promises: Ensure that all commitments are fulfilled on time and to the expected quality."
+        }
+      ],
+      "review_date": "2025-10-25 09:50:41"
+    },
+    {
+      "role": "PPC Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse dimensions",
+          "answer": null
+        },
+        {
+          "question": "Current Job responsibilities",
+          "answer": null
+        },
+        {
+          "question": "6s ? Kizen ?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-21 18:53:03"
+    },
+    {
+      "role": "Category Buyer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Previous experience",
+          "answer": null
+        },
+        {
+          "question": "Relevant related experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-01 11:08:47"
+    },
+    {
+      "role": "Associate Software Engineering Intern",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How to find the middle of a linked list in one traversal .",
+          "answer": "Use two pointers to find the middle of a linked list in one traversal: slow and fast pointers.Initialize two pointers: 'slow' and 'fast'. Set both to the head of the linked list.Move 'slow' by one step and 'fast' by two steps in each iteration.When 'fast' reaches the end of the list, 'slow' will be at the middle.Example: For the list 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5, 'slow' will be at 3 when 'fast' reaches the end."
+        },
+        {
+          "question": "String matching using Rabin Karp Algo .",
+          "answer": "Rabin-Karp is a string matching algorithm using hashing to find patterns efficiently in a text.Uses a rolling hash to compute hash values of substrings.Time complexity is O(n + m) on average, where n is text length and m is pattern length.If hash values match, a direct comparison is done to avoid false positives.Example: Searching 'abc' in 'abcpqrabc' results in two matches at indices 0 and 6."
+        },
+        {
+          "question": "Questions based On Computer newtorks and OS",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-08 18:48:45"
+    }
+  ],
+  "_scraped_at": "2026-04-12T22:48:37.519711+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Maersk",
   "_registry_industry": "Logistics",
   "_sentiment": {
-    "positiveCount": 176,
-    "negativeCount": 79,
-    "neutralCount": 47,
+    "positiveCount": 147,
+    "negativeCount": 66,
+    "neutralCount": 42,
     "topPositiveThemes": [
       "company culture",
       "work-life balance",

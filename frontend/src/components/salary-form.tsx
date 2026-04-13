@@ -64,12 +64,12 @@ export function SalaryForm({ slug, companyName, onSuccess, onCancel }: SalaryFor
     }
   };
 
-  const inputClass = "w-full h-10 px-3 text-sm text-ink placeholder:text-warmgray/40 bg-white border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans";
+  const inputClass = "w-full h-10 px-3 text-sm text-ink placeholder:text-warmgray/40 bg-card border border-ink/20 outline-none focus:border-terracotta transition-colors font-sans";
 
   return (
     <div className="bg-cream border border-ink/15 overflow-hidden">
       {/* Header */}
-      <div className="px-4 py-3 border-b border-ink/10 bg-white">
+      <div className="px-4 py-3 border-b border-ink/10 bg-card">
         <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Share Salary at {companyName}</span>
         <p className="text-[11px] text-warmgray font-sans mt-0.5">Your data is anonymous and helps others make informed decisions.</p>
       </div>

@@ -4627,7 +4627,2689 @@
       "details": "Tuition reimbursement for advanced degrees and continued education\nDiscounts and perks for gyms, retail, pet care, entertainment, travel, leisure, and personal well-being\nTransportation benefits\nPhilanthropic matching gifts\nIn-office healthy food and drink options"
     }
   ],
-  "_scraped_at": "2026-04-12T03:52:23.859370+00:00",
+  "interviews": [
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "write the code for fib",
+          "answer": null
+        },
+        {
+          "question": "explain your project",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-20 12:18:22"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What project didi you do end-to-end?",
+          "answer": null
+        },
+        {
+          "question": "Give a brief introduction of yourself",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 13:06:55"
+    },
+    {
+      "role": "Knowledge Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself?",
+          "answer": "I am a dedicated professional with a background in data analysis and a passion for transforming insights into actionable strategies.Education: I hold a degree in Data Science from XYZ University, where I developed strong analytical skills.Experience: I have over 3 years of experience working as a data analyst at ABC Corp, where I improved reporting efficiency by 30%.Skills: Proficient in Python, SQL, and data visualization tools like Tableau, which I used to create dashboards for key stakeholders.Projects: Led a project that analyzed customer behavior, resulting in a 15% increase in retention rates through targeted marketing strategies."
+        },
+        {
+          "question": "Case study about screws",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-23 20:18:39"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Finance related questions",
+          "answer": null
+        },
+        {
+          "question": "Gen AI Question",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-07 23:07:23"
+    },
+    {
+      "role": "Senior Analyst",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": "Aptitude Test, Case Study, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2025-02-07 23:16:08"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your pattern of thinking for profit increase",
+          "answer": "My approach to profit increase focuses on strategic planning, market analysis, and team collaboration to drive sustainable growth.Conduct thorough market analysis to identify trends and opportunities, such as expanding into emerging markets.Implement cost-reduction strategies without compromising quality, like optimizing supply chain processes.Enhance customer experience through feedback loops, leading to increased customer loyalty and repeat business.Invest in employee training and development to boost productivity and innovation within the team.Leverage technology and automation to streamline operations and reduce overhead costs."
+        },
+        {
+          "question": "How can we cut costs in a volatile customer environment",
+          "answer": "Implementing strategic cost-cutting measures can enhance efficiency and adaptability in a fluctuating customer landscape.Optimize supply chain management by negotiating better terms with suppliers, as seen in companies like Walmart.Leverage technology to automate processes, reducing labor costs; for example, using chatbots for customer service.Implement a lean management approach to eliminate waste and improve efficiency, similar to Toyota's production system.Encourage remote work to reduce overhead costs associated with office space, as many tech companies have adopted.Regularly review and adjust pricing strategies based on market demand to maintain competitiveness without sacrificing margins."
+        }
+      ],
+      "review_date": "2025-09-27 20:17:50"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2024-10-31 10:21:57"
+    },
+    {
+      "role": "Computer Operator",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is a computer?",
+          "answer": "A computer is an electronic device that processes data, performing calculations and executing instructions to solve problems.Computers can be classified into various types: desktops, laptops, tablets, and servers.They consist of hardware (physical components) and software (programs and applications).Examples of hardware include the CPU, RAM, hard drives, and input/output devices like keyboards and monitors.Software examples include operating systems (like Windows, macOS) and applications (like Microsoft Office, web browsers).Computers are used in various fields such as education, business, healthcare, and entertainment."
+        },
+        {
+          "question": "Improve the skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-07-01 03:34:44"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "One-on-one, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2025-03-03 14:42:05"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Game made by Mckinsey (youtube), Technical, Technical",
+      "questions": [],
+      "review_date": "2024-10-07 19:37:34"
+    }
+  ],
+  "_scraped_at": "2026-04-13T02:12:16.213496+00:00",
   "_source": "ambitionbox",
   "_registry_name": "McKinsey & Company",
   "_registry_industry": "Consulting",

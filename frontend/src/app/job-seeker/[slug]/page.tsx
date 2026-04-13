@@ -16,6 +16,10 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { useCompare } from "@/context/compare-context";
 import { useAuth } from "@/context/auth-context";
 import { getIndustryStandard, getBenchmarkLabel } from "@/lib/industry-standards-source";
+import { SalaryPercentile } from "@/components/charts/salary-percentile";
+import { InterviewInsights } from "@/components/charts/interview-insights";
+import { EmptyState } from "@/components/empty-state";
+import { useWatchlist } from "@/hooks/use-watchlist";
 
 /* ── Types ── */
 interface ScrapedReview {
@@ -40,6 +44,7 @@ interface CompanyData {
   salaries: Array<{ role: string; minSalary: number; maxSalary: number; avgSalary: number | null; currency: string; experience: string | null; sampleCount: number | null }>;
   userSalaries: Array<{ id: string; role: string; location: string | null; baseSalary: number; totalComp: number | null; experience: string | null }>;
   benefits: Array<{ category: string; name: string; details: string | null }>;
+  interviews: Array<{ id: string; role: string | null; difficulty: string | null; experience: string | null; process: string | null; questions: Array<{ question: string; answer: string | null }> | null; reviewDate: string | null }>;
   sentiment: { positiveCount: number; negativeCount: number; neutralCount: number; topPositiveThemes: string[]; topNegativeThemes: string[] } | null;
 }
 interface UnifiedReview {
@@ -66,7 +71,7 @@ function ECard({ children, className = "", delay = 0 }: { children: React.ReactN
       initial={{ opacity: 0, y: 24 }}
       animate={inView ? { opacity: 1, y: 0 } : {}}
       transition={{ duration: 0.5, delay, ease: "easeOut" }}
-      className={`bg-white border border-ink/20 overflow-hidden ${className}`}
+      className={`bg-card border border-ink/20 overflow-hidden ${className}`}
     >
       {children}
     </motion.div>
@@ -243,7 +248,9 @@ export default function CompanyDetailPage() {
   const [showCompareTip, setShowCompareTip] = useState(false);
   const { addCompany, removeCompany, isSelected } = useCompare();
   const { user } = useAuth();
+  const { isWatchlisted, toggle: toggleWatchlist } = useWatchlist();
   const inCompare = company ? isSelected(company.slug) : false;
+  const bookmarked = company ? isWatchlisted(company.slug) : false;
 
   // First-visit tooltip: show once, then persist dismissal in localStorage
   useEffect(() => {
@@ -368,18 +375,32 @@ export default function CompanyDetailPage() {
                     {company.industry}
                   </motion.span>
                 )}
-                <div className="relative">
-                  <motion.button
-                    initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4 }}
-                    whileTap={{ scale: 0.96 }}
-                    onClick={() => {
-                      dismissCompareTip();
-                      if (inCompare) { removeCompany(company.slug); } else { addCompany({ slug: company.slug, name: company.name }); }
-                    }}
-                    className={`text-[10px] uppercase tracking-[0.1em] px-2.5 py-1 border font-sans transition-colors ${inCompare ? "bg-terracotta border-terracotta text-white" : "border-terracotta text-terracotta hover:bg-terracotta hover:text-white"}`}
-                  >
-                    {inCompare ? "✓ In Compare" : "+ Compare"}
-                  </motion.button>
+                <div className="flex items-center gap-1.5">
+                  {user && (
+                    <motion.button
+                      initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.35 }}
+                      whileTap={{ scale: 0.9 }}
+                      onClick={() => toggleWatchlist(company.slug)}
+                      title={bookmarked ? "Remove from watchlist" : "Add to watchlist"}
+                      className={`w-7 h-7 flex items-center justify-center border transition-colors ${bookmarked ? "bg-terracotta/10 border-terracotta/40 text-terracotta" : "border-ink/20 text-warmgray hover:border-terracotta hover:text-terracotta"}`}
+                    >
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill={bookmarked ? "currentColor" : "none"} stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+                      </svg>
+                    </motion.button>
+                  )}
+                  <div className="relative">
+                    <motion.button
+                      initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4 }}
+                      whileTap={{ scale: 0.96 }}
+                      onClick={() => {
+                        dismissCompareTip();
+                        if (inCompare) { removeCompany(company.slug); } else { addCompany({ slug: company.slug, name: company.name }); }
+                      }}
+                      className={`text-[10px] uppercase tracking-[0.1em] px-2.5 py-1 border font-sans transition-colors ${inCompare ? "bg-terracotta border-terracotta text-white" : "border-terracotta text-terracotta hover:bg-terracotta hover:text-white"}`}
+                    >
+                      {inCompare ? "✓ In Compare" : "+ Compare"}
+                    </motion.button>
                   {showCompareTip && !inCompare && (
                     <motion.div
                       initial={{ opacity: 0, y: 4 }}
@@ -398,6 +419,7 @@ export default function CompanyDetailPage() {
                       <div className="absolute -top-1.5 left-3 w-3 h-3 bg-ink rotate-45" />
                     </motion.div>
                   )}
+                  </div>
                 </div>
               </div>
               <motion.div
@@ -428,7 +450,7 @@ export default function CompanyDetailPage() {
                 initial={{ opacity: 0, x: -30 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.2, duration: 0.55, ease: "easeOut" }}
-                className="bg-white border border-ink/20 overflow-hidden"
+                className="bg-card border border-ink/20 overflow-hidden"
               >
                 <ECardHeader label="Overall Rating" />
                 <div className="p-4">
@@ -497,7 +519,7 @@ export default function CompanyDetailPage() {
                 initial={{ opacity: 0, x: -30 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.32, duration: 0.55, ease: "easeOut" }}
-                className="bg-white border border-ink/20 overflow-hidden"
+                className="bg-card border border-ink/20 overflow-hidden"
               >
                 <ECardHeader label="Rating Breakdown" />
                 <div className="p-2">
@@ -516,7 +538,7 @@ export default function CompanyDetailPage() {
                 initial={{ opacity: 0, x: -30 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.44, duration: 0.55, ease: "easeOut" }}
-                className="bg-white border border-ink/20 overflow-hidden"
+                className="bg-card border border-ink/20 overflow-hidden"
               >
                 <ECardHeader label="Data Summary" />
                 <div className="grid grid-cols-3 divide-x divide-ink/10">
@@ -541,7 +563,7 @@ export default function CompanyDetailPage() {
                   initial={{ opacity: 0, x: -30 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 0.52, duration: 0.55, ease: "easeOut" }}
-                  className="bg-white border border-ink/20 overflow-hidden"
+                  className="bg-card border border-ink/20 overflow-hidden"
                 >
                   <ECardHeader label="Sentiment Overview" />
                   <div className="p-4">
@@ -582,6 +604,25 @@ export default function CompanyDetailPage() {
               <ECard delay={0.05}>
                 <ECardHeader label="Salary Ranges by Role" />
                 <ECardBody><SalaryChart salaries={company.salaries} /></ECardBody>
+              </ECard>
+
+              {/* ── Salary Percentiles ── */}
+              <ECard delay={0.08}>
+                <ECardHeader label="Salary Percentiles" />
+                <ECardBody>
+                  {company.salaries.length > 0
+                    ? <SalaryPercentile salaries={company.salaries} />
+                    : <EmptyState variant="salaries" companyName={company.name} />
+                  }
+                </ECardBody>
+              </ECard>
+
+              {/* ── Interview Insights card ── */}
+              <ECard delay={0.1}>
+                <ECardHeader label={`Interview Insights${company.interviews?.length ? ` (${company.interviews.length})` : ""}`} />
+                <ECardBody>
+                  <InterviewInsights interviews={company.interviews ?? []} />
+                </ECardBody>
               </ECard>
 
               {/* ── Benefits card ── */}
@@ -657,7 +698,7 @@ export default function CompanyDetailPage() {
                 </ECardHeader>
                 <ECardBody className="space-y-3">
                   {displayedReviews.length === 0 ? (
-                    <p className="text-sm text-warmgray text-center py-4 font-sans">No reviews matching this filter</p>
+                    <EmptyState variant="reviews" companyName={company.name} />
                   ) : (
                     <>
                       {displayedReviews.map((review, i) => (

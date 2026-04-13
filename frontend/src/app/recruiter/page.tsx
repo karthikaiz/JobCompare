@@ -59,7 +59,7 @@ export default function RecruiterPage() {
           >
             {featured ? (
               <Link href={`/recruiter/${featured.slug}`} className="block h-full group">
-                <div className="bg-white border-2 border-ink/15 h-full overflow-hidden flex flex-col hover:border-terracotta/40 transition-colors">
+                <div className="bg-card border-2 border-ink/15 h-full overflow-hidden flex flex-col hover:border-terracotta/40 transition-colors">
                   <div className="px-4 py-2.5 border-b border-ink/10 bg-cream flex items-center justify-between">
                     <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Spotlight</span>
                     <span className="w-1.5 h-1.5 rounded-full bg-terracotta animate-pulse" />
@@ -84,7 +84,7 @@ export default function RecruiterPage() {
                 </div>
               </Link>
             ) : (
-              <div className="bg-white border-2 border-ink/10 h-full min-h-[200px] animate-pulse" />
+              <div className="bg-card border-2 border-ink/10 h-full min-h-[200px] animate-pulse" />
             )}
           </motion.div>
 
@@ -95,7 +95,7 @@ export default function RecruiterPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.15, duration: 0.5, ease: "easeOut" }}
           >
-            <div className="bg-white border border-ink/15 h-full overflow-hidden flex flex-col">
+            <div className="bg-card border border-ink/15 h-full overflow-hidden flex flex-col">
               <div className="px-4 py-2.5 border-b border-ink/10 bg-cream">
                 <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Companies to Analyze</span>
               </div>
@@ -134,7 +134,7 @@ export default function RecruiterPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3, duration: 0.5, ease: "easeOut" }}
           >
-            <div className="bg-white border border-ink/15 overflow-hidden">
+            <div className="bg-card border border-ink/15 overflow-hidden">
               <div className="px-4 py-2.5 border-b border-ink/10 bg-cream">
                 <span className="text-[10px] uppercase tracking-[0.14em] text-terracotta font-sans font-medium">Recruiter Insights</span>
               </div>

@@ -76,10 +76,10 @@ export function SearchBar({ basePath, placeholder, initialQuery = "" }: SearchBa
           onChange={(e) => setQuery(e.target.value)}
           onFocus={() => { setFocused(true); if (results.length > 0) setIsOpen(true); }}
           onBlur={() => setFocused(false)}
-          className="flex-1 h-11 px-4 text-sm text-ink placeholder:text-warmgray/55 bg-white outline-none font-sans"
+          className="flex-1 h-11 px-4 text-sm text-ink placeholder:text-warmgray/55 bg-card outline-none font-sans"
         />
         {loading ? (
-          <div className="h-11 w-11 flex items-center justify-center bg-white flex-shrink-0">
+          <div className="h-11 w-11 flex items-center justify-center bg-card flex-shrink-0">
             <div className="w-4 h-4 border-2 border-terracotta/30 border-t-terracotta rounded-full animate-spin" />
           </div>
         ) : (
@@ -90,7 +90,7 @@ export function SearchBar({ basePath, placeholder, initialQuery = "" }: SearchBa
       </form>
 
       {isOpen && results.length > 0 && (
-        <div className="absolute top-full mt-1 w-full bg-white border border-ink/15 shadow-[0_4px_24px_rgba(26,21,4,0.1)] z-[60] overflow-hidden">
+        <div className="absolute top-full mt-1 w-full bg-card border border-ink/15 shadow-[0_4px_24px_rgba(26,21,4,0.1)] z-[60] overflow-hidden">
           {results.map((company) => (
             <button
               key={company.slug}
@@ -116,8 +116,14 @@ export function SearchBar({ basePath, placeholder, initialQuery = "" }: SearchBa
       )}
 
       {isOpen && query.trim().length >= 2 && results.length === 0 && !loading && (
-        <div className="absolute top-full mt-1 w-full bg-white border border-ink/15 shadow-[0_4px_24px_rgba(26,21,4,0.08)] z-50 p-4 text-center text-sm text-warmgray font-sans">
-          No companies found for &ldquo;{query}&rdquo;
+        <div className="absolute top-full mt-1 w-full bg-card border border-ink/15 shadow-[0_4px_24px_rgba(26,21,4,0.08)] z-50 p-5 text-center font-sans">
+          <svg width="48" height="48" viewBox="0 0 48 48" fill="none" className="mx-auto mb-2">
+            <circle cx="22" cy="22" r="10" className="stroke-ink/15" strokeWidth="2" />
+            <line x1="29" y1="29" x2="38" y2="38" className="stroke-ink/15" strokeWidth="2.5" strokeLinecap="round" />
+            <path d="M18 19 L26 27 M26 19 L18 27" className="stroke-terracotta/40" strokeWidth="1.5" strokeLinecap="round" />
+          </svg>
+          <p className="text-sm text-warmgray">No companies found for &ldquo;{query}&rdquo;</p>
+          <p className="text-xs text-warmgray/60 mt-1">Can&apos;t find your company? Try a different name.</p>
         </div>
       )}
     </div>

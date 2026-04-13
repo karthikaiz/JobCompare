@@ -1,7 +1,7 @@
 import json
 import re
 from scrapers.base import BaseScraper
-from models.schemas import CompanyData, ReviewData, SalaryData, BenefitData
+from models.schemas import CompanyData, ReviewData, SalaryData, BenefitData, InterviewData, InterviewQuestion
 
 try:
     from bs4 import BeautifulSoup
@@ -270,14 +270,17 @@ class AmbitionBoxScraper(BaseScraper):
 
             benefits = []
             benefits_data = (
-                props.get("companyBenefitsData", {})
-                .get("data", {})
-                .get("categories", [])
-            )
+                (props.get("companyBenefitsData") or {})
+                .get("data") or {}
+            ).get("categories") or []
 
             for category in benefits_data:
+                if not isinstance(category, dict):
+                    continue
                 category_name = category.get("categoryName", "Other")
-                for benefit in category.get("categoryValues", []):
+                for benefit in category.get("categoryValues") or []:
+                    if not isinstance(benefit, dict):
+                        continue
                     if benefit.get("available", False) or benefit.get("availableCount", 0) > 0:
                         total = benefit.get("totalCount", 0)
                         available = benefit.get("availableCount", 0)
@@ -291,10 +294,9 @@ class AmbitionBoxScraper(BaseScraper):
 
             # Also check employer-verified benefits
             verified = (
-                props.get("employerverifiedBenefits", {})
-                .get("data", {})
-                .get("benefits", [])
-            )
+                (props.get("employerverifiedBenefits") or {})
+                .get("data") or {}
+            ).get("benefits") or []
             for b in verified:
                 benefits.append(BenefitData(
                     category="perks",
@@ -307,6 +309,118 @@ class AmbitionBoxScraper(BaseScraper):
         except Exception as e:
             print(f"Error scraping benefits for {company_slug}: {e}")
             return []
+
+    def _extract_nuxt_data(self, html: str) -> dict:
+        """Extract window.__NUXT__ data by evaluating it with Node.js."""
+        import subprocess, tempfile, os
+        scripts = re.findall(r'<script[^>]*>(.*?)</script>', html, re.DOTALL)
+        nuxt_script = next((sc.strip() for sc in scripts if 'window.__NUXT__' in sc), None)
+        if not nuxt_script:
+            raise ValueError("No __NUXT__ script found")
+
+        node_code = f"""
+const window = {{}};
+{nuxt_script}
+console.log(JSON.stringify(window.__NUXT__?.data?.[0] || {{}}));
+"""
+        with tempfile.NamedTemporaryFile(mode='w', suffix='.js', delete=False) as f:
+            f.write(node_code)
+            fname = f.name
+        try:
+            result = subprocess.run(
+                ['node', fname],
+                capture_output=True, text=True, timeout=10
+            )
+            if result.returncode != 0:
+                raise ValueError(f"Node.js error: {result.stderr[:200]}")
+            return json.loads(result.stdout.strip())
+        finally:
+            os.unlink(fname)
+
+    async def scrape_interviews(self, company_slug: str, max_pages: int = 50) -> list[InterviewData]:
+        """Scrape interview experience data from AmbitionBox /interviews page.
+
+        AmbitionBox interviews use Nuxt.js (not Next.js), so data is in window.__NUXT__
+        evaluated via Node.js. Structure: data[0].interviews[].{meta, jobProfileDetails, rounds, questions}
+        Scrapes up to max_pages pages (10 interviews/page). Stops early if no more pages exist.
+        """
+        interviews = []
+
+        for page in range(1, max_pages + 1):
+            url = f"{self.BASE_URL}/interviews/{company_slug}-interview-questions?page={page}"
+            try:
+                html = await self.fetch(url)
+                page_data = self._extract_nuxt_data(html)
+
+                items = page_data.get("interviews") or []
+                if not items:
+                    break
+
+                for item in items:
+                    meta = item.get("meta") or {}
+                    job_profile = item.get("jobProfileDetails") or {}
+
+                    role = job_profile.get("name")
+
+                    # Difficulty: "Easy" / "Moderate" / "Hard"
+                    raw_diff = str(meta.get("difficulty") or "").lower()
+                    difficulty_map = {"easy": "easy", "moderate": "medium", "hard": "hard", "difficult": "hard"}
+                    difficulty = difficulty_map.get(raw_diff)
+
+                    # Verdict maps to experience: Selected→positive, Rejected→negative, On Hold→neutral
+                    raw_verdict = str(meta.get("verdict") or "").lower()
+                    verdict_map = {
+                        "selected": "positive", "accepted": "positive",
+                        "rejected": "negative", "not selected": "negative",
+                        "on hold": "neutral", "no response": "neutral",
+                    }
+                    experience = verdict_map.get(raw_verdict)
+
+                    # Interview rounds as process steps
+                    rounds = item.get("rounds") or []
+                    if rounds:
+                        process = ", ".join(
+                            r.get("name") or r.get("roundName") or str(r)
+                            for r in rounds if r
+                        )
+                    else:
+                        process = None
+
+                    # Questions and answers asked in this interview
+                    raw_questions = item.get("questions") or []
+                    questions = []
+                    for q in raw_questions:
+                        q_text = q.get("question") or ""
+                        if not q_text:
+                            continue
+                        answer_detail = q.get("answerDetail") or {}
+                        raw_answer = answer_detail.get("answer") or ""
+                        # Strip HTML tags from answer
+                        answer = re.sub(r'<[^>]+>', '', raw_answer).strip() if raw_answer else None
+                        questions.append(InterviewQuestion(question=q_text, answer=answer or None))
+
+                    review_date = meta.get("createdAt")
+
+                    interviews.append(InterviewData(
+                        role=role,
+                        difficulty=difficulty,
+                        experience=experience,
+                        process=process,
+                        questions=questions,
+                        review_date=review_date,
+                    ))
+
+                # Pagination — stop if we've reached the last page
+                pagination = page_data.get("pagination") or {}
+                total_pages = pagination.get("totalPages", 1)
+                if page >= total_pages:
+                    break
+
+            except Exception as e:
+                print(f"Error scraping interviews page {page} for {company_slug}: {e}")
+                break
+
+        return interviews
 
     def _map_category(self, ab_category: str) -> str:
         mapping = {

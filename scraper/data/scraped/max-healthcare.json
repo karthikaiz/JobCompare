@@ -172,71 +172,6 @@
     },
     {
       "title": null,
-      "role": "Nursing Officer",
-      "location": "Jaipur",
-      "rating": 3.0,
-      "pros": "Learning classes \nPatient feedback help to grow",
-      "cons": "Work pressure \nNo team work \nPartiality \nFirstly they said no over time no double shift but when you work they pressured to do double shift and they said we give you food but they \ndid not pay of your double shift work\nAnd briefing waste of time your working hour is 6 hour or night time 12 hour but after you complete your duty hour you should wait to your senior for briefing and they take your 1 to 2 hr. In briefing and you can't take rest after that because that briefing is very depressing 😔",
-      "sentiment": "negative",
-      "sentiment_score": -0.8787,
-      "is_current_employee": false,
-      "review_date": "2023-10-27",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "DNB Resident",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Bunch of people to extortion of money from poor people . U can imagine that I was a doctor there , what they can do to normal people. They have not refunded my money even after 6 months of resignation. Never recommended.\nOnly star in Max healthcare saket is dr . Dodul mondal sir , rest all are theft .",
-      "sentiment": "negative",
-      "sentiment_score": -0.7088,
-      "is_current_employee": true,
-      "review_date": "2023-12-13",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Medical Officer",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Salary on time\nPlenty of learning opportunities - learning, and not necessarily growing\nBrand value",
-      "cons": "Work culture leaves a lot of room to want more!\nToxic administration - unnecessary interference in patient management, but they seem to disappear when their support is actually needed in certain cases.\nA lot of admins have ZERO idea of the ground realities\nPoor support staff to patient ratio - mostly the brunt is borne by the Medical staff for this as the attendant believes the Doctor is responsible for EVERYTHING, including cleaning and diet services.\nHR believes they are the only ones who have the company interest at heart.\nAdmins will popularize and circulate all the GOOD reviews for them and all the BAD reviews for clinical teams in the internal groups, creating unnecessary pressure. Other way around, and those reviews are swept under the carpet. You may be reprimanded for a bad review, nut never appreciated for a good review.\nThe appraisal process is poor and you WILL feel unappreciated.\nBenefits are non-existent and not even basic healthcare is properly covered, when compared to other corporate companies or even smaller hospitals, which is ironic - this being one of the larger hospital chains in north India.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8815,
-      "is_current_employee": false,
-      "review_date": "2023-04-22",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Duty Manager",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Salary comes on time. That's the only best part.\nAlthough, once would encounter a hell lot of troubles that can only happen in one place MAX HEALTHCARE. But, atleast one can learn how to deal with difficult situations/people and evolve as a problem solver. Yet there are old vultures around to take that credit too. So BEWARE.",
-      "cons": "Disrespectful Toxic culture from HR, Older staffs and Finance Team. They never let the new cadres to learn the process right way. Extremely insecure older staffs who seek to climb up the ladder by crushing the junior or new staffs ethics wnd morals. \nPlace it filled with fake and chamchaas.",
-      "sentiment": "negative",
-      "sentiment_score": -0.9709,
-      "is_current_employee": false,
-      "review_date": "2023-04-12",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "You gain alot of knowledge.",
-      "cons": "There is no support from the HO Functional heads.\nThe hospital has a lot of work but doesn't have enough manpower and resources to get it done.\nThere is no work life balance even if you try to maintain it.\nIt's a man army for few departments without any appreciation.\nTrust me tere is no acknowledgement and appreciation of What you do.\nIn this organization you only with your own efforts. Do not expect any help or supervision no matter you're a fresher or experienced.",
-      "sentiment": "negative",
-      "sentiment_score": -0.8652,
-      "is_current_employee": true,
-      "review_date": "2025-02-05",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Senior Housekeeping Manager",
       "location": "Noida",
       "rating": 5.0,
@@ -250,19 +185,6 @@
     },
     {
       "title": null,
-      "role": "Accounts Auditor",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "There are some Professional Doctors. well known human beings.",
-      "cons": "First point there is no Corporate standards from Joining to End of Procedure, because there is no Job Security and minimum standard payout for particular job. No more promotional grades or  standard hike on salary, no skill development. Absence of Qualified HR Role make an big negative impact.",
-      "sentiment": "negative",
-      "sentiment_score": -0.8869,
-      "is_current_employee": true,
-      "review_date": "2025-10-06",
-      "quality_score": 0.77
-    },
-    {
-      "title": null,
       "role": "Staff Nurse",
       "location": "Delhi",
       "rating": 1.0,
@@ -272,19 +194,6 @@
       "sentiment_score": 0.7096,
       "is_current_employee": true,
       "review_date": "2025-07-02",
-      "quality_score": 0.76
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Delhi NCR",
-      "rating": 3.0,
-      "pros": "Salary comes on time",
-      "cons": "Over work under pressure, no proper medical benefits for employe or their dependents as hight cost of investigations & procedures. Mother & father not covered under free medical benefits of married. Balanced Leaves not approves as required every year it gets lapsed even com off of Sunday's & guested holidays not given.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1431,
-      "is_current_employee": false,
-      "review_date": "2025-01-31",
       "quality_score": 0.76
     },
     {
@@ -445,19 +354,6 @@
     },
     {
       "title": null,
-      "role": "Nursing Student",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "In the max hospital in-charge give the assignment about any topic they learnt that topic and next day the in-charge ask the questions from that assignment I like this is best.",
-      "cons": "They take their patients at first priority rather than their employees who are working there.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7717,
-      "is_current_employee": true,
-      "review_date": "2025-05-25",
-      "quality_score": 0.66
-    },
-    {
-      "title": null,
       "role": "Rmo Doctor",
       "location": "Delhi",
       "rating": 3.0,
@@ -549,19 +445,6 @@
     },
     {
       "title": null,
-      "role": "Nursing Staff",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Selery on time if 31 January Sunday the staff selery will get on Saturday I like this  skill development more and after 2 hours of class lunch or snacks provided by max\nAfter double duty lunch provided",
-      "cons": "Sellery increments not good",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0243,
-      "is_current_employee": true,
-      "review_date": "2025-03-16",
-      "quality_score": 0.61
-    },
-    {
-      "title": null,
       "role": "Deputy Manager",
       "location": "Bathinda",
       "rating": 5.0,
@@ -614,19 +497,6 @@
     },
     {
       "title": null,
-      "role": "General duty assistant",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "It's a good company, to working there, one learn many things , build self confidence and public dealing.",
-      "cons": "It has not a good salary according to role or responsibility, it also not have the appreciations, promotion for good work.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6636,
-      "is_current_employee": true,
-      "review_date": "2025-03-21",
-      "quality_score": 0.59
-    },
-    {
-      "title": null,
       "role": "HR Supervisor",
       "location": "Dehradun",
       "rating": 1.0,
@@ -637,19 +507,6 @@
       "is_current_employee": false,
       "review_date": "2024-10-22",
       "quality_score": 0.57
-    },
-    {
-      "title": null,
-      "role": "Senior Coordinator",
-      "location": "Ghaziabad",
-      "rating": 4.0,
-      "pros": "No comments",
-      "cons": "Staff ka support bilkul bi nhi karte hai seniors manager log abhi manmani karte hai bhut hi battmiji se baat karte hai group bane huye hai kaam se Jada chaplusi par aage badhte hai",
-      "sentiment": "positive",
-      "sentiment_score": 0.128,
-      "is_current_employee": false,
-      "review_date": "2023-08-20",
-      "quality_score": 0.56
     },
     {
       "title": null,
@@ -688,19 +545,6 @@
       "sentiment_score": -0.3991,
       "is_current_employee": false,
       "review_date": "2024-06-02",
-      "quality_score": 0.51
-    },
-    {
-      "title": null,
-      "role": "Physiotherapist",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "A lot to learn. Variety of patients are there with advanced technology. Knowledgeable and good doctors",
-      "cons": "Work life balance is not quite good. Have a lot of work and physical tiredness",
-      "sentiment": "positive",
-      "sentiment_score": 0.3132,
-      "is_current_employee": false,
-      "review_date": "2023-10-03",
       "quality_score": 0.51
     },
     {
@@ -809,19 +653,6 @@
     },
     {
       "title": null,
-      "role": "Ward Secretary",
-      "location": "Dehradun",
-      "rating": 5.0,
-      "pros": "One can work satisfactorily, best environment , team coordination , can learn much more in healthcare or any other department.",
-      "cons": "Salary hike is somehow less than expected",
-      "sentiment": "positive",
-      "sentiment_score": 0.7783,
-      "is_current_employee": false,
-      "review_date": "2024-05-20",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
       "role": "Senior Staff Nurse",
       "location": "Delhi",
       "rating": 4.0,
@@ -874,58 +705,6 @@
     },
     {
       "title": null,
-      "role": "Nursing Staff",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Yes I like the working in the hospital",
-      "cons": "Staff candidate no good a talk now her as a person disrespect but dislike a person...",
-      "sentiment": "negative",
-      "sentiment_score": -0.5272,
-      "is_current_employee": false,
-      "review_date": "2024-06-20",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Front Office Executive",
-      "location": "Ghaziabad",
-      "rating": 4.0,
-      "pros": "Only we get salary on fix time'",
-      "cons": "There is no respect for FRONT office staff from management. \nContinue Working at counter. Senior rude behaviour",
-      "sentiment": "negative",
-      "sentiment_score": -0.6761,
-      "is_current_employee": true,
-      "review_date": "2025-12-31",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Kanpur",
-      "rating": 5.0,
-      "pros": "Hospital Administration and Management is very helpful and smooth. Bosses and Dr's are very supportive and easily available.",
-      "cons": "Salary  and personal growth is slow",
-      "sentiment": "positive",
-      "sentiment_score": 0.8705,
-      "is_current_employee": true,
-      "review_date": "2023-12-06",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Coordinator",
-      "location": "Sahibzada Ajit Singh Nagar",
-      "rating": 5.0,
-      "pros": "The work environment is really very good” \n“The company culture is very good",
-      "cons": "“But the growth is slow\n“Low salary, as expected, and politics”",
-      "sentiment": "positive",
-      "sentiment_score": 0.6997,
-      "is_current_employee": false,
-      "review_date": "2023-10-17",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
       "role": "Staff Nurse",
       "location": "Gurugram",
       "rating": 4.0,
@@ -935,32 +714,6 @@
       "sentiment_score": -0.5423,
       "is_current_employee": false,
       "review_date": "2024-05-15",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Legal",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "The internal politics, unorganised department, no HR compliance, bullying culture, no work life balance, no job security, no respect given to employees",
-      "sentiment": "negative",
-      "sentiment_score": -0.92,
-      "is_current_employee": false,
-      "review_date": "2022-03-09",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Max healthcare is good company to work for if you are hard working. It's highly competitive company where you either perform or perish.",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.5413,
-      "is_current_employee": true,
-      "review_date": "2025-03-15",
       "quality_score": 0.43
     },
     {
@@ -1056,19 +809,6 @@
     },
     {
       "title": null,
-      "role": "Senior Resident Doctor",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Consultants are good",
-      "cons": "Management is worst \nWith in 1 month they told me to leave saying we can't afford your salary",
-      "sentiment": "negative",
-      "sentiment_score": -0.34,
-      "is_current_employee": true,
-      "review_date": "2024-04-03",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
       "role": "Team Lead",
       "location": "Ghaziabad",
       "rating": 5.0,
@@ -1091,19 +831,6 @@
       "sentiment_score": 0.6369,
       "is_current_employee": true,
       "review_date": "2025-02-09",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Good corporate love the culture of this hospital except Max Gurgaon",
-      "cons": "Max health is excellent but Max Gurgaon is disater",
-      "sentiment": "positive",
-      "sentiment_score": 0.7096,
-      "is_current_employee": false,
-      "review_date": "2024-07-25",
       "quality_score": 0.4
     },
     {
@@ -1169,32 +896,6 @@
       "sentiment_score": 0.4767,
       "is_current_employee": false,
       "review_date": "2024-09-27",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Pharmacy Officer",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Salary good",
-      "cons": "Work environment is not good.pharmacy manager behavior was not good and he is not supporting of staff",
-      "sentiment": "negative",
-      "sentiment_score": -0.2292,
-      "is_current_employee": false,
-      "review_date": "2024-06-20",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Senior Executive Finance & Accounts",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Job security",
-      "cons": "For Accounts and Finance group you have to be late sitting.. some time depending upon your manager..",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2023-09-16",
       "quality_score": 0.39
     },
     {
@@ -1407,45 +1108,6 @@
     },
     {
       "title": null,
-      "role": "Physiotherapist",
-      "location": "Lucknow",
-      "rating": 5.0,
-      "pros": "Yes max Hospital is sach as good like 🤙",
-      "cons": "Job for issue in Physiotherapy department",
-      "sentiment": "positive",
-      "sentiment_score": 0.8834,
-      "is_current_employee": true,
-      "review_date": "2024-04-20",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Computer Operator",
-      "location": "Bathinda",
-      "rating": 5.0,
-      "pros": "I have created so many skills and all staff was very good in nature",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6361,
-      "is_current_employee": true,
-      "review_date": "2025-07-29",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "I like worked feel good great place to work",
-      "cons": "Not dislike point max saket hospital",
-      "sentiment": "positive",
-      "sentiment_score": 0.893,
-      "is_current_employee": true,
-      "review_date": "2024-02-07",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
       "role": "Assistant Manager Sales & Marketing",
       "location": "Noida",
       "rating": 5.0,
@@ -1494,45 +1156,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": false,
       "review_date": "2024-05-05",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Attending Consultant",
-      "location": "Delhi",
-      "rating": 2.0,
-      "pros": "Exposure of cases",
-      "cons": "No fixed working hours... shortage of people.. difficult to get leaves..",
-      "sentiment": "negative",
-      "sentiment_score": -0.6908,
-      "is_current_employee": true,
-      "review_date": "2025-05-05",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Nurse Educator",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "The initiative of learning which organization boosts in the employees",
-      "cons": "Work-Life balance is critical",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-01-02",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Seniors and team leaders are very experienced and professionals",
-      "cons": "Low staff to patient ratio",
-      "sentiment": "negative",
-      "sentiment_score": -0.2732,
-      "is_current_employee": true,
-      "review_date": "2023-12-20",
       "quality_score": 0.34
     },
     {
@@ -1598,45 +1221,6 @@
       "sentiment_score": 0.8168,
       "is_current_employee": false,
       "review_date": "2024-07-13",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Ghaziabad",
-      "rating": 5.0,
-      "pros": "I like the working environment",
-      "cons": "Sometimes it's too hectic\nBecause of staff shortage",
-      "sentiment": "positive",
-      "sentiment_score": 0.128,
-      "is_current_employee": false,
-      "review_date": "2024-08-15",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Great Opportunity to show your skills and work",
-      "cons": "Need to be available 24/7",
-      "sentiment": "positive",
-      "sentiment_score": 0.7845,
-      "is_current_employee": true,
-      "review_date": "2024-04-17",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Senior Pharmacy Technician",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Coworkers and workshops",
-      "cons": "Promotion delays,they hire new people from outside for upper post",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-10-14",
       "quality_score": 0.33
     },
     {
@@ -1954,71 +1538,6 @@
     {
       "title": null,
       "role": "Nursing Staff",
-      "location": "Ghaziabad",
-      "rating": 2.0,
-      "pros": "Employes apart from exception",
-      "cons": "Over time without pay , working culture",
-      "sentiment": "positive",
-      "sentiment_score": 0.0762,
-      "is_current_employee": false,
-      "review_date": "2024-10-04",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Senior Physiotherapist",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "I love working at Max and enjoy it a lot.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.8126,
-      "is_current_employee": true,
-      "review_date": "2024-01-21",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Medical Officer",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Worst HR and No clear information is given about anything",
-      "sentiment": "positive",
-      "sentiment_score": 0.2755,
-      "is_current_employee": false,
-      "review_date": "2024-06-09",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "POILITICS",
-      "cons": "NO SUPPORT \nHR AND SENIOR HAVING FALSE COMMITMENT WITH STAFF",
-      "sentiment": "positive",
-      "sentiment_score": 0.088,
-      "is_current_employee": true,
-      "review_date": "2024-01-06",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "HR Executive",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Friendly environment",
-      "cons": "Something like wich is not cup of ur tea",
-      "sentiment": "positive",
-      "sentiment_score": 0.6908,
-      "is_current_employee": true,
-      "review_date": "2024-02-16",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
       "location": "Sahibzada Ajit Singh Nagar",
       "rating": 5.0,
       "pros": "My HOD is very supportive team is also supportive.",
@@ -2252,58 +1771,6 @@
     },
     {
       "title": null,
-      "role": "Senior Resident",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "good work culture, good patient doctor relations",
-      "cons": "less surgical opportunity",
-      "sentiment": "positive",
-      "sentiment_score": 0.8085,
-      "is_current_employee": false,
-      "review_date": "2024-09-30",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Teamwork",
-      "cons": "Misunderstanding n backbite , rumours, overacting staff, misbehave staff",
-      "sentiment": "negative",
-      "sentiment_score": -0.6908,
-      "is_current_employee": true,
-      "review_date": "2025-02-17",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Marketing Manager",
-      "location": "Meerut",
-      "rating": 5.0,
-      "pros": "Work culture is so satisfactory",
-      "cons": "Payment policies not so good",
-      "sentiment": "positive",
-      "sentiment_score": 0.0548,
-      "is_current_employee": false,
-      "review_date": "2024-10-04",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Pharmacist",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Hospital in office not dore",
-      "cons": "In this  like in office",
-      "sentiment": "positive",
-      "sentiment_score": 0.4357,
-      "is_current_employee": true,
-      "review_date": "2024-01-27",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
       "role": "Deputy Manager Legal",
       "location": "Sahibzada Ajit Singh Nagar",
       "rating": 1.0,
@@ -2512,58 +1979,6 @@
     },
     {
       "title": null,
-      "role": "Software Developer",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "good and best solution",
-      "cons": "not mention  so no issuew",
-      "sentiment": "positive",
-      "sentiment_score": 0.7603,
-      "is_current_employee": false,
-      "review_date": "2024-05-28",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Amazing workplace, where you can gain yourself",
-      "cons": "Chamcha giri",
-      "sentiment": "positive",
-      "sentiment_score": 0.802,
-      "is_current_employee": false,
-      "review_date": "2024-11-08",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Nursing Officer",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Good technology,and still developing",
-      "cons": "Some time Parciaclity ,extra burden",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-08-11",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Physiotherapist",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Work culture",
-      "cons": "Nothing . All working here is good",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2024-01-06",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
       "role": "Medical Officer Incharge",
       "location": "Delhi",
       "rating": 5.0,
@@ -2755,97 +2170,6 @@
       "sentiment_score": -0.2315,
       "is_current_employee": false,
       "review_date": "2024-12-08",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Junior Executive",
-      "location": "Noida",
-      "rating": 3.0,
-      "pros": "Work from office",
-      "cons": "No promotion and no increment",
-      "sentiment": "negative",
-      "sentiment_score": -0.5267,
-      "is_current_employee": false,
-      "review_date": "2024-06-13",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Executive",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Working hours flexibility",
-      "cons": "Culture created by the TLs",
-      "sentiment": "positive",
-      "sentiment_score": 0.5267,
-      "is_current_employee": false,
-      "review_date": "2024-10-04",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Service Desk Engineer",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Everything is good",
-      "cons": "Not any specific reason there",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-10-03",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Great place to work..",
-      "cons": "Nothing... everything is excellent",
-      "sentiment": "positive",
-      "sentiment_score": 0.2737,
-      "is_current_employee": true,
-      "review_date": "2024-01-24",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Biomedical Engineer",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "great feeling to work here...",
-      "cons": "nothing to dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.7772,
-      "is_current_employee": false,
-      "review_date": "2024-04-30",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Lab Technician",
-      "location": "Jalandhar",
-      "rating": 5.0,
-      "pros": "I Like management",
-      "cons": "There is no such thing",
-      "sentiment": "positive",
-      "sentiment_score": 0.0772,
-      "is_current_employee": true,
-      "review_date": "2024-02-09",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse 1",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Staff nurse good work good hospital",
-      "cons": "Treval problem",
-      "sentiment": "positive",
-      "sentiment_score": 0.4767,
-      "is_current_employee": true,
-      "review_date": "2023-12-30",
       "quality_score": 0.28
     },
     {
@@ -3067,110 +2391,6 @@
       "sentiment_score": 0.2212,
       "is_current_employee": false,
       "review_date": "2024-12-30",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Consultant",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Good culture",
-      "cons": "Salary is not at par",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-09-30",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Associate Consultant",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Parking facility onsite",
-      "cons": "Appraisals not on time",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-06-01",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Not like",
-      "cons": "Not like the company policy",
-      "sentiment": "negative",
-      "sentiment_score": -0.0743,
-      "is_current_employee": true,
-      "review_date": "2024-04-17",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Lab Technician",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "Specialties service",
-      "cons": "Some political issues in lab",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-06-22",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Associate Vice President",
-      "location": "Lucknow",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "HR Mgr Deen Dayal is rude.",
-      "sentiment": "negative",
-      "sentiment_score": -0.4588,
-      "is_current_employee": false,
-      "review_date": "2024-05-09",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Clinical Pharmacist",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Nice hospital work hurs",
-      "cons": "Everything is fine",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": true,
-      "review_date": "2024-04-01",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Procurement Manager\r",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "All office friends are very supportive!",
-      "cons": "Politics",
-      "sentiment": "positive",
-      "sentiment_score": 0.7082,
-      "is_current_employee": true,
-      "review_date": "2024-02-03",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Technical Analyst",
-      "location": "Delhi",
-      "rating": 2.0,
-      "pros": "Poor IT ENVIRONMENT",
-      "cons": "Uneducated IT Employees working",
-      "sentiment": "negative",
-      "sentiment_score": -0.4767,
-      "is_current_employee": false,
-      "review_date": "2025-05-05",
       "quality_score": 0.27
     },
     {
@@ -3552,214 +2772,6 @@
     },
     {
       "title": null,
-      "role": "Senior Biomedical Service Engineer",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "User of staff is good",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-02-16",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Cssd Technician",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Good working enverminent \n👍",
-      "cons": "No dislike",
-      "sentiment": "positive",
-      "sentiment_score": 0.6229,
-      "is_current_employee": false,
-      "review_date": "2024-10-25",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Patient Care Executive",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Job Security",
-      "cons": "Salary distribution and payroll",
-      "sentiment": "positive",
-      "sentiment_score": 0.34,
-      "is_current_employee": false,
-      "review_date": "2024-06-21",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Yas",
-      "cons": "I’m interested  max working done",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2024-09-09",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Nursing Staff",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Work culture",
-      "cons": "Salary increament is dissatisfied",
-      "sentiment": "negative",
-      "sentiment_score": -0.3818,
-      "is_current_employee": false,
-      "review_date": "2024-11-06",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Executive",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Excellent",
-      "cons": "No dislike \nIs vary good",
-      "sentiment": "positive",
-      "sentiment_score": 0.8309,
-      "is_current_employee": false,
-      "review_date": "2024-06-29",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Radiographer",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Excellent experience working here.",
-      "cons": "Salary issue",
-      "sentiment": "positive",
-      "sentiment_score": 0.5719,
-      "is_current_employee": true,
-      "review_date": "2024-04-04",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Rmo Doctor",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Good perks",
-      "cons": "Management needs to improve",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2024-05-12",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Cardiac Technologist",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Environment and discipline",
-      "cons": "Nothing at all",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-12-18",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Cardiovascular Technologist",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Opportunities to explore new things",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2024-05-26",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Optometrist",
-      "location": "Noida",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "Salary and HR and appraisal",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-09-15",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Executive Nurse",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Yes",
-      "cons": "Appraisal time is not fixed",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2024-05-25",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Senior Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Everything work culture",
-      "cons": "Nothing as such",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-12-10",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Back Office Executive",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Job security",
-      "cons": "No point of dislike",
-      "sentiment": "negative",
-      "sentiment_score": -0.34,
-      "is_current_employee": true,
-      "review_date": "2024-04-03",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Executive Accountant",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Yes Great place to work",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.6808,
-      "is_current_employee": false,
-      "review_date": "2024-10-26",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Deputy Learning and Development Manager",
-      "location": "Delhi",
-      "rating": 2.0,
-      "pros": "Learnings from unit head",
-      "cons": "Worst HR",
-      "sentiment": "negative",
-      "sentiment_score": -0.6249,
-      "is_current_employee": false,
-      "review_date": "2024-07-17",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "TPA Executive",
       "location": "Delhi",
       "rating": 1.0,
@@ -4107,175 +3119,6 @@
       "sentiment_score": 0.6249,
       "is_current_employee": false,
       "review_date": "2024-07-08",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Dehradun",
-      "rating": 5.0,
-      "pros": "Good environment to work...",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-09-06",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Medical Oncologist Consultant",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Work atmosphere \nLearning opportunities",
-      "cons": "None",
-      "sentiment": "positive",
-      "sentiment_score": 0.3818,
-      "is_current_employee": false,
-      "review_date": "2024-09-27",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior CT Scan Technician",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Wonderful",
-      "cons": "J p hp wonderful",
-      "sentiment": "positive",
-      "sentiment_score": 0.8126,
-      "is_current_employee": false,
-      "review_date": "2024-09-25",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Coordination Manager",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "My doctors",
-      "cons": "Politics between cordinators",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-09-23",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Physiotherapist",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Good for experience",
-      "cons": "Work overload",
-      "sentiment": "positive",
-      "sentiment_score": 0.1027,
-      "is_current_employee": false,
-      "review_date": "2024-08-07",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Office timings",
-      "cons": "Six days working",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-04-15",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Everything",
-      "cons": "No work Life balance",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2025-01-20",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Patient Care Executive",
-      "location": "Dehradun",
-      "rating": 5.0,
-      "pros": "Excellent",
-      "cons": "Nothing all is well.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4378,
-      "is_current_employee": false,
-      "review_date": "2024-05-02",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Teaching Faculty",
-      "location": "Ghaziabad",
-      "rating": 5.0,
-      "pros": "Great place to work",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2024-05-18",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Cashier Incharge",
-      "location": "Dehradun",
-      "rating": 5.0,
-      "pros": "Work culture",
-      "cons": "Everything  is good",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2025-05-26",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Biomedical Engineer",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Company Culture\nWork",
-      "cons": "Promotion \nAppraisal",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-07-19",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Junior Physiotherapist",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "New techniques,workplace environment",
-      "cons": "No appraisal",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2024-01-20",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Phlebotomy Lab Technician",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Salary & Benefits",
-      "cons": "Job security",
-      "sentiment": "positive",
-      "sentiment_score": 0.6124,
-      "is_current_employee": true,
-      "review_date": "2024-03-09",
       "quality_score": 0.25
     },
     {
@@ -4696,19 +3539,6 @@
     },
     {
       "title": null,
-      "role": "Data Entry Operator",
-      "location": "Delhi",
-      "rating": 3.0,
-      "pros": "Like",
-      "cons": "Like",
-      "sentiment": "positive",
-      "sentiment_score": 0.6124,
-      "is_current_employee": true,
-      "review_date": "2024-04-14",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
       "role": "Team Lead",
       "location": "Lucknow",
       "rating": 5.0,
@@ -4875,35 +3705,19 @@
       "is_current_employee": true,
       "review_date": "2025-10-06",
       "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Staff Nurse",
-      "location": "Delhi",
-      "rating": 4.0,
-      "pros": "Like",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": true,
-      "review_date": "2025-08-30",
-      "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Computer Operator",
-      "location": null,
-      "rating": 1.0,
-      "pros": "Like",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": true,
-      "review_date": "2026-04-04",
-      "quality_score": 0.21
     }
   ],
   "salaries": [
+    {
+      "role": "Foreman",
+      "location": null,
+      "min_salary": 330000,
+      "max_salary": 330000,
+      "avg_salary": 330000,
+      "currency": "INR",
+      "experience": "10-13 years",
+      "sample_count": null
+    },
     {
       "role": "Staff Nurse",
       "location": null,
@@ -4917,9 +3731,9 @@
     {
       "role": "Patient Care Coordinator",
       "location": null,
-      "min_salary": 216898,
+      "min_salary": 220000,
       "max_salary": 440000,
-      "avg_salary": 363289,
+      "avg_salary": 362536,
       "currency": "INR",
       "experience": "0-8 years",
       "sample_count": null
@@ -4929,7 +3743,7 @@
       "location": null,
       "min_salary": 250000,
       "max_salary": 400000,
-      "avg_salary": 325113,
+      "avg_salary": 329424,
       "currency": "INR",
       "experience": "0-5 years",
       "sample_count": null
@@ -4958,8 +3772,8 @@
       "role": "Senior Staff Nurse",
       "location": null,
       "min_salary": 300000,
-      "max_salary": 537900,
-      "avg_salary": 417753,
+      "max_salary": 540000,
+      "avg_salary": 422210,
       "currency": "INR",
       "experience": "2-9 years",
       "sample_count": null
@@ -4989,7 +3803,7 @@
       "location": null,
       "min_salary": 206000,
       "max_salary": 408000,
-      "avg_salary": 298850,
+      "avg_salary": 299939,
       "currency": "INR",
       "experience": "0-8 years",
       "sample_count": null
@@ -5015,93 +3829,83 @@
       "sample_count": null
     },
     {
-      "role": "Patient Care Executive",
+      "role": "Assistant Manager",
       "location": null,
-      "min_salary": 286000,
-      "max_salary": 450000,
-      "avg_salary": 401716,
+      "min_salary": 500000,
+      "max_salary": 850000,
+      "avg_salary": 738548,
       "currency": "INR",
-      "experience": "2-10 years",
+      "experience": "1-16 years",
       "sample_count": null
     },
     {
-      "role": "Physiotherapist",
+      "role": "Senior Executive",
       "location": null,
-      "min_salary": 258500,
-      "max_salary": 450000,
-      "avg_salary": 338522,
-      "currency": "INR",
-      "experience": "0-6 years",
-      "sample_count": null
-    },
-    {
-      "role": "Phlebotomist",
-      "location": null,
-      "min_salary": 216000,
-      "max_salary": 400000,
-      "avg_salary": 288498,
-      "currency": "INR",
-      "experience": "1-7 years",
-      "sample_count": null
-    },
-    {
-      "role": "Nursing Officer",
-      "location": null,
-      "min_salary": 247000,
-      "max_salary": 409600,
-      "avg_salary": 348574,
+      "min_salary": 330000,
+      "max_salary": 600000,
+      "avg_salary": 496140,
       "currency": "INR",
       "experience": "1-11 years",
       "sample_count": null
     },
     {
-      "role": "Senior Resident Doctor",
+      "role": "Deputy Manager",
       "location": null,
-      "min_salary": 1000000,
-      "max_salary": 2186000,
-      "avg_salary": 1736404,
+      "min_salary": 600000,
+      "max_salary": 1251500,
+      "avg_salary": 1052926,
       "currency": "INR",
-      "experience": "0-7 years",
+      "experience": "4-17 years",
       "sample_count": null
     },
     {
-      "role": "Nurse",
+      "role": "Manager",
       "location": null,
-      "min_salary": 230769,
-      "max_salary": 400000,
-      "avg_salary": 311101,
+      "min_salary": 600000,
+      "max_salary": 1515000,
+      "avg_salary": 1082365,
       "currency": "INR",
-      "experience": "0-5 years",
+      "experience": "6-19 years",
       "sample_count": null
     },
     {
-      "role": "Clinical Pharmacist",
+      "role": "Associate Consultant",
       "location": null,
-      "min_salary": 252000,
-      "max_salary": 399000,
-      "avg_salary": 328318,
+      "min_salary": 1910000,
+      "max_salary": 3600000,
+      "avg_salary": 2879273,
       "currency": "INR",
-      "experience": "0-5 years",
+      "experience": "0-12 years",
       "sample_count": null
     },
     {
-      "role": "Billing Executive",
+      "role": "Executive",
       "location": null,
-      "min_salary": 250000,
-      "max_salary": 390000,
-      "avg_salary": 332359,
+      "min_salary": 223600,
+      "max_salary": 450000,
+      "avg_salary": 363046,
       "currency": "INR",
-      "experience": "1-9 years",
+      "experience": "0-8 years",
       "sample_count": null
     },
     {
-      "role": "Duty Manager",
+      "role": "Senior Manager",
       "location": null,
-      "min_salary": 419500,
-      "max_salary": 631000,
-      "avg_salary": 560897,
+      "min_salary": 970000,
+      "max_salary": 2450000,
+      "avg_salary": 1886487,
       "currency": "INR",
-      "experience": "4-15 years",
+      "experience": "7-18 years",
+      "sample_count": null
+    },
+    {
+      "role": "Team Lead",
+      "location": null,
+      "min_salary": 303000,
+      "max_salary": 550000,
+      "avg_salary": 475873,
+      "currency": "INR",
+      "experience": "1-14 years",
       "sample_count": null
     }
   ],
@@ -5227,14 +4031,756 @@
       "details": "Safe and convenient hostel accommodation is provided for female employees, offering comfort, security, and ease of access to support their work-life balance."
     }
   ],
-  "_scraped_at": "2026-04-10T21:04:28.849469+00:00",
+  "interviews": [
+    {
+      "role": "Pharmacist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "10 antibiotic name",
+          "answer": null
+        },
+        {
+          "question": "What is the use the telmi 40",
+          "answer": null
+        },
+        {
+          "question": "What is one name of sugar medicine",
+          "answer": null
+        },
+        {
+          "question": "Which is the type of human body function",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 19:30:18"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is normal BP what is hyperglycemia",
+          "answer": null
+        },
+        {
+          "question": "What is normal respiration what is tracking cardia",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-18 10:21:18"
+    },
+    {
+      "role": "Security Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2025-01-02 08:35:55"
+    },
+    {
+      "role": "Medical Laboratory Technician",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RCB count",
+          "answer": null
+        },
+        {
+          "question": "What is Hb",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-17 21:11:44"
+    },
+    {
+      "role": "Junior Engineer",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the full form of DBMS?",
+          "answer": null
+        },
+        {
+          "question": "What are the differences between Database Management Systems (DBMS) and databases?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 23:54:45"
+    },
+    {
+      "role": "Accountant Cashier",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are your strengths?",
+          "answer": null
+        },
+        {
+          "question": "What is the process for learning about accounting maximum policies?",
+          "answer": "Understanding accounting maximum policies involves research, training, and practical application to ensure compliance and accuracy.Review company policy manuals to understand specific accounting maximums.Attend training sessions or workshops focused on accounting standards.Consult with experienced accountants or mentors for insights.Utilize online resources, such as accounting websites and forums, for updated information.Practice applying maximum policies in real-world scenarios to reinforce learning."
+        },
+        {
+          "question": "What is the process for cash handling using Google Sheets?",
+          "answer": "Cash handling in Google Sheets involves tracking, recording, and reconciling cash transactions efficiently.Create a cash handling template with columns for date, description, amount, and balance.Use formulas to automatically calculate the running balance after each transaction.Record cash inflows (sales) and outflows (expenses) in separate sections for clarity.Utilize conditional formatting to highlight discrepancies or low cash balances.Regularly reconcile the cash balance with physical cash on hand to ensure accuracy."
+        },
+        {
+          "question": "What is the refund policy?",
+          "answer": "Our refund policy ensures customer satisfaction with clear guidelines for returns and exchanges.Refunds are accepted within 30 days of purchase with a valid receipt.Items must be in original condition and packaging for a full refund.Exchanges can be made for different sizes or colors within the same timeframe.Non-refundable items include clearance sales and gift cards.For defective products, customers can request a refund or replacement."
+        }
+      ],
+      "review_date": "2026-01-07 14:20:49"
+    },
+    {
+      "role": "Pharmacist and Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Lasa high-risk drug",
+          "answer": null
+        },
+        {
+          "question": "Hi drug anti-inflammatory drugs",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-18 18:30:46"
+    },
+    {
+      "role": "Staff Nurse",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Modes of ventilator",
+          "answer": null
+        },
+        {
+          "question": "bundle care prevention",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-17 09:45:25"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "WHAT IS BMT",
+          "answer": null
+        },
+        {
+          "question": "What is the protocol before bone marrow transplant",
+          "answer": null
+        },
+        {
+          "question": "How you dedicate your profession ",
+          "answer": null
+        },
+        {
+          "question": "How will  u  deal with your patient??",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-28 15:27:15"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Emergency Medical team",
+          "answer": null
+        },
+        {
+          "question": "Emergency Medical drugs",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-14 12:51:29"
+    },
+    {
+      "role": "Pharmacist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "10 antibiotic name",
+          "answer": null
+        },
+        {
+          "question": "What is the use the telmi 40",
+          "answer": null
+        },
+        {
+          "question": "What is one name of sugar medicine",
+          "answer": null
+        },
+        {
+          "question": "Which is the type of human body function",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 19:30:18"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is normal BP what is hyperglycemia",
+          "answer": null
+        },
+        {
+          "question": "What is normal respiration what is tracking cardia",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-18 10:21:18"
+    },
+    {
+      "role": "Security Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2025-01-02 08:35:55"
+    },
+    {
+      "role": "Medical Laboratory Technician",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RCB count",
+          "answer": null
+        },
+        {
+          "question": "What is Hb",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-17 21:11:44"
+    },
+    {
+      "role": "Junior Engineer",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the full form of DBMS?",
+          "answer": null
+        },
+        {
+          "question": "What are the differences between Database Management Systems (DBMS) and databases?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 23:54:45"
+    },
+    {
+      "role": "Accountant Cashier",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are your strengths?",
+          "answer": null
+        },
+        {
+          "question": "What is the process for learning about accounting maximum policies?",
+          "answer": "Understanding accounting maximum policies involves research, training, and practical application to ensure compliance and accuracy.Review company policy manuals to understand specific accounting maximums.Attend training sessions or workshops focused on accounting standards.Consult with experienced accountants or mentors for insights.Utilize online resources, such as accounting websites and forums, for updated information.Practice applying maximum policies in real-world scenarios to reinforce learning."
+        },
+        {
+          "question": "What is the process for cash handling using Google Sheets?",
+          "answer": "Cash handling in Google Sheets involves tracking, recording, and reconciling cash transactions efficiently.Create a cash handling template with columns for date, description, amount, and balance.Use formulas to automatically calculate the running balance after each transaction.Record cash inflows (sales) and outflows (expenses) in separate sections for clarity.Utilize conditional formatting to highlight discrepancies or low cash balances.Regularly reconcile the cash balance with physical cash on hand to ensure accuracy."
+        },
+        {
+          "question": "What is the refund policy?",
+          "answer": "Our refund policy ensures customer satisfaction with clear guidelines for returns and exchanges.Refunds are accepted within 30 days of purchase with a valid receipt.Items must be in original condition and packaging for a full refund.Exchanges can be made for different sizes or colors within the same timeframe.Non-refundable items include clearance sales and gift cards.For defective products, customers can request a refund or replacement."
+        }
+      ],
+      "review_date": "2026-01-07 14:20:49"
+    },
+    {
+      "role": "Pharmacist and Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Lasa high-risk drug",
+          "answer": null
+        },
+        {
+          "question": "Hi drug anti-inflammatory drugs",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-18 18:30:46"
+    },
+    {
+      "role": "Staff Nurse",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Modes of ventilator",
+          "answer": null
+        },
+        {
+          "question": "bundle care prevention",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-17 09:45:25"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "WHAT IS BMT",
+          "answer": null
+        },
+        {
+          "question": "What is the protocol before bone marrow transplant",
+          "answer": null
+        },
+        {
+          "question": "How you dedicate your profession ",
+          "answer": null
+        },
+        {
+          "question": "How will  u  deal with your patient??",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-28 15:27:15"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Emergency Medical team",
+          "answer": null
+        },
+        {
+          "question": "Emergency Medical drugs",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-14 12:51:29"
+    },
+    {
+      "role": "Pharmacist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "10 antibiotic name",
+          "answer": null
+        },
+        {
+          "question": "What is the use the telmi 40",
+          "answer": null
+        },
+        {
+          "question": "What is one name of sugar medicine",
+          "answer": null
+        },
+        {
+          "question": "Which is the type of human body function",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 19:30:18"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is normal BP what is hyperglycemia",
+          "answer": null
+        },
+        {
+          "question": "What is normal respiration what is tracking cardia",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-18 10:21:18"
+    },
+    {
+      "role": "Security Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2025-01-02 08:35:55"
+    },
+    {
+      "role": "Medical Laboratory Technician",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RCB count",
+          "answer": null
+        },
+        {
+          "question": "What is Hb",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-17 21:11:44"
+    },
+    {
+      "role": "Junior Engineer",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the full form of DBMS?",
+          "answer": null
+        },
+        {
+          "question": "What are the differences between Database Management Systems (DBMS) and databases?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 23:54:45"
+    },
+    {
+      "role": "Accountant Cashier",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are your strengths?",
+          "answer": null
+        },
+        {
+          "question": "What is the process for learning about accounting maximum policies?",
+          "answer": "Understanding accounting maximum policies involves research, training, and practical application to ensure compliance and accuracy.Review company policy manuals to understand specific accounting maximums.Attend training sessions or workshops focused on accounting standards.Consult with experienced accountants or mentors for insights.Utilize online resources, such as accounting websites and forums, for updated information.Practice applying maximum policies in real-world scenarios to reinforce learning."
+        },
+        {
+          "question": "What is the process for cash handling using Google Sheets?",
+          "answer": "Cash handling in Google Sheets involves tracking, recording, and reconciling cash transactions efficiently.Create a cash handling template with columns for date, description, amount, and balance.Use formulas to automatically calculate the running balance after each transaction.Record cash inflows (sales) and outflows (expenses) in separate sections for clarity.Utilize conditional formatting to highlight discrepancies or low cash balances.Regularly reconcile the cash balance with physical cash on hand to ensure accuracy."
+        },
+        {
+          "question": "What is the refund policy?",
+          "answer": "Our refund policy ensures customer satisfaction with clear guidelines for returns and exchanges.Refunds are accepted within 30 days of purchase with a valid receipt.Items must be in original condition and packaging for a full refund.Exchanges can be made for different sizes or colors within the same timeframe.Non-refundable items include clearance sales and gift cards.For defective products, customers can request a refund or replacement."
+        }
+      ],
+      "review_date": "2026-01-07 14:20:49"
+    },
+    {
+      "role": "Pharmacist and Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Lasa high-risk drug",
+          "answer": null
+        },
+        {
+          "question": "Hi drug anti-inflammatory drugs",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-18 18:30:46"
+    },
+    {
+      "role": "Staff Nurse",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Modes of ventilator",
+          "answer": null
+        },
+        {
+          "question": "bundle care prevention",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-17 09:45:25"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "WHAT IS BMT",
+          "answer": null
+        },
+        {
+          "question": "What is the protocol before bone marrow transplant",
+          "answer": null
+        },
+        {
+          "question": "How you dedicate your profession ",
+          "answer": null
+        },
+        {
+          "question": "How will  u  deal with your patient??",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-28 15:27:15"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Emergency Medical team",
+          "answer": null
+        },
+        {
+          "question": "Emergency Medical drugs",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-14 12:51:29"
+    },
+    {
+      "role": "Pharmacist",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "10 antibiotic name",
+          "answer": null
+        },
+        {
+          "question": "What is the use the telmi 40",
+          "answer": null
+        },
+        {
+          "question": "What is one name of sugar medicine",
+          "answer": null
+        },
+        {
+          "question": "Which is the type of human body function",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-15 19:30:18"
+    },
+    {
+      "role": "GNM Staff Nurse",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is normal BP what is hyperglycemia",
+          "answer": null
+        },
+        {
+          "question": "What is normal respiration what is tracking cardia",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-18 10:21:18"
+    },
+    {
+      "role": "Security Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Aptitude Test, One-on-one",
+      "questions": [],
+      "review_date": "2025-01-02 08:35:55"
+    },
+    {
+      "role": "Medical Laboratory Technician",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RCB count",
+          "answer": null
+        },
+        {
+          "question": "What is Hb",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-17 21:11:44"
+    },
+    {
+      "role": "Junior Engineer",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the full form of DBMS?",
+          "answer": null
+        },
+        {
+          "question": "What are the differences between Database Management Systems (DBMS) and databases?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-15 23:54:45"
+    },
+    {
+      "role": "Accountant Cashier",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are your strengths?",
+          "answer": null
+        },
+        {
+          "question": "What is the process for learning about accounting maximum policies?",
+          "answer": "Understanding accounting maximum policies involves research, training, and practical application to ensure compliance and accuracy.Review company policy manuals to understand specific accounting maximums.Attend training sessions or workshops focused on accounting standards.Consult with experienced accountants or mentors for insights.Utilize online resources, such as accounting websites and forums, for updated information.Practice applying maximum policies in real-world scenarios to reinforce learning."
+        },
+        {
+          "question": "What is the process for cash handling using Google Sheets?",
+          "answer": "Cash handling in Google Sheets involves tracking, recording, and reconciling cash transactions efficiently.Create a cash handling template with columns for date, description, amount, and balance.Use formulas to automatically calculate the running balance after each transaction.Record cash inflows (sales) and outflows (expenses) in separate sections for clarity.Utilize conditional formatting to highlight discrepancies or low cash balances.Regularly reconcile the cash balance with physical cash on hand to ensure accuracy."
+        },
+        {
+          "question": "What is the refund policy?",
+          "answer": "Our refund policy ensures customer satisfaction with clear guidelines for returns and exchanges.Refunds are accepted within 30 days of purchase with a valid receipt.Items must be in original condition and packaging for a full refund.Exchanges can be made for different sizes or colors within the same timeframe.Non-refundable items include clearance sales and gift cards.For defective products, customers can request a refund or replacement."
+        }
+      ],
+      "review_date": "2026-01-07 14:20:49"
+    },
+    {
+      "role": "Pharmacist and Hospital Pharmacist",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Lasa high-risk drug",
+          "answer": null
+        },
+        {
+          "question": "Hi drug anti-inflammatory drugs",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-18 18:30:46"
+    },
+    {
+      "role": "Staff Nurse",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Modes of ventilator",
+          "answer": null
+        },
+        {
+          "question": "bundle care prevention",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-17 09:45:25"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "WHAT IS BMT",
+          "answer": null
+        },
+        {
+          "question": "What is the protocol before bone marrow transplant",
+          "answer": null
+        },
+        {
+          "question": "How you dedicate your profession ",
+          "answer": null
+        },
+        {
+          "question": "How will  u  deal with your patient??",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-10-28 15:27:15"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Emergency Medical team",
+          "answer": null
+        },
+        {
+          "question": "Emergency Medical drugs",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-14 12:51:29"
+    }
+  ],
+  "_scraped_at": "2026-04-12T21:07:00.875524+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Max Healthcare",
   "_registry_industry": "Healthcare",
   "_sentiment": {
-    "positiveCount": 220,
-    "negativeCount": 89,
-    "neutralCount": 67,
+    "positiveCount": 162,
+    "negativeCount": 66,
+    "neutralCount": 56,
     "topPositiveThemes": [
       "company culture",
       "career growth",
@@ -5246,8 +4792,8 @@
       "salary & compensation",
       "company culture",
       "management",
-      "career growth",
-      "benefits"
+      "benefits",
+      "career growth"
     ]
   }
 }

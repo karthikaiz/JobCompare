@@ -7,12 +7,12 @@
   "employee_count": "5001-10000",
   "founded": 2015,
   "website": "https://www.upgrad.com/",
-  "overall_rating": 3.299999952316284,
-  "work_life_balance": 3.2,
-  "salary_benefits": 3.42,
-  "job_security": 2.94,
-  "career_growth": 2.92,
-  "company_culture": 3.16,
+  "overall_rating": 3.4000000953674316,
+  "work_life_balance": 3.22,
+  "salary_benefits": 3.43,
+  "job_security": 2.96,
+  "career_growth": 2.95,
+  "company_culture": 3.18,
   "reviews": [
     {
       "title": null,
@@ -510,162 +510,6 @@
     },
     {
       "title": null,
-      "role": "HR Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Company and management is very good. In terms of the policies for the employee things are very goood. Work life balance and the employee engagement activities are quite very good in the company",
-      "cons": "Salary can be more in the company as what it is now and some more flexibility should introduce in the job role so employee can love their respective job more better way",
-      "sentiment": "positive",
-      "sentiment_score": 0.9713,
-      "is_current_employee": false,
-      "review_date": "2023-06-08",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Operations Associate",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Upgrad is a good place to learn and evolve but I got shifted to upgrad acquired startup named Knowledgehut and it was a horrible experience to be under that company. \nThe Job description was changed all of a sudden for me and they didn’t even bother to ask me about this once. \nThere is no work culture. The only work culture that follows is micromanagement. It was really horrible to see people from premier institute giving priority to micromanagement and giving responsibilities to people who doesn’t even quality to those work",
-      "cons": "I would like to share the dislikes of upgrad led startup Knowledgehut:- \n1) Micromanagement\n2) They don’t focus on end target but hourly wise process that subordinates has to do. \n3) Horrible work culture. \n4) There is no work timings.",
-      "sentiment": "negative",
-      "sentiment_score": -0.8907,
-      "is_current_employee": false,
-      "review_date": "2023-04-19",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Team has helped a lot to learn and gain the experience and it has helped me a lot to get the sales and generate more reveneues and one more thing i have seen that your work and performance is really appreciated here infront of everyone",
-      "cons": "well in every big organization there is  politics but yeah one thing is there with times things will be get resolved",
-      "sentiment": "positive",
-      "sentiment_score": 0.7715,
-      "is_current_employee": false,
-      "review_date": "2023-06-21",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Business Executive",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "My team , they were really helpful.",
-      "cons": "You have to work on target , they will not let you go home until you finish your target . You have to work on holidays , no leave.  Even for national holidays they will make you work on leave days ( eg if Wednesday is 26th Jan , and they provide Monday off then you have to work on Monday to get leave on Wednesday )",
-      "sentiment": "positive",
-      "sentiment_score": 0.793,
-      "is_current_employee": false,
-      "review_date": "2023-08-25",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Executive - Operations and HR",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "HR operation is quite very nice in upgrad. Their process and other things are very smooth and it is same as international level and quite very nice. salary is also very good and they maintain the worklife balance of their employee which is best thing we can ask for.",
-      "cons": "Nothing as such i have found but if i came across will surely edit my review and update it back",
-      "sentiment": "positive",
-      "sentiment_score": 0.8983,
-      "is_current_employee": false,
-      "review_date": "2023-05-25",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "Payout is good, there is learning in the company it is all about how you take it and how you learn. As there is weekly employee training session and skills development program are there in the organization in which employee can enhance his/her skills in the same field or they can learn any other things from upgrad and if you are working from more than 1 year then it is totally free of cost. please are there who just defame the company with wrong intensions but here things are quite good",
-      "cons": "Well some of time working hours get stretched that is thing that need to be fixed",
-      "sentiment": "positive",
-      "sentiment_score": 0.8808,
-      "is_current_employee": false,
-      "review_date": "2023-02-22",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Senior Associate Operations",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "People around are helpful.",
-      "cons": "On the offer Letter they mention two week offs but they will give you one week off.\nNo work life balance.\nWork Pressure.\nThey promise growth but not on papers.\nManagement ensures your life is made miserable.\nToxic Culture.\nHitler Rule.\nI was told a month prior that I will not be laid off by my Manager when my other colleagues by all of a sudden was asked to put down my papers along with many others.\nThey believe in hire & fire policy.\nThere is no job security.\nThe leaders decide who can stand against you and ask them to leave in the name of layoff.\nLeaders/Directors hire and promote candidates who were working with them in their previous organization and the ones who are working here just slog without getting any growth and promotion.\nNo respect.\nAbusive managers.\nNo security and respect for females.\nThe ones who are good to leaders are promoted without skills.\nThey insult you in front of 50 people if you are late even by a minute and and ask to wait post official hours.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7303,
-      "is_current_employee": false,
-      "review_date": "2023-05-01",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Sales Operations Specialist",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "I have personally got lots of learning from upgrad. it helped me a lot in terms of growth and skills development. salary and incentive is something is icing on the cake which keep motivated more to grow personally and push the limit to work",
-      "cons": "THe only thing which is more hectic that is the sales target and rush to meet the targets",
-      "sentiment": "positive",
-      "sentiment_score": 0.7964,
-      "is_current_employee": false,
-      "review_date": "2023-05-11",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Inbound Customer Care Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "ITs an desk job and work is also easy to do. just need to remain polite with customer and need to provide the desired help they needed, It has helped me alot to learn and enhance myself and Upgrad's team provide the best training for everything. Work life balance i can say is there in my job",
-      "cons": "Nothing as such",
-      "sentiment": "positive",
-      "sentiment_score": 0.8979,
-      "is_current_employee": false,
-      "review_date": "2023-05-19",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Marketing Manager",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Well its a great organization to be the reason is it helped me to get more skills and enhance my skills which helped me to grow within the company and parallelly i have also done my higher studies from upgrad itself as they have an employee learning program it helped me to be in this position",
-      "cons": "Well thing i would like to highlight that is for every employee initial part is tough and need to help them and nurther them properly with proper manager which i guess some of part it is missing",
-      "sentiment": "positive",
-      "sentiment_score": 0.9042,
-      "is_current_employee": false,
-      "review_date": "2023-02-08",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "company and management is very good actually many of them complaint about the managers and sales. it is as simple as it is sales profile so you have to perform well and get the sales whatever the condition is if you do that you will grow or else you will be complaining. There is work life balance if you do well",
-      "cons": "Well workload is there so much that needs to be managed properly",
-      "sentiment": "positive",
-      "sentiment_score": 0.6697,
-      "is_current_employee": false,
-      "review_date": "2023-03-29",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Sales Manager",
-      "location": "Mumbai",
-      "rating": 2.0,
-      "pros": "Nit much to like apart form timely salary",
-      "cons": "Organization is in experimental phase with zero sop.Sop are yet to defined and for that organisation is using there employees as an experiment samples . Despite of all the ownership which is being given to you you will still find many restriction while performing them .\nThe middle management works worse here .They themselves are not aware of what to do and how to move forward .They may ask you to do some unexpected things to get the results.If you can survive all ,you may do wonders but the attrition rate is quite high which give the justification for itself .",
-      "sentiment": "negative",
-      "sentiment_score": -0.2144,
-      "is_current_employee": false,
-      "review_date": "2023-01-28",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
       "role": "Marketing Manager",
       "location": "Gurugram",
       "rating": 2.0,
@@ -731,45 +575,6 @@
     },
     {
       "title": null,
-      "role": "Inbound Executive",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "It's an inside sales work and things need to do on the desk. Need to handle the new customer and exisiting customer over the call properly and convert them to as customer or sell new product it is very nice thing as the company has provided the training. Worklife balance is good.",
-      "cons": "Hectic work schedule  some of times",
-      "sentiment": "positive",
-      "sentiment_score": 0.7178,
-      "is_current_employee": false,
-      "review_date": "2023-05-24",
-      "quality_score": 0.78
-    },
-    {
-      "title": null,
-      "role": "Regional Head Sales",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "as a regional head i feel blessed to work with the team of less drama. Team is more dedicated to meet the deadline and parallely they love doing their work thats how the team and organization grow",
-      "cons": "Well for me there are not much to add but in terms of micro management needs to bring some reforms",
-      "sentiment": "positive",
-      "sentiment_score": 0.7748,
-      "is_current_employee": false,
-      "review_date": "2023-06-23",
-      "quality_score": 0.77
-    },
-    {
-      "title": null,
-      "role": "Subject Matter Specialist",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Upgrad as as company is very good in terms of the employee salary and extra other things also. Environment is very friendly to do work",
-      "cons": "Well there are bit of uncertanities reason is the skills and the growth if you don't match it. Workload pressure is there and in that also few of them do politics",
-      "sentiment": "positive",
-      "sentiment_score": 0.8476,
-      "is_current_employee": false,
-      "review_date": "2023-05-04",
-      "quality_score": 0.76
-    },
-    {
-      "title": null,
       "role": "Senior Consultant",
       "location": "Chhatrapati Sambhajinagar",
       "rating": 1.0,
@@ -809,32 +614,6 @@
     },
     {
       "title": null,
-      "role": "Inside Sales Specialist",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "inside sales work is quite good. it is not hectic as compare to field . targets are there in insides sales also but as it is desk job so somewhere it makes easy to meet target and deadlines",
-      "cons": "call timing is the thing is very irritating your every seconds get counted in that things",
-      "sentiment": "positive",
-      "sentiment_score": 0.1298,
-      "is_current_employee": false,
-      "review_date": "2023-06-21",
-      "quality_score": 0.74
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Well things in Upgrad is much better than the competitor company because their working environment and training team i guesss very best which helps alot to achieve the sales closing and even reaching near to sales target",
-      "cons": "Working hours are not fixed as many of time you may need to work longer than expected",
-      "sentiment": "positive",
-      "sentiment_score": 0.921,
-      "is_current_employee": false,
-      "review_date": "2023-05-17",
-      "quality_score": 0.74
-    },
-    {
-      "title": null,
       "role": "Senior Business Finance Manager",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -861,71 +640,6 @@
     },
     {
       "title": null,
-      "role": "Inbound Executive",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Inbound sales job is quite easy and desk job which needs the coordination with the current clients. Payment is also quite very good and the incentives is also very nice",
-      "cons": "There are certain things which need to improve lilke leave policy and some of times people do work on holidays due to workloads",
-      "sentiment": "positive",
-      "sentiment_score": 0.9549,
-      "is_current_employee": false,
-      "review_date": "2023-06-20",
-      "quality_score": 0.73
-    },
-    {
-      "title": null,
-      "role": "HR Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Company is quite very good. I have got to learn more from this company and it helped me alot to grow my skills and learn a lot about hiring",
-      "cons": "Well i have seen small small things which is not good in the company but i guess with time management has resolved that also",
-      "sentiment": "positive",
-      "sentiment_score": 0.4824,
-      "is_current_employee": false,
-      "review_date": "2023-05-24",
-      "quality_score": 0.73
-    },
-    {
-      "title": null,
-      "role": "Senior Sales Executive",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "Sales department is something excites more as it has good paycheck and other benefits so which makes the things comfortable. Actually work life balance is there",
-      "cons": "Well there is sword of target whcih remain hanging around you as we need to meet them if not then need to do work on holidays also",
-      "sentiment": "positive",
-      "sentiment_score": 0.9393,
-      "is_current_employee": false,
-      "review_date": "2023-05-04",
-      "quality_score": 0.73
-    },
-    {
-      "title": null,
-      "role": "Senior Content Writer",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Content department is one of the nice and supportive team in the company i guess because there is not chaos regarding the work as deadlines are set and everyone has brief so things get done within the timeline. Work life balance is quite good here.",
-      "cons": "Well working hour needs to be flexible",
-      "sentiment": "positive",
-      "sentiment_score": 0.9254,
-      "is_current_employee": false,
-      "review_date": "2023-06-23",
-      "quality_score": 0.72
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "It is very well and structured organization. People are very good and helpfull. It has helped me alot to grow and learn and enhance my skills. There is great growth in terms of job. Work life balance is also quite nice if works get complete on time.",
-      "cons": "Working hours are not fixed",
-      "sentiment": "positive",
-      "sentiment_score": 0.9369,
-      "is_current_employee": false,
-      "review_date": "2023-05-23",
-      "quality_score": 0.72
-    },
-    {
-      "title": null,
       "role": "Senior Associate",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -935,19 +649,6 @@
       "sentiment_score": -0.6238,
       "is_current_employee": true,
       "review_date": "2026-01-12",
-      "quality_score": 0.71
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "I Have gained alot of learning and skills growth and that i can see in my work all this thing happend due to the training team of the upgrad gradually who always provide the trainig to their employee",
-      "cons": "Working hours are strechable most of the time that needs to be fixed",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2023-05-17",
       "quality_score": 0.71
     },
     {
@@ -978,45 +679,6 @@
     },
     {
       "title": null,
-      "role": "Content Marketer",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Worst company to work with. Manipulative managers like Bulbul she is the worst manager. She would rebuke you n if u stand tall in front of her she would start manipulating to hide her insecurities . have nothing to say about This worst company.",
-      "cons": "Worst policies. Manipulative managers, toxic place",
-      "sentiment": "negative",
-      "sentiment_score": -0.9708,
-      "is_current_employee": false,
-      "review_date": "2023-09-24",
-      "quality_score": 0.7
-    },
-    {
-      "title": null,
-      "role": "HR Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Recruitment team and management things are very good. policies are are also very employee centric which make it more friendly company for the employee",
-      "cons": "Well in every company there is small small issues sames goes for the upgrad also but with time i guess it will be get resolved",
-      "sentiment": "positive",
-      "sentiment_score": 0.7134,
-      "is_current_employee": false,
-      "review_date": "2023-06-20",
-      "quality_score": 0.69
-    },
-    {
-      "title": null,
-      "role": "Tech Lead",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Well team is decent and thing which i like most is their employee training program where it helps a lot  to learn new technical things and skills growth. Work life balance is quite very good",
-      "cons": "I guess the growth in terms of salary is less compare to other company",
-      "sentiment": "positive",
-      "sentiment_score": 0.9309,
-      "is_current_employee": false,
-      "review_date": "2023-05-16",
-      "quality_score": 0.69
-    },
-    {
-      "title": null,
       "role": "Associate",
       "location": "Mumbai",
       "rating": 1.0,
@@ -1027,58 +689,6 @@
       "is_current_employee": true,
       "review_date": "2025-10-19",
       "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Manager Strategic Initiatives",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "There is nothing good about here. I had joined the company with great enthusiasm but the culture they are following is pathetic. They don’t pay the amount to the ones who have left the company as FnF. \nThey are very unresponsive.",
-      "cons": "Work culture\nCompetency \nHR \nAppraisal \nSalary benefits",
-      "sentiment": "negative",
-      "sentiment_score": -0.1162,
-      "is_current_employee": false,
-      "review_date": "2023-07-04",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Sales Manager",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "sales targets is the big things to achieve in the sales field and while doing this i have came across to lots of things and it is been good time working here till now and upgrad is good company to explore your skills",
-      "cons": "sales pressures are immensely high",
-      "sentiment": "positive",
-      "sentiment_score": 0.5423,
-      "is_current_employee": false,
-      "review_date": "2023-07-21",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "HR Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "its been more than 4 years i'm in this company and things are quite good here. working environment and culture is best in class",
-      "cons": "nothing as such for now many of things are similar in all organization and they always tries to minimize the things and improve themselves",
-      "sentiment": "positive",
-      "sentiment_score": 0.8832,
-      "is_current_employee": false,
-      "review_date": "2023-06-21",
-      "quality_score": 0.68
-    },
-    {
-      "title": null,
-      "role": "Business Development Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "i love the sales in upgrad. as things are challenging and in the challenge it makes me more excited to work on it and salary is something which is awesome",
-      "cons": "workload which is high and i guess in sales you are going to meet with this always",
-      "sentiment": "positive",
-      "sentiment_score": 0.9168,
-      "is_current_employee": false,
-      "review_date": "2023-06-22",
-      "quality_score": 0.67
     },
     {
       "title": null,
@@ -1104,19 +714,6 @@
       "sentiment_score": -0.9747,
       "is_current_employee": false,
       "review_date": "2024-06-01",
-      "quality_score": 0.66
-    },
-    {
-      "title": null,
-      "role": "Subject Matter Expert Specialist",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "this role need to have a deep knowledge of the subject and i'm glad that upgrad has given me the platform to showcase my knowledge and explore more",
-      "cons": "where there is some limitations where things get stucked so yeah its not that interesting for long term",
-      "sentiment": "positive",
-      "sentiment_score": 0.5586,
-      "is_current_employee": false,
-      "review_date": "2023-07-13",
       "quality_score": 0.66
     },
     {
@@ -1157,71 +754,6 @@
       "is_current_employee": false,
       "review_date": "2024-07-09",
       "quality_score": 0.65
-    },
-    {
-      "title": null,
-      "role": "Senior Sales Associate",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Sales is quite good job in terms of the perks they provide and also with training we get lots of help in skills development and growth in life. worklife balance is okok",
-      "cons": "workload is too high due to that need to work on holidays also",
-      "sentiment": "positive",
-      "sentiment_score": 0.8777,
-      "is_current_employee": false,
-      "review_date": "2023-06-22",
-      "quality_score": 0.65
-    },
-    {
-      "title": null,
-      "role": "Business Development Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "department is quite very good while working here i have learned a lot to in terms of skills development and growth which i like the most",
-      "cons": "Well there are few politics within the company which i think management need to address such issues",
-      "sentiment": "positive",
-      "sentiment_score": 0.8739,
-      "is_current_employee": false,
-      "review_date": "2023-06-20",
-      "quality_score": 0.63
-    },
-    {
-      "title": null,
-      "role": "HR Manager",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "HR Department is very good and well structured as compare to many company. It helped me alot to learn and grow and enhance my skills",
-      "cons": "The only things which i things can be improve some of poliicies which doesn't have any good impact",
-      "sentiment": "positive",
-      "sentiment_score": 0.7228,
-      "is_current_employee": false,
-      "review_date": "2023-06-20",
-      "quality_score": 0.63
-    },
-    {
-      "title": null,
-      "role": "Business Development Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Sales is always a promising career honestly i would say it just need a hard work and dedication. Rest company provides all facilities and great salary to work on it.",
-      "cons": "Work schedules get sometime hectic when sales targets doesnt get matched up",
-      "sentiment": "positive",
-      "sentiment_score": 0.8555,
-      "is_current_employee": false,
-      "review_date": "2023-06-01",
-      "quality_score": 0.62
-    },
-    {
-      "title": null,
-      "role": "Senior Associate",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Honestly it is a tough job, but when you get some good incentives and you get to use to deal with such thing",
-      "cons": "months end are very hectic with lots of pressure. We get scolded if we didn't meet the targets",
-      "sentiment": "positive",
-      "sentiment_score": 0.6956,
-      "is_current_employee": false,
-      "review_date": "2023-07-03",
-      "quality_score": 0.61
     },
     {
       "title": null,
@@ -1277,32 +809,6 @@
     },
     {
       "title": null,
-      "role": "Senior Sales Associate",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "get to learn lots of professional knowledge and courses to catapult one's career",
-      "cons": "in sales profile forget about the holidays even given by the company. it will depend upon your manager. the work life balance is on the lower side.",
-      "sentiment": "negative",
-      "sentiment_score": -0.128,
-      "is_current_employee": false,
-      "review_date": "2023-09-27",
-      "quality_score": 0.6
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Sales job is hectic but with that it also bring lots of perks of working here. Like salary and incentives which is quite very good and best in class",
-      "cons": "Worklife is more hectic when lead doesnt get converted to sales",
-      "sentiment": "positive",
-      "sentiment_score": 0.959,
-      "is_current_employee": false,
-      "review_date": "2023-06-27",
-      "quality_score": 0.6
-    },
-    {
-      "title": null,
       "role": "Senior Manager - Inside Sales",
       "location": "Bengaluru",
       "rating": 2.0,
@@ -1329,45 +835,6 @@
     },
     {
       "title": null,
-      "role": "Admission Counsellor",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Management of the company is very good. Work culture is also very nice you can say that. lots of benefits are there",
-      "cons": "the only things is not good is there is lots of politics are there within the company",
-      "sentiment": "positive",
-      "sentiment_score": 0.7565,
-      "is_current_employee": false,
-      "review_date": "2023-07-21",
-      "quality_score": 0.59
-    },
-    {
-      "title": null,
-      "role": "Senior Sales Manager",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Sales department is quite very nice and things are bit hectic but they provide best in class salary and incentives which is better than the other competitors",
-      "cons": "Politics is the thing only which is eating the company from inside",
-      "sentiment": "positive",
-      "sentiment_score": 0.9412,
-      "is_current_employee": false,
-      "review_date": "2023-07-04",
-      "quality_score": 0.59
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "iT is not that interesting job but yeah many things make it more interesting just like salary, incentives and training and even they provide laptops to the employee who stayed for more than a year",
-      "cons": "wokrload is too much",
-      "sentiment": "positive",
-      "sentiment_score": 0.9145,
-      "is_current_employee": false,
-      "review_date": "2023-06-22",
-      "quality_score": 0.59
-    },
-    {
-      "title": null,
       "role": "Senior Software Engineer",
       "location": "Noida",
       "rating": 1.0,
@@ -1377,45 +844,6 @@
       "sentiment_score": -0.9364,
       "is_current_employee": true,
       "review_date": "2025-01-17",
-      "quality_score": 0.58
-    },
-    {
-      "title": null,
-      "role": "Sales Executive",
-      "location": "Noida",
-      "rating": 3.0,
-      "pros": "Work life balance was the best thing as per me.",
-      "cons": "Promotion/appraisal process is not up to the mark. Even after getting same or more ratings than others on the KRA’s you get less appraisal as half as others.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2023-09-03",
-      "quality_score": 0.58
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "sales department is quite very nice. salary and other benefits are quite very nice and compensation they give is best in class. work life balance is also good",
-      "cons": "workload during the weekends and month endings are immensily high",
-      "sentiment": "positive",
-      "sentiment_score": 0.9472,
-      "is_current_employee": false,
-      "review_date": "2023-07-21",
-      "quality_score": 0.58
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "i have a good experience with this company as it helped a lot to enhance my skills and growth and with that salary is alwasy great and which is sufficient to survive",
-      "cons": "hectic workload and timing always sucks",
-      "sentiment": "positive",
-      "sentiment_score": 0.7964,
-      "is_current_employee": false,
-      "review_date": "2023-07-13",
       "quality_score": 0.58
     },
     {
@@ -1459,58 +887,6 @@
     },
     {
       "title": null,
-      "role": "Program Manager",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "Hardly anything",
-      "cons": "- no standard pays. \n- no process in place. \n- illogical asks from business leaders. \n- no work life balance. \n- hardly any communication and clarity between an employee and manager \n- no proper appraisals",
-      "sentiment": "negative",
-      "sentiment_score": -0.5908,
-      "is_current_employee": false,
-      "review_date": "2023-07-13",
-      "quality_score": 0.57
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Counselling department is quite very good. Initially things are hectic but with time it gave more confident in work and experience due to that works get more smoother",
-      "cons": "well some of times things gets more hectic",
-      "sentiment": "positive",
-      "sentiment_score": 0.8762,
-      "is_current_employee": false,
-      "review_date": "2023-07-19",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
-      "role": "HR Executive",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "HR Operation department is quite very good and their recruitment process and policies are also good, work life balance of the company is great",
-      "cons": "Things whch hamper all things is the internal politics of the company",
-      "sentiment": "positive",
-      "sentiment_score": 0.8878,
-      "is_current_employee": false,
-      "review_date": "2023-07-20",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
-      "role": "Senior Counsellor",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Nil",
-      "cons": "Join to politically motivate your self or if your contesting in any politics in future. Consider yourself most unlucky if you get to work with Apoorv or Prabhakar. Couldn't say more due to community guidelines.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5859,
-      "is_current_employee": false,
-      "review_date": "2023-10-22",
-      "quality_score": 0.56
-    },
-    {
-      "title": null,
       "role": "Content Manager",
       "location": "Mumbai",
       "rating": 1.0,
@@ -1521,45 +897,6 @@
       "is_current_employee": false,
       "review_date": "2024-08-11",
       "quality_score": 0.55
-    },
-    {
-      "title": null,
-      "role": "City Head",
-      "location": "Kolkata",
-      "rating": 3.0,
-      "pros": "Salary got credited on time.",
-      "cons": "culture, behaviors' of seniors/manager( they straightly say u r paid to be humiliated), response, no value of words even from the senior managements, never bothered about the lower/field personnel's problems.",
-      "sentiment": "negative",
-      "sentiment_score": -0.3968,
-      "is_current_employee": false,
-      "review_date": "2023-09-11",
-      "quality_score": 0.55
-    },
-    {
-      "title": null,
-      "role": "Academic Counsellor",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "It's not at all professionals.  You will regret working in this company. Sooner or later.",
-      "cons": "Management - work culture - They don't give incentive on time - you work till 9 or 9:30pm .",
-      "sentiment": "negative",
-      "sentiment_score": -0.6007,
-      "is_current_employee": false,
-      "review_date": "2023-07-29",
-      "quality_score": 0.54
-    },
-    {
-      "title": null,
-      "role": "Relationship Manager",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "building and maintaining good relation with the clients is a pre requiste. one can learn so much and can build good relations and contacts",
-      "cons": "there is too much amount of workload all the time",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2023-07-18",
-      "quality_score": 0.54
     },
     {
       "title": null,
@@ -1589,19 +926,6 @@
     },
     {
       "title": null,
-      "role": "Senior Associate",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "engaging and intectually simulating work that allowed me to continiously learn and grow in my field",
-      "cons": "high workload and tight deadline at times , which ocassionally lead to stress and load working hour",
-      "sentiment": "negative",
-      "sentiment_score": -0.1027,
-      "is_current_employee": false,
-      "review_date": "2023-07-20",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
       "role": "Assistant Training Manager",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -1611,32 +935,6 @@
       "sentiment_score": -0.9679,
       "is_current_employee": true,
       "review_date": "2025-10-03",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
-      "role": "Academic Counsellor",
-      "location": "Mumbai",
-      "rating": 2.0,
-      "pros": "Coffee machine",
-      "cons": "Timing, culture, work life balance is zero even for managers, too much pressure and targets even after achieving them. Not a company where one can think abt long term anymore",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2023-10-30",
-      "quality_score": 0.52
-    },
-    {
-      "title": null,
-      "role": "Program Manager",
-      "location": "Mumbai",
-      "rating": 1.0,
-      "pros": "Collaboration with different stakeholders,made some great friends for life",
-      "cons": "Politics, Shoddy appraisals, and variable payout structure ( performance metrics not taken into account at all, appraisals were handed out based on biases)",
-      "sentiment": "positive",
-      "sentiment_score": 0.802,
-      "is_current_employee": false,
-      "review_date": "2023-06-26",
       "quality_score": 0.52
     },
     {
@@ -1689,32 +987,6 @@
       "sentiment_score": 0.5574,
       "is_current_employee": false,
       "review_date": "2024-07-31",
-      "quality_score": 0.51
-    },
-    {
-      "title": null,
-      "role": "Applications Engineer",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Oke good thing working here is that you get to learn any course you want for free. IJPs are also flowless",
-      "cons": "Frequent Layoffs, No work life balance, No recognitions and appraisals.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4767,
-      "is_current_employee": false,
-      "review_date": "2023-11-26",
-      "quality_score": 0.51
-    },
-    {
-      "title": null,
-      "role": "Business Development Executive",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Provide ample opportunites to interact with industry professionals and expand my network, while company reputation added the creadibility to my profile",
-      "cons": "However there is lack of clear clarity  on career progression",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2023-06-29",
       "quality_score": 0.51
     },
     {
@@ -1784,19 +1056,6 @@
     },
     {
       "title": null,
-      "role": "Admission Counsellor",
-      "location": "Noida",
-      "rating": 3.0,
-      "pros": "Best work life balance 2 days off sun and mon. Infrastructure is brilliant only.",
-      "cons": "Lot of office politics, No Job stability, Hire and Fire policy is most prevalent here.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6597,
-      "is_current_employee": false,
-      "review_date": "2023-08-03",
-      "quality_score": 0.49
-    },
-    {
-      "title": null,
       "role": "Senior Academic Counsellor",
       "location": "Bengaluru",
       "rating": 1.0,
@@ -1845,32 +1104,6 @@
       "sentiment_score": 0.8583,
       "is_current_employee": false,
       "review_date": "2024-07-30",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "only knowledge foreducation purpose is availaible to upgrade youreducation or masters",
-      "cons": "NO worlk life balance they willstay you upto9 o clock and  not piad for the overtime also",
-      "sentiment": "negative",
-      "sentiment_score": -0.4466,
-      "is_current_employee": true,
-      "review_date": "2024-01-28",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Noida",
-      "rating": 4.0,
-      "pros": "Upgrad is a dynamic company helping the students for there bright culture likewise no other can in the market",
-      "cons": "Flexibility in work is area where they can improve",
-      "sentiment": "positive",
-      "sentiment_score": 0.8689,
-      "is_current_employee": false,
-      "review_date": "2023-10-24",
       "quality_score": 0.48
     },
     {
@@ -1936,19 +1169,6 @@
       "sentiment_score": -0.5594,
       "is_current_employee": false,
       "review_date": "2024-09-27",
-      "quality_score": 0.46
-    },
-    {
-      "title": null,
-      "role": "Senior Business Development Executive",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Healthy Environment with a very supportive Leaders and management",
-      "cons": "Overall it's a best EdTech to work but sometimes the higher management sucks with extra working hours",
-      "sentiment": "positive",
-      "sentiment_score": 0.2374,
-      "is_current_employee": false,
-      "review_date": "2023-08-03",
       "quality_score": 0.46
     },
     {
@@ -2070,19 +1290,6 @@
     },
     {
       "title": null,
-      "role": "Associate",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "I am having an great experience currently working at upGrad. I am enjoying my work and gaining huge amount of career exposure.",
-      "cons": "Nothing to dislike.",
-      "sentiment": "positive",
-      "sentiment_score": 0.9298,
-      "is_current_employee": true,
-      "review_date": "2023-09-12",
-      "quality_score": 0.45
-    },
-    {
-      "title": null,
       "role": "Center Manager",
       "location": "Hyderabad",
       "rating": 1.0,
@@ -2149,19 +1356,6 @@
     {
       "title": null,
       "role": "Admission Counsellor",
-      "location": "Hyderabad",
-      "rating": 5.0,
-      "pros": "Managers are supportive and remaining team members are gems in according to support professionally and great place to learn and showcase your talent.",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.8957,
-      "is_current_employee": false,
-      "review_date": "2023-10-11",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
       "location": "Bengaluru",
       "rating": 3.0,
       "pros": "Employee engagement",
@@ -2170,32 +1364,6 @@
       "sentiment_score": -0.2023,
       "is_current_employee": false,
       "review_date": "2024-05-03",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Incentives",
-      "cons": "Everything, the Managers and Sr. Managers are literally children, bunch of immature chaps. Micromanaging at its ultimatum, complete bias, and unnecessary involvement.",
-      "sentiment": "positive",
-      "sentiment_score": 0.2263,
-      "is_current_employee": false,
-      "review_date": "2023-11-25",
-      "quality_score": 0.43
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Meerut",
-      "rating": 3.0,
-      "pros": "Good pay to freshers , but quite hectic and no work life balance",
-      "cons": "No work life balance , high pressure, office politics ,",
-      "sentiment": "negative",
-      "sentiment_score": -0.7932,
-      "is_current_employee": false,
-      "review_date": "2023-10-21",
       "quality_score": 0.43
     },
     {
@@ -2274,19 +1442,6 @@
       "sentiment_score": 0.7783,
       "is_current_employee": false,
       "review_date": "2023-10-12",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
-      "role": "Academic Counsellor",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "Terrible experiance it's very traumatizing office as well they don't value employees at all the whole floor is half empty now",
-      "cons": "Everything",
-      "sentiment": "negative",
-      "sentiment_score": -0.8141,
-      "is_current_employee": false,
-      "review_date": "2023-12-08",
       "quality_score": 0.42
     },
     {
@@ -2408,19 +1563,6 @@
     },
     {
       "title": null,
-      "role": "Senior Enterprise Manager",
-      "location": null,
-      "rating": 1.0,
-      "pros": "Work life balance",
-      "cons": "No process within the team. Unwanted pressure on achieving targets no focus on marketing and other activities.",
-      "sentiment": "negative",
-      "sentiment_score": -0.7579,
-      "is_current_employee": true,
-      "review_date": "2026-01-27",
-      "quality_score": 0.4
-    },
-    {
-      "title": null,
       "role": "Program Manager",
       "location": "Mumbai",
       "rating": 2.0,
@@ -2482,19 +1624,6 @@
       "sentiment_score": 0.2924,
       "is_current_employee": false,
       "review_date": "2024-05-21",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Talent Acquisition Executive",
-      "location": "Faridabad",
-      "rating": 1.0,
-      "pros": "Friendly environment",
-      "cons": "Everything is bad except the colleagues and this is the reason people stay for 4 5 months",
-      "sentiment": "negative",
-      "sentiment_score": -0.0772,
-      "is_current_employee": false,
-      "review_date": "2023-10-11",
       "quality_score": 0.39
     },
     {
@@ -2707,19 +1836,6 @@
     },
     {
       "title": null,
-      "role": "Consultant",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "Nothing it's really bad",
-      "cons": "Everything \nToo much work pressure expect us to sit till 9 pm",
-      "sentiment": "positive",
-      "sentiment_score": 0.2184,
-      "is_current_employee": false,
-      "review_date": "2023-10-27",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
       "role": "Deputy Manager",
       "location": "Ernakulam",
       "rating": 1.0,
@@ -2768,19 +1884,6 @@
       "sentiment_score": 0.659,
       "is_current_employee": true,
       "review_date": "2024-02-26",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Associate",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good  work environment have seen here",
-      "cons": "Ntng  else to say here to upgrad on dislikes",
-      "sentiment": "positive",
-      "sentiment_score": 0.0516,
-      "is_current_employee": true,
-      "review_date": "2023-12-06",
       "quality_score": 0.35
     },
     {
@@ -2954,19 +2057,6 @@
     },
     {
       "title": null,
-      "role": "HR Executive",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Fraud company they will eat vendors and consultancy amount",
-      "cons": "Fake commitment send fals promises",
-      "sentiment": "negative",
-      "sentiment_score": -0.4019,
-      "is_current_employee": false,
-      "review_date": "2024-12-09",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Program Coordinator",
       "location": "Mumbai",
       "rating": 2.0,
@@ -3067,58 +2157,6 @@
       "sentiment_score": 0.6808,
       "is_current_employee": true,
       "review_date": "2024-02-26",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Associate",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Nothing as such",
-      "cons": "Work hours need to be extended on a regular basis",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-10-27",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Center Head",
-      "location": "Lucknow",
-      "rating": 2.0,
-      "pros": "Knowledge you will gain.",
-      "cons": "No work life balance, no job security, internal politics",
-      "sentiment": "negative",
-      "sentiment_score": -0.2584,
-      "is_current_employee": false,
-      "review_date": "2024-11-25",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Business Development Associate",
-      "location": "Hyderabad",
-      "rating": 4.0,
-      "pros": "Salary and compensation, managers and higher hierarchy.",
-      "cons": "Working hours since it is sales",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2023-10-16",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "No Work life balance and heavy target's , no respect to employees",
-      "sentiment": "negative",
-      "sentiment_score": -0.1695,
-      "is_current_employee": true,
-      "review_date": "2023-09-26",
       "quality_score": 0.33
     },
     {
@@ -3331,32 +2369,6 @@
     },
     {
       "title": null,
-      "role": "Senior Legal Associate",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Salary Compensation, Work and Skill development, Middle Management.",
-      "cons": "Company Culture, Higher Management.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-02-08",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Academic Counsellor",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "Nothing , nothing is good here total waste",
-      "cons": "Everything.. No positive side...",
-      "sentiment": "negative",
-      "sentiment_score": -0.7997,
-      "is_current_employee": false,
-      "review_date": "2024-09-12",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
       "role": "Academic Counsellor",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -3535,19 +2547,6 @@
       "sentiment_score": -0.5849,
       "is_current_employee": false,
       "review_date": "2024-07-12",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Good for everyone work and benfinfits",
-      "cons": "Nothing like disliking the company",
-      "sentiment": "positive",
-      "sentiment_score": 0.4122,
-      "is_current_employee": false,
-      "review_date": "2024-06-07",
       "quality_score": 0.31
     },
     {
@@ -3812,58 +2811,6 @@
     },
     {
       "title": null,
-      "role": "Program Associate",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "Work i would say that",
-      "cons": "Overwork i would say that",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-07-06",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Placement Coordinator",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Employee engagement.",
-      "cons": "The people at managerial levels are very skilled.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": false,
-      "review_date": "2023-11-14",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Quality Associate",
-      "location": "Mumbai",
-      "rating": 3.0,
-      "pros": "People are friendly and supportive",
-      "cons": "No you promotions or appraisals",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": true,
-      "review_date": "2024-01-15",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Noida",
-      "rating": 1.0,
-      "pros": "Nothing in the company upGrad",
-      "cons": "Bad work culture in upgrad",
-      "sentiment": "negative",
-      "sentiment_score": -0.5423,
-      "is_current_employee": true,
-      "review_date": "2024-01-14",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
       "role": "Associate Director Sales",
       "location": "Noida",
       "rating": 1.0,
@@ -4094,45 +3041,6 @@
       "sentiment_score": 0.5096,
       "is_current_employee": false,
       "review_date": "2024-10-08",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Consultant",
-      "location": "Gurugram",
-      "rating": 3.0,
-      "pros": "Not fan of working in upgrad",
-      "cons": "Its working hours",
-      "sentiment": "negative",
-      "sentiment_score": -0.2411,
-      "is_current_employee": false,
-      "review_date": "2024-07-03",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Noida",
-      "rating": 5.0,
-      "pros": "Good environment for work",
-      "cons": "Not available at the time",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2023-12-05",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Zonal Head",
-      "location": "Indore",
-      "rating": 3.0,
-      "pros": "Company growth and vision",
-      "cons": "Work life balance and remuneration",
-      "sentiment": "positive",
-      "sentiment_score": 0.5574,
-      "is_current_employee": true,
-      "review_date": "2023-10-01",
       "quality_score": 0.29
     },
     {
@@ -4397,19 +3305,6 @@
     },
     {
       "title": null,
-      "role": "Senior Sales Manager",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Great place to work",
-      "cons": "At times, too competitive.",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": true,
-      "review_date": "2024-01-01",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
       "role": "Senior Associate Manager",
       "location": "Panipat",
       "rating": 5.0,
@@ -4666,19 +3561,6 @@
       "sentiment_score": 0.3818,
       "is_current_employee": false,
       "review_date": "2024-06-19",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Associate Voice",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "The Work environment is very supportive.",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.3597,
-      "is_current_employee": true,
-      "review_date": "2024-02-26",
       "quality_score": 0.27
     },
     {
@@ -5086,32 +3968,6 @@
     },
     {
       "title": null,
-      "role": "Acquisition Manager",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "A great place to work.",
-      "cons": "NA",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2024-05-03",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Gurugram",
-      "rating": 5.0,
-      "pros": "In time salary",
-      "cons": "no job security",
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "is_current_employee": true,
-      "review_date": "2024-04-25",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "Product Manager",
       "location": "Mumbai",
       "rating": 4.0,
@@ -5515,120 +4371,16 @@
     },
     {
       "title": null,
-      "role": "Talent Acquisition Specialist",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Amazing workspace",
-      "cons": "Nothing as such",
-      "sentiment": "positive",
-      "sentiment_score": 0.5859,
-      "is_current_employee": false,
-      "review_date": "2024-07-29",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Admission Counsellor",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Work Environment",
-      "cons": "Work Life Balance",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-04-12",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Academic Counsellor",
-      "location": "Bhubaneswar",
-      "rating": 4.0,
-      "pros": "All",
-      "cons": "Culture and work hours",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-03-29",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Onboarding Associate",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "Work Culture.",
-      "cons": "nothing as such.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2024-02-26",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Content Writer",
-      "location": "Noida",
-      "rating": 4.0,
-      "pros": "Support from colleagues",
-      "cons": "Toxic policies",
-      "sentiment": "positive",
-      "sentiment_score": 0.4019,
-      "is_current_employee": false,
-      "review_date": "2024-08-08",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Engineering Manager",
-      "location": "Mumbai",
-      "rating": 4.0,
-      "pros": "Freedom",
-      "cons": "Instability of Top Management",
-      "sentiment": "positive",
-      "sentiment_score": 0.7184,
-      "is_current_employee": false,
-      "review_date": "2024-06-28",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
+      "role": "Legal Consultant",
       "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "all ok",
-      "cons": "nothing as such",
-      "sentiment": "positive",
-      "sentiment_score": 0.296,
-      "is_current_employee": false,
-      "review_date": "2024-07-03",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Business Development Associate",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Not recommended to anyone",
-      "sentiment": "positive",
-      "sentiment_score": 0.1124,
-      "is_current_employee": false,
-      "review_date": "2024-09-27",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Academic Supervisor",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Ethical and professional working.",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.5106,
+      "rating": 3.0,
+      "pros": "My manager",
+      "cons": "Head level",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "is_current_employee": true,
-      "review_date": "2025-12-29",
-      "quality_score": 0.25
+      "review_date": "2026-03-18",
+      "quality_score": 0.24
     },
     {
       "title": null,
@@ -5706,32 +4458,6 @@
       "sentiment_score": -0.5849,
       "is_current_employee": true,
       "review_date": "2025-03-25",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Manager",
-      "location": null,
-      "rating": 5.0,
-      "pros": "Environment",
-      "cons": "NA",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2026-01-29",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Consultant",
-      "location": null,
-      "rating": 3.0,
-      "pros": "",
-      "cons": "All good",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2026-01-27",
       "quality_score": 0.22
     },
     {
@@ -6103,18 +4829,1515 @@
       "details": "Our culture embedded with integrity and transparency will give you direct access with the leaders, managers and cross-functional colleagues where you can share your views, ideas and feedback openly"
     }
   ],
-  "_scraped_at": "2026-04-10T22:43:33.910414+00:00",
+  "interviews": [
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    },
+    {
+      "role": "Quality Assurance Tester",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is smoke testing",
+          "answer": "Smoke testing is a preliminary test to check the basic functionality of a software build before further testing.Smoke testing is often referred to as 'build verification testing'.It ensures that the most crucial functions of the software work correctly.For example, in a web application, smoke tests might check if the homepage loads and if the login feature works.Smoke tests are usually automated to save time and ensure consistency.This type of testing is performed after a new build is deployed to catch major issues early."
+        },
+        {
+          "question": "What is sanity testing",
+          "answer": "Sanity testing is a preliminary check to ensure that a specific function or bug fix works as intended before further testing.Sanity testing is usually performed after receiving a software build to verify specific functionalities.It is a subset of regression testing, focusing on a few areas rather than the entire application.Example: After a bug fix, sanity testing checks if the fix works without affecting other functionalities.Sanity testing is quick and helps determine if the build is stable enough for more rigorous testing."
+        }
+      ],
+      "review_date": "2026-01-16 23:14:03"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Case Study, One-on-one",
+      "questions": [],
+      "review_date": "2025-02-10 14:59:42"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-03-10 22:50:11"
+    },
+    {
+      "role": "Marketing Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Assignment, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-05 01:47:16"
+    },
+    {
+      "role": "Cluster Trainer",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Automobiles related",
+          "answer": null
+        },
+        {
+          "question": "Current job related",
+          "answer": null
+        },
+        {
+          "question": "About Basic Automobile tech",
+          "answer": null
+        },
+        {
+          "question": "Automobile Market share",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-21 22:27:30"
+    },
+    {
+      "role": "Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you describe your professional experience?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose to pursue a career in sales instead of the IT field?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-28 22:21:57"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2025-01-02 18:03:41"
+    },
+    {
+      "role": "Career Coach",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-11-04 13:46:31"
+    },
+    {
+      "role": "Senior Program Manager",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical, Technical",
+      "questions": [],
+      "review_date": "2024-12-12 16:12:45"
+    },
+    {
+      "role": "Software Engineer2",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Database Design Question",
+      "questions": [],
+      "review_date": "2025-01-10 13:50:14"
+    }
+  ],
+  "_scraped_at": "2026-04-12T23:31:19.605798+00:00",
   "_source": "ambitionbox",
   "_registry_name": "upGrad",
   "_registry_industry": "EdTech",
   "_sentiment": {
-    "positiveCount": 267,
-    "negativeCount": 123,
-    "neutralCount": 53,
+    "positiveCount": 198,
+    "negativeCount": 101,
+    "neutralCount": 46,
     "topPositiveThemes": [
       "company culture",
-      "salary & compensation",
       "management",
+      "salary & compensation",
       "training",
       "career growth"
     ],

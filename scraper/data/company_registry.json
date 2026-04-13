@@ -163,6 +163,25 @@
     { "name": "Thoughtworks", "slug": "thoughtworks", "industry": "IT Services" },
     { "name": "McKinsey & Company", "slug": "mckinsey-and-company", "industry": "Consulting" },
     { "name": "BCG India", "slug": "bcg", "industry": "Consulting" },
-    { "name": "boAt", "slug": "boat", "industry": "Manufacturing" }
+    { "name": "boAt", "slug": "boat", "industry": "Manufacturing" },
+    { "name": "BHEL", "slug": "bhel", "industry": "PSU" },
+    { "name": "SAIL", "slug": "steel-authority-of-india", "industry": "PSU" },
+    { "name": "Coal India", "slug": "coal-india", "industry": "PSU" },
+    { "name": "Indian Oil Corporation", "slug": "indian-oil-corporation", "industry": "PSU" },
+    { "name": "Hindustan Petroleum", "slug": "hindustan-petroleum-corporation", "industry": "PSU" },
+    { "name": "GAIL India", "slug": "gail-india", "industry": "PSU" },
+    { "name": "Bain & Company", "slug": "bain-and-company", "industry": "Consulting" },
+    { "name": "Acko Insurance", "slug": "acko", "industry": "Insurance" },
+    { "name": "Digit Insurance", "slug": "digit-insurance", "industry": "Insurance" },
+    { "name": "Practo", "slug": "practo", "industry": "Healthcare" },
+    { "name": "1mg", "slug": "1mg", "industry": "Healthcare" },
+    { "name": "PharmEasy", "slug": "pharmeasy", "industry": "Healthcare" },
+    { "name": "Dunzo", "slug": "dunzo", "industry": "E-Commerce" },
+    { "name": "Juspay", "slug": "juspay", "industry": "Fintech" },
+    { "name": "Slice", "slug": "slice", "industry": "Fintech" },
+    { "name": "Jupiter", "slug": "jupiter-money", "industry": "Fintech" },
+    { "name": "NoBroker", "slug": "nobroker", "industry": "Real Estate" },
+    { "name": "Housing.com", "slug": "housing-com", "industry": "Real Estate" },
+    { "name": "Cure.fit", "slug": "cure-fit", "industry": "Services" }
   ]
 }

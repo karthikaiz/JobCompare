@@ -354,19 +354,6 @@
     },
     {
       "title": null,
-      "role": "Assistant Manager",
-      "location": "Hosur",
-      "rating": 3.0,
-      "pros": "The freedom to think and execute a new project for the betterment of product",
-      "cons": "1. Too many company policies to hamper your everyday work \n2. No Accountability for the work if there is no mail.\n3. Asked to pay for the benefits",
-      "sentiment": "positive",
-      "sentiment_score": 0.4588,
-      "is_current_employee": false,
-      "review_date": "2024-05-15",
-      "quality_score": 0.62
-    },
-    {
-      "title": null,
       "role": "Trainee",
       "location": "Hosur",
       "rating": 1.0,
@@ -390,19 +377,6 @@
       "is_current_employee": false,
       "review_date": "2024-10-31",
       "quality_score": 0.61
-    },
-    {
-      "title": null,
-      "role": "MIS Executive and Sales Coordinator",
-      "location": "Kolkata",
-      "rating": 1.0,
-      "pros": "Company is good, salary on time, colleagues are helpful.",
-      "cons": "As Regional level of managers behave as worst..The employee under them are feeling very afraid and unsecure...every time they threat to employee as terminate from company and abusing.",
-      "sentiment": "negative",
-      "sentiment_score": -0.0516,
-      "is_current_employee": false,
-      "review_date": "2024-07-18",
-      "quality_score": 0.57
     },
     {
       "title": null,
@@ -601,19 +575,6 @@
     },
     {
       "title": null,
-      "role": "Senior Engineer",
-      "location": "Bengaluru",
-      "rating": 4.0,
-      "pros": "Have a learning culture. Employees get opportunity to develop their skills.",
-      "cons": "Sometimes the employee is too much loaded with work. Not enough team members to share the work.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6124,
-      "is_current_employee": false,
-      "review_date": "2024-12-20",
-      "quality_score": 0.48
-    },
-    {
-      "title": null,
       "role": "Retail Sales Representative",
       "location": "Patna",
       "rating": 5.0,
@@ -623,19 +584,6 @@
       "sentiment_score": 0.4153,
       "is_current_employee": false,
       "review_date": "2024-11-18",
-      "quality_score": 0.47
-    },
-    {
-      "title": null,
-      "role": "Mechanical Technician",
-      "location": "Vatakara",
-      "rating": 1.0,
-      "pros": "I work over 4 years in tvs and my salery is 10000 and I am expeat in mechanic",
-      "cons": "Salery is very low and safety is very bad",
-      "sentiment": "negative",
-      "sentiment_score": -0.4806,
-      "is_current_employee": false,
-      "review_date": "2024-11-12",
       "quality_score": 0.47
     },
     {
@@ -731,19 +679,6 @@
     },
     {
       "title": null,
-      "role": "Senior Data Scientist",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Its been exciting 2 years in TVS. Its my first company where i am proud to be associate with the brand",
-      "cons": "None. Absolutely none",
-      "sentiment": "positive",
-      "sentiment_score": 0.743,
-      "is_current_employee": false,
-      "review_date": "2024-08-25",
-      "quality_score": 0.44
-    },
-    {
-      "title": null,
       "role": "Team Lead",
       "location": "Hosur",
       "rating": 2.0,
@@ -822,45 +757,6 @@
     },
     {
       "title": null,
-      "role": "Area Service Manager",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "It is good company but management is very poor",
-      "cons": "Manager do personal attack and try to harm always specially in service department",
-      "sentiment": "negative",
-      "sentiment_score": -0.9265,
-      "is_current_employee": false,
-      "review_date": "2024-08-19",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
-      "role": "Territory Service Manager",
-      "location": "Hisar",
-      "rating": 2.0,
-      "pros": "Collogues were supportive.",
-      "cons": "Too much reporting and micro management. Daily targets achievement pressure. Too much malpractices done by everyone to achieve targets.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-01-30",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
-      "role": "Executive Accountant",
-      "location": "Hosur",
-      "rating": 4.0,
-      "pros": "A supportive environment for women, offering a good work–life balance.",
-      "cons": "The quality of the food is inconsistent—sometimes it’s good, sometimes it’s horrible.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5423,
-      "is_current_employee": true,
-      "review_date": "2025-11-24",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
       "role": "Manager",
       "location": "Hosur",
       "rating": 3.0,
@@ -909,19 +805,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": false,
       "review_date": "2024-11-11",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
-      "role": "Regional Manager",
-      "location": "Pune",
-      "rating": 4.0,
-      "pros": "Great products and ahead of Industry approach.",
-      "cons": "Transfer of ownership at lower level is missing and more than required follow ups.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": true,
-      "review_date": "2025-02-20",
       "quality_score": 0.41
     },
     {
@@ -1052,32 +935,6 @@
       "sentiment_score": 0.2247,
       "is_current_employee": true,
       "review_date": "2025-01-17",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "Trainee Operator",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Nature of work environment,team management, safety related also Good",
-      "cons": "Not given job opportunity after completing 4 years experience",
-      "sentiment": "positive",
-      "sentiment_score": 0.5216,
-      "is_current_employee": false,
-      "review_date": "2024-10-20",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
-      "role": "HUB Head",
-      "location": "Hosur",
-      "rating": 5.0,
-      "pros": "We get more knowledge on business and spares in automobile sector and improve more and more knowledge",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-07-22",
       "quality_score": 0.38
     },
     {
@@ -1329,19 +1186,6 @@
     },
     {
       "title": null,
-      "role": "Accountant ",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Employee will be friendly and helping tendency.",
-      "cons": "Appraisal and Promotion not done in this company.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6597,
-      "is_current_employee": true,
-      "review_date": "2024-12-21",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
       "role": "Development Engineer",
       "location": "Hosur",
       "rating": 5.0,
@@ -1407,32 +1251,6 @@
     },
     {
       "title": null,
-      "role": "Quality Assurance",
-      "location": "Chennai",
-      "rating": 5.0,
-      "pros": "Working atmosphere very nice and management responsibilities super",
-      "cons": "No promotion to new traning people",
-      "sentiment": "positive",
-      "sentiment_score": 0.6997,
-      "is_current_employee": false,
-      "review_date": "2024-11-12",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
-      "role": "Store Incharge",
-      "location": "Hosur",
-      "rating": 2.0,
-      "pros": "First' safety,\nSecond one salary.",
-      "cons": "Over role in security main gate,\nSafety shoe .",
-      "sentiment": "positive",
-      "sentiment_score": 0.7906,
-      "is_current_employee": false,
-      "review_date": "2024-11-03",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Project Manager",
       "location": "Hosur",
       "rating": 4.0,
@@ -1494,45 +1312,6 @@
       "sentiment_score": -0.5267,
       "is_current_employee": false,
       "review_date": "2024-10-03",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "NOC Support Engineer",
-      "location": "Hosur",
-      "rating": 5.0,
-      "pros": "Skill development in  TVS motor",
-      "cons": "Communication is my forever in TVS motor company",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2025-01-10",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Territory Manager",
-      "location": "Bhopal",
-      "rating": 4.0,
-      "pros": "Salary structure and incentives provided by TVS",
-      "cons": "Unorganized work culture and life balance",
-      "sentiment": "positive",
-      "sentiment_score": 0.3182,
-      "is_current_employee": false,
-      "review_date": "2024-08-20",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Quality Engineer",
-      "location": "Hosur",
-      "rating": 5.0,
-      "pros": "Excellent learning\nI am enjoying the work",
-      "cons": "I dislike a lunch don't comfort😌",
-      "sentiment": "positive",
-      "sentiment_score": 0.2973,
-      "is_current_employee": false,
-      "review_date": "2024-10-08",
       "quality_score": 0.33
     },
     {
@@ -1875,84 +1654,6 @@
     },
     {
       "title": null,
-      "role": "Marketing Executive",
-      "location": "Madurai",
-      "rating": 5.0,
-      "pros": "Good learning in this company",
-      "cons": "This company all people are good",
-      "sentiment": "positive",
-      "sentiment_score": 0.7003,
-      "is_current_employee": false,
-      "review_date": "2024-10-05",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Territory Manager",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Nothing is good to like",
-      "cons": "Politics n no proper goal  defined",
-      "sentiment": "negative",
-      "sentiment_score": -0.2746,
-      "is_current_employee": true,
-      "review_date": "2025-05-29",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Field Service Engineer",
-      "location": "Ranchi",
-      "rating": 4.0,
-      "pros": "Good environment",
-      "cons": "Job security not secure in tvs for third party",
-      "sentiment": "positive",
-      "sentiment_score": 0.7153,
-      "is_current_employee": false,
-      "review_date": "2024-12-22",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Territory Service Manager",
-      "location": "Chennai",
-      "rating": 1.0,
-      "pros": "Nothing to like",
-      "cons": "Worst behaviour of ASM, no respect to subordinate",
-      "sentiment": "negative",
-      "sentiment_score": -0.0951,
-      "is_current_employee": true,
-      "review_date": "2024-12-28",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Kotak Mahindra Bank",
-      "location": "Nagpur",
-      "rating": 5.0,
-      "pros": "Best vehicle most mailege in TVS.",
-      "cons": "Low man power in TVS.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4767,
-      "is_current_employee": false,
-      "review_date": "2024-09-08",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Territory Manager",
-      "location": "Raipur",
-      "rating": 2.0,
-      "pros": "Average",
-      "cons": "Travel reimbursement, travel policy\nCorrupted unethical practices- forced target achievement.",
-      "sentiment": "negative",
-      "sentiment_score": -0.743,
-      "is_current_employee": false,
-      "review_date": "2024-10-28",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
       "role": "Territory Service Manager",
       "location": "Guwahati",
       "rating": 1.0,
@@ -2109,32 +1810,6 @@
     },
     {
       "title": null,
-      "role": "Maintenance Electrician",
-      "location": "Hosur",
-      "rating": 5.0,
-      "pros": "Good working place and treating of employees",
-      "cons": "Work load High",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-02-05",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
-      "role": "Assistant Manager",
-      "location": "Hosur",
-      "rating": 4.0,
-      "pros": "Top management is easily approachable",
-      "cons": "Still a man dependent company",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2024-09-22",
-      "quality_score": 0.3
-    },
-    {
-      "title": null,
       "role": "Sales Secretary",
       "location": "Patna",
       "rating": 4.0,
@@ -2183,45 +1858,6 @@
       "sentiment_score": 0.7579,
       "is_current_employee": true,
       "review_date": "2025-01-30",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Data Entry Operator",
-      "location": "Hosur",
-      "rating": 5.0,
-      "pros": "Good vibes",
-      "cons": "Only three years not permanent all workers",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-09-30",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "Company food is so good",
-      "cons": "Politics are too much",
-      "sentiment": "positive",
-      "sentiment_score": 0.5777,
-      "is_current_employee": true,
-      "review_date": "2025-02-06",
-      "quality_score": 0.29
-    },
-    {
-      "title": null,
-      "role": "RTO Executive",
-      "location": "Bemetara",
-      "rating": 5.0,
-      "pros": "Good👍🏻 job from tvs company",
-      "cons": "No👎🏻 dislike ok good",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2024-09-24",
       "quality_score": 0.29
     },
     {
@@ -2417,32 +2053,6 @@
       "sentiment_score": 0.0572,
       "is_current_employee": false,
       "review_date": "2024-10-07",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "AM-Costing",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Pay as per the market standards",
-      "cons": "Job satisfaction",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2024-11-21",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Senior Executive PPC",
-      "location": "Hosur",
-      "rating": 4.0,
-      "pros": "i like the working this good company",
-      "cons": "Nothing",
-      "sentiment": "positive",
-      "sentiment_score": 0.7073,
-      "is_current_employee": false,
-      "review_date": "2024-11-21",
       "quality_score": 0.28
     },
     {
@@ -2694,71 +2304,6 @@
     },
     {
       "title": null,
-      "role": "Deputy Manager",
-      "location": "Ahmedabad",
-      "rating": 5.0,
-      "pros": "Employees benefit in terms of incentives",
-      "cons": "Nil",
-      "sentiment": "positive",
-      "sentiment_score": 0.6486,
-      "is_current_employee": false,
-      "review_date": "2024-10-13",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Lucknow",
-      "rating": 1.0,
-      "pros": "Nothing",
-      "cons": "Very bad culture , pathetic terrible",
-      "sentiment": "negative",
-      "sentiment_score": -0.5766,
-      "is_current_employee": false,
-      "review_date": "2024-09-18",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Senior Engineer",
-      "location": "Hosur",
-      "rating": 4.0,
-      "pros": "Continuous learning",
-      "cons": "No dislikes at TVS motor",
-      "sentiment": "positive",
-      "sentiment_score": 0.3089,
-      "is_current_employee": false,
-      "review_date": "2024-09-17",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Development Engineer",
-      "location": "Hosur",
-      "rating": 2.0,
-      "pros": "Environment that means greenery",
-      "cons": "So much Discrimination...",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-10-24",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Executive Trainee",
-      "location": "Hosur",
-      "rating": 4.0,
-      "pros": "Work + learning..\nReal exposure...with learning",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-12-20",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
       "role": "Development Engineer",
       "location": "Hosur",
       "rating": 3.0,
@@ -2937,84 +2482,6 @@
       "sentiment_score": 0.7418,
       "is_current_employee": false,
       "review_date": "2024-11-29",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Office Assistant & Accountant",
-      "location": "Lucknow",
-      "rating": 4.0,
-      "pros": "New work experience in automobile sectors",
-      "cons": "",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-10-31",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Mechanical Technician",
-      "location": "Hosur",
-      "rating": 3.0,
-      "pros": "Safety,time keep up maintenance",
-      "cons": "Work production",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2025-01-20",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Quality Check Engineer",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Working like",
-      "cons": "Shifts 3 shift s",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2024-11-04",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Production Trainee",
-      "location": "Hosur",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "Person no dislike TVs company",
-      "sentiment": "positive",
-      "sentiment_score": 0.6229,
-      "is_current_employee": false,
-      "review_date": "2024-12-24",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Trainee",
-      "location": "Nalagarh",
-      "rating": 4.0,
-      "pros": "Tvs motor company work nice",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.1531,
-      "is_current_employee": false,
-      "review_date": "2024-09-13",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Trainee Test Engineer",
-      "location": "Hosur",
-      "rating": 3.0,
-      "pros": "I like R&D department ...",
-      "cons": "Nothing.",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": false,
-      "review_date": "2024-10-11",
       "quality_score": 0.26
     },
     {
@@ -3288,71 +2755,6 @@
       "sentiment_score": -0.2755,
       "is_current_employee": false,
       "review_date": "2025-04-20",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Production Supervisor",
-      "location": "Hosur",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "A word of advice.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2025-01-14",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Workshop Incharge",
-      "location": "Alappuzha",
-      "rating": 5.0,
-      "pros": "Pleasant atmosphere",
-      "cons": "Nothing dislikes there",
-      "sentiment": "positive",
-      "sentiment_score": 0.6765,
-      "is_current_employee": false,
-      "review_date": "2025-03-15",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Territory Sales Manager",
-      "location": "Pune",
-      "rating": 1.0,
-      "pros": "Master Payer",
-      "cons": "Work life balance",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-11-23",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Production Engineer",
-      "location": "Hosur",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "Nothing from my experience",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-02-17",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Bengaluru",
-      "rating": 3.0,
-      "pros": "Working",
-      "cons": "Salary structure and promotion",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-02-02",
       "quality_score": 0.25
     },
     {
@@ -4381,60 +3783,37 @@
       "is_current_employee": true,
       "review_date": "2025-07-17",
       "quality_score": 0.21
-    },
-    {
-      "title": null,
-      "role": "Test Engineer",
-      "location": "Hosur",
-      "rating": 5.0,
-      "pros": "Good",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-03-14",
-      "quality_score": 0.21
     }
   ],
   "salaries": [
     {
       "role": "Territory Sales Manager",
       "location": null,
-      "min_salary": 800000,
-      "max_salary": 2025000,
-      "avg_salary": 1620628,
+      "min_salary": 788000,
+      "max_salary": 2005700,
+      "avg_salary": 1605048,
       "currency": "INR",
       "experience": "0-10 years",
-      "sample_count": null
-    },
-    {
-      "role": "Territory Service Manager",
-      "location": null,
-      "min_salary": 750000,
-      "max_salary": 1959600,
-      "avg_salary": 1448242,
-      "currency": "INR",
-      "experience": "0-14 years",
       "sample_count": null
     },
     {
       "role": "Territory Manager",
       "location": null,
       "min_salary": 600000,
-      "max_salary": 2036000,
-      "avg_salary": 1503015,
+      "max_salary": 2000000,
+      "avg_salary": 1414547,
       "currency": "INR",
-      "experience": "2-12 years",
+      "experience": "1-12 years",
       "sample_count": null
     },
     {
-      "role": "Sales Executive",
+      "role": "Territory Service Manager",
       "location": null,
-      "min_salary": 120000,
-      "max_salary": 300000,
-      "avg_salary": 217414,
+      "min_salary": 750000,
+      "max_salary": 1981500,
+      "avg_salary": 1459431,
       "currency": "INR",
-      "experience": "1-7 years",
+      "experience": "0-14 years",
       "sample_count": null
     },
     {
@@ -4442,17 +3821,17 @@
       "location": null,
       "min_salary": 190000,
       "max_salary": 700000,
-      "avg_salary": 439142,
+      "avg_salary": 430567,
       "currency": "INR",
-      "experience": "1-8 years",
+      "experience": "0-8 years",
       "sample_count": null
     },
     {
       "role": "Service Engineer",
       "location": null,
-      "min_salary": 319000,
+      "min_salary": 315000,
       "max_salary": 600000,
-      "avg_salary": 446952,
+      "avg_salary": 441694,
       "currency": "INR",
       "experience": "2-10 years",
       "sample_count": null
@@ -4462,7 +3841,7 @@
       "location": null,
       "min_salary": 180000,
       "max_salary": 500000,
-      "avg_salary": 358255,
+      "avg_salary": 336274,
       "currency": "INR",
       "experience": "1-12 years",
       "sample_count": null
@@ -4488,11 +3867,21 @@
       "sample_count": null
     },
     {
+      "role": "Sales Executive",
+      "location": null,
+      "min_salary": 110000,
+      "max_salary": 300000,
+      "avg_salary": 214192,
+      "currency": "INR",
+      "experience": "0-7 years",
+      "sample_count": null
+    },
+    {
       "role": "Quality Engineer",
       "location": null,
       "min_salary": 200000,
       "max_salary": 450000,
-      "avg_salary": 324062,
+      "avg_salary": 314926,
       "currency": "INR",
       "experience": "0-6 years",
       "sample_count": null
@@ -4690,20 +4079,4390 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-10T20:08:38.162967+00:00",
+  "interviews": [
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    },
+    {
+      "role": "Warehouse Executive",
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Warehouse operations",
+          "answer": null
+        },
+        {
+          "question": "How to handle critical situation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 09:10:16"
+    },
+    {
+      "role": "Production Engineer Team Lead",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What motivates you to apply for this job?",
+          "answer": null
+        },
+        {
+          "question": "Is this situation positive or negative?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:54:42"
+    },
+    {
+      "role": "Manager Sales & Marketing",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the objective of your study? Why did you choose this topic? What are the main findings of your study? What are the limitations of your study? What suggestions do you provide based on your study?",
+          "answer": null
+        },
+        {
+          "question": "Why did you choose Amazon and Flipkart for your study, what differences did you find between them, which platform do customers prefer and why, what are your key findings, and what suggestions do you have for improving online shopping?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-23 20:11:12"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "medium",
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is stress",
+          "answer": null
+        },
+        {
+          "question": "What is strain",
+          "answer": null
+        },
+        {
+          "question": "What is row material",
+          "answer": null
+        },
+        {
+          "question": "Define automation",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-31 10:44:02"
+    },
+    {
+      "role": "Executive Team Leader",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you explain your approach to troubleshooting client issues?",
+          "answer": null
+        },
+        {
+          "question": "What strategies do you use to motivate your team?",
+          "answer": null
+        },
+        {
+          "question": "How do you enjoy quality standards are met in production process?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-11 13:03:26"
+    },
+    {
+      "role": "Service Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "dealer profitability",
+          "answer": null
+        },
+        {
+          "question": "what is your jobrole for previous job",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-22 15:01:49"
+    },
+    {
+      "role": "Calibration Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "All gauge iso STD",
+          "answer": null
+        },
+        {
+          "question": "Way you job like",
+          "answer": "I enjoy the precision and problem-solving aspects of calibration engineering, ensuring equipment meets exact specifications.I love troubleshooting issues; for example, identifying discrepancies in measurement tools.The satisfaction of achieving accurate results motivates me; calibrating a complex instrument gives me a sense of accomplishment.I appreciate the continuous learning; staying updated with new calibration technologies and methods keeps my work engaging.Collaboration with cross-functional teams enhances my experience; working with engineers to improve processes is rewarding."
+        }
+      ],
+      "review_date": "2026-02-04 21:40:25"
+    },
+    {
+      "role": "Graduate Engineer Trainee (Get)",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Question about my favourite subject and technical questions within the deep technical details.",
+          "answer": null
+        },
+        {
+          "question": "Can you provide detailed information about your internship experiences and the projects you have worked on?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-10 13:57:08"
+    },
+    {
+      "role": "PPC Engineer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is ppc?",
+          "answer": null
+        },
+        {
+          "question": "What is 5s?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-30 20:32:57"
+    },
+    {
+      "role": "Purchase Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Basic engineering theoretical questions (For internship)",
+          "answer": null
+        },
+        {
+          "question": "Interpersonal, communication basics",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-18 20:05:55"
+    }
+  ],
+  "_scraped_at": "2026-04-12T19:57:26.883441+00:00",
   "_source": "ambitionbox",
   "_registry_name": "TVS Motor Company",
   "_registry_industry": "Automotive",
   "_sentiment": {
-    "positiveCount": 185,
-    "negativeCount": 76,
-    "neutralCount": 76,
+    "positiveCount": 153,
+    "negativeCount": 69,
+    "neutralCount": 68,
     "topPositiveThemes": [
       "career growth",
       "salary & compensation",
       "training",
       "company culture",
-      "management"
+      "job security"
     ],
     "topNegativeThemes": [
       "company culture",

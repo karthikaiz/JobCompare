@@ -1347,7 +1347,187 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-12T03:20:45.209440+00:00",
+  "interviews": [
+    {
+      "role": "SDE",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is Activity",
+          "answer": null
+        },
+        {
+          "question": "what is Jetpack",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-03 17:27:35"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-22 01:46:43"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-10 11:21:39"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Technical, Technical, HR, Behavioral, Behavioral",
+      "questions": [],
+      "review_date": "2024-07-18 00:27:39"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Aptitude Test, Team lead interview, Behavioral, HR",
+      "questions": [],
+      "review_date": "2024-05-30 21:32:54"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": "Coding Test, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2024-07-02 19:07:54"
+    },
+    {
+      "role": "System Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-02-28 17:48:17"
+    },
+    {
+      "role": "Market Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR",
+      "questions": [],
+      "review_date": "2024-07-06 07:18:40"
+    },
+    {
+      "role": "Senior Marketing Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Resume Shortlist, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2023-08-19 07:36:28"
+    },
+    {
+      "role": "Software Development Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2024-04-16 10:38:52"
+    },
+    {
+      "role": "SDE",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "what is Activity",
+          "answer": null
+        },
+        {
+          "question": "what is Jetpack",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-03 17:27:35"
+    },
+    {
+      "role": "Front end Developer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-12-22 01:46:43"
+    },
+    {
+      "role": "Product Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-10-10 11:21:39"
+    },
+    {
+      "role": "Data Scientist",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": "Technical, Technical, HR, Behavioral, Behavioral",
+      "questions": [],
+      "review_date": "2024-07-18 00:27:39"
+    },
+    {
+      "role": null,
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Aptitude Test, Team lead interview, Behavioral, HR",
+      "questions": [],
+      "review_date": "2024-05-30 21:32:54"
+    },
+    {
+      "role": "Associate",
+      "difficulty": "hard",
+      "experience": "negative",
+      "process": "Coding Test, Case Study, Case Study",
+      "questions": [],
+      "review_date": "2024-07-02 19:07:54"
+    },
+    {
+      "role": "System Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-02-28 17:48:17"
+    },
+    {
+      "role": "Market Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR",
+      "questions": [],
+      "review_date": "2024-07-06 07:18:40"
+    },
+    {
+      "role": "Senior Marketing Analyst",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Resume Shortlist, One-on-one, One-on-one, HR",
+      "questions": [],
+      "review_date": "2023-08-19 07:36:28"
+    },
+    {
+      "role": "Software Development Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2024-04-16 10:38:52"
+    }
+  ],
+  "_scraped_at": "2026-04-13T01:28:43.377513+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Head Digital Works",
   "_registry_industry": "Gaming",

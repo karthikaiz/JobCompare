@@ -2606,7 +2606,821 @@
       "details": "Happiness, you can’t ignore!\n1. In-house concierge services to get those long pending chores out of the way\n2. Competitive EAP packages which provide free or discounted services on estate planning, legal assistance, financial advising\n3. Nap rooms to release stress\n4. Salary advance benefit, at zero interest\n5. Pet friendly workplace. We love having our furry friends pay us a visit and spread their love"
     }
   ],
-  "_scraped_at": "2026-04-10T23:49:47.193590+00:00",
+  "interviews": [
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Sliding Window Problem",
+          "answer": null
+        },
+        {
+          "question": "Islands medium problem",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 19:39:17"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What scenario-based questions were asked during the interview, and could you describe the simple SQL join query?",
+          "answer": null
+        },
+        {
+          "question": "asked about projects",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 08:06:46"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-05 10:02:50"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Projects based question (my ML project)",
+          "answer": null
+        },
+        {
+          "question": "Exclusive time of functions (leetcode)",
+          "answer": "Calculate the exclusive time of functions based on given timestamps and function IDs.Use a stack to keep track of function IDs and their start times.When a function starts, push its ID and start time onto the stack.When a function ends, pop from the stack and calculate the exclusive time.Exclusive time is the total time spent in a function minus time spent in its child functions.Example: For timestamps [0, 2, 3, 5] with function IDs [0, 1, 0, 1], the exclusive time for function 0 is 4."
+        }
+      ],
+      "review_date": "2025-09-17 22:59:37"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-15 05:41:45"
+    },
+    {
+      "role": "React Js Frontend Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 15:19:38"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2024-09-30 19:20:00"
+    },
+    {
+      "role": "Demand Generation Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-08 12:39:07"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "As per industry",
+          "answer": null
+        },
+        {
+          "question": "As per past experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-04 11:35:09"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 15:12:02"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Sliding Window Problem",
+          "answer": null
+        },
+        {
+          "question": "Islands medium problem",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 19:39:17"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What scenario-based questions were asked during the interview, and could you describe the simple SQL join query?",
+          "answer": null
+        },
+        {
+          "question": "asked about projects",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 08:06:46"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-05 10:02:50"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Projects based question (my ML project)",
+          "answer": null
+        },
+        {
+          "question": "Exclusive time of functions (leetcode)",
+          "answer": "Calculate the exclusive time of functions based on given timestamps and function IDs.Use a stack to keep track of function IDs and their start times.When a function starts, push its ID and start time onto the stack.When a function ends, pop from the stack and calculate the exclusive time.Exclusive time is the total time spent in a function minus time spent in its child functions.Example: For timestamps [0, 2, 3, 5] with function IDs [0, 1, 0, 1], the exclusive time for function 0 is 4."
+        }
+      ],
+      "review_date": "2025-09-17 22:59:37"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-15 05:41:45"
+    },
+    {
+      "role": "React Js Frontend Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 15:19:38"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2024-09-30 19:20:00"
+    },
+    {
+      "role": "Demand Generation Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-08 12:39:07"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "As per industry",
+          "answer": null
+        },
+        {
+          "question": "As per past experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-04 11:35:09"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 15:12:02"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Sliding Window Problem",
+          "answer": null
+        },
+        {
+          "question": "Islands medium problem",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 19:39:17"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What scenario-based questions were asked during the interview, and could you describe the simple SQL join query?",
+          "answer": null
+        },
+        {
+          "question": "asked about projects",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 08:06:46"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-05 10:02:50"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Projects based question (my ML project)",
+          "answer": null
+        },
+        {
+          "question": "Exclusive time of functions (leetcode)",
+          "answer": "Calculate the exclusive time of functions based on given timestamps and function IDs.Use a stack to keep track of function IDs and their start times.When a function starts, push its ID and start time onto the stack.When a function ends, pop from the stack and calculate the exclusive time.Exclusive time is the total time spent in a function minus time spent in its child functions.Example: For timestamps [0, 2, 3, 5] with function IDs [0, 1, 0, 1], the exclusive time for function 0 is 4."
+        }
+      ],
+      "review_date": "2025-09-17 22:59:37"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-15 05:41:45"
+    },
+    {
+      "role": "React Js Frontend Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 15:19:38"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2024-09-30 19:20:00"
+    },
+    {
+      "role": "Demand Generation Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-08 12:39:07"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "As per industry",
+          "answer": null
+        },
+        {
+          "question": "As per past experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-04 11:35:09"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 15:12:02"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Sliding Window Problem",
+          "answer": null
+        },
+        {
+          "question": "Islands medium problem",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 19:39:17"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What scenario-based questions were asked during the interview, and could you describe the simple SQL join query?",
+          "answer": null
+        },
+        {
+          "question": "asked about projects",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 08:06:46"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-05 10:02:50"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Projects based question (my ML project)",
+          "answer": null
+        },
+        {
+          "question": "Exclusive time of functions (leetcode)",
+          "answer": "Calculate the exclusive time of functions based on given timestamps and function IDs.Use a stack to keep track of function IDs and their start times.When a function starts, push its ID and start time onto the stack.When a function ends, pop from the stack and calculate the exclusive time.Exclusive time is the total time spent in a function minus time spent in its child functions.Example: For timestamps [0, 2, 3, 5] with function IDs [0, 1, 0, 1], the exclusive time for function 0 is 4."
+        }
+      ],
+      "review_date": "2025-09-17 22:59:37"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-15 05:41:45"
+    },
+    {
+      "role": "React Js Frontend Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 15:19:38"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2024-09-30 19:20:00"
+    },
+    {
+      "role": "Demand Generation Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-08 12:39:07"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "As per industry",
+          "answer": null
+        },
+        {
+          "question": "As per past experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-04 11:35:09"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 15:12:02"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Sliding Window Problem",
+          "answer": null
+        },
+        {
+          "question": "Islands medium problem",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 19:39:17"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What scenario-based questions were asked during the interview, and could you describe the simple SQL join query?",
+          "answer": null
+        },
+        {
+          "question": "asked about projects",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 08:06:46"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-05 10:02:50"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Projects based question (my ML project)",
+          "answer": null
+        },
+        {
+          "question": "Exclusive time of functions (leetcode)",
+          "answer": "Calculate the exclusive time of functions based on given timestamps and function IDs.Use a stack to keep track of function IDs and their start times.When a function starts, push its ID and start time onto the stack.When a function ends, pop from the stack and calculate the exclusive time.Exclusive time is the total time spent in a function minus time spent in its child functions.Example: For timestamps [0, 2, 3, 5] with function IDs [0, 1, 0, 1], the exclusive time for function 0 is 4."
+        }
+      ],
+      "review_date": "2025-09-17 22:59:37"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-15 05:41:45"
+    },
+    {
+      "role": "React Js Frontend Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 15:19:38"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2024-09-30 19:20:00"
+    },
+    {
+      "role": "Demand Generation Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-08 12:39:07"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "As per industry",
+          "answer": null
+        },
+        {
+          "question": "As per past experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-04 11:35:09"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 15:12:02"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Sliding Window Problem",
+          "answer": null
+        },
+        {
+          "question": "Islands medium problem",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 19:39:17"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What scenario-based questions were asked during the interview, and could you describe the simple SQL join query?",
+          "answer": null
+        },
+        {
+          "question": "asked about projects",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 08:06:46"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-05 10:02:50"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Projects based question (my ML project)",
+          "answer": null
+        },
+        {
+          "question": "Exclusive time of functions (leetcode)",
+          "answer": "Calculate the exclusive time of functions based on given timestamps and function IDs.Use a stack to keep track of function IDs and their start times.When a function starts, push its ID and start time onto the stack.When a function ends, pop from the stack and calculate the exclusive time.Exclusive time is the total time spent in a function minus time spent in its child functions.Example: For timestamps [0, 2, 3, 5] with function IDs [0, 1, 0, 1], the exclusive time for function 0 is 4."
+        }
+      ],
+      "review_date": "2025-09-17 22:59:37"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-15 05:41:45"
+    },
+    {
+      "role": "React Js Frontend Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 15:19:38"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2024-09-30 19:20:00"
+    },
+    {
+      "role": "Demand Generation Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-08 12:39:07"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "As per industry",
+          "answer": null
+        },
+        {
+          "question": "As per past experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-04 11:35:09"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 15:12:02"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Sliding Window Problem",
+          "answer": null
+        },
+        {
+          "question": "Islands medium problem",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-04 19:39:17"
+    },
+    {
+      "role": "Business Analyst",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What scenario-based questions were asked during the interview, and could you describe the simple SQL join query?",
+          "answer": null
+        },
+        {
+          "question": "asked about projects",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-02-27 08:06:46"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": "Technical",
+      "questions": [],
+      "review_date": "2024-12-05 10:02:50"
+    },
+    {
+      "role": "Software Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Projects based question (my ML project)",
+          "answer": null
+        },
+        {
+          "question": "Exclusive time of functions (leetcode)",
+          "answer": "Calculate the exclusive time of functions based on given timestamps and function IDs.Use a stack to keep track of function IDs and their start times.When a function starts, push its ID and start time onto the stack.When a function ends, pop from the stack and calculate the exclusive time.Exclusive time is the total time spent in a function minus time spent in its child functions.Example: For timestamps [0, 2, 3, 5] with function IDs [0, 1, 0, 1], the exclusive time for function 0 is 4."
+        }
+      ],
+      "review_date": "2025-09-17 22:59:37"
+    },
+    {
+      "role": "Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-15 05:41:45"
+    },
+    {
+      "role": "React Js Frontend Developer",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2024-11-18 15:19:38"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "Coding Test, Technical",
+      "questions": [],
+      "review_date": "2024-09-30 19:20:00"
+    },
+    {
+      "role": "Demand Generation Specialist",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2025-01-08 12:39:07"
+    },
+    {
+      "role": "Team Lead",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "As per industry",
+          "answer": null
+        },
+        {
+          "question": "As per past experience",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-04 11:35:09"
+    },
+    {
+      "role": "Software Development Engineer II",
+      "difficulty": "hard",
+      "experience": null,
+      "process": "Technical, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-24 15:12:02"
+    }
+  ],
+  "_scraped_at": "2026-04-13T01:01:31.639306+00:00",
   "_source": "ambitionbox",
   "_registry_name": "InMobi",
   "_registry_industry": "Media",

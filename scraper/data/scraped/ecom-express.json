@@ -11,7 +11,7 @@
   "work_life_balance": 3.97,
   "salary_benefits": 3.91,
   "job_security": 3.54,
-  "career_growth": 3.56,
+  "career_growth": 3.57,
   "company_culture": 3.88,
   "reviews": [
     {
@@ -116,19 +116,6 @@
       "sentiment_score": -0.7802,
       "is_current_employee": false,
       "review_date": "2024-08-28",
-      "quality_score": 0.8
-    },
-    {
-      "title": null,
-      "role": "Operation Supervisor",
-      "location": "Bengaluru",
-      "rating": 2.0,
-      "pros": "While there is a lot to learn. But a horrible employee experience. One of my colleague has been working for the past 6 years but the difference between his initial salary and present salary is about 3k rupees. While he has been promoted twice.",
-      "cons": "Work culture. Too many bucket holders have climbed the ladder. And are gate keeping talented employees from their deserved promotion or appraisal.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5267,
-      "is_current_employee": true,
-      "review_date": "2024-03-08",
       "quality_score": 0.8
     },
     {
@@ -315,19 +302,6 @@
     },
     {
       "title": null,
-      "role": "Executive Operations Executive",
-      "location": "Jadcherla",
-      "rating": 5.0,
-      "pros": "Best learning company",
-      "cons": "😑i got offer letter from company but HR department not given entry in office due to not degree certificate 😒i was happy to join ECOM but sadly HR not allow its very sad company no need experience employee",
-      "sentiment": "negative",
-      "sentiment_score": -0.465,
-      "is_current_employee": false,
-      "review_date": "2024-06-21",
-      "quality_score": 0.61
-    },
-    {
-      "title": null,
       "role": "Branch Manager",
       "location": "Cheyyar",
       "rating": 3.0,
@@ -363,19 +337,6 @@
       "sentiment_score": 0.9001,
       "is_current_employee": true,
       "review_date": "2025-04-22",
-      "quality_score": 0.58
-    },
-    {
-      "title": null,
-      "role": "Loss Prevention Executive",
-      "location": "Kochi",
-      "rating": 5.0,
-      "pros": "We have created an excellent work environment that promotes freedom and team work. As a strong team dedicated to preventing losses we are authorized to safeguard company assets and take action against employees who violate procedures.",
-      "cons": "No Comments",
-      "sentiment": "positive",
-      "sentiment_score": 0.9287,
-      "is_current_employee": false,
-      "review_date": "2024-06-11",
       "quality_score": 0.58
     },
     {
@@ -454,32 +415,6 @@
       "sentiment_score": -0.7694,
       "is_current_employee": false,
       "review_date": "2024-12-18",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
-      "role": "Product Manager",
-      "location": "Delhi",
-      "rating": 1.0,
-      "pros": "Current CEO is good and company used to be good.\nI got the chance to work with some excellent leaders.",
-      "cons": "Those leaders were replaced by bosses. These bosses do not use there brains.",
-      "sentiment": "positive",
-      "sentiment_score": 0.8885,
-      "is_current_employee": false,
-      "review_date": "2024-07-18",
-      "quality_score": 0.53
-    },
-    {
-      "title": null,
-      "role": "Delivery Executive",
-      "location": "Ulhasnagar",
-      "rating": 2.0,
-      "pros": "Nothing because salary not growing and also they are not doing what they say",
-      "cons": "Atmosphere is not good for working \nBecause some days people drink and  come and branch manager not say anything.",
-      "sentiment": "negative",
-      "sentiment_score": -0.4449,
-      "is_current_employee": false,
-      "review_date": "2024-09-29",
       "quality_score": 0.53
     },
     {
@@ -796,19 +731,6 @@
     },
     {
       "title": null,
-      "role": "Chief Human Resource Manager",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Good in drama to misguide the candidates.",
-      "cons": "Politics at workplace.\nLeadership is biased and easy to mislead.\nWeek HR policies and control.",
-      "sentiment": "positive",
-      "sentiment_score": 0.5719,
-      "is_current_employee": false,
-      "review_date": "2024-08-28",
-      "quality_score": 0.42
-    },
-    {
-      "title": null,
       "role": "Supervisor",
       "location": "Bengaluru",
       "rating": 4.0,
@@ -861,19 +783,6 @@
     },
     {
       "title": null,
-      "role": "Supervisor",
-      "location": "Surat",
-      "rating": 5.0,
-      "pros": "Some say that has a good work culture and people.",
-      "cons": "Some say that work culture is bad and full of politics.",
-      "sentiment": "negative",
-      "sentiment_score": -0.1531,
-      "is_current_employee": false,
-      "review_date": "2024-09-16",
-      "quality_score": 0.41
-    },
-    {
-      "title": null,
       "role": "Deputy Manager",
       "location": "Delhi",
       "rating": 5.0,
@@ -909,32 +818,6 @@
       "sentiment_score": -0.6164,
       "is_current_employee": true,
       "review_date": "2025-02-08",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Mumbai",
-      "rating": 5.0,
-      "pros": "Very very good",
-      "cons": "Due to transport vehicle parking area small but time to time arrange vehicle by sequrity handling.",
-      "sentiment": "positive",
-      "sentiment_score": 0.304,
-      "is_current_employee": false,
-      "review_date": "2024-09-26",
-      "quality_score": 0.39
-    },
-    {
-      "title": null,
-      "role": "Delivery Boy",
-      "location": "Gaya",
-      "rating": 5.0,
-      "pros": "It is great to work in ecom express, everything happens on time here",
-      "cons": "My salary is not increasing here.",
-      "sentiment": "positive",
-      "sentiment_score": 0.6249,
-      "is_current_employee": false,
-      "review_date": "2024-12-21",
       "quality_score": 0.39
     },
     {
@@ -1017,19 +900,6 @@
     },
     {
       "title": null,
-      "role": "Team Lead",
-      "location": "Jangareddigudem",
-      "rating": 3.0,
-      "pros": "NA nothing",
-      "cons": "NA every time manager feels like company is his own even didn't give respect to employees",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0139,
-      "is_current_employee": false,
-      "review_date": "2025-01-17",
-      "quality_score": 0.38
-    },
-    {
-      "title": null,
       "role": "Key Account Manager",
       "location": "Delhi",
       "rating": 4.0,
@@ -1052,19 +922,6 @@
       "sentiment_score": 0.0258,
       "is_current_employee": true,
       "review_date": "2025-02-27",
-      "quality_score": 0.37
-    },
-    {
-      "title": null,
-      "role": "Delivery Boy",
-      "location": "Haora",
-      "rating": 2.0,
-      "pros": "Good bt so poor experience.salary is ok bt rules are are not good.",
-      "cons": "Rude behaviour DC manager.",
-      "sentiment": "positive",
-      "sentiment_score": 0.1977,
-      "is_current_employee": false,
-      "review_date": "2024-10-03",
       "quality_score": 0.37
     },
     {
@@ -1117,19 +974,6 @@
       "sentiment_score": -0.088,
       "is_current_employee": true,
       "review_date": "2025-01-14",
-      "quality_score": 0.36
-    },
-    {
-      "title": null,
-      "role": "Self Employed Professional",
-      "location": "Indore",
-      "rating": 1.0,
-      "pros": "Good",
-      "cons": "it's very good Everything is good, time is good, work is also good, thank you",
-      "sentiment": "positive",
-      "sentiment_score": 0.9459,
-      "is_current_employee": false,
-      "review_date": "2024-12-05",
       "quality_score": 0.36
     },
     {
@@ -1251,32 +1095,6 @@
     },
     {
       "title": null,
-      "role": "Deputy Manager Information Technology",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "I am working with Ecom Express Limited and I am Happy with this company",
-      "cons": "No",
-      "sentiment": "positive",
-      "sentiment_score": 0.1531,
-      "is_current_employee": false,
-      "review_date": "2024-10-27",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Kolkata",
-      "rating": 5.0,
-      "pros": "Ecom express my company is best",
-      "cons": "This company is best but working hours not fixed",
-      "sentiment": "positive",
-      "sentiment_score": 0.6369,
-      "is_current_employee": false,
-      "review_date": "2024-10-01",
-      "quality_score": 0.35
-    },
-    {
-      "title": null,
       "role": "HR Executive Generalist",
       "location": "Gurugram",
       "rating": 5.0,
@@ -1329,19 +1147,6 @@
     },
     {
       "title": null,
-      "role": "Supervisor",
-      "location": "Guwahati",
-      "rating": 4.0,
-      "pros": "Yes because off Ecom express process and management good",
-      "cons": "No because of great experience",
-      "sentiment": "positive",
-      "sentiment_score": 0.8176,
-      "is_current_employee": true,
-      "review_date": "2025-01-13",
-      "quality_score": 0.34
-    },
-    {
-      "title": null,
       "role": "Branch Incharge",
       "location": "Varanasi",
       "rating": 5.0,
@@ -1351,32 +1156,6 @@
       "sentiment_score": 0.0,
       "is_current_employee": true,
       "review_date": "2025-10-21",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Supervisor Junior Executive",
-      "location": "Lucknow",
-      "rating": 5.0,
-      "pros": "Unity",
-      "cons": "I have not any Idea because all activities is very good 😊",
-      "sentiment": "positive",
-      "sentiment_score": 0.8581,
-      "is_current_employee": true,
-      "review_date": "2025-02-14",
-      "quality_score": 0.33
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Payment timely payout",
-      "cons": "Ecom express management No parmot to good working by workers",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": true,
-      "review_date": "2025-01-10",
       "quality_score": 0.33
     },
     {
@@ -1481,32 +1260,6 @@
       "sentiment_score": -0.3603,
       "is_current_employee": true,
       "review_date": "2025-02-03",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Working at Ecom brings satisfaction, new challenges and learning.",
-      "cons": "Little bit unorganised.",
-      "sentiment": "positive",
-      "sentiment_score": 0.4939,
-      "is_current_employee": false,
-      "review_date": "2024-09-29",
-      "quality_score": 0.32
-    },
-    {
-      "title": null,
-      "role": "HR BP",
-      "location": "Bengaluru",
-      "rating": 1.0,
-      "pros": "Nothing to say it's over all bad operations team.",
-      "cons": "No working culture",
-      "sentiment": "negative",
-      "sentiment_score": -0.6908,
-      "is_current_employee": true,
-      "review_date": "2025-01-28",
       "quality_score": 0.32
     },
     {
@@ -1624,71 +1377,6 @@
       "sentiment_score": 0.25,
       "is_current_employee": false,
       "review_date": "2024-11-09",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Executive Operations Manager",
-      "location": "Kolkata",
-      "rating": 4.0,
-      "pros": "Timely salary. Home location. Providing Job in rural areas.",
-      "cons": "Work culture.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-11-13",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Satara",
-      "rating": 1.0,
-      "pros": "Nothing is good",
-      "cons": "Worst employee management .....poor quality of work management",
-      "sentiment": "negative",
-      "sentiment_score": -0.2987,
-      "is_current_employee": false,
-      "review_date": "2025-01-20",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Logistics Supervisor",
-      "location": "Malappuram",
-      "rating": 5.0,
-      "pros": "Good working experience in Ecom express",
-      "cons": "Nothing else. Large time working",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-11-12",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Kaithal",
-      "rating": 5.0,
-      "pros": "Very helpful and good company & her seniors team",
-      "cons": "Nothing else",
-      "sentiment": "positive",
-      "sentiment_score": 0.7397,
-      "is_current_employee": false,
-      "review_date": "2024-09-30",
-      "quality_score": 0.31
-    },
-    {
-      "title": null,
-      "role": "Vice President",
-      "location": "Gurugram",
-      "rating": 1.0,
-      "pros": "Good networking",
-      "cons": "Autocratic atmosphere by senior leadership and highly suffocating environment",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": false,
-      "review_date": "2024-09-30",
       "quality_score": 0.31
     },
     {
@@ -1966,71 +1654,6 @@
     },
     {
       "title": null,
-      "role": "Area Manager",
-      "location": "Lucknow",
-      "rating": 2.0,
-      "pros": "Will think about it now",
-      "cons": "Senior level leadership",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-02-04",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Cluster Manager",
-      "location": "Nagpur",
-      "rating": 5.0,
-      "pros": "Infrastructure,coperative workers, working hours",
-      "cons": "Increment, pressurized ,salary structure",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "is_current_employee": false,
-      "review_date": "2024-10-23",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Deputy Manager HR",
-      "location": "Indore",
-      "rating": 5.0,
-      "pros": "Over all good time spent with Ecom.",
-      "cons": "Na",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-03-04",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Sde1",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Skill development , work life balance",
-      "cons": "micro management",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2025-01-18",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
-      "role": "Assistant Facility Manager",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Salary comes on rime",
-      "cons": "Some times excess pressure",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": true,
-      "review_date": "2025-01-29",
-      "quality_score": 0.28
-    },
-    {
-      "title": null,
       "role": "Operations Executive",
       "location": "Delhi",
       "rating": 5.0,
@@ -2248,45 +1871,6 @@
       "sentiment_score": -0.2755,
       "is_current_employee": false,
       "review_date": "2025-05-23",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Team supporting everyone \nSenior helps",
-      "cons": "Some error",
-      "sentiment": "positive",
-      "sentiment_score": 0.4215,
-      "is_current_employee": false,
-      "review_date": "2025-03-04",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Helper",
-      "location": "Banur",
-      "rating": 2.0,
-      "pros": "No",
-      "cons": "HR behavior very bed Old HR",
-      "sentiment": "negative",
-      "sentiment_score": -0.296,
-      "is_current_employee": false,
-      "review_date": "2025-03-08",
-      "quality_score": 0.27
-    },
-    {
-      "title": null,
-      "role": "Service Delivery Manager",
-      "location": "Hyderabad",
-      "rating": 1.0,
-      "pros": "Worst company",
-      "cons": "Worst policy maintained by company",
-      "sentiment": "negative",
-      "sentiment_score": -0.8481,
-      "is_current_employee": true,
-      "review_date": "2025-02-14",
       "quality_score": 0.27
     },
     {
@@ -2538,45 +2122,6 @@
     },
     {
       "title": null,
-      "role": "Senior Executive",
-      "location": "Ranipet",
-      "rating": 5.0,
-      "pros": "Ok",
-      "cons": "Ground level idea not implemented",
-      "sentiment": "positive",
-      "sentiment_score": 0.296,
-      "is_current_employee": false,
-      "review_date": "2025-05-11",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Hyderabad",
-      "rating": 1.0,
-      "pros": "Waste to give",
-      "cons": "Not job satisfaction",
-      "sentiment": "negative",
-      "sentiment_score": -0.6377,
-      "is_current_employee": true,
-      "review_date": "2025-03-06",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
-      "role": "Program Manager",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Culture and work life balance",
-      "cons": "Nothing",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": false,
-      "review_date": "2024-10-17",
-      "quality_score": 0.26
-    },
-    {
-      "title": null,
       "role": "Supervisor",
       "location": "Goghat",
       "rating": 5.0,
@@ -2807,32 +2352,6 @@
       "sentiment_score": 0.6486,
       "is_current_employee": true,
       "review_date": "2025-02-04",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Good salary",
-      "cons": "No any idea",
-      "sentiment": "positive",
-      "sentiment_score": 0.1779,
-      "is_current_employee": true,
-      "review_date": "2025-01-23",
-      "quality_score": 0.25
-    },
-    {
-      "title": null,
-      "role": "Executive",
-      "location": "Delhi",
-      "rating": 5.0,
-      "pros": "Excellent work place",
-      "cons": "No any",
-      "sentiment": "positive",
-      "sentiment_score": 0.3612,
-      "is_current_employee": true,
-      "review_date": "2025-02-01",
       "quality_score": 0.25
     },
     {
@@ -3093,32 +2612,6 @@
       "sentiment_score": 0.296,
       "is_current_employee": true,
       "review_date": "2025-10-28",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "Operations Executive",
-      "location": "Ludhiana",
-      "rating": 4.0,
-      "pros": "Leave and work balance",
-      "cons": "",
-      "sentiment": "negative",
-      "sentiment_score": -0.0516,
-      "is_current_employee": true,
-      "review_date": "2025-04-08",
-      "quality_score": 0.24
-    },
-    {
-      "title": null,
-      "role": "DC Head",
-      "location": "Kota",
-      "rating": 4.0,
-      "pros": "Operation Department",
-      "cons": "Nothing sir",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "is_current_employee": true,
-      "review_date": "2025-07-29",
       "quality_score": 0.24
     },
     {
@@ -3548,32 +3041,6 @@
       "sentiment_score": 0.4404,
       "is_current_employee": true,
       "review_date": "2025-02-25",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "IT Executive",
-      "location": "Gurugram",
-      "rating": 4.0,
-      "pros": "Good",
-      "cons": "Job scurity",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-04-17",
-      "quality_score": 0.23
-    },
-    {
-      "title": null,
-      "role": "Supervisor 2",
-      "location": "Bengaluru",
-      "rating": 5.0,
-      "pros": "Like",
-      "cons": "I like",
-      "sentiment": "positive",
-      "sentiment_score": 0.6124,
-      "is_current_employee": true,
-      "review_date": "2025-09-21",
       "quality_score": 0.23
     },
     {
@@ -4016,32 +3483,6 @@
       "sentiment_score": 0.6249,
       "is_current_employee": true,
       "review_date": "2025-03-21",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "Supervisor",
-      "location": "Chennai",
-      "rating": 4.0,
-      "pros": "Good experience",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-04-22",
-      "quality_score": 0.22
-    },
-    {
-      "title": null,
-      "role": "HUB Incharge",
-      "location": "Gudur",
-      "rating": 5.0,
-      "pros": "Good company",
-      "cons": "",
-      "sentiment": "positive",
-      "sentiment_score": 0.4404,
-      "is_current_employee": true,
-      "review_date": "2025-04-28",
       "quality_score": 0.22
     },
     {
@@ -4715,28 +4156,3566 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T22:21:47.064558+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 158 employees (98% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 49 employees (94% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "International/On-site exposure",
+      "details": "Reported by 7 employees (58% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Course reimbursements",
+      "details": "Reported by 2 employees (40% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Office cab/shuttle",
+      "details": "Reported by 53 employees (90% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 38 employees (93% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 33 employees (87% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Free meal",
+      "details": "Reported by 22 employees (81% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 161 employees (99% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Life insurance",
+      "details": "Reported by 2 employees (40% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Annual health checkup",
+      "details": "Reported by 1 employees (20% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Mobile bill reimbursements",
+      "details": "Reported by 3 employees (60% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Retirement benefits",
+      "details": "Reported by 2 employees (40% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Joining bonus",
+      "details": "Reported by 2 employees (40% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Relocation bonus",
+      "details": "Reported by 2 employees (40% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Annual leaves",
+      "details": "Reported by 4 employees (67% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Maternity leaves",
+      "details": "Reported by 3 employees (50% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Paternity leaves",
+      "details": "Reported by 3 employees (50% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Career break/Sabbatical",
+      "details": "Reported by 1 employees (17% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    },
+    {
+      "role": null,
+      "difficulty": "hard",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Vehicle tracking sa related kuch bhee",
+          "answer": null
+        },
+        {
+          "question": "Fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Logistic fleet supervisor",
+          "answer": null
+        },
+        {
+          "question": "Tracking management of",
+          "answer": null
+        },
+        {
+          "question": "Vehicle dg lock status",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-08 15:59:44"
+    },
+    {
+      "role": "Logistics and Operations Supervisor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many days working in",
+          "answer": null
+        },
+        {
+          "question": "Logistics Supervisor what works for heare",
+          "answer": "A Logistics Supervisor ensures efficient supply chain operations, optimizing processes and managing teams for timely deliveries.Oversee inventory management to prevent stockouts and overstock situations, ensuring optimal levels.Implement process improvements, such as using software for real-time tracking of shipments.Coordinate with suppliers and vendors to negotiate contracts and ensure timely delivery of goods.Train and supervise logistics staff to enhance productivity and maintain safety standards.Analyze logistics data to identify trends and areas for cost reduction, such as optimizing delivery routes."
+        }
+      ],
+      "review_date": "2025-09-11 10:39:24"
+    },
+    {
+      "role": null,
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Experience and about my self",
+          "answer": null
+        },
+        {
+          "question": "Previous company experience",
+          "answer": null
+        },
+        {
+          "question": "How to successfull run this company",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-24 18:07:39"
+    },
+    {
+      "role": "Assistant Manager Operations",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "How it's experience in Ecom Express",
+          "answer": "My experience at Ecom Express involved managing logistics operations, enhancing efficiency, and ensuring timely deliveries.Oversaw daily operations, ensuring smooth logistics and timely deliveries across multiple regions.Implemented process improvements that reduced delivery times by 15%, enhancing customer satisfaction.Collaborated with cross-functional teams to streamline operations, resulting in a 20% increase in overall efficiency.Trained and mentored new staff on operational procedures, fostering a culture of continuous improvement."
+        },
+        {
+          "question": "What was the job title",
+          "answer": "The job title refers to the specific designation held by an employee, indicating their role and responsibilities within an organization.Indicates the level of responsibility, e.g., 'Assistant Manager' suggests a supportive leadership role.Can vary across industries, e.g., 'Operations Manager' in logistics vs. 'Clinical Manager' in healthcare.Often includes specific duties, such as overseeing team performance or managing projects.Job titles can influence career progression and salary expectations."
+        }
+      ],
+      "review_date": "2025-09-23 02:41:31"
+    },
+    {
+      "role": "Supervisor",
+      "difficulty": "easy",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your qualification",
+          "answer": null
+        },
+        {
+          "question": "Do you have any experience",
+          "answer": null
+        },
+        {
+          "question": "What salary you are expecting",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-17 18:52:09"
+    },
+    {
+      "role": "Supervisor and Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is RTO",
+          "answer": "RTO stands for Recovery Time Objective, indicating the maximum acceptable downtime for a system after a failure.RTO is crucial for business continuity planning, helping organizations determine how quickly they need to restore operations.For example, a company may set an RTO of 4 hours for its critical applications to minimize disruption.RTO is often part of a broader disaster recovery plan, which includes strategies for data backup and system recovery.Understanding RTO helps prioritize resources and efforts during a recovery process, ensuring essential functions are restored first."
+        },
+        {
+          "question": "When use Trip id No...?",
+          "answer": "Trip ID numbers are essential for tracking and managing transportation logistics effectively.Used to identify specific trips for billing and reporting purposes.Helps in tracking vehicle usage and maintenance schedules.Facilitates communication between drivers and dispatchers.Example: A delivery service uses trip IDs to monitor package deliveries."
+        }
+      ],
+      "review_date": "2025-11-19 13:35:52"
+    },
+    {
+      "role": "Senior Executive Operations",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "HR, Technical",
+      "questions": [],
+      "review_date": "2025-01-30 09:16:31"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do you work in last job",
+          "answer": "In my last job, I focused on optimizing operations, improving efficiency, and enhancing team collaboration to achieve business goals.Implemented a new inventory management system that reduced stock discrepancies by 30%.Led a cross-functional team to streamline the supply chain process, resulting in a 15% reduction in delivery times.Conducted regular training sessions for staff to improve operational knowledge and skills, enhancing overall productivity."
+        },
+        {
+          "question": "Work experience",
+          "answer": "I have diverse experience in operations management, focusing on efficiency, team leadership, and process optimization.Led a team of 10 in streamlining supply chain processes, reducing delivery times by 20%.Implemented a new inventory management system that decreased stock discrepancies by 30%.Conducted regular training sessions for staff, improving overall team productivity by 15%.Collaborated with cross-functional teams to enhance customer service response times, achieving a 95% satisfaction rate."
+        }
+      ],
+      "review_date": "2025-10-15 09:18:37"
+    },
+    {
+      "role": "Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one, Technical, Aptitude Test",
+      "questions": [],
+      "review_date": "2024-12-09 20:51:41"
+    },
+    {
+      "role": "Operations Executive",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "How many to handle mp",
+          "answer": null
+        },
+        {
+          "question": "What types of improvements do you implement?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-08-15 20:35:22"
+    }
+  ],
+  "_scraped_at": "2026-04-12T23:03:29.313183+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Ecom Express",
   "_registry_industry": "Logistics",
   "_sentiment": {
-    "positiveCount": 200,
-    "negativeCount": 82,
-    "neutralCount": 64,
+    "positiveCount": 174,
+    "negativeCount": 72,
+    "neutralCount": 57,
     "topPositiveThemes": [
       "company culture",
       "salary & compensation",
-      "career growth",
       "management",
+      "career growth",
       "training"
     ],
     "topNegativeThemes": [
-      "management",
       "salary & compensation",
+      "management",
       "job security",
-      "company culture",
-      "career growth"
+      "career growth",
+      "company culture"
     ]
   }
 }

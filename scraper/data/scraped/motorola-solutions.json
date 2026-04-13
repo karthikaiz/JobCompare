@@ -1894,8 +1894,561 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T21:38:11.032163+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Office cab/shuttle",
+      "details": "Reported by 8 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Free meal",
+      "details": "Reported by 7 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 7 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 4 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 8 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 4 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "International/On-site exposure",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 12 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": "Senior Android Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How can you share db between apps.",
+          "answer": null
+        },
+        {
+          "question": "Problem on Sliding window .",
+          "answer": "Sliding window is a technique to efficiently solve problems involving subarrays or substrings by maintaining a window over data.Sliding window maintains a subset of elements (window) and moves it over the data to optimize computations.Commonly used for problems like finding max/min sum of subarrays, longest substring without repeating chars.Example: Find max sum of subarray of size k - move window by adding next element and removing first element.Two types: Fixed size window (e.g., size k) and variable size window (expand/contract based on condition).Helps reduce time complexity from O(n*k) to O(n) by avoiding repeated computations."
+        },
+        {
+          "question": "For image editing and upload what would you use, WorkManager or Services.",
+          "answer": null
+        },
+        {
+          "question": "What is Content Provider and its implementation.",
+          "answer": null
+        },
+        {
+          "question": "How can you share data between apps.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-29 14:40:46"
+    },
+    {
+      "role": "Quality Inspector",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the concept of Acceptable Quality Level (AQL)?",
+          "answer": null
+        },
+        {
+          "question": "What is the process of using sampling?",
+          "answer": "Sampling is a statistical method used to select a subset of items from a larger population for inspection.Define the population: Identify the entire group from which samples will be drawn, e.g., all manufactured widgets.Determine sample size: Decide how many items to inspect based on statistical methods, e.g., 10% of the total production.Select sampling method: Choose between random, systematic, or stratified sampling, e.g., random sampling selects items without bias.Conduct inspection: Examine the selected samples for quality, e.g., checking for defects or measuring dimensions.Analyze results: Use statistical analysis to infer the quality of the entire population based on sample results, e.g., if 2 out of 20 samples are defective, estimate the defect rate."
+        },
+        {
+          "question": "What actions were taken to address the repeated defect after a significant delay?",
+          "answer": null
+        },
+        {
+          "question": "What is RCA (Root Cause Analysis)?",
+          "answer": null
+        },
+        {
+          "question": "What are Quality Control (QC) tools?",
+          "answer": null
+        },
+        {
+          "question": "What are the names of quality control tools, and how are they used?",
+          "answer": null
+        },
+        {
+          "question": "What is the 5S methodology?",
+          "answer": null
+        },
+        {
+          "question": "What does CAPA stand for?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-17 09:02:45"
+    },
+    {
+      "role": "Junior Salesforce Developer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-10-01 18:13:49"
+    },
+    {
+      "role": "Program Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Generic Questions regarding your previous work experience",
+          "answer": null
+        },
+        {
+          "question": "Questions looking to check if your a cultural fit",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-02 16:53:57"
+    },
+    {
+      "role": "Softwaretest Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-30 22:33:16"
+    },
+    {
+      "role": "Principal Software Engineer",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Wha is the project risk management",
+          "answer": "Project risk management involves identifying, assessing, and mitigating risks to ensure project success.Identify risks early: Conduct brainstorming sessions to list potential risks, such as technology failures or resource shortages.Assess risks: Evaluate the likelihood and impact of each risk using a risk matrix to prioritize them.Develop mitigation strategies: Create action plans to reduce the impact of high-priority risks, like adopting backup systems.Monitor risks continuously: Regularly review and update the risk management plan throughout the project lifecycle.Engage stakeholders: Involve team members and stakeholders in risk discussions to gain diverse perspectives and insights."
+        },
+        {
+          "question": "How to handle team conflicts",
+          "answer": "Effective conflict resolution fosters collaboration and enhances team dynamics, leading to better outcomes.Encourage open communication: Create a safe space for team members to express their concerns without fear of retribution.Listen actively: Show empathy by listening to all parties involved, ensuring everyone feels heard and understood.Identify common goals: Focus on shared objectives to remind the team of their collective purpose and foster collaboration.Mediate discussions: Act as a neutral party to facilitate discussions, helping to clarify misunderstandings and find common ground.Establish clear roles: Define responsibilities to minimize overlap and reduce potential conflicts arising from ambiguity."
+        }
+      ],
+      "review_date": "2025-05-06 04:25:52"
+    },
+    {
+      "role": "Software Developer Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "DSA and puzzles",
+          "answer": null
+        },
+        {
+          "question": "HR round and logical questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-20 18:19:22"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Coding Test",
+      "questions": [],
+      "review_date": "2025-01-02 19:45:48"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Mainly on big data concepts and sql . Example explain difference bewtween partition and bucketing in hive",
+          "answer": null
+        },
+        {
+          "question": "You have a system of 512GB memory . How will you decide the number of executor or executor cores",
+          "answer": "To determine the number of executors and cores, consider memory allocation, workload, and resource management for optimal performance.Memory Allocation: Each executor should have enough memory to handle its tasks. For example, if you allocate 4GB per executor, you can have 128 executors.Executor Cores: A common practice is to assign 2-5 cores per executor. For instance, with 4 cores per executor, you can run 32 executors with 128 cores total.Task Parallelism: Consider the nature of your tasks. If tasks are I/O bound, more cores may be beneficial; if CPU bound, fewer cores with more memory might be better.Cluster Configuration: Take into account the total resources of the cluster. Ensure that the total number of executors and cores does not exceed the cluster's capacity.Testing and Tuning: Start with a baseline configuration and monitor performance. Adjust the number of executors and cores based on job performance metrics."
+        }
+      ],
+      "review_date": "2025-05-11 13:33:26"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2024-10-20 03:10:30"
+    },
+    {
+      "role": "Senior Android Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How can you share db between apps.",
+          "answer": null
+        },
+        {
+          "question": "Problem on Sliding window .",
+          "answer": "Sliding window is a technique to efficiently solve problems involving subarrays or substrings by maintaining a window over data.Sliding window maintains a subset of elements (window) and moves it over the data to optimize computations.Commonly used for problems like finding max/min sum of subarrays, longest substring without repeating chars.Example: Find max sum of subarray of size k - move window by adding next element and removing first element.Two types: Fixed size window (e.g., size k) and variable size window (expand/contract based on condition).Helps reduce time complexity from O(n*k) to O(n) by avoiding repeated computations."
+        },
+        {
+          "question": "For image editing and upload what would you use, WorkManager or Services.",
+          "answer": null
+        },
+        {
+          "question": "What is Content Provider and its implementation.",
+          "answer": null
+        },
+        {
+          "question": "How can you share data between apps.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-29 14:40:46"
+    },
+    {
+      "role": "Quality Inspector",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the concept of Acceptable Quality Level (AQL)?",
+          "answer": null
+        },
+        {
+          "question": "What is the process of using sampling?",
+          "answer": "Sampling is a statistical method used to select a subset of items from a larger population for inspection.Define the population: Identify the entire group from which samples will be drawn, e.g., all manufactured widgets.Determine sample size: Decide how many items to inspect based on statistical methods, e.g., 10% of the total production.Select sampling method: Choose between random, systematic, or stratified sampling, e.g., random sampling selects items without bias.Conduct inspection: Examine the selected samples for quality, e.g., checking for defects or measuring dimensions.Analyze results: Use statistical analysis to infer the quality of the entire population based on sample results, e.g., if 2 out of 20 samples are defective, estimate the defect rate."
+        },
+        {
+          "question": "What actions were taken to address the repeated defect after a significant delay?",
+          "answer": null
+        },
+        {
+          "question": "What is RCA (Root Cause Analysis)?",
+          "answer": null
+        },
+        {
+          "question": "What are Quality Control (QC) tools?",
+          "answer": null
+        },
+        {
+          "question": "What are the names of quality control tools, and how are they used?",
+          "answer": null
+        },
+        {
+          "question": "What is the 5S methodology?",
+          "answer": null
+        },
+        {
+          "question": "What does CAPA stand for?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-17 09:02:45"
+    },
+    {
+      "role": "Junior Salesforce Developer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-10-01 18:13:49"
+    },
+    {
+      "role": "Program Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Generic Questions regarding your previous work experience",
+          "answer": null
+        },
+        {
+          "question": "Questions looking to check if your a cultural fit",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-02 16:53:57"
+    },
+    {
+      "role": "Softwaretest Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-30 22:33:16"
+    },
+    {
+      "role": "Principal Software Engineer",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Wha is the project risk management",
+          "answer": "Project risk management involves identifying, assessing, and mitigating risks to ensure project success.Identify risks early: Conduct brainstorming sessions to list potential risks, such as technology failures or resource shortages.Assess risks: Evaluate the likelihood and impact of each risk using a risk matrix to prioritize them.Develop mitigation strategies: Create action plans to reduce the impact of high-priority risks, like adopting backup systems.Monitor risks continuously: Regularly review and update the risk management plan throughout the project lifecycle.Engage stakeholders: Involve team members and stakeholders in risk discussions to gain diverse perspectives and insights."
+        },
+        {
+          "question": "How to handle team conflicts",
+          "answer": "Effective conflict resolution fosters collaboration and enhances team dynamics, leading to better outcomes.Encourage open communication: Create a safe space for team members to express their concerns without fear of retribution.Listen actively: Show empathy by listening to all parties involved, ensuring everyone feels heard and understood.Identify common goals: Focus on shared objectives to remind the team of their collective purpose and foster collaboration.Mediate discussions: Act as a neutral party to facilitate discussions, helping to clarify misunderstandings and find common ground.Establish clear roles: Define responsibilities to minimize overlap and reduce potential conflicts arising from ambiguity."
+        }
+      ],
+      "review_date": "2025-05-06 04:25:52"
+    },
+    {
+      "role": "Software Developer Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "DSA and puzzles",
+          "answer": null
+        },
+        {
+          "question": "HR round and logical questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-20 18:19:22"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Coding Test",
+      "questions": [],
+      "review_date": "2025-01-02 19:45:48"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Mainly on big data concepts and sql . Example explain difference bewtween partition and bucketing in hive",
+          "answer": null
+        },
+        {
+          "question": "You have a system of 512GB memory . How will you decide the number of executor or executor cores",
+          "answer": "To determine the number of executors and cores, consider memory allocation, workload, and resource management for optimal performance.Memory Allocation: Each executor should have enough memory to handle its tasks. For example, if you allocate 4GB per executor, you can have 128 executors.Executor Cores: A common practice is to assign 2-5 cores per executor. For instance, with 4 cores per executor, you can run 32 executors with 128 cores total.Task Parallelism: Consider the nature of your tasks. If tasks are I/O bound, more cores may be beneficial; if CPU bound, fewer cores with more memory might be better.Cluster Configuration: Take into account the total resources of the cluster. Ensure that the total number of executors and cores does not exceed the cluster's capacity.Testing and Tuning: Start with a baseline configuration and monitor performance. Adjust the number of executors and cores based on job performance metrics."
+        }
+      ],
+      "review_date": "2025-05-11 13:33:26"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2024-10-20 03:10:30"
+    },
+    {
+      "role": "Senior Android Developer",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "How can you share db between apps.",
+          "answer": null
+        },
+        {
+          "question": "Problem on Sliding window .",
+          "answer": "Sliding window is a technique to efficiently solve problems involving subarrays or substrings by maintaining a window over data.Sliding window maintains a subset of elements (window) and moves it over the data to optimize computations.Commonly used for problems like finding max/min sum of subarrays, longest substring without repeating chars.Example: Find max sum of subarray of size k - move window by adding next element and removing first element.Two types: Fixed size window (e.g., size k) and variable size window (expand/contract based on condition).Helps reduce time complexity from O(n*k) to O(n) by avoiding repeated computations."
+        },
+        {
+          "question": "For image editing and upload what would you use, WorkManager or Services.",
+          "answer": null
+        },
+        {
+          "question": "What is Content Provider and its implementation.",
+          "answer": null
+        },
+        {
+          "question": "How can you share data between apps.",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-29 14:40:46"
+    },
+    {
+      "role": "Quality Inspector",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is the concept of Acceptable Quality Level (AQL)?",
+          "answer": null
+        },
+        {
+          "question": "What is the process of using sampling?",
+          "answer": "Sampling is a statistical method used to select a subset of items from a larger population for inspection.Define the population: Identify the entire group from which samples will be drawn, e.g., all manufactured widgets.Determine sample size: Decide how many items to inspect based on statistical methods, e.g., 10% of the total production.Select sampling method: Choose between random, systematic, or stratified sampling, e.g., random sampling selects items without bias.Conduct inspection: Examine the selected samples for quality, e.g., checking for defects or measuring dimensions.Analyze results: Use statistical analysis to infer the quality of the entire population based on sample results, e.g., if 2 out of 20 samples are defective, estimate the defect rate."
+        },
+        {
+          "question": "What actions were taken to address the repeated defect after a significant delay?",
+          "answer": null
+        },
+        {
+          "question": "What is RCA (Root Cause Analysis)?",
+          "answer": null
+        },
+        {
+          "question": "What are Quality Control (QC) tools?",
+          "answer": null
+        },
+        {
+          "question": "What are the names of quality control tools, and how are they used?",
+          "answer": null
+        },
+        {
+          "question": "What is the 5S methodology?",
+          "answer": null
+        },
+        {
+          "question": "What does CAPA stand for?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-09-17 09:02:45"
+    },
+    {
+      "role": "Junior Salesforce Developer",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": "Technical, One-on-one, HR",
+      "questions": [],
+      "review_date": "2024-10-01 18:13:49"
+    },
+    {
+      "role": "Program Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Generic Questions regarding your previous work experience",
+          "answer": null
+        },
+        {
+          "question": "Questions looking to check if your a cultural fit",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-02 16:53:57"
+    },
+    {
+      "role": "Softwaretest Engineer",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR, One-on-one",
+      "questions": [],
+      "review_date": "2024-12-30 22:33:16"
+    },
+    {
+      "role": "Principal Software Engineer",
+      "difficulty": null,
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Wha is the project risk management",
+          "answer": "Project risk management involves identifying, assessing, and mitigating risks to ensure project success.Identify risks early: Conduct brainstorming sessions to list potential risks, such as technology failures or resource shortages.Assess risks: Evaluate the likelihood and impact of each risk using a risk matrix to prioritize them.Develop mitigation strategies: Create action plans to reduce the impact of high-priority risks, like adopting backup systems.Monitor risks continuously: Regularly review and update the risk management plan throughout the project lifecycle.Engage stakeholders: Involve team members and stakeholders in risk discussions to gain diverse perspectives and insights."
+        },
+        {
+          "question": "How to handle team conflicts",
+          "answer": "Effective conflict resolution fosters collaboration and enhances team dynamics, leading to better outcomes.Encourage open communication: Create a safe space for team members to express their concerns without fear of retribution.Listen actively: Show empathy by listening to all parties involved, ensuring everyone feels heard and understood.Identify common goals: Focus on shared objectives to remind the team of their collective purpose and foster collaboration.Mediate discussions: Act as a neutral party to facilitate discussions, helping to clarify misunderstandings and find common ground.Establish clear roles: Define responsibilities to minimize overlap and reduce potential conflicts arising from ambiguity."
+        }
+      ],
+      "review_date": "2025-05-06 04:25:52"
+    },
+    {
+      "role": "Software Developer Intern",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "DSA and puzzles",
+          "answer": null
+        },
+        {
+          "question": "HR round and logical questions",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-20 18:19:22"
+    },
+    {
+      "role": "Software Engineer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Technical, Coding Test",
+      "questions": [],
+      "review_date": "2025-01-02 19:45:48"
+    },
+    {
+      "role": "Data Engineer",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Mainly on big data concepts and sql . Example explain difference bewtween partition and bucketing in hive",
+          "answer": null
+        },
+        {
+          "question": "You have a system of 512GB memory . How will you decide the number of executor or executor cores",
+          "answer": "To determine the number of executors and cores, consider memory allocation, workload, and resource management for optimal performance.Memory Allocation: Each executor should have enough memory to handle its tasks. For example, if you allocate 4GB per executor, you can have 128 executors.Executor Cores: A common practice is to assign 2-5 cores per executor. For instance, with 4 cores per executor, you can run 32 executors with 128 cores total.Task Parallelism: Consider the nature of your tasks. If tasks are I/O bound, more cores may be beneficial; if CPU bound, fewer cores with more memory might be better.Cluster Configuration: Take into account the total resources of the cluster. Ensure that the total number of executors and cores does not exceed the cluster's capacity.Testing and Tuning: Start with a baseline configuration and monitor performance. Adjust the number of executors and cores based on job performance metrics."
+        }
+      ],
+      "review_date": "2025-05-11 13:33:26"
+    },
+    {
+      "role": null,
+      "difficulty": "medium",
+      "experience": null,
+      "process": "Coding Test",
+      "questions": [],
+      "review_date": "2024-10-20 03:10:30"
+    }
+  ],
+  "_scraped_at": "2026-04-12T21:58:42.091665+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Motorola",
   "_registry_industry": "Tech MNC",

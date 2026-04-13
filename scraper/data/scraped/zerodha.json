@@ -1868,8 +1868,299 @@
       "sample_count": null
     }
   ],
-  "benefits": [],
-  "_scraped_at": "2026-04-10T17:08:40.801141+00:00",
+  "benefits": [
+    {
+      "category": "perks",
+      "name": "Job/Soft skill training",
+      "details": "Reported by 13 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Professional degree assistance",
+      "details": "Reported by 4 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Health insurance",
+      "details": "Reported by 10 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Cafeteria",
+      "details": "Reported by 4 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Office gym",
+      "details": "Reported by 2 employees (100% of respondents)"
+    },
+    {
+      "category": "perks",
+      "name": "Child care facility",
+      "details": "Reported by 1 employees (100% of respondents)"
+    }
+  ],
+  "interviews": [
+    {
+      "role": "Forex Trader",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do i understand the market?",
+          "answer": "Understanding the Forex market involves grasping its dynamics, trends, and influencing factors for effective trading.The Forex market operates 24 hours, influenced by global events and economic indicators.Technical analysis, such as chart patterns and indicators, helps predict price movements.Fundamental analysis considers economic data, like GDP and employment rates, impacting currency values.Market sentiment, driven by news and trader psychology, can lead to volatility and trend shifts.Example: A positive jobs report in the U.S. can strengthen the USD against other currencies."
+        },
+        {
+          "question": "How many times did i emailed them?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-17 17:08:01"
+    },
+    {
+      "role": "Stock Market Dealer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "Aptitude Test",
+      "questions": [],
+      "review_date": "2025-01-27 12:35:15"
+    },
+    {
+      "role": "Area Sales Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "Assignment, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-10 23:48:32"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "The educational qualification",
+          "answer": "Educational qualifications are essential for an Assistant Manager role, showcasing expertise and commitment to professional growth.A bachelor's degree in business administration or a related field is often preferred.Relevant certifications, such as PMP or Six Sigma, can enhance qualifications.Experience in leadership roles, even in internships, demonstrates capability.Continuous education through workshops or online courses shows dedication."
+        },
+        {
+          "question": "NISM certificate",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-14 06:43:34"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR",
+      "questions": [],
+      "review_date": "2024-07-24 15:54:31"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, Technical",
+      "questions": [],
+      "review_date": "2024-12-28 17:56:44"
+    },
+    {
+      "role": "HR Intern",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself.",
+          "answer": "I am a dedicated HR intern with a passion for people management and organizational development, eager to learn and contribute.Currently pursuing a degree in Human Resources Management, where I have gained foundational knowledge in HR principles.Completed an internship at XYZ Company, assisting in recruitment processes and employee onboarding.Participated in a university project focused on improving employee engagement, which enhanced my understanding of workplace dynamics.Skilled in using HR software like BambooHR and Microsoft Excel for data management and reporting."
+        },
+        {
+          "question": "What do you know about the company",
+          "answer": "The company is a leading provider of innovative HR solutions, focusing on talent acquisition and employee engagement.Founded in 2005, the company has grown rapidly, serving over 500 clients globally.They offer a range of services including recruitment software, employee training programs, and HR consulting.The company emphasizes diversity and inclusion, with initiatives aimed at creating a more equitable workplace.They have received multiple awards for their innovative HR practices and commitment to employee satisfaction."
+        }
+      ],
+      "review_date": "2025-07-10 22:29:11"
+    },
+    {
+      "role": "Assistant Sales Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the reasons for your decision to switch organizations?",
+          "answer": "I am seeking new challenges and opportunities for growth that align with my career goals and aspirations in sales management.Career Advancement: I am looking for a position that offers more opportunities for growth, such as moving into higher management roles.Skill Development: I want to enhance my skills in sales strategy and team leadership, which I believe this organization can provide.Cultural Fit: I am seeking a company culture that aligns more closely with my values, such as collaboration and innovation.Broader Impact: I want to contribute to a larger organization where I can make a significant impact on sales performance and team success.New Challenges: I am eager to tackle new challenges that will push me out of my comfort zone and help me grow professionally."
+        },
+        {
+          "question": "What is your expected salary?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-26 03:05:49"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions about security market",
+          "answer": null
+        },
+        {
+          "question": "Why do you want to join us.",
+          "answer": "I admire your company's commitment to innovation and employee development, and I believe my skills align perfectly with your goals.Your company's reputation for excellence in customer service aligns with my passion for creating positive client experiences.I am impressed by your commitment to sustainability and would love to contribute to your green initiatives, such as your recent eco-friendly project.The opportunity for professional growth within your organization excites me, especially your mentorship programs that help employees advance their careers.I resonate with your core values of teamwork and integrity, which I believe are essential for fostering a positive work environment."
+        },
+        {
+          "question": "What do you know about us?",
+          "answer": "Your company is a leader in innovative solutions, focusing on customer satisfaction and sustainability in its operations.Founded in 2005, the company has grown rapidly, expanding its services to over 20 countries.You prioritize sustainability, implementing eco-friendly practices in your production processes.The company has received multiple awards for customer service excellence, reflecting its commitment to client satisfaction.Your recent initiative to enhance digital transformation has positioned you as a tech-savvy leader in the industry."
+        }
+      ],
+      "review_date": "2025-03-13 15:46:26"
+    },
+    {
+      "role": "Trade Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2022-03-21 16:45:12"
+    },
+    {
+      "role": "Forex Trader",
+      "difficulty": "medium",
+      "experience": "negative",
+      "process": null,
+      "questions": [
+        {
+          "question": "Do i understand the market?",
+          "answer": "Understanding the Forex market involves grasping its dynamics, trends, and influencing factors for effective trading.The Forex market operates 24 hours, influenced by global events and economic indicators.Technical analysis, such as chart patterns and indicators, helps predict price movements.Fundamental analysis considers economic data, like GDP and employment rates, impacting currency values.Market sentiment, driven by news and trader psychology, can lead to volatility and trend shifts.Example: A positive jobs report in the U.S. can strengthen the USD against other currencies."
+        },
+        {
+          "question": "How many times did i emailed them?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-03-17 17:08:01"
+    },
+    {
+      "role": "Stock Market Dealer",
+      "difficulty": "easy",
+      "experience": "neutral",
+      "process": "Aptitude Test",
+      "questions": [],
+      "review_date": "2025-01-27 12:35:15"
+    },
+    {
+      "role": "Area Sales Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "Assignment, One-on-one",
+      "questions": [],
+      "review_date": "2024-06-10 23:48:32"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "The educational qualification",
+          "answer": "Educational qualifications are essential for an Assistant Manager role, showcasing expertise and commitment to professional growth.A bachelor's degree in business administration or a related field is often preferred.Relevant certifications, such as PMP or Six Sigma, can enhance qualifications.Experience in leadership roles, even in internships, demonstrates capability.Continuous education through workshops or online courses shows dedication."
+        },
+        {
+          "question": "NISM certificate",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-14 06:43:34"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": null,
+      "experience": null,
+      "process": "HR",
+      "questions": [],
+      "review_date": "2024-07-24 15:54:31"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": "Aptitude Test, Technical",
+      "questions": [],
+      "review_date": "2024-12-28 17:56:44"
+    },
+    {
+      "role": "HR Intern",
+      "difficulty": "medium",
+      "experience": "neutral",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about yourself.",
+          "answer": "I am a dedicated HR intern with a passion for people management and organizational development, eager to learn and contribute.Currently pursuing a degree in Human Resources Management, where I have gained foundational knowledge in HR principles.Completed an internship at XYZ Company, assisting in recruitment processes and employee onboarding.Participated in a university project focused on improving employee engagement, which enhanced my understanding of workplace dynamics.Skilled in using HR software like BambooHR and Microsoft Excel for data management and reporting."
+        },
+        {
+          "question": "What do you know about the company",
+          "answer": "The company is a leading provider of innovative HR solutions, focusing on talent acquisition and employee engagement.Founded in 2005, the company has grown rapidly, serving over 500 clients globally.They offer a range of services including recruitment software, employee training programs, and HR consulting.The company emphasizes diversity and inclusion, with initiatives aimed at creating a more equitable workplace.They have received multiple awards for their innovative HR practices and commitment to employee satisfaction."
+        }
+      ],
+      "review_date": "2025-07-10 22:29:11"
+    },
+    {
+      "role": "Assistant Sales Manager",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the reasons for your decision to switch organizations?",
+          "answer": "I am seeking new challenges and opportunities for growth that align with my career goals and aspirations in sales management.Career Advancement: I am looking for a position that offers more opportunities for growth, such as moving into higher management roles.Skill Development: I want to enhance my skills in sales strategy and team leadership, which I believe this organization can provide.Cultural Fit: I am seeking a company culture that aligns more closely with my values, such as collaboration and innovation.Broader Impact: I want to contribute to a larger organization where I can make a significant impact on sales performance and team success.New Challenges: I am eager to tackle new challenges that will push me out of my comfort zone and help me grow professionally."
+        },
+        {
+          "question": "What is your expected salary?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-04-26 03:05:49"
+    },
+    {
+      "role": "Assistant Manager",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Questions about security market",
+          "answer": null
+        },
+        {
+          "question": "Why do you want to join us.",
+          "answer": "I admire your company's commitment to innovation and employee development, and I believe my skills align perfectly with your goals.Your company's reputation for excellence in customer service aligns with my passion for creating positive client experiences.I am impressed by your commitment to sustainability and would love to contribute to your green initiatives, such as your recent eco-friendly project.The opportunity for professional growth within your organization excites me, especially your mentorship programs that help employees advance their careers.I resonate with your core values of teamwork and integrity, which I believe are essential for fostering a positive work environment."
+        },
+        {
+          "question": "What do you know about us?",
+          "answer": "Your company is a leader in innovative solutions, focusing on customer satisfaction and sustainability in its operations.Founded in 2005, the company has grown rapidly, expanding its services to over 20 countries.You prioritize sustainability, implementing eco-friendly practices in your production processes.The company has received multiple awards for customer service excellence, reflecting its commitment to client satisfaction.Your recent initiative to enhance digital transformation has positioned you as a tech-savvy leader in the industry."
+        }
+      ],
+      "review_date": "2025-03-13 15:46:26"
+    },
+    {
+      "role": "Trade Analyst",
+      "difficulty": null,
+      "experience": null,
+      "process": "One-on-one",
+      "questions": [],
+      "review_date": "2022-03-21 16:45:12"
+    }
+  ],
+  "_scraped_at": "2026-04-12T15:26:28.001033+00:00",
   "_source": "ambitionbox",
   "_registry_name": "Zerodha",
   "_registry_industry": "Fintech",

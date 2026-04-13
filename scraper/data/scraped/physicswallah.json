@@ -4301,7 +4301,3171 @@
       "details": ""
     }
   ],
-  "_scraped_at": "2026-04-12T03:29:26.741784+00:00",
+  "interviews": [
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    },
+    {
+      "role": "Computer Operator/Data Entry Operator",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What are the responsibilities and skills required for a computer operator?",
+          "answer": null
+        },
+        {
+          "question": "What are the key responsibilities and skills required for a Data Entry Operator?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 10:51:01"
+    },
+    {
+      "role": "Lecturer",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you introduce yourself?",
+          "answer": null
+        },
+        {
+          "question": "What is the content covered in Economics?",
+          "answer": null
+        },
+        {
+          "question": "Why you want to join PW",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 11:02:23"
+    },
+    {
+      "role": "Human Resource and Administration Executive",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your experience with Microsoft Excel ?",
+          "answer": null
+        },
+        {
+          "question": "How do you create a table in excel?",
+          "answer": null
+        },
+        {
+          "question": "Explain the concept of CORS (cross origin resource sharing) and how it affects web development?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-11 12:11:54"
+    },
+    {
+      "role": "DTP Operator",
+      "difficulty": null,
+      "experience": null,
+      "process": null,
+      "questions": [
+        {
+          "question": "Job kyu change karna hai",
+          "answer": "I want to grow professionally, learn new skills, and contribute more effectively in a dynamic work environment.Seeking new challenges to enhance my DTP skills and stay updated with the latest software and design trends.Looking for a role that offers better growth opportunities and scope to work on diverse projects.Desire to work in a more collaborative and innovative team to improve my creativity and productivity.Want to contribute my experience in DTP to a company that values quality and attention to detail.For example, in my previous job, I improved turnaround time by 20% by optimizing workflow, and I want to apply such improvements in a new role."
+        },
+        {
+          "question": "How much salary",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-04 11:22:56"
+    },
+    {
+      "role": "Senior Academic Counsellor",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What do you know about neet / jee exam",
+          "answer": null
+        },
+        {
+          "question": "They give you cases and ask questions from that",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-01-31 08:05:52"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Can you tell me about yourself?",
+          "answer": null
+        },
+        {
+          "question": "Fire,dg, transformer,water question ask for facility manager",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-12-04 09:43:59"
+    },
+    {
+      "role": "Facility Manager\r",
+      "difficulty": "medium",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Introduction youself",
+          "answer": "Experienced Facility Manager with a strong background in operations, maintenance, and team leadership in diverse environments.Over 10 years of experience in facility management, overseeing operations in commercial and industrial settings.Skilled in budget management, having successfully reduced operational costs by 15% through strategic vendor negotiations.Proficient in implementing safety protocols, resulting in a 30% decrease in workplace incidents over two years.Led a team of 20 maintenance staff, fostering a collaborative environment that improved service response times by 25%.Implemented a preventive maintenance program that extended equipment lifespan by an average of 20%."
+        },
+        {
+          "question": "What are the key responsibilities and approaches involved in facility management?",
+          "answer": null
+        }
+      ],
+      "review_date": "2025-11-23 13:25:22"
+    },
+    {
+      "role": "HR Recruiter",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "Tell me about your self",
+          "answer": null
+        },
+        {
+          "question": "What are your strengths",
+          "answer": null
+        },
+        {
+          "question": "Why do you want this job",
+          "answer": null
+        },
+        {
+          "question": "Why should we hire you?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-05 15:00:13"
+    },
+    {
+      "role": "Senior Associate",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What is your previous work experience?",
+          "answer": null
+        },
+        {
+          "question": "Whats your skills",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-04-06 10:36:41"
+    },
+    {
+      "role": "Admission Counsellor",
+      "difficulty": "easy",
+      "experience": "positive",
+      "process": null,
+      "questions": [
+        {
+          "question": "What's the key points of counselling?",
+          "answer": null
+        },
+        {
+          "question": "Counselling review?",
+          "answer": null
+        }
+      ],
+      "review_date": "2026-03-07 23:14:19"
+    }
+  ],
+  "_scraped_at": "2026-04-13T01:38:45.505225+00:00",
   "_source": "ambitionbox",
   "_registry_name": "PhysicsWallah",
   "_registry_industry": "EdTech",

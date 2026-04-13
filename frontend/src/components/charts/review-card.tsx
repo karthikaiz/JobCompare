@@ -64,7 +64,7 @@ export function ReviewCard({ review }: ReviewCardProps) {
   const showTitle = review.title && !/^rated by/i.test(review.title);
 
   return (
-    <div className={`border-l-[3px] ${borderClass} bg-white border border-ink/15 overflow-hidden`}>
+    <div className={`border-l-[3px] ${borderClass} bg-card border border-ink/15 overflow-hidden`}>
       {/* ── Header row ── */}
       <div className="px-4 pt-3 pb-2 flex flex-wrap items-start justify-between gap-2 border-b border-ink/8">
         <div className="flex-1 min-w-0">
@@ -95,7 +95,7 @@ export function ReviewCard({ review }: ReviewCardProps) {
       {/* ── Pros & Cons ── */}
       <div className="grid grid-cols-1 sm:grid-cols-2 divide-y sm:divide-y-0 sm:divide-x divide-ink/8">
         {review.pros?.trim() && (
-          <div className="px-4 py-3 bg-[#F5FBF5]">
+          <div className="px-4 py-3 bg-[#4A7C59]/5">
             <div className="flex items-center gap-1.5 mb-1.5">
               <span className="w-3 h-px bg-[#4A7C59]" />
               <span className="text-[10px] uppercase tracking-[0.14em] text-[#4A7C59] font-sans font-semibold">Pros</span>
@@ -106,7 +106,7 @@ export function ReviewCard({ review }: ReviewCardProps) {
           </div>
         )}
         {review.cons?.trim() && (
-          <div className="px-4 py-3 bg-[#FDF5F5]">
+          <div className="px-4 py-3 bg-[#B05252]/5">
             <div className="flex items-center gap-1.5 mb-1.5">
               <span className="w-3 h-px bg-[#B05252]" />
               <span className="text-[10px] uppercase tracking-[0.14em] text-[#B05252] font-sans font-semibold">Cons</span>
